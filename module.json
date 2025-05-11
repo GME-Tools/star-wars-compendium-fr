@@ -1,0 +1,167 @@
+{
+  "id": "star-wars-compendium-fr",
+  "title": "star-wars-compendium-fr",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "livres",
+      "label": "Livres",
+      "path": "packs/livres",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "especes",
+      "label": "Espèces",
+      "path": "packs/especes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "carrieres",
+      "label": "Carrières",
+      "path": "packs/carrieres",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "specialisations",
+      "label": "Spécialisations",
+      "path": "packs/specialisations",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "talents",
+      "label": "Talents",
+      "path": "packs/talents",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "capacites",
+      "label": "Capacités",
+      "path": "packs/capacites",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "pouvoirs-de-force",
+      "label": "Pouvoirs de Force",
+      "path": "packs/pouvoirs-de-force",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "talents-de-force",
+      "label": "Talents de Force",
+      "path": "packs/talents-de-force",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "armes",
+      "label": "Armes",
+      "path": "packs/armes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "armures",
+      "label": "Armures",
+      "path": "packs/armures",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "equipement",
+      "label": "Equipement",
+      "path": "packs/equipement",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "vaisseaux",
+      "label": "Vaisseaux",
+      "path": "packs/vaisseaux",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "pnj",
+      "label": "PNJ",
+      "path": "packs/pnj",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    }
+  ]
+}
