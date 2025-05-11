@@ -3,5 +3,5 @@
 ### Progression
 
 * SWF02 :
-  * Espèces 4/8
+  * Espèces 5/8
  
