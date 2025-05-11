@@ -2,6 +2,8 @@
   "id": "star-wars-compendium-fr",
   "title": "star-wars-compendium-fr",
   "version": "1.0.0",
+  "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
+  "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"

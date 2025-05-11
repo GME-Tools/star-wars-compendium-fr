@@ -17,5 +17,5 @@ jobs:
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './module.json'
+        artifacts: './module.json,./star-wars-compendium-fr.zip'
         tag: latest
