@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -47,9 +47,9 @@
       "flags": {}
     },
     {
-      "name": "specialisations",
-      "label": "Spécialisations",
-      "path": "packs/specialisations",
+      "name": "specialites",
+      "label": "Spécialités",
+      "path": "packs/specialites",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
