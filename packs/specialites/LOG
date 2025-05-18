@@ -1,24 +1,8 @@
-2025/05/17-22:53:43.961 2f9c Recovering log #101
-2025/05/17-22:53:43.962 2f9c Level-0 table #103: started
-2025/05/17-22:53:43.975 2f9c Level-0 table #103: 126197 bytes OK
-2025/05/17-22:53:43.977 2f9c Delete type=0 #101
-2025/05/17-22:53:43.977 2f9c Delete type=3 #100
-2025/05/17-23:25:40.020 49b8 Level-0 table #106: started
-2025/05/17-23:25:40.023 49b8 Level-0 table #106: 65255 bytes OK
-2025/05/17-23:25:40.023 49b8 Delete type=0 #104
-2025/05/17-23:25:40.024 49b8 Manual compaction at level-0 from '!items!0y9sP8axJ5JS372V' @ 72057594037927935 : 1 .. '!items!zpRkbUBGsMuSM8Dl' @ 0 : 0; will stop at '!items!zpRkbUBGsMuSM8Dl' @ 2142 : 1
-2025/05/17-23:25:40.024 49b8 Compacting 2@0 + 0@1 files
-2025/05/17-23:25:40.026 49b8 Generated table #107@0: 6 keys, 38714 bytes
-2025/05/17-23:25:40.026 49b8 Compacted 2@0 + 0@1 files => 38714 bytes
-2025/05/17-23:25:40.027 49b8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/05/17-23:25:40.027 49b8 Delete type=2 #103
-2025/05/17-23:25:40.027 49b8 Delete type=2 #106
-2025/05/17-23:25:40.029 49b8 Manual compaction at level-0 from '!items!zpRkbUBGsMuSM8Dl' @ 2142 : 1 .. '!items!zpRkbUBGsMuSM8Dl' @ 0 : 0; will stop at (end)
-2025/05/17-23:25:40.029 49b8 Manual compaction at level-1 from '!items!0y9sP8axJ5JS372V' @ 72057594037927935 : 1 .. '!items!zpRkbUBGsMuSM8Dl' @ 0 : 0; will stop at '!items!zpRkbUBGsMuSM8Dl' @ 2152 : 1
-2025/05/17-23:25:40.029 49b8 Compacting 1@1 + 1@2 files
-2025/05/17-23:25:40.033 49b8 Generated table #108@1: 18 keys, 116668 bytes
-2025/05/17-23:25:40.033 49b8 Compacted 1@1 + 1@2 files => 116668 bytes
-2025/05/17-23:25:40.034 49b8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/17-23:25:40.034 49b8 Delete type=2 #99
-2025/05/17-23:25:40.034 49b8 Delete type=2 #107
-2025/05/17-23:25:40.036 49b8 Manual compaction at level-1 from '!items!zpRkbUBGsMuSM8Dl' @ 2152 : 1 .. '!items!zpRkbUBGsMuSM8Dl' @ 0 : 0; will stop at (end)
+2025/05/18-07:06:37.827 4730 Recovering log #110
+2025/05/18-07:06:37.829 4730 Delete type=0 #110
+2025/05/18-07:06:37.830 4730 Delete type=3 #109
+2025/05/18-08:39:37.549 6de8 Level-0 table #114: started
+2025/05/18-08:39:37.549 6de8 Level-0 table #114: 0 bytes OK
+2025/05/18-08:39:37.549 6de8 Delete type=0 #112
+2025/05/18-08:39:37.551 6de8 Manual compaction at level-0 from '!items!0y9sP8axJ5JS372V' @ 72057594037927935 : 1 .. '!items!zpRkbUBGsMuSM8Dl' @ 0 : 0; will stop at (end)
+2025/05/18-08:39:37.551 6de8 Manual compaction at level-1 from '!items!0y9sP8axJ5JS372V' @ 72057594037927935 : 1 .. '!items!zpRkbUBGsMuSM8Dl' @ 0 : 0; will stop at (end)

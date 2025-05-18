@@ -7,3 +7,4 @@
   * Carrières 6/6
   * Spécialités 18/18
   * Talents : 152/152
+  * Qualités d'armes : 29/29
