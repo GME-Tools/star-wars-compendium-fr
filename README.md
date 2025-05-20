@@ -9,3 +9,4 @@
   * Talents : 152/152
   * Qualités d'armes : 29/29
   * Armes : 36/36
+  * Armures : 6/6
