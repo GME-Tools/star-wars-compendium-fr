@@ -8,3 +8,4 @@
   * Spécialités 18/18
   * Talents : 152/152
   * Qualités d'armes : 29/29
+  * Armes : 36/36
