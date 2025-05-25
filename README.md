@@ -10,3 +10,4 @@
   * Qualités d'armes : 29/29
   * Armes : 36/36
   * Armures : 6/6
+  * Equipement : 48/48
