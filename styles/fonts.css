@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'TeutonMager';
+  src: local('TeutonMager'), url(fonts/TeutonMager.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'TeutonMagerBold';
+  src: local('TeutonMagerBold'), url(fonts/TeutonMager-Bold.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'TeutonFett';
+  src: local('TeutonFett'), url(fonts/TeutonFett.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'ElektraMediumPro';
+  src: local('ElektraMediumPro'), url(fonts/ElektraMediumProRegular.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'ElektraMediumProBold';
+  src: local('ElektraMediumProBold'), url(fonts/ElektraMediumProBold.otf) format('truetype');
+}
+
+@font-face{
+    font-family: "MaquiW00-Heavy";
+    src: url("https://db.onlinewebfonts.com/t/c03d69d7151ed606957c81d4816355c4.eot");
+    src: url("https://db.onlinewebfonts.com/t/c03d69d7151ed606957c81d4816355c4.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/c03d69d7151ed606957c81d4816355c4.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/c03d69d7151ed606957c81d4816355c4.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/c03d69d7151ed606957c81d4816355c4.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/c03d69d7151ed606957c81d4816355c4.svg#MaquiW00-Heavy")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+
+@font-face {
+    font-family: 'ITCSymbolStd';
+    src: url('fonts/ITCSymbolStd-Book.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITCSymbolStd';
+    src: url('fonts/ITCSymbolStd-BookItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+ 
+@font-face {
+    font-family: 'ITCSymbolStd';
+    src: url('fonts/ITCSymbolStd-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITCSymbolStd';
+    src: url('fonts/ITCSymbolStd-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}

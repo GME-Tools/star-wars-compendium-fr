@@ -1,0 +1,107 @@
+.sheet.journal-entry .journal-entry-content {
+	background: url(images/back.png); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.journal-page-header h1 {
+  font-size: 32pt;
+  color: #000;
+  font-family: 'MaquiW00-Heavy';
+  font-weight: 900;
+  text-transform: uppercase;
+  border-bottom: none;
+}
+
+.journal-page-content h1 {
+  font-size: 24pt;
+  color: #766a08;
+  font-family: 'ElektraMediumProBold';
+  text-transform: uppercase;
+  border-bottom: none;
+}
+
+.journal-page-content h2 {
+  font-size: 18pt;
+  color: #25a1ab;
+  font-family: 'ElektraMediumProBold';
+  text-transform: uppercase;
+  border-bottom: none;
+  margin-top: 2rem;
+}
+
+.journal-page-content h3 {
+  font-size: 11pt;
+  color: #76030d;
+  font-family: 'ElektraMediumProBold';
+  text-transform: uppercase;
+  border-bottom: none;
+  text-align: end;
+  margin-top: 1rem;
+}
+
+.journal-page-content h4 {
+  font-size: 12pt;
+  color: #766a08;
+  font-family: 'ElektraMediumProBold';
+  text-transform: uppercase;
+  border-bottom: none;
+}
+
+.first-letter {
+  font-family: "MaquiW00-Heavy";
+  text-transform: "uppercase";
+  font-size: 200%;
+  margin-right: 3px;
+}
+
+.journal-page-content p {
+  text-align: justify;
+  font-size: 10pt;
+  color: #000;
+  font-family: 'ITCSymbolStd';
+  font-weight: 400;
+}
+
+.journal-quote {
+  text-align: end !important;
+  font-size: 10pt;
+  color: #25a1ab !important;
+  font-family: 'ITCSymbolStd';
+  font-weight: 400;
+  font-style: italic;
+}
+
+.journal-side-block {
+  margin-top: 2rem;
+  background-color: #1b1b1b;
+  color: #fff;
+
+  padding: 1rem;
+  clip-path: polygon(
+        20px 0,
+        100%  0,
+        100% 100%,
+        0 100%,
+        0 20px
+    );
+}
+
+.journal-side-block h5 {
+  font-size: 14pt;
+  font-family: 'TeutonFett';
+  text-transform: uppercase;
+  text-align: end;
+  color: #918E82;
+  margin: 0;
+  font-weight: 400;
+}
+
+.journal-side-block p {
+  color: #918E82;
+}
+
+.journal-side-block strong {
+  color: #C8C9C3;
+}
