@@ -1,3 +1,4 @@
+/* Background image */
 .sheet.journal-entry .journal-entry-content {
 	background: url(images/back.png); 
   background-size: cover;
@@ -5,21 +6,24 @@
   background-position: center;
 }
 
+/* Headers */
 .journal-page-header h1 {
   font-size: 32pt;
-  color: #000;
-  font-family: 'MaquiW00-Heavy';
+  color: #fff;
+  font-family: 'ElektraMediumProBold';
   font-weight: 900;
   text-transform: uppercase;
   border-bottom: none;
+  text-shadow: rgba(37,161,171,128) 0 0 5px;
 }
 
 .journal-page-content h1 {
-  font-size: 24pt;
+  font-size: 26pt;
   color: #766a08;
   font-family: 'ElektraMediumProBold';
   text-transform: uppercase;
   border-bottom: none;
+  margin-top: 2rem !important;
 }
 
 .journal-page-content h2 {
@@ -32,7 +36,7 @@
 }
 
 .journal-page-content h3 {
-  font-size: 11pt;
+  font-size: 12pt;
   color: #76030d;
   font-family: 'ElektraMediumProBold';
   text-transform: uppercase;
@@ -42,20 +46,43 @@
 }
 
 .journal-page-content h4 {
-  font-size: 12pt;
+  font-size: 11pt;
   color: #766a08;
   font-family: 'ElektraMediumProBold';
   text-transform: uppercase;
   border-bottom: none;
 }
 
+.journal-page-content h5 {
+  font-size: 14pt;
+  font-family: 'TeutonFett';
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0;
+}
+
+.journal-page-content h6 {
+  font-size: 14pt;
+  font-family: 'TeutonFett';
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0;
+}
+
+/* First letter */
 .first-letter {
   font-family: "MaquiW00-Heavy";
   text-transform: "uppercase";
   font-size: 200%;
   margin-right: 3px;
+  margin-bottom: 0;
 }
 
+.journal-page-content h1 + p > .first-letter, h1 + * + p > .first-letter {
+  color: #76030d;
+}
+
+/* Paragraphs */
 .journal-page-content p {
   text-align: justify;
   font-size: 10pt;
@@ -73,6 +100,7 @@
   font-style: italic;
 }
 
+/* Side blocks */
 .journal-side-block {
   margin-top: 2rem;
   background-color: #1b1b1b;
@@ -89,13 +117,12 @@
 }
 
 .journal-side-block h5 {
-  font-size: 14pt;
-  font-family: 'TeutonFett';
-  text-transform: uppercase;
   text-align: end;
   color: #918E82;
-  margin: 0;
-  font-weight: 400;
+}
+
+.journal-side-block h6 {
+  color: #fff;
 }
 
 .journal-side-block p {
@@ -104,4 +131,262 @@
 
 .journal-side-block strong {
   color: #C8C9C3;
+}
+
+.journal-side-block .content-link {
+  color: #000;
+}
+
+/* Exemple blocks */
+.journal-example-block {
+  background-color: #fcf6e7;
+  margin-top: 1rem;
+  padding: 1em;
+  clip-path: polygon(
+        10px 0,
+        calc(100% - 10px)  0,
+        100% 10px,
+        100% calc(100% - 10px),
+        calc(100% - 10px) 100%,
+        10px 100%,
+        0 calc(100% - 10px),
+        0 10px
+    );
+}
+
+.journal-example-block h5 {
+  color: #76030d;
+  text-transform: uppercase;
+  font-family: 'ITCSymbolStd';
+  font-size: 10pt;
+  font-weight: 900;
+  margin-bottom: 1em;
+}
+
+.journal-example-block p {
+  font-weight: 500;
+}
+
+/* Tables */
+.journal-page-content table {
+  border: 2px solid #aab3ae;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+.journal-page-content table p {
+  font-size: 9pt;
+  padding: 3pt;
+}
+
+.journal-page-content td {
+  border: 2px solid #aab3ae;
+}
+
+.journal-page-content td p {
+  text-align: center;
+}
+
+.journal-page-content td:first-child p {
+  text-align: start;
+}
+
+.journal-page-content tr:first-child {
+  background-color: #2c2f3a;
+}
+
+.journal-page-content tr:first-child p {
+  font-family: 'TeutonFett';
+  font-size: 12pt;
+  color: #fff;
+}
+
+.journal-page-content tr:nth-child(even) {
+  background-color: #c6dde5;
+}
+
+/* Lists */
+.journal-page-content li::marker {
+  color: #25a1ab;
+}
+
+/* Dice fix */
+.boost {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  text-transform: none !important;
+}
+
+.journal-side-block .boost {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
+}
+
+.setback {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  text-transform: none !important;
+}
+
+.journal-side-block .setback {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
+}
+
+.ability {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  text-transform: none !important;
+}
+
+.journal-side-block .ability {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
+}
+
+.proficiency {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  text-transform: none !important;
+}
+
+.journal-side-block .proficiency {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
+}
+
+.difficulty {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  text-transform: none !important;
+}
+
+.journal-side-block .difficulty {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
+}
+
+.challenge {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+  text-transform: none !important;
+}
+
+.journal-side-block .challenge {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
+}
+
+.force {
+  text-transform: lowercase !important;
+  color: #fff !important;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+}
+
+/*.dietype.starwars.forcepoint {
+  position: relative;
+  display: inline-block;
+}
+
+.dietype.starwars.forcepoint::before {
+  content: "";
+  position: absolute;
+  width: 1em;
+  height: 1em;
+  background: #fff;
+  border-radius: 50%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  overflow: hidden;
+}*/
+
+.dietype.starwars.light {
+  color: #fff;
+  text-transform: lowercase !important;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
+               0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
+}
+
+.dietype.starwars.dark {
+  font-size: 1.2em;
+}
+
+.journal-side-block .success {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.success {
+  text-transform: none !important;
+}
+
+h4 .success {
+  color: #766a08 !important;
+}
+
+.journal-side-block .advantage {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.advantage {
+  text-transform: none !important;
+}
+
+h4 .advantage {
+  color: #766a08 !important;
+}
+
+.journal-side-block .threat {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.threat {
+  text-transform: none !important;
+}
+
+h4 .threat {
+  color: #766a08 !important;
+}
+
+.journal-side-block .failure {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.failure {
+  text-transform: none !important;
+}
+
+h4 .failure {
+  color: #766a08 !important;
+}
+
+.journal-side-block .triumph {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.triumph {
+  text-transform: none !important;
+}
+
+h4 .triumph {
+  color: #766a08 !important;
+}
+
+.journal-side-block .despair {
+  color: #fff !important;
+  text-shadow: none !important;
+}
+
+.despair {
+  text-transform: none !important;
+}
+
+h4 .despair {
+  color: #766a08 !important;
 }

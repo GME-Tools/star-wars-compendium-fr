@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: zip -r ./star-wars-compendium-fr.zip module.json packs/
+    - run: zip -r ./star-wars-compendium-fr.zip module.json packs/ assets/ styles/ scripts/
     - name: Create Release
       id: create_latest_release
       uses: ncipollo/release-action@v1

@@ -9,9 +9,13 @@
     "minimum": "12",
     "verified": "12"
   },
+  "scripts": [
+    "scripts/thumbnail.js"
+  ],
   "styles": [
     "styles/fonts.css",
-    "styles/journal.css"
+    "styles/journal.css",
+    "styles/thumbnail.css"
   ],
   "packs": [
     {
