@@ -6,6 +6,9 @@ class Thumbnail {
             const target = $(li);
             const id = target.data('document-id');
             const journalEntry = game.journal.get(id);
+
+            console.log(journalEntry);
+            console.log(journalEntry.cover);
             
             if(journalEntry?.pages.size > 0) {
                 const sortedArray = journalEntry.pages.contents.sort((a,b)=> a.sort - b.sort)
@@ -24,6 +27,12 @@ class Thumbnail {
     }
     static updateJournalDirectory(app, html) {
         game.journal.render();
+    }
+
+    static addCovers(compendium, html, data) {
+        if (data.collection.metadata.name == "livres") {
+            console.log("livres !!")
+        }
     }
 }
 
@@ -44,5 +53,8 @@ Hooks.once("init", function() {
         onChange: () => game.journal.render()
     });
 });
+
 Hooks.on('renderJournalDirectory', Thumbnail.addToEntries);
 Hooks.on('renderJournalSheet', Thumbnail.updateJournalDirectory);
+
+Hooks.on('renderCompendium', Thumbnail.addCovers)

@@ -205,6 +205,22 @@
   background-color: #c6dde5;
 }
 
+table.journal-all-left-table td p {
+  text-align: start !important;
+}
+
+table.journal-number-table td p {
+  text-align: end !important;  
+}
+
+table.journal-number-table td:first-child p {
+  text-align: start !important;  
+}
+
+table.journal-number-table tr:first-child p {
+  text-align: start !important;
+}
+
 /* Lists */
 .journal-page-content li::marker {
   color: #25a1ab;

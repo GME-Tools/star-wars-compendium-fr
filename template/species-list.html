@@ -1,0 +1,15 @@
+{{#each listItems as |species id|}}
+<tr>
+    <td><div class="compendium-browser-img"><img src="{{species.img}}" /></div></td>
+    <td style="text-align:start"><span><a draggable="true" data-link data-type="Item" data-pack="star-wars-compendium-fr.especes" data-id="{{species._id}}" data-tooltip="{{species.name}}" data-uuid="Compendium.star-wars-compendium-fr.especes.Item.{{species._id}}">{{species.name}}</a></span></td>
+    <td>{{species.system.attributes.Brawn.value}}</td>
+    <td>{{species.system.attributes.Agility.value}}</td>
+    <td>{{species.system.attributes.Intellect.value}}</td>
+    <td>{{species.system.attributes.Cunning.value}}</td>
+    <td>{{species.system.attributes.Willpower.value}}</td>
+    <td>{{species.system.attributes.Presence.value}}</td>
+    <td>{{species.system.attributes.Strain.value}}</td>
+    <td>{{species.system.attributes.Wounds.value}}</td>
+    <td>{{species.system.startingXP}}</td>
+</tr>
+{{/each}}
