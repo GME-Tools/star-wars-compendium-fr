@@ -1,27 +1,72 @@
 <div>
-    <div class="">
-        <p>Filtres</p>
-    </div>
-    <div>
-        <table class="compendium-list">
-            <thead>
+    <table class="compendium-list">
+        <thead>
             <tr>
                 <th style="width: 60px"></th>
-                <th style="text-align:start">Nom</th>
-                <th>Vig</th>
-                <th>Agi</th>
-                <th>Int</th>
-                <th>Ru</th>
-                <th>Vol</th>
-                <th>Pré</th>
-                <th>Stress</th>
-                <th>Bless</th>
-                <th>XP</th>
+                <th class="cb-th cb-th-start" data-col="name">
+                    <span>Nom</span>
+                    <button type="button" class="cb-filter-btn" data-col="name" title="Filtrer Nom">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Brawn">
+                    <span>Vig</span>
+                    <button type="button" class="cb-filter-btn" data-col="Brawn" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Agility">
+                    <span>Agi</span>
+                    <button type="button" class="cb-filter-btn" data-col="Agility" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Intellect">
+                    <span>Int</span>
+                    <button type="button" class="cb-filter-btn" data-col="Intellect" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Cunning">
+                    <span>Ru</span>
+                    <button type="button" class="cb-filter-btn" data-col="Cunning" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Willpower">
+                    <span>Vol</span>
+                    <button type="button" class="cb-filter-btn" data-col="Willpower" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Presence">
+                    <span>Pré</span>
+                    <button type="button" class="cb-filter-btn" data-col="Presence" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Strain">
+                    <span>Stress</span>
+                    <button type="button" class="cb-filter-btn" data-col="Strain" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="Wounds">
+                    <span>Bless</span>
+                    <button type="button" class="cb-filter-btn" data-col="Wounds" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
+                <th class="cb-th" data-col="startingXP">
+                    <span>XP</span>
+                    <button type="button" class="cb-filter-btn" data-col="startingXP" title="Filtrer">
+                        <i class="fas fa-filter"></i>
+                    </button>
+                </th>
             </tr>
-            </thead>
-            <tbody id="CBSpecies">
-            {{> "modules/star-wars-compendium-fr/template/species-list.html" species=items}}
-            </tbody>
-        </table>
-    </div>
+        </thead>
+        <tbody id="CBSpecies">
+            {{> "modules/star-wars-compendium-fr/template/species-list.html" listItems=items}}
+        </tbody>
+    </table>
 </div>

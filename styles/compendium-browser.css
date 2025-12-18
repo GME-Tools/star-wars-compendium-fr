@@ -37,6 +37,7 @@
 .compendium-list th {
     border: 2px solid #aab3ae;
     padding: 3pt;
+    text-align: left;
 }
 
 .compendium-list td {
@@ -71,3 +72,115 @@
   object-fit: cover;
   object-position: center top;
 }
+
+.cb-filter-row th {
+  padding: 2px 4px;
+  height: 26px;
+}
+
+.cb-filter-btn {
+  width: 100%;
+  height: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--color-border-light-primary);
+  background: var(--color-bg-option);
+  border-radius: 4px; cursor: pointer;
+  color: white;
+}
+
+.cb-filter-btn.is-active {
+  border-color: var(--color-border-highlight);
+  box-shadow: 0 0 0 1px var(--color-border-highlight);
+}
+
+.cb-filter-popover {
+  position: absolute;
+  z-index: 10000;
+  width: 260px;
+  max-height: 360px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  border: 1px solid var(--color-border-light-primary);
+  border-radius: 8px;
+  background: #d8cbc0;
+  backdrop-filter: blur(2px);
+  box-shadow: 0 10px 30px rgba(0,0,0,.35);
+  font-size: 12px;
+}
+
+.cb-filter-popover .cb-head {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.cb-filter-popover input.cb-search {
+  width: 100%;
+}
+
+.cb-filter-popover .cb-actions {
+  display: flex;
+  gap: 6px;
+  margin: 6px 0;
+}
+
+.cb-filter-popover .cb-values {
+  overflow: auto;
+  border-top: 1px solid var(--color-border-light-primary);
+  padding-top: 6px;
+  margin-top: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cb-filter-popover .cb-filter-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.cb-filter-popover .cb-footer {
+  display: flex;
+  gap: 6px;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+
+.cb-filter-popover .cb-actions button,
+.cb-filter-popover input.cb-search {
+  height: 22px;
+  font-size: 12px;
+  padding: 0 6px;
+}
+
+.cb-filter-popover .cb-filter-item input[type="checkbox"]{
+  transform: scale(0.9);
+}
+
+.cb-th {
+  position: relative;
+  padding-right: 26px; /* place pour le bouton */
+}
+
+.cb-th > .cb-filter-btn {
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  border: 1px solid var(--color-border-light-primary);
+  background: transparent;
+  border-radius: 4px;
+  opacity: .8;
+}
+
+.cb-th > .cb-filter-btn:hover { opacity: 1; }
+.cb-th-start { text-align: start; }
