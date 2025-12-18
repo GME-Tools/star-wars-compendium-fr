@@ -205,6 +205,38 @@
   background-color: #c6dde5;
 }
 
+.medium-critical-odd {
+  background-color: #ABBDC6 !important;
+}
+
+.medium-critical-even {
+  background-color: #C4CDD4 !important;
+}
+
+.hard-critical-odd {
+  background-color: #853C24 !important;
+}
+
+.hard-critical-odd p {
+  color: #fff !important;
+}
+
+.hard-critical-even {
+  background-color: #994F3F !important;
+}
+
+.hard-critical-even p {
+  color: #fff !important;
+}
+
+.daunting-critical {
+  background-color: #641814 !important;
+}
+
+.daunting-critical p {
+  color: #fff !important;
+}
+
 table.journal-all-left-table td p {
   text-align: start !important;
 }
