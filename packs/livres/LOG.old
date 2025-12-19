@@ -1,78 +1,8 @@
-2025/12/19-09:40:19.980 79ac Recovering log #507
-2025/12/19-09:40:19.983 79ac Delete type=0 #507
-2025/12/19-09:40:19.983 79ac Delete type=3 #504
-2025/12/19-10:22:50.520 9138 Level-0 table #514: started
-2025/12/19-10:22:50.543 9138 Level-0 table #514: 2414428 bytes OK
-2025/12/19-10:22:50.544 9138 Delete type=0 #512
-2025/12/19-10:39:50.633 9138 Level-0 table #516: started
-2025/12/19-10:39:50.653 9138 Level-0 table #516: 2182550 bytes OK
-2025/12/19-10:39:50.654 9138 Delete type=0 #513
-2025/12/19-11:15:50.892 9138 Level-0 table #518: started
-2025/12/19-11:15:50.909 9138 Level-0 table #518: 2049696 bytes OK
-2025/12/19-11:15:50.909 9138 Delete type=0 #515
-2025/12/19-13:13:51.962 9138 Level-0 table #520: started
-2025/12/19-13:13:51.983 9138 Level-0 table #520: 1848965 bytes OK
-2025/12/19-13:13:51.984 9138 Delete type=0 #517
-2025/12/19-13:28:52.086 9138 Level-0 table #522: started
-2025/12/19-13:28:52.106 9138 Level-0 table #522: 2234200 bytes OK
-2025/12/19-13:28:52.107 9138 Delete type=0 #519
-2025/12/19-13:28:52.107 9138 Compacting 4@0 + 1@1 files
-2025/12/19-13:28:52.133 9138 Generated table #523@0: 56 keys, 400568 bytes
-2025/12/19-13:28:52.133 9138 Compacted 4@0 + 1@1 files => 400568 bytes
-2025/12/19-13:28:52.134 9138 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/12/19-13:28:52.134 9138 Delete type=2 #514
-2025/12/19-13:28:52.134 9138 Delete type=2 #516
-2025/12/19-13:28:52.135 9138 Delete type=2 #518
-2025/12/19-13:28:52.135 9138 Delete type=2 #520
-2025/12/19-13:28:52.136 9138 Delete type=2 #522
-2025/12/19-13:38:52.274 9138 Level-0 table #525: started
-2025/12/19-13:38:52.291 9138 Level-0 table #525: 2006148 bytes OK
-2025/12/19-13:38:52.292 9138 Delete type=0 #521
-2025/12/19-13:55:45.075 9138 Level-0 table #527: started
-2025/12/19-13:55:45.093 9138 Level-0 table #527: 2083699 bytes OK
-2025/12/19-13:55:45.094 9138 Delete type=0 #524
-2025/12/19-14:13:49.871 9138 Level-0 table #529: started
-2025/12/19-14:13:49.890 9138 Level-0 table #529: 2372079 bytes OK
-2025/12/19-14:13:49.891 9138 Delete type=0 #526
-2025/12/19-14:49:52.720 9138 Level-0 table #531: started
-2025/12/19-14:49:52.741 9138 Level-0 table #531: 2432232 bytes OK
-2025/12/19-14:49:52.742 9138 Delete type=0 #528
-2025/12/19-14:49:52.742 9138 Compacting 4@0 + 1@1 files
-2025/12/19-14:49:52.758 9138 Generated table #532@0: 60 keys, 416956 bytes
-2025/12/19-14:49:52.758 9138 Compacted 4@0 + 1@1 files => 416956 bytes
-2025/12/19-14:49:52.758 9138 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/12/19-14:49:52.759 9138 Delete type=2 #523
-2025/12/19-14:49:52.759 9138 Delete type=2 #525
-2025/12/19-14:49:52.759 9138 Delete type=2 #527
-2025/12/19-14:49:52.759 9138 Delete type=2 #529
-2025/12/19-14:49:52.760 9138 Delete type=2 #531
-2025/12/19-15:24:56.259 9138 Level-0 table #534: started
-2025/12/19-15:24:56.276 9138 Level-0 table #534: 1988732 bytes OK
-2025/12/19-15:24:56.277 9138 Delete type=0 #530
-2025/12/19-15:44:53.137 9138 Level-0 table #536: started
-2025/12/19-15:44:53.157 9138 Level-0 table #536: 2399472 bytes OK
-2025/12/19-15:44:53.158 9138 Delete type=0 #533
-2025/12/19-15:59:46.213 9138 Level-0 table #538: started
-2025/12/19-15:59:46.228 9138 Level-0 table #538: 1841114 bytes OK
-2025/12/19-15:59:46.229 9138 Delete type=0 #535
-2025/12/19-16:00:42.694 9138 Level-0 table #540: started
-2025/12/19-16:00:42.700 9138 Level-0 table #540: 134497 bytes OK
-2025/12/19-16:00:42.701 9138 Delete type=0 #537
-2025/12/19-16:00:42.701 9138 Compacting 4@0 + 1@1 files
-2025/12/19-16:00:42.718 9138 Generated table #541@0: 61 keys, 430675 bytes
-2025/12/19-16:00:42.718 9138 Compacted 4@0 + 1@1 files => 430675 bytes
-2025/12/19-16:00:42.718 9138 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/12/19-16:00:42.718 9138 Delete type=2 #532
-2025/12/19-16:00:42.718 9138 Delete type=2 #534
-2025/12/19-16:00:42.718 9138 Delete type=2 #536
-2025/12/19-16:00:42.719 9138 Delete type=2 #538
-2025/12/19-16:00:42.719 9138 Delete type=2 #540
-2025/12/19-16:00:42.719 9138 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
-2025/12/19-16:00:42.719 9138 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 15608 : 1
-2025/12/19-16:00:42.719 9138 Compacting 1@1 + 1@2 files
-2025/12/19-16:00:42.726 9138 Generated table #542@1: 66 keys, 431322 bytes
-2025/12/19-16:00:42.726 9138 Compacted 1@1 + 1@2 files => 431322 bytes
-2025/12/19-16:00:42.726 9138 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/12/19-16:00:42.726 9138 Delete type=2 #510
-2025/12/19-16:00:42.726 9138 Delete type=2 #541
-2025/12/19-16:00:42.726 9138 Manual compaction at level-1 from '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 15608 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2025/12/19-17:39:14.596 79b4 Recovering log #561
+2025/12/19-17:39:14.598 79b4 Delete type=0 #561
+2025/12/19-17:39:14.598 79b4 Delete type=3 #559
+2025/12/19-21:11:56.800 9138 Level-0 table #566: started
+2025/12/19-21:11:56.800 9138 Level-0 table #566: 0 bytes OK
+2025/12/19-21:11:56.800 9138 Delete type=0 #564
+2025/12/19-21:11:56.803 9138 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2025/12/19-21:11:56.803 9138 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)

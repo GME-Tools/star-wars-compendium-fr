@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -178,7 +178,7 @@
     },
     {
       "name": "vaisseaux",
-      "label": "Vaisseaux",
+      "label": "Vaisseaux et véhicules",
       "path": "packs/vaisseaux",
       "type": "Actor",
       "ownership": {
