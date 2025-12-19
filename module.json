@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -216,6 +216,18 @@
       "name": "armes_vaisseaux",
       "label": "Armes de Vaisseaux",
       "path": "packs/armes_vaisseaux",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "degats_critiques",
+      "label": "Dégâts Critiques",
+      "path": "packs/degats_critiques",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
