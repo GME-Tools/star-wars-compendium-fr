@@ -19,10 +19,10 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Règles de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Notes |
+| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | SWE01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWE02 | Livre de Règles |  |  |  |  |  |  |  |  |  |  |  | |
+| SWE02 | Livre de Règles | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWE03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
@@ -37,10 +37,10 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Règles de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Notes |
+| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | SWA01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA02 | Livre de Règles |  |  |  |  |  |  |  |  |  |  |  | |
+| SWA02 | Livre de Règles | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWA03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
@@ -55,10 +55,10 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Règles de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Notes |
+| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | SWF01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ⬜ | ✅ | 🟨 | ⬜ | ⬜ | ⬜ | |
+| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ⬜ | ✅ | 🟨 | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWF03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
