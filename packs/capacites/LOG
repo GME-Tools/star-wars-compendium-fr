@@ -1,3 +1,8 @@
-2025/12/19-21:14:19.001 5dac Recovering log #369
-2025/12/19-21:14:19.004 5dac Delete type=0 #369
-2025/12/19-21:14:19.004 5dac Delete type=3 #367
+2025/12/27-18:39:37.849236 75f96ddd00 Recovering log #394
+2025/12/27-18:39:37.923462 75f96ddd00 Delete type=0 #394
+2025/12/27-18:39:37.938804 75f96ddd00 Delete type=3 #393
+2025/12/27-18:41:42.024083 74f3fcbd00 Level-0 table #398: started
+2025/12/27-18:41:42.024517 74f3fcbd00 Level-0 table #398: 0 bytes OK
+2025/12/27-18:41:42.041366 74f3fcbd00 Delete type=0 #396
+2025/12/27-18:41:42.092533 74f3fcbd00 Manual compaction at level-0 from '!items!3r0DSBA1xDZqGRcX' @ 72057594037927935 : 1 .. '!items!nqWWetkuuWqkJpo5' @ 0 : 0; will stop at (end)
+2025/12/27-18:41:42.113783 74f3fcbd00 Manual compaction at level-1 from '!items!3r0DSBA1xDZqGRcX' @ 72057594037927935 : 1 .. '!items!nqWWetkuuWqkJpo5' @ 0 : 0; will stop at (end)
