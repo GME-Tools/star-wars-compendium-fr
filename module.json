@@ -2,16 +2,19 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "scripts": [
+  "esmodules": [
     "scripts/thumbnail.js",
-    "scripts/compendium-browser.js"
+    "scripts/compendium-browser.js",
+    "scripts/compendium-browser/app.js",
+    "scripts/compendium-browser/tabs/species.js",
+    "scripts/compendium-browser/tabs/careers.js"
   ],
   "styles": [
     "styles/compendium-browser.css",

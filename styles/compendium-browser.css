@@ -184,3 +184,133 @@
 
 .cb-th > .cb-filter-btn:hover { opacity: 1; }
 .cb-th-start { text-align: start; }
+
+.cb-qb-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.cb-qb-card{
+  padding: 8px;
+  border: 1px solid var(--color-border-light-primary);
+  border-radius: 8px;
+  background: rgba(0,0,0,.15);
+}
+
+.cb-qb-head{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.cb-qb-head h3{
+  margin: 0;
+  font-size: 14px;
+}
+
+.cb-qb-inline{
+  display:flex;
+  align-items:center;
+  gap: 6px;
+}
+
+.cb-qb-inline label{
+  opacity: .8;
+  font-size: 12px;
+}
+
+.cb-qb-card select[multiple]{
+  width: 100%;
+  height: auto;
+}
+
+.cb-mini{
+  height: 22px;
+  padding: 0 6px;
+  font-size: 12px;
+}
+
+.cb-selected{
+  margin-top: 6px;
+  display:flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  min-height: 18px;
+}
+
+.cb-chip{
+  display:inline-flex;
+  align-items:center;
+  gap: 6px;
+  padding: 2px 6px;
+  border: 1px solid var(--color-border-light-primary);
+  border-radius: 999px;
+  background: rgba(0,0,0,.25);
+  font-size: 12px;
+  line-height: 1;
+}
+
+.cb-chip button{
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  opacity: .85;
+}
+
+.cb-qb-mincount{
+  margin-top: 8px;
+  display:flex;
+  align-items:center;
+  gap: 6px;
+}
+
+.cb-qb-mincount select{ flex: 1; }
+.cb-qb-mincount input{ width: 70px; }
+
+.cb-qb-flags{
+  margin-top: 6px;
+  display:flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  opacity: .9;
+}
+
+.cb-qb-actions{
+  margin-top: 10px;
+  display:flex;
+  gap: 8px;
+}
+
+.cb-results-head{
+  display:flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.cb-results-meta{
+  opacity: .8;
+  font-size: 12px;
+}
+
+.cb-results .cb-career-block{
+  margin: 8px 0;
+  padding: 6px 8px;
+  border: 1px solid var(--color-border-light-primary);
+  border-radius: 8px;
+  background: rgba(0,0,0,.12);
+}
+
+.cb-results .cb-career-title{
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.cb-results ul{
+  margin: 0;
+  padding-left: 18px;
+}

@@ -1,10 +1,60 @@
 <div class="cb-carrers">
-  <div class="cb-controls">
-    <button type="button" class="cb-debug" data-action="debug-careers">Debug packs Carrières/Spés</button>
+  <div class="cb-qb-grid">
+    <section class="cb-qb-card">
+      <header class="cb-qb-head">
+        <h3>Compétences</h3>
+        <div class="cb-qb-inline">
+          <label>Mode</label>
+          <select id="CBQBSkillsMode">
+            <option value="ALL" selected>Toutes</option>
+            <option value="ANY">Au moins une</option>
+          </select>
+          <button type="button" class="cb-mini" data-action="clear-skills">Effacer</button>
+        </div>
+      </header>
+      <select id="CBQBSkills" multiple size="10" style="min-width:260px;"></select>
+      <div class="cb-selected" id="CBQBSkillsSelected"></div>
+    </section>
+
+    <section class="cb-qb-card">
+      <header class="cb-qb-head">
+        <h3>Talents</h3>
+        <div class="cb-qb-inline">
+          <label>Mode</label>
+          <select id="CBQBTalentsMode">
+            <option value="ALL">Tous</option>
+            <option value="ANY" selected>Au moins un</option>
+          </select>
+          <button type="button" class="cb-mini" data-action="clear-talents">Effacer</button>
+        </div>
+      </header>
+      <select id="CBQBTalents" multiple size="10"></select>
+      <div class="cb-selected" id="CBQBTalentsSelected"></div>
+
+      <div class="cb-qb-mincount">
+        <label>Nb min</label>
+        <select id="CBQBTalentMinName"></select>
+        <input id="CBQBTalentMinCount" type="number" min="1" step="1" value="2">
+      </div>
+
+      <div class="cb-qb-flags">
+        <label><input id="CBQBForceTalent" type="checkbox">Talent de Force</label>
+        <label><input id="CBQBForceRating" type="checkbox">Talent "Valeur de Force"</label>
+      </div>
+    </section>
   </div>
+
+  <div class="cb-qb-actions">
+    <button type="button" data-action="reset-qb">Effacer</button>
+  </div>
+
+  <hr>
   
-  <p style="opacity:.8; margin-top:6px;">(WIP) Vue Carrières/Spés</p>
   <div class="cb-results">
-    <em>A venir ...</em>
+    <div class="cb-results-head">
+      <div class="cb-results-meta" id="CBQBMeta"></div>
+    </div>
+    <div id="CBQBResults"></div>
   </div>
+
 </div>
