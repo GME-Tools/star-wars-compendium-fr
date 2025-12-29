@@ -1,56 +1,68 @@
-<div class="cb-carrers">
-  <div class="cb-qb-grid">
-    <section class="cb-qb-card">
-      <header class="cb-qb-head">
-        <h3>Compétences</h3>
-        <div class="cb-qb-inline">
-          <label>Mode</label>
-          <select id="CBQBSkillsMode">
-            <option value="ALL" selected>Toutes</option>
-            <option value="ANY">Au moins une</option>
-          </select>
-          <button type="button" class="cb-mini" data-action="clear-skills">Effacer</button>
-        </div>
-      </header>
-      <select id="CBQBSkills" multiple size="10" style="min-width:260px;"></select>
-      <div class="cb-selected" id="CBQBSkillsSelected"></div>
-    </section>
+<div class="cb-careers">
 
-    <section class="cb-qb-card">
-      <header class="cb-qb-head">
-        <h3>Talents</h3>
-        <div class="cb-qb-inline">
-          <label>Mode</label>
-          <select id="CBQBTalentsMode">
-            <option value="ALL">Tous</option>
-            <option value="ANY" selected>Au moins un</option>
-          </select>
-          <button type="button" class="cb-mini" data-action="clear-talents">Effacer</button>
-        </div>
-      </header>
-      <select id="CBQBTalents" multiple size="10"></select>
-      <div class="cb-selected" id="CBQBTalentsSelected"></div>
+  <div class="cb-panel cb-filters {{#if state.filtersCollapsed}}is-collapsed{{/if}}">
+    <button type="button" class="cb-panel-title" data-action="toggle-filters">
+      <i class="fas {{#if state.filtersCollapsed}}fa-caret-right{{else}}fa-caret-down{{/if}}"></i>
+      Filtres
+      <span class="cb-badge" id="CBQBActiveCount">0</span>
+    </button>
+    <div class="cb-panel-body">
+      <div class="cb-grid-2">
 
-      <div class="cb-qb-mincount">
-        <label>Nb min</label>
-        <select id="CBQBTalentMinName"></select>
-        <input id="CBQBTalentMinCount" type="number" min="1" step="1" value="2">
+        <div class="cb-block">
+          <div class="cb-block-head">
+            <div class="cb-block-title">Compétences</div>
+            <div class="cb-inline">
+              <select id="CBQBSkillsMode" class="cb-compact">
+                <option value="ALL">Toutes</option>
+                <option value="ANY">Au moins une</option>
+              </select>
+              <button type="button" class="cb-mini-btn" data-action="clear-skills" title="Vider">
+                <i class="fas fa-times"></i>
+              </button>
+            </div>
+          </div>
+          <input id="CBQBSkillsSearch" class="cb-search" type="text" placeholder="Rechercher une compétence…">
+          <select id="CBQBSkills" size="6" multiple class="cb-multiselect"></select>
+          <div id="CBQBSkillsSelected"></div>
+        </div>
+
+        <div class="cb-block">
+          <div class="cb-block-head">
+            <div class="cb-block-title">Talents</div>
+            <div class="cb-inline">
+              <select id="CBQBTalentsMode" class="cb-compact">
+                <option value="ANY">Au moins un</option>
+                <option value="ALL">Tous</option>
+              </select>
+              <button type="button" class="cb-mini-btn" data-action="clear-talents" title="Vider">
+                <i class="fas fa-times"></i>
+              </button>
+            </div>
+          </div>
+          <input id="CBQBTalentsSearch" class="cb-search" type="text" placeholder="Rechercher un talent…">
+          <select id="CBQBTalents" size="6" multiple class="cb-multiselect"></select>
+          <div id="CBQBTalentRules" class="cb-rules"></div>
+        </div>
       </div>
 
-      <div class="cb-qb-flags">
-        <label><input id="CBQBForceTalent" type="checkbox">Talent de Force</label>
-        <label><input id="CBQBForceRating" type="checkbox">Talent "Valeur de Force"</label>
-      </div>
-    </section>
+    </div>
   </div>
-
-  <div class="cb-qb-actions">
-    <button type="button" data-action="reset-qb">Effacer</button>
-  </div>
-
-  <hr>
   
-  <div class="cb-results">
+  <div class="cb-row cb-row-center">
+    <div class="cb-view-switch" role="radiogroup" aria-label="Vue">
+      <label class="cb-radio">
+        <input type="radio" name="CBQBViewMode" value="CAREER">
+        <span>Carrières</span>
+      </label>
+      <label class="cb-radio">
+        <input type="radio" name="CBQBViewMode" value="SPEC">
+        <span>Spécialités</span>
+      </label>
+    </div>
+  </div>
+
+  <div class="cb-panel cb-results">
     <div class="cb-results-head">
       <div class="cb-results-meta" id="CBQBMeta"></div>
     </div>

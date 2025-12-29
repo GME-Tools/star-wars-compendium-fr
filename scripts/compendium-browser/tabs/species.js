@@ -27,7 +27,22 @@ export class SpeciesTab {
     html.on("click", ".cb-filter-btn", (ev) => {
       if (!$(ev.currentTarget).closest('[data-tab="species"]').length) return;
       this._openFilterPopover(ev);
-    })
+    });
+
+    html.on("click", ".cb-sortable", (ev) => {
+      if (!$(ev.currentTarget).closest('[data-tab="species"]').length) return;
+      const key = ev.currentTarget.dataset.sort;
+      if (!key) return;
+
+      if (this.state.sortKey === key) {
+        this.state.sortDir = (this.state.sortDir === "asc") ? "desc" : "asc";
+      } else {
+        this.state.sortKey = key;
+        this.state.sortDir = "desc";
+      }
+
+      this.render(this.app.element);
+    });
   }
 
   async render(html) {
@@ -35,6 +50,7 @@ export class SpeciesTab {
 
     await this._loadIndexIfNeeded();
     await this._renderList(html);
+    await this._refreshSortIndicators(html);
     this._refreshFilterButtons(html);
   }
 
@@ -124,6 +140,18 @@ export class SpeciesTab {
             out = out.filter(sp => allowed.has(def.get(sp)));
         }
 
+        const { sortKey, sortDir } = this.state;
+        const dir = sortDir === "desc" ? -1 : 1;
+        const def = defs[sortKey] ?? defs.name;
+
+        out = out.slice().sort((a, b) => {
+          const av = def.get(a);
+          const bv = def.get(b);
+
+          if (def.type === "number") return ((Number(av) || 0) - (Number(bv) || 0)) * dir;
+          return String(av ?? "").localeCompare(String(bv ?? "")) * dir;
+        });
+
         return out;
     }
 
@@ -137,6 +165,12 @@ export class SpeciesTab {
       { listItems: filtered }
     );
     tbody[0].innerHTML = htmlItems;
+  }
+
+  _refreshSortIndicators(html) {
+    html.find(".cb-sortable").removeClass("cb-s-asc cb-s-desc");
+    const sel = html.find(`.cb-sortable[data-sort="${this.state.sortKey}"]`);
+    sel.addClass(this.state.sortDir === "asc" ? "cb-s-asc" : "cb-s-desc");
   }
 
   _refreshFilterButtons(html) {
