@@ -168,7 +168,7 @@ export class SpeciesTab {
   }
 
   _refreshSortIndicators(html) {
-    html.find(".cb-sortable").removeClass("cb-s-asc cb-s-desc");
+    html.find('[data-tab="species"]').find(".cb-sortable").removeClass("cb-s-asc cb-s-desc");
     const sel = html.find(`.cb-sortable[data-sort="${this.state.sortKey}"]`);
     sel.addClass(this.state.sortDir === "asc" ? "cb-s-asc" : "cb-s-desc");
   }
@@ -176,7 +176,7 @@ export class SpeciesTab {
   _refreshFilterButtons(html) {
     const filters = this.state.colFilters ?? {};
     html.find(".cb-filter-btn").each((_, btn) => {
-      const col = btn.dataset.col;
+      const col = btn.dataset.sort;
       const set = filters[col];
       const active = set instanceof Set;
       btn.classList.toggle("is-active", active);
@@ -188,7 +188,7 @@ export class SpeciesTab {
     ev.stopPropagation();
 
     const btn = ev.currentTarget;
-    const col = btn.dataset.col;
+    const col = btn.dataset.sort;
     const defs = this._getColumnDefs();
     const def = defs[col];
     if (!def) return;
@@ -266,7 +266,6 @@ export class SpeciesTab {
       }
 
       this.render(this.app.element);
-      this._refreshFilterButtons(this.app.element);
     };
 
     const rect = btn.getBoundingClientRect();

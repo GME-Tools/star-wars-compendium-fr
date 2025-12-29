@@ -8,8 +8,7 @@ export class CareersTab {
       specs: [],
       normCareers: [],
       normSpecs: [],
-      specById: new Map(),
-      careerById: new Map()
+      specById: new Map()
     }
 
     this.state = {
@@ -147,7 +146,6 @@ export class CareersTab {
       await this._ensureSelectsPopulated(html);
 
       this._applyStateToDom(html);
-      this._renderTalentMinRules(html);
       this._renderTalentRules(html);
 
       const activeCount = this._countActiveFilters();
@@ -318,7 +316,6 @@ export class CareersTab {
     s.talentsMode = html.find("#CBQBTalentsMode").val() || "ANY";
     s.skillsSelected = (html.find("#CBQBSkills").val() || []).filter(Boolean);  
     s.talentsSelected = (html.find("#CBQBTalents").val() || []).filter(Boolean);
-    s.viewMode = html.find("#CBQBViewMode").val() || "CAREER";
     s.viewMode = html.find('input[name="CBQBViewMode"]:checked').val() || "CAREER";
     s.skillsSearch = html.find("#CBQBSkillsSearch").val() ?? "";
     s.talentsSearch = html.find("#CBQBTalentsSearch").val() ?? "";
@@ -431,7 +428,7 @@ export class CareersTab {
 
     const minRules = query?.talents?.minByName;
     if (minRules && typeof minRules === "object") {
-      const entries = Object.entries(minRules).filter(([,n]) => Number(n) >= 2 || Number(n) >= 1);
+      const entries = Object.entries(minRules).filter(([,n]) => Number(n) >= 1);
       if (entries.length) {
         out = out.filter(s => entries.every(([name, min]) => (s.talentCountsByName.get(name) ?? 0) >= Number(min)));
       }
@@ -549,7 +546,7 @@ export class CareersTab {
       <table class="cb-table">
         <thead>
           <tr>
-            <div class="cb-th-sortbar">
+            <th class="cb-th-sortbar">
               <button type="button" class="cb-sortbtn" data-sort="name" title="Trier par Nom">
                 Carrière <span class="cb-sort">${arrow("name")}</span>
               </button>
@@ -557,7 +554,7 @@ export class CareersTab {
               <button type="button" class="cb-sortbtn" data-sort="source" title="Trier par Source">
                 Source <span class="cb-sort">${arrow("source")}</span>
               </button>
-            </div>
+            </th>
           </tr>
         </thead>
         <tbody>
@@ -573,7 +570,7 @@ export class CareersTab {
   }
 
   _universalTableHtml(universalSeeds) {
-    const rows = (universal ?? []).map(s => `
+    const rows = (universalSeeds ?? []).map(s => `
       <tr>
         <td>
           <div class="cb-row-card">
@@ -720,30 +717,6 @@ export class CareersTab {
       
       chip.append(x);
       target.append(chip);
-    }
-  }
-
-  _renderTalentMinRules(html) {
-    const box = html.find("#CBQBTalentMinRules");
-    if (!box.length) return;
-
-    box.empty();
-
-    const names = (this.state.talentsSelected ?? []).slice().sort((a,b)=>a.localeCompare(b));
-    if (!names.length) {
-      box.append(`<div class="cb-muted">(Sélectionne des talents pour définir un minimum)</div>`);
-      return;
-    }
-
-    for (const name of names) {
-      const val = Number(this.state.talentMin?.[name] ?? 1) || 1;
-      const row = $(`
-        <div class="cb-minrule-row" data-talent="${Handlebars.escapeExpression(name)}">
-          <div class="cb-minrule-name">${Handlebars.escapeExpression(name)}</div>
-          <input class="cb-minrule-input" type="number" min="1" step="1" value="${val}">
-        </div>
-      `);
-      box.append(row);
     }
   }
 

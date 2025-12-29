@@ -44,6 +44,7 @@
     border: 2px solid #aab3ae;
     padding: 3pt;
     font-size: 9pt;
+    text-align: center;
 }
 
 .compendium-list thead > tr {
@@ -55,10 +56,6 @@
 
 .compendium-list tbody > tr:nth-child(odd) {
   background-color: #c6dde5;
-}
-
-.compendium-list td {
-    text-align: center;
 }
 
 /* Thumbnail */
@@ -181,11 +178,6 @@
   background: #2c2f3a;
 }
 
-.cb-th-title {
-  margin-right: auto;
-  font-weight: 700;
-}
-
 .cb-sortbtn {
   display: inline-flex;
   align-items: center;
@@ -259,10 +251,6 @@
 }
 
 .cb-row-center { justify-content: center; }
-
-.cb-row.is-expanded {
-  padding-bottom: 240px;
-}
 
 .cb-row-card {
   display: flex;
@@ -467,29 +455,10 @@
   background: rgba(0,0,0,.25);
   border-bottom: 1px solid var(--color-border-light-primary);
 }
-.cb-results-title { font-weight: 700; }
 
 .cb-results-meta{
   opacity: .8;
   font-size: 12px;
-}
-
-.cb-results .cb-career-block{
-  margin: 8px 0;
-  padding: 6px 8px;
-  border: 1px solid var(--color-border-light-primary);
-  border-radius: 8px;
-  background: rgba(0,0,0,.12);
-}
-
-.cb-results .cb-career-title{
-  font-weight: 600;
-  margin-bottom: 4px;
-}
-
-.cb-results ul{
-  margin: 0;
-  padding-left: 18px;
 }
 
 .cb-table {
@@ -537,21 +506,6 @@
   text-underline-offset: 2px;
 }
 .cb-uuid-link:hover { text-decoration-color: rgba(255,255,255,.6); }
-
-.cb-collapse-btn {
-  width: 22px;
-  height: 22px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 6px;
-  border: 1px solid var(--color-border-light-primary);
-  background: var(--color-bg);
-  cursor: pointer;
-  margin-right: 6px;
-}
-.cb-subrow { background: rgba(0,0,0,.12); }
-.cb-subrow.is-hidden { display: none; }
 
 .cb-source { opacity: .85; font-size: 12px; }
 .cb-muted { opacity: .7; font-size: 12px; }
