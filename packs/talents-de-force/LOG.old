@@ -1,7 +1,3 @@
-2025/12/31-07:19:31.635 5920 Recovering log #398
-2025/12/31-07:19:31.637 5920 Delete type=0 #398
-2025/12/31-07:19:31.637 5920 Delete type=3 #396
-2025/12/31-14:32:43.387 2154 Level-0 table #403: started
-2025/12/31-14:32:43.387 2154 Level-0 table #403: 0 bytes OK
-2025/12/31-14:32:43.387 2154 Delete type=0 #401
-2025/12/31-14:32:43.389 2154 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/12/31-17:12:00.535 8790 Recovering log #414
+2025/12/31-17:12:00.539 8790 Delete type=0 #414
+2025/12/31-17:12:00.539 8790 Delete type=3 #412

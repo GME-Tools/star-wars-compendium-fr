@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.20",
+  "version": "0.0.22",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -132,9 +132,9 @@
       "flags": {}
     },
     {
-      "name": "ameliorations_armes",
-      "label": "Améliorations d'Objets",
-      "path": "packs/ameliorations_armes",
+      "name": "ameliorations",
+      "label": "Améliorations",
+      "path": "packs/ameliorations",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",

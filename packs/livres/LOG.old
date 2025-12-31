@@ -1,25 +1,3 @@
-2025/12/31-07:19:31.500 5998 Recovering log #639
-2025/12/31-07:19:31.502 5998 Delete type=0 #639
-2025/12/31-07:19:31.502 5998 Delete type=3 #624
-2025/12/31-14:26:52.070 2154 Level-0 table #646: started
-2025/12/31-14:26:52.096 2154 Level-0 table #646: 2152784 bytes OK
-2025/12/31-14:26:52.098 2154 Delete type=0 #644
-2025/12/31-14:32:43.479 2154 Level-0 table #648: started
-2025/12/31-14:32:43.500 2154 Level-0 table #648: 138641 bytes OK
-2025/12/31-14:32:43.501 2154 Delete type=0 #645
-2025/12/31-14:32:43.501 2154 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!cDQ6hKWkTPTyowae.j7TaId2tHztmjUBy' @ 18456 : 1
-2025/12/31-14:32:43.501 2154 Compacting 1@0 + 1@1 files
-2025/12/31-14:32:43.528 2154 Generated table #649@0: 11 keys, 371192 bytes
-2025/12/31-14:32:43.528 2154 Compacted 1@0 + 1@1 files => 371192 bytes
-2025/12/31-14:32:43.528 2154 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/12/31-14:32:43.528 2154 Delete type=2 #646
-2025/12/31-14:32:43.529 2154 Delete type=2 #648
-2025/12/31-14:32:43.529 2154 Manual compaction at level-0 from '!journal.pages!cDQ6hKWkTPTyowae.j7TaId2tHztmjUBy' @ 18456 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
-2025/12/31-14:32:43.529 2154 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 18445 : 1
-2025/12/31-14:32:43.529 2154 Compacting 1@1 + 1@2 files
-2025/12/31-14:32:43.535 2154 Generated table #650@1: 69 keys, 449348 bytes
-2025/12/31-14:32:43.535 2154 Compacted 1@1 + 1@2 files => 449348 bytes
-2025/12/31-14:32:43.535 2154 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/12/31-14:32:43.535 2154 Delete type=2 #642
-2025/12/31-14:32:43.536 2154 Delete type=2 #649
-2025/12/31-14:32:43.536 2154 Manual compaction at level-1 from '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 18445 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2025/12/31-17:12:00.494 94e0 Recovering log #671
+2025/12/31-17:12:00.497 94e0 Delete type=0 #671
+2025/12/31-17:12:00.497 94e0 Delete type=3 #669
