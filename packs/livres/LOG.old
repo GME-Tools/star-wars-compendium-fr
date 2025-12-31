@@ -1,8 +1,50 @@
-2025/12/29-11:40:03.416 5ba4 Recovering log #605
-2025/12/29-11:40:03.419 5ba4 Delete type=0 #605
-2025/12/29-11:40:03.419 5ba4 Delete type=3 #603
-2025/12/29-15:49:08.985 68a0 Level-0 table #610: started
-2025/12/29-15:49:08.985 68a0 Level-0 table #610: 0 bytes OK
-2025/12/29-15:49:08.986 68a0 Delete type=0 #608
-2025/12/29-15:49:08.987 68a0 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
-2025/12/29-15:49:08.987 68a0 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2025/12/30-08:05:59.675 6cbc Recovering log #622
+2025/12/30-08:05:59.678 6cbc Delete type=0 #622
+2025/12/30-08:05:59.678 6cbc Delete type=3 #620
+2025/12/30-08:40:35.036 9494 Level-0 table #627: started
+2025/12/30-08:40:35.053 9494 Level-0 table #627: 2255481 bytes OK
+2025/12/30-08:40:35.054 9494 Delete type=0 #625
+2025/12/30-12:16:06.037 9494 Level-0 table #629: started
+2025/12/30-12:16:06.061 9494 Level-0 table #629: 2324578 bytes OK
+2025/12/30-12:16:06.062 9494 Delete type=0 #626
+2025/12/30-12:33:00.416 9494 Level-0 table #631: started
+2025/12/30-12:33:00.438 9494 Level-0 table #631: 2456752 bytes OK
+2025/12/30-12:33:00.439 9494 Delete type=0 #628
+2025/12/30-15:17:07.455 9494 Level-0 table #633: started
+2025/12/30-15:17:07.477 9494 Level-0 table #633: 2429020 bytes OK
+2025/12/30-15:17:07.478 9494 Delete type=0 #630
+2025/12/30-15:37:07.602 9494 Level-0 table #635: started
+2025/12/30-15:37:07.625 9494 Level-0 table #635: 2262137 bytes OK
+2025/12/30-15:37:07.626 9494 Delete type=0 #632
+2025/12/30-15:37:07.626 9494 Compacting 4@0 + 1@1 files
+2025/12/30-15:37:07.682 9494 Generated table #636@0: 11 keys, 377789 bytes
+2025/12/30-15:37:07.682 9494 Compacted 4@0 + 1@1 files => 377789 bytes
+2025/12/30-15:37:07.683 9494 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/30-15:37:07.683 9494 Delete type=2 #627
+2025/12/30-15:37:07.683 9494 Delete type=2 #629
+2025/12/30-15:37:07.684 9494 Delete type=2 #631
+2025/12/30-15:37:07.684 9494 Delete type=2 #633
+2025/12/30-15:37:07.685 9494 Delete type=2 #635
+2025/12/30-15:59:07.716 9494 Level-0 table #638: started
+2025/12/30-15:59:07.735 9494 Level-0 table #638: 2391421 bytes OK
+2025/12/30-15:59:07.736 9494 Delete type=0 #634
+2025/12/30-16:03:35.671 9494 Level-0 table #640: started
+2025/12/30-16:03:35.730 9494 Level-0 table #640: 905103 bytes OK
+2025/12/30-16:03:35.730 9494 Delete type=0 #637
+2025/12/30-16:03:35.731 9494 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 18297 : 1
+2025/12/30-16:03:35.731 9494 Compacting 2@0 + 1@1 files
+2025/12/30-16:03:35.761 9494 Generated table #641@0: 11 keys, 377376 bytes
+2025/12/30-16:03:35.761 9494 Compacted 2@0 + 1@1 files => 377376 bytes
+2025/12/30-16:03:35.762 9494 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/30-16:03:35.762 9494 Delete type=2 #636
+2025/12/30-16:03:35.762 9494 Delete type=2 #638
+2025/12/30-16:03:35.763 9494 Delete type=2 #640
+2025/12/30-16:03:35.763 9494 Manual compaction at level-0 from '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 18297 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2025/12/30-16:03:35.763 9494 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 18378 : 1
+2025/12/30-16:03:35.763 9494 Compacting 1@1 + 1@2 files
+2025/12/30-16:03:35.770 9494 Generated table #642@1: 69 keys, 455532 bytes
+2025/12/30-16:03:35.770 9494 Compacted 1@1 + 1@2 files => 455532 bytes
+2025/12/30-16:03:35.770 9494 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/30-16:03:35.770 9494 Delete type=2 #615
+2025/12/30-16:03:35.770 9494 Delete type=2 #641
+2025/12/30-16:03:35.770 9494 Manual compaction at level-1 from '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 18378 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
