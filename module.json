@@ -133,7 +133,7 @@
     },
     {
       "name": "ameliorations_armes",
-      "label": "Améliorations d'Armes",
+      "label": "Améliorations d'Objets",
       "path": "packs/ameliorations_armes",
       "type": "Item",
       "ownership": {
