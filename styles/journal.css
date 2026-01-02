@@ -258,6 +258,10 @@ table.journal-number-table tr:first-child p {
   color: #25a1ab;
 }
 
+.journal-side-block li::marker {
+  color: #918E82;
+}
+
 /* Dice fix */
 .boost {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
@@ -350,6 +354,12 @@ table.journal-number-table tr:first-child p {
   overflow: hidden;
 }*/
 
+.journal-side-block .dietype.starwars.forcepoint {
+  color: white;
+  /*text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;*/
+}
+
 .dietype.starwars.light {
   color: #fff;
   text-transform: lowercase !important;
@@ -359,6 +369,11 @@ table.journal-number-table tr:first-child p {
 
 .dietype.starwars.dark {
   font-size: 1.2em;
+}
+
+.journal-side-block .dietype.starwars.dark {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
+               0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
 }
 
 .journal-side-block .success {

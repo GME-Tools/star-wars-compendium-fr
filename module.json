@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.22",
+  "version": "0.0.24",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -99,18 +99,6 @@
       "name": "pouvoirs-de-force",
       "label": "Pouvoirs de Force",
       "path": "packs/pouvoirs-de-force",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "starwarsffg",
-      "flags": {}
-    },
-    {
-      "name": "talents-de-force",
-      "label": "Talents de Force",
-      "path": "packs/talents-de-force",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
