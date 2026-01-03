@@ -54,11 +54,13 @@
 }
 
 .journal-page-content h5 {
-  font-size: 14pt;
-  font-family: 'TeutonFett';
+  color: #25a1ab;
+  font-size: 10pt;
+  font-family: 'ElektraMediumProBold';
   text-transform: uppercase;
   font-weight: 300;
   margin: 0;
+  text-align: end;
 }
 
 .journal-page-content h6 {
@@ -119,6 +121,11 @@
 .journal-side-block h5 {
   text-align: end;
   color: #918E82;
+  font-size: 14pt;
+  font-family: 'TeutonFett';
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0;
 }
 
 .journal-side-block h6 {

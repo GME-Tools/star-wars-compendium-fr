@@ -1,8 +1,15 @@
-2026/01/02-18:52:10.069 71f8 Recovering log #732
-2026/01/02-18:52:10.072 71f8 Delete type=0 #732
-2026/01/02-18:52:10.072 71f8 Delete type=3 #717
-2026/01/02-18:52:33.101 8a10 Level-0 table #739: started
-2026/01/02-18:52:33.101 8a10 Level-0 table #739: 0 bytes OK
-2026/01/02-18:52:33.102 8a10 Delete type=0 #737
-2026/01/02-18:52:33.103 8a10 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
-2026/01/02-18:52:33.103 8a10 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2026/01/03-15:33:30.180 2594 Recovering log #808
+2026/01/03-15:33:30.182 2594 Delete type=0 #808
+2026/01/03-15:33:30.183 2594 Delete type=3 #806
+2026/01/03-15:42:41.014 9fe4 Level-0 table #814: started
+2026/01/03-15:42:41.025 9fe4 Level-0 table #814: 1263013 bytes OK
+2026/01/03-15:42:41.026 9fe4 Delete type=0 #812
+2026/01/03-15:42:41.028 9fe4 Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2026/01/03-15:42:41.028 9fe4 Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 22693 : 1
+2026/01/03-15:42:41.028 9fe4 Compacting 1@1 + 1@2 files
+2026/01/03-15:42:41.036 9fe4 Generated table #815@1: 78 keys, 621110 bytes
+2026/01/03-15:42:41.036 9fe4 Compacted 1@1 + 1@2 files => 621110 bytes
+2026/01/03-15:42:41.037 9fe4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/03-15:42:41.037 9fe4 Delete type=2 #810
+2026/01/03-15:42:41.037 9fe4 Delete type=2 #814
+2026/01/03-15:42:41.037 9fe4 Manual compaction at level-1 from '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 22693 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
