@@ -1,15 +1,8 @@
-2026/01/04-21:19:48.267 3b5c Recovering log #869
-2026/01/04-21:19:48.268 3b5c Delete type=0 #869
-2026/01/04-21:19:48.268 3b5c Delete type=3 #867
-2026/01/04-21:24:48.933 340c Level-0 table #875: started
-2026/01/04-21:24:48.935 340c Level-0 table #875: 112466 bytes OK
-2026/01/04-21:24:48.936 340c Delete type=0 #873
-2026/01/04-21:24:48.938 340c Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
-2026/01/04-21:24:48.938 340c Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at '!journal.pages!5Md8ccRJ62e7QEnz.uPbdPLLbHHOsWylI' @ 23549 : 1
-2026/01/04-21:24:48.938 340c Compacting 1@1 + 1@2 files
-2026/01/04-21:24:48.945 340c Generated table #876@1: 87 keys, 735619 bytes
-2026/01/04-21:24:48.945 340c Compacted 1@1 + 1@2 files => 735619 bytes
-2026/01/04-21:24:48.945 340c compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/04-21:24:48.945 340c Delete type=2 #871
-2026/01/04-21:24:48.945 340c Delete type=2 #875
-2026/01/04-21:24:48.947 340c Manual compaction at level-1 from '!journal.pages!5Md8ccRJ62e7QEnz.uPbdPLLbHHOsWylI' @ 23549 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2026/01/04-23:18:21.290 415c Recovering log #895
+2026/01/04-23:18:21.292 415c Delete type=0 #895
+2026/01/04-23:18:21.292 415c Delete type=3 #893
+2026/01/04-23:23:59.936 340c Level-0 table #900: started
+2026/01/04-23:23:59.936 340c Level-0 table #900: 0 bytes OK
+2026/01/04-23:23:59.936 340c Delete type=0 #898
+2026/01/04-23:23:59.939 340c Manual compaction at level-0 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
+2026/01/04-23:23:59.939 340c Manual compaction at level-1 from '!folders!00i4ND35eqgvPQ1e' @ 72057594037927935 : 1 .. '!journal.pages!cDQ6hKWkTPTyowae.xOGlA0R9u75QEDaB' @ 0 : 0; will stop at (end)
