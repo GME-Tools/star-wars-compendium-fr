@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.25",
+  "version": "0.0.27",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -10,6 +10,7 @@
     "verified": "12"
   },
   "esmodules": [
+    "scripts/journal.js",
     "scripts/thumbnail.js",
     "scripts/compendium-browser.js",
     "scripts/compendium-browser/app.js",
@@ -28,6 +29,30 @@
       "label": "Livres",
       "path": "packs/livres",
       "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "aventures",
+      "label": "Aventures",
+      "path": "packs/aventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"

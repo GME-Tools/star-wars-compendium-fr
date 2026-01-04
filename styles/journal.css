@@ -460,3 +460,74 @@ h4 .triumph {
 h4 .despair {
   color: #766a08 !important;
 }
+
+/* Planets */
+.planet-page .journal-entry-content {
+  color: #fff !important;
+  background: url(images/stars.png) !important; 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.planet-page .journal-entry-content input {
+  color: #fff;
+}
+
+.planet-page .journal-entry-content p {
+  color: #e2e2e2;
+}
+
+.planet-page .journal-entry-content .journal-side-block h5 {
+  color: #e2e2e2;
+}
+
+.planet-page .journal-entry-content .journal-side-block p {
+  color: #e2e2e2;
+}
+
+.planet-page .journal-entry-content h1 {
+  text-shadow: none;
+}
+
+.planet-page .journal-entry-content h4 {
+  color: #e2e2e2;
+}
+
+.planet-page .journal-entry-content li::marker {
+  color: #e2e2e2;
+}
+
+.planet-page .journal-entry-content .planet-intro-grid {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 1.25em;
+  align-items: start;
+  margin-bottom: 1.5em;
+}
+
+.planet-page .journal-entry-content .planet-image {
+  width: 100%;
+  border-radius: 6px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+}
+
+.planet-page .journal-sidebar ol.headings,
+.planet-page .journal-sidebar .headings,
+.planet-page nav.pages-list ol.headings,
+.planet-page nav.pages-list .headings,
+.planet-page .pages-list ol.headings,
+.planet-page .pages-list .headings {
+  display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.planet-page .journal-sidebar .page-number {
+  display: none;
+}
+
+.planet-page .journal-sidebar .page-heading {
+  padding-left: 0.75em;
+}
