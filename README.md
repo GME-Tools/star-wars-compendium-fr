@@ -93,10 +93,10 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Livres de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
+| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Planètes |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | SWF01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |
 | SWF03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
