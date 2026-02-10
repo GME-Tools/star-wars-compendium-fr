@@ -22,7 +22,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | SWE01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWE02 | Livre de Règles | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWE02 | Livre de Règles | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWE03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
@@ -102,7 +102,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWF24 | Les Garants de la Paix |  |  |  |  |  |  |  |  |  |  |  | |
+| SWF24 | Les Garants de la Paix | 🟨 |  |  |  |  |  |  |  |  |  |  | |
 | SWF30 | Endless Vigil |  |  |  |  |  |  |  |  |  |  |  | |
 | SWF35 | Disciples of Harmony |  |  |  |  |  |  |  |  |  |  |  | |
 | SWF41 | Savage Spirits |  |  |  |  |  |  |  |  |  |  |  | |

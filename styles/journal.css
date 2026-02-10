@@ -6,6 +6,14 @@
   background-position: center;
 }
 
+.sheet.journal-entry-page .window-content {
+	background: url(images/back.png); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #000;
+}
+
 /* Headers */
 .journal-page-header h1 {
   font-size: 32pt;
@@ -270,35 +278,35 @@ table.journal-number-table tr:first-child p {
 }
 
 /* Dice fix */
-.boost {
+.dietype.boost {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
                0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
   text-transform: none !important;
 }
 
-.journal-side-block .boost {
+.journal-side-block .dietype.boost {
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
                0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
 }
 
-.setback {
+.dietype.setback {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
                0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
   text-transform: none !important;
 }
 
-.journal-side-block .setback {
+.journal-side-block .dietype.setback {
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
                0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
 }
 
-.ability {
+.dietype.ability {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
                0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
   text-transform: none !important;
 }
 
-.journal-side-block .ability {
+.journal-side-block .dietype.ability {
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
                0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
 }
@@ -325,18 +333,18 @@ table.journal-number-table tr:first-child p {
                0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
 }
 
-.challenge {
+.dietype.challenge {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,
                0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;
   text-transform: none !important;
 }
 
-.journal-side-block .challenge {
+.journal-side-block .dietype.challenge {
   text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
                0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;
 }
 
-.force {
+.dietype.force {
   text-transform: lowercase !important;
   color: #fff !important;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000,

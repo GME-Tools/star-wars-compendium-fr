@@ -204,7 +204,7 @@
       "name": "pnj",
       "label": "PNJ",
       "path": "packs/pnj",
-      "type": "Item",
+      "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -216,6 +216,42 @@
       "name": "critiques",
       "label": "Blessures Critiques",
       "path": "packs/critiques",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "historiques",
+      "label": "Historiques",
+      "path": "packs/historiques",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+     {
+      "name": "motivations",
+      "label": "Motivations",
+      "path": "packs/motivations",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+     {
+      "name": "obligations",
+      "label": "Obligationss",
+      "path": "packs/obligationss",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
