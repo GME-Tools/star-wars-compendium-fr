@@ -19,11 +19,11 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Livres de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWE01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWE02 | Livre de Règles | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWE03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
+| Réf. | Livre | Texte intégral | Historiques | Obligations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres | Campagnes |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| SWE01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  |  |  | |
+| SWE02 | Livre de Règles | 🟨 | ✅ | ✅ | 🟨 | 🟨 | 🟨 | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWE03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
@@ -57,11 +57,11 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Livres de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWA01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA02 | Livre de Règles | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWA03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
+| Réf. | Livre | Texte intégral | Historiques | Devoirs | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres | Campagnes |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| SWA01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  |  |   |   |
+| SWA02 | Livre de Règles | 🟨 | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |  |  |
 
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
@@ -93,11 +93,11 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Livres de base
 
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Planètes |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| Réf. | Livre | Texte intégral | Historiques | Moralités | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres | Campagnes |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
 | SWF01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ✅ |
-| SWF03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |
+| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🟨 | ⬜ | ⬜ |
+| SWF03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |   |   |
 
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
