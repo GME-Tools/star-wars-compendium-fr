@@ -20,14 +20,14 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 ## 📘 Livres de base
 
 | Réf. | Livre | Texte intégral | Historiques | Obligations | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWE01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
 | SWE02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | 🟨 | 🟨 | 🟨 | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWE03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Historiques | Obligations | Motivations | Espèces | Spécialités | Talents | Équipement | Véhicules | Rencontres | Capacités Emblématiques | Bases opérationnelles |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWE06 | Au Coeur de l'Inconnu      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWE08 | Périlleuses Alliances      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWE10 | Horizons Lointains         | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -37,13 +37,13 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 🗺️ Autres suppléments
 | Réf. | Livre | Texte intégral | Espèces | Équipement | Véhicules | PNJ | Planètes | Rencontres |
-|---|---|---:|---:|---:|---:|---:|---:|---|
+|---|---|---:|---:|---:|---:|---:|---:|---:|
 | SWE07 | Etoiles de la Providence | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWE11 | Les Barons de Nal Hutta  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🧭 Aventures & Campagnes
 | Réf. | Livre | Texte intégral | Espèces | Planètes | Équipement | Véhicules | PNJ | Rencontres |
-|---|---|---:|---:|---:|---:|---:|---:|---|
+|---|---|---:|---:|---:|---:|---:|---:|---:|
 | BTA004 | Crates of Krayt (Beta)      | ⬜ | 🚫 | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ |
 | -- | Le Hutt a le Bras Long          | ⬜ | 🚫 | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWE05 | Par-delà la Bordure          | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
