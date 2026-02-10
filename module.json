@@ -250,7 +250,7 @@
     },
      {
       "name": "obligations",
-      "label": "Obligationss",
+      "label": "Obligations/Devoirs/Moralités",
       "path": "packs/obligationss",
       "type": "Item",
       "ownership": {

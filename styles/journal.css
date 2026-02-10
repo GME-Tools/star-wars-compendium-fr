@@ -90,7 +90,8 @@
 }
 
 .journal-page-content h1 + p > .first-letter, h1 + * + p > .first-letter {
-  color: #76030d;
+  /*color: #76030d;*/
+  color: #766a08;
 }
 
 /* Paragraphs */
@@ -370,8 +371,9 @@ table.journal-number-table tr:first-child p {
   overflow: hidden;
 }*/
 
+.journal-side-block span.dietype.forcepoint,
 .journal-side-block .dietype.starwars.forcepoint {
-  color: white;
+  color: white !important;
   /*text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff,
                0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;*/
 }
