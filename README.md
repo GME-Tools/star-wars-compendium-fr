@@ -57,35 +57,35 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Livres de base
 
-| Réf. | Livre | Texte intégral | Historiques | Devoirs | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres | Campagnes |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWA01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  |  |   |   |
-| SWA02 | Livre de Règles | 🟨 | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWA03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |  |  |
+| Réf. | Livre | Texte intégral | Historiques | Devoirs | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| SWA01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
+| SWA02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWA25 | Cible Verrouillée |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA31 | Alliés de Circonstance |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA36 | Officiers de Terrain |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA42 | Forgé par la Guerre |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA47 | Fully Operational |  |  |  |  |  |  |  |  |  |  |  | |
-| SWA53 | Cyphers and Masks |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Historiques | Devoirs | Motivations | Espèces | Spécialités | Talents | Équipement | Véhicules | Rencontres | Capacités Emblématiques |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| SWA25 | Cible Verrouillée      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA31 | Alliés de Circonstance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA36 | Officiers de Terrain   | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA42 | Forgé par la Guerre    | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA47 | Fully Operational      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA53 | Cyphers and Masks      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Autres suppléments
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWA30 | Bastions de la Résistance |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Espèces | Équipement | Véhicules | PNJ | Planètes | Rencontres |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| SWA30 | Bastions de la Résistance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🧭 Aventures & Campagnes
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| BTA006 | Operation : Shell Game (Beta) |  |  |  |  |  |  |  |  |  |  |  | |
-| SWAP01 | Operation Zone d'Ombre |  |  |  |  |  |  |  |  | |  |  |  |
-| SWA04 | Assaut sur Arda I |  |  |  |  |  |  |  |  | |  |  |  |
-| SWA41 | Entente Forcée |  |  |  |  |  |  |  |  | |  |  |  |
-| OP007 | Rescue at Glare Peak |  |  |  |  |  |  |  |  | |  |  |  |
+| Réf. | Livre | Texte intégral | Espèces | Planètes | Équipement | Véhicules | PNJ | Rencontres |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| BTA006 | Operation : Shell Game (Beta) | ⬜ | 🚫 | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWAP01 | Operation Zone d'Ombre        | ⬜ | 🚫 | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA04 | Assaut sur Arda I              | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA41 | Entente Forcée                 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| OP007 | Rescue at Glare Peak           | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ---
 
@@ -93,57 +93,57 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Livres de base
 
-| Réf. | Livre | Texte intégral | Historiques | Moralités | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres | Campagnes |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWF01 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF02 | Livre de Règles | 🟨 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🟨 | ⬜ | ⬜ |
-| SWF03 | Kit du Maître de Jeu |  |  |  |  |  |  |  |  | |  |  |  |   |   |
+| Réf. | Livre | Texte intégral | Historiques | Moralités | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| SWF01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
+| SWF02 | Livre de Règles      | 🟨 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🟨 | ⬜ |
+| SWF03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWF24 | Les Garants de la Paix | 🟨 |  |  |  |  |  |  |  |  |  |  | |
-| SWF30 | Endless Vigil |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF35 | Disciples of Harmony |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF41 | Savage Spirits |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF46 | Knights of Fate |  |  |  |  |  |  |  |  |  |  |  | |
-| SWF52 | Unlimited Power |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Historiques | Moralités | Motivations | Espèces | Spécialités | Talents | Équipement | Véhicules | Rencontres | Capacités Emblématiques | Force |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| SWF24 | Les Garants de la Paix | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF30 | Endless Vigil          | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF35 | Disciples of Harmony   | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF41 | Savage Spirits         | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF46 | Knights of Fate        | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF52 | Unlimited Power        | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Autres suppléments
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWF29 | Les Domaines de la Force |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Espèces | Motivations | Équipement | PNJ | Rencontres |
+|---|---|---:|---:|---:|---:|---:|---:|
+| SWF29 | Les Domaines de la Force | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🧭 Aventures & Campagnes
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| BTA007 | Lost Knowledge (Beta) |  |  |  |  |  |  |  |  |  |  |  | |
-| SWFP01 | La Ruse de l'Oublié |  |  |  |  |  |  |  |  | |  |  |  |
-| SWF23 | Chroniques du Gardien |  |  |  |  |  |  |  |  | |  |  |  |
-| SWF40 | Ghosts of Dathomir |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Planètes | Équipement | Véhicules | PNJ | Rencontres | Force |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| BTA007 | Lost Knowledge (Beta) | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWFP01 | La Ruse de l'Oublié   | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWF23 | Chroniques du Gardien  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF40 | Ghosts of Dathomir     | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
 # Livres Transversaux
 
 ## 📘 Le Réveil de la Force
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWR09 | Kit d'Initiation |  |  |  |  |  |  |  |  |  |  |  | |
-| -- | L'appel des Héros |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Talents | Équipement | Véhicules | PNJ | Rencontres |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| SWR09 | Kit d'Initiation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| -- | L'appel des Héros   | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## ⌛ Suppléments de périodes
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWR10 | L'Aube de la Rébellion |  |  |  |  |  |  |  |  |  |  |  | |
-| SWR11 | L'Ascension des Séparatistes |  |  |  |  |  |  |  |  |  |  |  | |
-| SWR15 | Collapse of the Republic |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Planètes | Capacités Emblématiques |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| SWR10 | L'Aube de la Rébellion       | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWR11 | L'Ascension des Séparatistes | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWR15 | Collapse of the Republic     | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Compendiums
-| Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Campagnes | Capacités Emblématiques |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| SWR12 | Allies and Adversaries |  |  |  |  |  |  |  |  |  |  |  | |
-| SWR17 | Gadgets and Gear |  |  |  |  |  |  |  |  |  |  |  | |
-| SWR18 | Starships and Speeders |  |  |  |  |  |  |  |  |  |  |  | |
+| Réf. | Livre | Texte intégral | Espèces | Équipement | Véhicules | PNJ | Talents |
+|---|---|---:|---:|---:|---:|---:|
+| SWR12 | Allies and Adversaries | ⬜ | ⬜ | ⬜ | 🚫 | ⬜ | 🚫 |
+| SWR17 | Gadgets and Gear       | ⬜ | 🚫 | ⬜ | 🚫 | 🚫 | ⬜ |
+| SWR18 | Starships and Speeders | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | 🚫 |
 
 ---
