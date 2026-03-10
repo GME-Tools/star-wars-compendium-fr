@@ -22,7 +22,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | Réf. | Livre | Texte intégral | Historiques | Obligations | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWE01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
-| SWE02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | 🟨 | 🟨 | 🟨 | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWE02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ✅ | 🟨 | 🟨 | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWE03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
@@ -60,7 +60,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | Réf. | Livre | Texte intégral | Historiques | Devoirs | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWA01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
-| SWA02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWA03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
