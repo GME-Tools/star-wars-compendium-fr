@@ -1,0 +1,535 @@
+{
+  "name": "Chasseur de primes",
+  "type": "career",
+  "_id": "rA6CwqtlTCaFCKr0",
+  "img": "modules/star-wars-compendium-fr/assets/images/bounty_hunter.webp",
+  "system": {
+    "description": "<div class=\"journal-page-content\">\n<p data-start=\"417\" data-end=\"814\"><span class=\"first-letter\">L</span>es huit comp&eacute;tences de carri&egrave;re du Chasseur de primes sont <strong>Athl&eacute;tisme</strong>, <strong>Distance (armes lourdes)</strong>, <strong>Perception</strong>, <strong>Pilotage (espace)</strong>, <strong>Pilotage (plan&eacute;taire)</strong>, <strong>Pugilat</strong>, <strong>Syst&egrave;me D</strong> et <strong>Vigilance</strong>. Il gagne automatiquement 1 rang dans quatre de ces comp&eacute;tences (de son choix) sans d&eacute;penser d&rsquo;exp&eacute;rience, et il b&eacute;n&eacute;ficie d&rsquo;une remise quand il d&eacute;pense de l&rsquo;exp&eacute;rience pour acheter des rangs dans ces comp&eacute;tences.</p>\n<h2 data-start=\"417\" data-end=\"814\">R&ocirc;le du Chasseur de primes</h2>\n<p data-start=\"852\" data-end=\"1342\">Comme son nom l&rsquo;indique, ce type d&rsquo;individu cherche &agrave; ramasser des primes en &eacute;change de son travail. Les Chasseurs de primes sont g&eacute;n&eacute;ralement craints, d&eacute;test&eacute;s et m&eacute;pris&eacute;s, et pourtant demand&eacute;s partout dans la galaxie. Ce sont des pisteurs redoutables, des combattants brutaux et d&rsquo;excellents enqu&ecirc;teurs. Ils pr&eacute;f&egrave;rent g&eacute;n&eacute;ralement les magouilles, la discr&eacute;tion et les pi&egrave;ges aux assauts frontaux, mais les plus respect&eacute;s font le n&eacute;cessaire pour capturer leurs proies et r&eacute;cup&eacute;rer leur d&ucirc;.</p>\n<p data-start=\"1344\" data-end=\"1973\">Les Chasseurs de primes entrent habituellement dans trois grandes cat&eacute;gories : les chasseurs de primes imp&eacute;riaux, les chasseurs de primes de guilde et les ind&eacute;pendants. Les premiers sont g&eacute;n&eacute;ralement sous contrat permanent avec le BSI (ou quelque autre institution repr&eacute;sentant le droit imp&eacute;rial) et n&rsquo;acceptent jamais de missions des corporations, gouvernements locaux ou des particuliers. Il s&rsquo;agit de membres de confiance de la vaste communaut&eacute; de l&rsquo;Empire charg&eacute;e de faire appliquer la loi, g&eacute;n&eacute;ralement d&rsquo;anciens personnels militaires qui pr&eacute;f&egrave;rent travailler dans un cadre moins strict (mais pas forc&eacute;ment moins dangereux).</p>\n<p data-start=\"1975\" data-end=\"2460\">Les chasseurs de primes li&eacute;s &agrave; une guilde b&eacute;n&eacute;ficient de nombreux avantages de taille : le g&icirc;te et le couvert partout o&ugrave; la guilde est pr&eacute;sente, un entra&icirc;nement exceptionnel et un acc&egrave;s &agrave; du mat&eacute;riel de qualit&eacute; adapt&eacute; &agrave; leur travail, ainsi qu&rsquo;un flot incessant de missions que leur confient les agents de la guilde. Le mauvais c&ocirc;t&eacute; des choses, c&rsquo;est qu&rsquo;ils n&rsquo;ont pas leur mot &agrave; dire sur les t&acirc;ches qu&rsquo;on leur remet, et qu&rsquo;un refus se traduit par l&rsquo;annulation imm&eacute;diate de leur contrat.</p>\n<p data-start=\"2462\" data-end=\"2954\">Ce sont les ind&eacute;pendants qui jouissent de la plus grande libert&eacute;, mais qui doivent aussi affronter les plus grands dangers et relever les d&eacute;fis les plus cons&eacute;quents. Bien qu&rsquo;ils acceptent souvent les contrats imp&eacute;riaux, qui sont g&eacute;n&eacute;ralement plus nombreux et lucratifs &agrave; la fois, ils aiment savoir qu&rsquo;ils ne font pas partie de l&rsquo;Empire. Ne pas &ecirc;tre li&eacute; &agrave; une guilde sert aussi leurs sensibilit&eacute;s : ils peuvent choisir leurs contrats et ne peuvent en vouloir qu&rsquo;&agrave; eux-m&ecirc;mes quand ils &eacute;chouent.</p>\n<p data-start=\"2956\" data-end=\"3606\">Les PJ seront presque assur&eacute;ment des chasseurs de guilde ou des ind&eacute;pendants. Mais quel que soit son type, le personnage aura besoin d&rsquo;un certificat de maintien de la paix imp&eacute;rial (CMPI). Il s&rsquo;agit de la licence que tous les chasseurs de primes sont cens&eacute;s demander &agrave; l&rsquo;Empire pour exercer leur profession. Sans ce document, le chasseur de primes n&rsquo;est rien de plus qu&rsquo;un kidnappeur, voire un assassin. Tout personnage qui choisit cette carri&egrave;re a automatiquement un CMPI, sauf si le joueur s&rsquo;y oppose. Ce genre de d&eacute;cision pourrait &eacute;videmment para&icirc;tre curieux, mais cela peut ajouter un &eacute;l&eacute;ment tr&egrave;s int&eacute;ressant &agrave; l&rsquo;histoire du personnage concern&eacute;.</p>\n<h2 data-start=\"7908\" data-end=\"7943\">Histoires de Chasseurs de primes</h2>\n<p data-start=\"7945\" data-end=\"8189\">La carri&egrave;re de chasseur de primes n&rsquo;attire pas les individus ordinaires et raisonnables. Chacun a ses raisons pour se tourner vers une telle carri&egrave;re, des raisons qui peuvent &eacute;norm&eacute;ment enrichir l&rsquo;histoire de l&rsquo;int&eacute;ress&eacute;. Voici quelques id&eacute;es :</p>\n<ul>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"8193\" data-end=\"8206\">Vengeance</strong> : de nombreux chasseurs de primes se lancent dans ce genre de m&eacute;tier pour se venger de quelqu&rsquo;un (ou d&rsquo;une organisation) qui a &eacute;chapp&eacute; &agrave; la justice. Leurs motivations initiales sont tr&egrave;s personnelles, et g&eacute;n&eacute;ralement dues &agrave; la perte d&rsquo;un objet ou d&rsquo;un &ecirc;tre cher. Une fois justice rendue, les individus qui ont d&eacute;velopp&eacute; ces comp&eacute;tences et talents r&eacute;alisent qu&rsquo;ils ont trouv&eacute; leur voie.</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"8596\" data-end=\"8608\">Disgr&acirc;ce</strong> : un &eacute;chec d&eacute;sastreux ou une terrible trag&eacute;die a pouss&eacute; le personnage vers cette carri&egrave;re pour s&rsquo;&eacute;loigner de son ancienne vie. En traquant les criminels dans toute la galaxie, il se construit une vie totalement diff&eacute;rente et se taille une r&eacute;putation, tout cela dans l&rsquo;espoir de laisser son pass&eacute; derri&egrave;re lui. Mais peut-&ecirc;tre n&rsquo;aura-t-il pas cette chance.</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"8967\" data-end=\"8978\">Honneur</strong> : certains ont le sentiment que la justice qu&rsquo;ils servent est foul&eacute;e aux pieds par les gens pour lesquels ils travaillent. D&rsquo;autres sont t&eacute;moins de la corruption et de la tyrannie qui broient tout autour d&rsquo;eux, et estiment que cela suffit. Ce genre de chasseur de primes peut avoir fait partie des forces de l&rsquo;ordre, et avoir finalement compris qu&rsquo;il n&rsquo;en pouvait plus. Il est bien d&eacute;cid&eacute; &agrave; d&eacute;fendre la justice et la loi &agrave; sa fa&ccedil;on, peut-&ecirc;tre m&ecirc;me contre ceux qu&rsquo;il servait.</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"9457\" data-end=\"9470\">Agression</strong> : dans la galaxie, certains &eacute;prouvent tout simplement le besoin de molester leur prochain, ou de se livrer &agrave; des activit&eacute;s dangereuses. Marcher dans le rang et ob&eacute;ir aux ordres ne leur convient pas, mais tabasser leur proie avant de la livrer pour toucher leur prime, voil&agrave; qui les satisfait. Ce genre de chasseur a peut-&ecirc;tre quitt&eacute; l&rsquo;arm&eacute;e, &agrave; moins qu&rsquo;il ne se soit rabattu sur cette carri&egrave;re apr&egrave;s avoir fui les troupes de choc (ou pire).</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"9915\" data-end=\"9927\">H&eacute;ritage</strong> : peut-&ecirc;tre que son p&egrave;re, et le p&egrave;re de son p&egrave;re, ont &eacute;t&eacute; chasseurs de primes, et que le personnage a choisi de respecter la tradition familiale. Il pourrait &ecirc;tre issu d&rsquo;une culture qui v&eacute;n&egrave;re tous ceux qui traquent les d&eacute;linquants, &agrave; moins qu&rsquo;un ami cher n&rsquo;ait voulu lui transmettre ses comp&eacute;tences. Quoi qu&rsquo;il en soit, ce genre de chasseur de primes voit les traditions de cette profession avec le plus grand respect.</p>\n</li>\n</ul>\n<div class=\"journal-side-block\">\n<h5>Le Credo du Chasseur de primes</h5>\n<p data-start=\"10389\" data-end=\"10706\"><span class=\"first-letter\">B</span>ien que les chasseurs de primes soient souvent consid&eacute;r&eacute;s comme des racailles sans foi ni loi, cette assertion est rarement fond&eacute;e. La plupart suivent simplement un ensemble de r&egrave;gles tr&egrave;s diff&eacute;rentes de celles du civil moyen. C&rsquo;est ce qu&rsquo;on appelle le Credo des chasseurs de primes. En voici les principes r&eacute;sum&eacute;s :</p>\n<ul>\n<li data-start=\"10708\" data-end=\"10866\">\n<p><strong data-start=\"10710\" data-end=\"10775\">Les primes ne visent pas des gens, seulement des acquisitions</strong> : ceux dont la t&ecirc;te est mise &agrave; prix ne sont plus des personnes, mais des &laquo; acquisitions &raquo;.</p>\n</li>\n<li data-start=\"10868\" data-end=\"10987\">\n<p><strong data-start=\"10870\" data-end=\"10912\">Capturer &agrave; dessein, tuer par n&eacute;cessit&eacute;</strong> : un chasseur de primes doit au moins essayer de ramener sa cible vivante.</p>\n</li>\n<li data-start=\"10989\" data-end=\"11168\">\n<p><strong data-start=\"10991\" data-end=\"11028\">Les chasseurs ne s&rsquo;entretuent pas</strong> : cette r&egrave;gle, et la suivante, peuvent &ecirc;tre &laquo; interpr&eacute;t&eacute;es de fa&ccedil;on cr&eacute;ative &raquo;, et il est parfois difficile de prouver la cause de la mort.</p>\n</li>\n<li data-start=\"11170\" data-end=\"11319\">\n<p><strong data-start=\"11172\" data-end=\"11228\">Un chasseur ne se m&ecirc;lera pas des affaires d&rsquo;un autre</strong> : en r&egrave;gle g&eacute;n&eacute;rale, les chasseurs de primes ne se m&ecirc;lent pas des affaires de leurs pairs.</p>\n</li>\n<li data-start=\"11321\" data-end=\"11519\">\n<p><strong data-start=\"11323\" data-end=\"11377\">&Agrave; la chasse, on capture ou on tue, jamais les deux</strong> : une fois l&rsquo;acquisition captur&eacute;e vivante, le chasseur de primes a l&rsquo;obligation de la garder dans cet &eacute;tat jusqu&rsquo;&agrave; la r&eacute;cup&eacute;ration de son d&ucirc;.</p>\n</li>\n<li data-start=\"11521\" data-end=\"11692\">\n<p><strong data-start=\"11523\" data-end=\"11572\">Un chasseur ne refusera pas d&rsquo;aider ses pairs</strong> : les chasseurs de primes prennent soin les uns des autres, mais il n&rsquo;y a pas de mal &agrave; n&eacute;gocier un petit quelque chose.</p>\n</li>\n</ul>\n</div>\n</div>",
+    "attributes": {
+      "attr1768128991584": {
+        "modtype": "Skill Rank",
+        "mod": "Athletics",
+        "value": 0
+      },
+      "attr1768128991807": {
+        "modtype": "Skill Rank",
+        "mod": "Ranged: Heavy",
+        "value": 0
+      },
+      "attr1768128991999": {
+        "modtype": "Skill Rank",
+        "mod": "Perception",
+        "value": 0
+      },
+      "attr1768128992222": {
+        "modtype": "Skill Rank",
+        "mod": "Piloting: Space",
+        "value": 0
+      },
+      "attr1768128992446": {
+        "modtype": "Skill Rank",
+        "mod": "Piloting: Planetary",
+        "value": 0
+      },
+      "attr1768128992665": {
+        "modtype": "Skill Rank",
+        "mod": "Brawl",
+        "value": 0
+      },
+      "attr1768129001018": {
+        "modtype": "Skill Rank",
+        "mod": "Streetwise",
+        "value": 0
+      },
+      "attr1768129001208": {
+        "modtype": "Skill Rank",
+        "mod": "Vigilance",
+        "value": 0
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 56"
+      ]
+    },
+    "specializations": {
+      "GgqBima45xJ5lhzr": {
+        "name": "Assassin",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.GgqBima45xJ5lhzr",
+        "id": "GgqBima45xJ5lhzr"
+      },
+      "jMK5uK3RY7vwddwq": {
+        "name": "Expert en gadgets",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.jMK5uK3RY7vwddwq",
+        "id": "jMK5uK3RY7vwddwq"
+      },
+      "MVSvlIcuvw1mlBnT": {
+        "name": "Expert en survie",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.MVSvlIcuvw1mlBnT",
+        "id": "MVSvlIcuvw1mlBnT"
+      }
+    },
+    "signatureabilities": {},
+    "careerSkills": {
+      "careerSkill0": "Athletics",
+      "careerSkill1": "Ranged: Heavy",
+      "careerSkill2": "Perception",
+      "careerSkill3": "Piloting: Space",
+      "careerSkill4": "Piloting: Planetary",
+      "careerSkill5": "Brawl",
+      "careerSkill6": "Streetwise",
+      "careerSkill7": "Vigilance"
+    }
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Ranged: Heavy.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Perception.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Space.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Planetary.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Brawl.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Streetwise.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Vigilance.careerskill",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "dZJGy17GHZkp9Akt",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768128712203,
+        "modifiedTime": 1769188217166,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.dZJGy17GHZkp9Akt"
+    },
+    {
+      "name": "attr1768128991584",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "NPduq6pRWMzgnnpi",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217120,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.NPduq6pRWMzgnnpi"
+    },
+    {
+      "name": "attr1768128991807",
+      "changes": [
+        {
+          "key": "system.skills.Ranged: Heavy.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "XOAVDz1AoyP4Zxf7",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217124,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.XOAVDz1AoyP4Zxf7"
+    },
+    {
+      "name": "attr1768128991999",
+      "changes": [
+        {
+          "key": "system.skills.Perception.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "TNgdtuxq0XUN8Qgs",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217133,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.TNgdtuxq0XUN8Qgs"
+    },
+    {
+      "name": "attr1768128992222",
+      "changes": [
+        {
+          "key": "system.skills.Piloting: Space.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "oia9qwLRbv8fYjbz",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217142,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.oia9qwLRbv8fYjbz"
+    },
+    {
+      "name": "attr1768128992446",
+      "changes": [
+        {
+          "key": "system.skills.Piloting: Planetary.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "mpoFT2alFxBO3XQZ",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217147,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.mpoFT2alFxBO3XQZ"
+    },
+    {
+      "name": "attr1768128992665",
+      "changes": [
+        {
+          "key": "system.skills.Brawl.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "jIMV49sG5ufzbsWJ",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217151,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.jIMV49sG5ufzbsWJ"
+    },
+    {
+      "name": "attr1768129001018",
+      "changes": [
+        {
+          "key": "system.skills.Streetwise.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "VzLVEjk8RPpq2zbv",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217155,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.VzLVEjk8RPpq2zbv"
+    },
+    {
+      "name": "attr1768129001208",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "J7O9qrGRwZxYVZmb",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768129007377,
+        "modifiedTime": 1769188217159,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!rA6CwqtlTCaFCKr0.J7O9qrGRwZxYVZmb"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768128712188,
+    "modifiedTime": 1773224197766,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!rA6CwqtlTCaFCKr0"
+}

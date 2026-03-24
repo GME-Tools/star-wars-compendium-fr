@@ -1,0 +1,495 @@
+{
+  "name": "Colon",
+  "type": "career",
+  "_id": "JVDEFCrKwLaWPRoS",
+  "img": "modules/star-wars-compendium-fr/assets/images/Colonists.webp",
+  "system": {
+    "description": "<div class=\"journal-page-content\">\n<p data-start=\"286\" data-end=\"686\"><span class=\"first-letter\">L</span>es huit comp&eacute;tences de carri&egrave;re du Colon sont <strong>Charme</strong>, <strong>Commandement</strong>, <strong>Connaissance (Culture)</strong>, <strong>Connaissance (&Eacute;ducation)</strong>, <strong>Connaissance (Mondes du Noyau)</strong>, <strong>N&eacute;gociation</strong>, <strong>Syst&egrave;me D</strong> et <strong>Tromperie</strong>. Il gagne automatiquement 1 rang dans quatre de ces comp&eacute;tences (de son choix) sans d&eacute;penser d&rsquo;exp&eacute;rience, et il b&eacute;n&eacute;ficie d&rsquo;une remise quand il d&eacute;pense de l&rsquo;exp&eacute;rience pour acheter des rangs dans ces comp&eacute;tences.</p>\n<h2 data-start=\"688\" data-end=\"704\">R&Ocirc;LE DU COLON</h2>\n<p data-start=\"706\" data-end=\"1122\">D&rsquo;une certaine fa&ccedil;on, les colons sont les individus les plus d&eacute;cal&eacute;s de la Bordure ext&eacute;rieure. Ils viennent majoritairement des Mondes du Noyau, o&ugrave; ils ont re&ccedil;u une bonne &eacute;ducation et faisaient partie de l&rsquo;&eacute;lite culturelle et professionnelle. Le colon n&rsquo;a g&eacute;n&eacute;ralement pas l&rsquo;entra&icirc;nement n&eacute;cessaire pour survivre dans les zones de conflit particuli&egrave;rement agit&eacute;es, et il n&rsquo;est pas connu pour ses prouesses physiques.</p>\n<p data-start=\"1124\" data-end=\"1604\">N&eacute;anmoins, il a une bonne vue d&rsquo;ensemble, et dispose g&eacute;n&eacute;ralement des connaissances n&eacute;cessaires pour comprendre les probl&egrave;mes et des capacit&eacute;s pour les r&eacute;soudre. Il est probablement venu dans la Bordure ext&eacute;rieure en qu&ecirc;te d&rsquo;occasions &agrave; saisir, ou dans l&rsquo;espoir d&rsquo;y trouver une vie meilleure. S&rsquo;il n&rsquo;y parvient pas, il usera de tout son savoir pour se la cr&eacute;er, et s&rsquo;appuiera sur ses comp&eacute;tences sociales consid&eacute;rables pour rallier &agrave; sa cause des gens aux dispositions semblables.</p>\n<p data-start=\"1606\" data-end=\"2208\">Bien &eacute;videmment, tous les colons ne sont pas n&eacute;cessairement altruistes. Si le savoir, c&rsquo;est le pouvoir, et que le pouvoir corrompt, alors le colon est arm&eacute; pour se servir de ce qu&rsquo;il sait et l&rsquo;exploiter &agrave; des fins d&rsquo;enrichissement personnel. Avec une bonne dose de charisme et de d&eacute;brouillardise, il peut r&eacute;unir une bonne &eacute;quipe de sp&eacute;cialistes pour surveiller ses arri&egrave;res et mettre ses ennemis sous contr&ocirc;le pendant qu&rsquo;il consolide sa base de pouvoir. De tr&egrave;s nombreux mondes de la Bordure ext&eacute;rieure sont devenus les fiefs personnels de colons aux id&eacute;es audacieuses et entour&eacute;s de partisans fid&egrave;les.</p>\n<p data-start=\"2210\" data-end=\"2571\">Bien s&ucirc;r, certains colons &eacute;chouent et entrent en conflit avec la loi ou leurs pairs. Ils sont alors oblig&eacute;s de renoncer &agrave; leur vie de luxe et de survivre l&agrave; o&ugrave; ils le peuvent. Certains de ces individus peuvent s&rsquo;associer avec des gens de moins bonne r&eacute;putation, parfois des criminels. Heureusement, les comp&eacute;tences de ces malheureux sont parfois tr&egrave;s demand&eacute;es.</p>\n<p data-start=\"2573\" data-end=\"3189\">Les colons ing&eacute;nieux &mdash; ceux qui ont des chances de survivre &agrave; leurs premiers mois dans la Bordure ext&eacute;rieure &mdash; arrivent &agrave; n&eacute;gocier leur savoir et leurs talents sous forme d&rsquo;argent et de contacts. Un colon prodiguant de bons conseils, des soins ou des connaissances int&eacute;ressantes peut vite attirer l&rsquo;attention d&rsquo;un seigneur de guerre ou d&rsquo;un chef de gang, ce qui lui permettra d&rsquo;obtenir ce dont il a le plus besoin : la s&eacute;curit&eacute;. S&rsquo;il est plus ou moins &agrave; l&rsquo;abri, le colon sage commencera &agrave; accumuler des liens et des donn&eacute;es, pour se b&acirc;tir un r&eacute;seau qu&rsquo;il pourra un jour exploiter &agrave; ses fins, quelles qu&rsquo;elles soient.</p>\n<p data-start=\"3191\" data-end=\"3468\">Les colons sont de parfaits chefs, n&eacute;gociateurs, orateurs et strat&egrave;ges. Un colon peut prendre en main un petit groupe de gens comp&eacute;tents et en faire une force digne de ce nom. Un bon colon peut sortir un groupe de l&rsquo;anonymat et lui permettre de r&eacute;aliser de v&eacute;ritables exploits.</p>\n<div class=\"journal-side-block\">\n<h5>LA COLONIE</h5>\n<p data-start=\"8968\" data-end=\"9439\"><span class=\"first-letter\">L</span>a Bordure ext&eacute;rieure est parsem&eacute;e de colonies de toutes tailles, et chacune a ses sp&eacute;cificit&eacute;s. Certaines sont de modestes communaut&eacute;s agricoles qui entretiennent peu de contacts avec le reste de la galaxie. D&rsquo;autres prennent la forme d&rsquo;installations mini&egrave;res exploit&eacute;es par des soci&eacute;t&eacute;s ou des criminels. N&rsquo;importe quelle colonie peut &ecirc;tre le berceau d&rsquo;un PJ ou le th&eacute;&acirc;tre de nombreuses aventures. Voici quelques id&eacute;es d&rsquo;endroits dont peut &ecirc;tre originaire un PJ colon :</p>\n<ul>\n<li data-start=\"9441\" data-end=\"9723\">\n<p>Une petite communaut&eacute; agricole qui produit des cultures vitales</p>\n</li>\n<li data-start=\"9441\" data-end=\"9723\">\n<p>Une caravane nomade de speeders et de v&eacute;hicules terrestres &eacute;levant des cr&eacute;atures extraterrestres gigantesques sur une plan&egrave;te recul&eacute;e</p>\n</li>\n<li data-start=\"9441\" data-end=\"9723\">\n<p>Un groupe de dissidents politiques ou religieux qui se cache de l&rsquo;Empire</p>\n</li>\n</ul>\n</div>\n<h2 data-start=\"9725\" data-end=\"9747\">HISTOIRES DE COLONS</h2>\n<p data-start=\"9749\" data-end=\"10021\">Qu&rsquo;est-ce qui peut bien pousser un colon &agrave; renoncer au confort et &agrave; la s&eacute;curit&eacute; des Mondes du Noyau et &agrave; prendre autant de risques dans la Bordure ext&eacute;rieure ? Que peut-il bien chercher ? Ses ambitions sont-elles nobles ou purement &eacute;go&iuml;stes ? Voici quelques possibilit&eacute;s :</p>\n<ul>\n<li data-start=\"10023\" data-end=\"10675\">\n<p><strong data-start=\"10025\" data-end=\"10041\">Connaissance</strong> : malgr&eacute; les croyances, les banques de donn&eacute;es colossales de l&rsquo;Empire ne renferment pas tout le savoir connu. En fait, des sujets entiers sont perp&eacute;tuellement corrompus et r&eacute;vis&eacute;s, sans compter les pans de l&rsquo;histoire et les &eacute;l&eacute;ments de culture qui sont syst&eacute;matiquement retir&eacute;s. Le colon peut explorer la Bordure ext&eacute;rieure dans l&rsquo;espoir de trouver des renseignements importants sur un sujet perdu lors de ce genre de purge, &agrave; moins qu&rsquo;il ne souhaite simplement remonter la trace d&rsquo;une l&eacute;gende ou d&rsquo;un mythe. Une carri&egrave;re acad&eacute;mique peut parfaitement &ecirc;tre fond&eacute;e sur les connaissances que l&rsquo;on peut d&eacute;couvrir sur une plan&egrave;te recul&eacute;e.</p>\n</li>\n<li data-start=\"10677\" data-end=\"11240\">\n<p><strong data-start=\"10679\" data-end=\"10690\">Pouvoir</strong> : si un individu se prend pour un chef-n&eacute;, mais que l&rsquo;Empereur ne s&rsquo;int&eacute;resse pas &agrave; lui et qu&rsquo;il n&rsquo;a pas acc&egrave;s aux coulisses du pouvoir, la frustration risque de le pousser &agrave; prendre des mesures d&eacute;sesp&eacute;r&eacute;es. Dans la Bordure ext&eacute;rieure, les occasions ne manquent pas pour ceux qui ont une bonne dose de d&eacute;termination et de charisme. Avant que l&rsquo;Empire ne s&rsquo;installe de force sur une plan&egrave;te particuli&egrave;re, un colon ambitieux pourrait y asseoir son tr&ocirc;ne. Quelqu&rsquo;un devra n&eacute;gocier avec les agents imp&eacute;riaux &agrave; leur arriv&eacute;e, et ce pourrait bien &ecirc;tre lui.</p>\n</li>\n<li data-start=\"11242\" data-end=\"11850\">\n<p><strong data-start=\"11244\" data-end=\"11256\">Noblesse</strong> : dans ces temps de trouble et de guerre, des milliards de personnes souffrent et ni l&rsquo;Empire ni ceux qui cherchent &agrave; l&rsquo;abattre n&rsquo;ont d&rsquo;aide &agrave; offrir. Pour quelqu&rsquo;un qui a les connaissances et les moyens d&rsquo;aider, l&rsquo;appel peut s&rsquo;av&eacute;rer trop fort pour &ecirc;tre ignor&eacute;. En s&rsquo;aventurant dans la Bordure ext&eacute;rieure, le colon peut chercher toutes sortes de moyens d&rsquo;offrir ses dons de mani&egrave;re &agrave; am&eacute;liorer le quotidien d&rsquo;au moins une poign&eacute;e de personnes. Bien &eacute;videmment, la r&eacute;alit&eacute; de la survie peut le pousser &agrave; prendre des d&eacute;cisions pragmatiques, mais il est fonci&egrave;rement honn&ecirc;te et fera son maximum.</p>\n</li>\n<li data-start=\"11852\" data-end=\"12463\">\n<p><strong data-start=\"11854\" data-end=\"11871\">Compr&eacute;hension</strong> : en restant assise dans un foyer parfait, st&eacute;rile et luxueux, entour&eacute;e de serviteurs, sans rien vouloir de plus, une personne pourrait trouver que la vie manque de piquant. La machine imp&eacute;riale assoit inexorablement sa domination sur la galaxie. Faut-il en rester l&agrave; ? N&rsquo;y a-t-il plus rien &agrave; d&eacute;couvrir, plus rien qui vaille la peine de se d&eacute;carcasser ? Peut-&ecirc;tre la voie du colon n&rsquo;est-elle rien de plus qu&rsquo;une d&eacute;cision qui consiste &agrave; renoncer au confort et &agrave; la complaisance pour relever les d&eacute;fis qu&rsquo;offre encore la galaxie, dans l&rsquo;espoir de mieux comprendre la vie et la place de chacun.</p>\n</li>\n<li data-start=\"12465\" data-end=\"13073\">\n<p><strong data-start=\"12467\" data-end=\"12481\">R&eacute;volution</strong> : la destruction de l&rsquo;&Eacute;toile noire a allum&eacute; une lueur d&rsquo;espoir dans la galaxie. Certains se rendent compte que la confiance du Nouvel Ordre a &eacute;t&eacute; s&eacute;rieusement &eacute;branl&eacute;e. Bien que les probabilit&eacute;s de changement dans les Mondes du Noyau soient quasi nulles, la Bordure ext&eacute;rieure offre une chance de raviver les braises, de galvaniser la population et d&rsquo;obtenir des ressources. Le colon doit savoir se montrer patient et agir avec prudence, cultiver ses contacts, alli&eacute;s et ressources &agrave; long terme, mais dans la Bordure, il peut tr&egrave;s bien se d&eacute;mener pour lib&eacute;rer la galaxie du joug de l&rsquo;Empire.</p>\n</li>\n</ul>\n</div>",
+    "attributes": {
+      "attr1773224329977": {
+        "modtype": "Career Skill",
+        "mod": "Charm",
+        "value": 0
+      },
+      "attr1773224330363": {
+        "modtype": "Career Skill",
+        "mod": "Leadership",
+        "value": 0
+      },
+      "attr1773224332511": {
+        "modtype": "Career Skill",
+        "mod": "Knowledge: Lore",
+        "value": 0
+      },
+      "attr1773224332839": {
+        "modtype": "Career Skill",
+        "mod": "Knowledge: Education",
+        "value": 0
+      },
+      "attr1773224333060": {
+        "modtype": "Career Skill",
+        "mod": "Knowledge: Core Worlds",
+        "value": 0
+      },
+      "attr1773224333316": {
+        "modtype": "Career Skill",
+        "mod": "Negotiation",
+        "value": 0
+      },
+      "attr1773224333558": {
+        "modtype": "Career Skill",
+        "mod": "Streetwise",
+        "value": 0
+      },
+      "attr1773224333802": {
+        "modtype": "Career Skill",
+        "mod": "Deception",
+        "value": 0
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 62"
+      ]
+    },
+    "specializations": {
+      "sfbp5MeFYixwpokh": {
+        "name": "Médecin",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.sfbp5MeFYixwpokh",
+        "id": "sfbp5MeFYixwpokh"
+      },
+      "FVhgiigM7mEdHUHz": {
+        "name": "Diplomate",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.FVhgiigM7mEdHUHz",
+        "id": "FVhgiigM7mEdHUHz"
+      },
+      "gExZ7apvXFfbUuUn": {
+        "name": "Érudit",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.gExZ7apvXFfbUuUn",
+        "id": "gExZ7apvXFfbUuUn"
+      }
+    },
+    "signatureabilities": {},
+    "careerSkills": {
+      "careerSkill0": "Charm",
+      "careerSkill1": "Leadership",
+      "careerSkill2": "Knowledge: Lore",
+      "careerSkill3": "Knowledge: Education",
+      "careerSkill4": "Knowledge: Core Worlds",
+      "careerSkill5": "Negotiation",
+      "careerSkill6": "Streetwise",
+      "careerSkill7": "Deception"
+    }
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Charm.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Leadership.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Education.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Core Worlds.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Negotiation.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Streetwise.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Deception.careerskill",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "k8i1m2BLYJ79QHhX",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1768468192144,
+        "modifiedTime": 1773224307173,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.k8i1m2BLYJ79QHhX"
+    },
+    {
+      "name": "attr1773224329977",
+      "changes": [
+        {
+          "key": "system.skills.Charm.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "nJO4SmSmjv7a1sfI",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224350418,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.nJO4SmSmjv7a1sfI"
+    },
+    {
+      "name": "attr1773224330363",
+      "changes": [
+        {
+          "key": "system.skills.Leadership.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "sHQuJH9Lb9zCHQkJ",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224355636,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.sHQuJH9Lb9zCHQkJ"
+    },
+    {
+      "name": "attr1773224332839",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Education.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "0aQiVptG20CmmoWb",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224367561,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.0aQiVptG20CmmoWb"
+    },
+    {
+      "name": "attr1773224333060",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Core Worlds.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "eoRMcHq5xFey0993",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224371822,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.eoRMcHq5xFey0993"
+    },
+    {
+      "name": "attr1773224332511",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "iV5DptyF67ZvGwR8",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224359830,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.iV5DptyF67ZvGwR8"
+    },
+    {
+      "name": "attr1773224333316",
+      "changes": [
+        {
+          "key": "system.skills.Negotiation.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "j2JAiUocSn5lfoBv",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224377439,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.j2JAiUocSn5lfoBv"
+    },
+    {
+      "name": "attr1773224333558",
+      "changes": [
+        {
+          "key": "system.skills.Streetwise.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "D5k4BeFjGtGGkv3H",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224382111,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.D5k4BeFjGtGGkv3H"
+    },
+    {
+      "name": "attr1773224333802",
+      "changes": [
+        {
+          "key": "system.skills.Deception.careerskill",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "CxMTQyrybptk8XDU",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773224336381,
+        "modifiedTime": 1773224389035,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!JVDEFCrKwLaWPRoS.CxMTQyrybptk8XDU"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768468192134,
+    "modifiedTime": 1773224409511,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!JVDEFCrKwLaWPRoS"
+}

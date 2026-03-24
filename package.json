@@ -1,0 +1,17 @@
+{
+  "name": "star-wars-compendium-fr",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "fvtt:configure": "fvtt configure",
+    "fvtt:status": "fvtt package",
+    "fvtt:workon": "fvtt package workon star-wars-compendium-fr --type Module",
+    "unpack:carrieres": "fvtt package unpack carrieres --outputDirectory src/packs/carrieres",
+    "pack:carrieres": "fvtt package pack carrieres --inputDirectory src/packs/carrieres --outputDirectory packs",
+    "repack:carrieres": "npm run pack:carrieres",
+    "build": "npm run pack:carrieres"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3"
+  }
+}

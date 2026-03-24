@@ -1,0 +1,490 @@
+{
+  "name": "Explorateur",
+  "type": "career",
+  "_id": "oIoXKJ9CJoKps8uh",
+  "img": "modules/star-wars-compendium-fr/assets/images/SWR01_3601_ExplorerCareer_MagaliVilleneuve-.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p>Les huit compétences de carrière de l’Explorateur sont <strong data-start=\"190\" data-end=\"337\">Astrogation, Calme, Connaissance (Bordure extérieure), Connaissance (Culture), Connaissance (Xénologie), Perception, Pilotage (espace), Survie.</strong> Il gagne automatiquement 1 rang dans quatre de ces compétences (de son choix) sans dépenser d’expérience, et bénéficie d’une remise quand il dépense de l’expérience pour acheter des rangs dans ces compétences.</p><h2>RÔLE DE L’EXPLORATEUR</h2><p data-start=\"169\" data-end=\"695\">L’Empire est vaste, mais ne représente qu’une goutte d’eau dans la galaxie, et l’Explorateur cherche à découvrir les multiples mystères et secrets de l’univers. Les explorateurs sont à la fois très importants et insidieusement dangereux pour le Nouvel Ordre. D’un côté, ils dénichent des informations, des routes commerciales et des ressources particulièrement prisées de l’Empire, mais ils ouvrent aussi de nouvelles voies dans lesquelles les rebelles, criminels et iconoclastes s’engouffrent pour éviter la fureur impériale.</p><p data-start=\"697\" data-end=\"1172\">L’Empire emploie un nombre incalculable d’éclaireurs et de marchands, sans compter les organisations employées par les millions de corporations galactiques qui cherchent à se développer en prenant l’ascendant sur leurs rivales. L’explorateur est un indépendant. Il trace sa route, répertorie ses découvertes et dispose de ses propres accords et contacts. Il vend souvent ses informations à bon prix, ou s’arrange pour guider des voyageurs en des lieux où il s’est déjà rendu.</p><p data-start=\"1174\" data-end=\"1780\">D’autres explorateurs passent au peigne fin l’HoloNet et autres services de données, en quête de groupes, d’affaires ou d’organisations demandeurs. Voilà pourquoi ce sont les explorateurs qui bourlinguent le plus : ils ont des cartes et des informations sur des lieux dont une partie infime de la population galactique connaît l’existence. Un explorateur disposant d’informations sur une planète qu’une société souhaite exploiter, ou proposant une route sûre vers une région de la galaxie qu’un groupe souhaite utiliser pour dissimuler une partie de ses opérations, peut facturer ses services au prix fort.</p><p data-start=\"1782\" data-end=\"2422\">Un explorateur relativement nouveau dans le métier est confronté à un éternel problème : il a besoin d’expérience pour remporter des contrats de choix, mais il ne peut gagner cette expérience, car on ne fait pas appel à ses services. Ainsi, de nombreux explorateurs sautent sur toute occasion de voyager et de travailler dans la Bordure extérieure, accumulant toutes les connaissances et pistes possibles pour gagner des contrats et ressources, et accroître le volume de leur banque de cartes et d’itinéraires. Le plus souvent, les explorateurs sont capables de se servir de leurs compétences d’astrogation et de pilotage dans leur travail.</p><div class=\"flex max-w-full flex-col gap-4 grow\"><div data-message-author-role=\"assistant\" data-message-id=\"1b6ad7b1-fa68-43ab-856f-c7e440097886\" dir=\"auto\" data-message-model-slug=\"gpt-5-3\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\"><h2 data-section-id=\"1ii1b38\" data-start=\"2110\" data-end=\"2137\">HISTOIRES D’EXPLORATEURS</h2><p data-start=\"2139\" data-end=\"2310\">Voici quelques exemples de points de départ pour des explorateurs. Vous pouvez vous en servir pour écrire l’historique de votre personnage, ou simplement vous en inspirer.</p><ul data-start=\"2312\" data-end=\"2879\"><li data-section-id=\"1a0sojy\" data-start=\"2312\" data-end=\"2879\"><p data-start=\"2314\" data-end=\"2879\"><strong data-start=\"2314\" data-end=\"2335\">Soif de voyages :</strong> le trait commun des Explorateurs est le besoin de voyager, de parcourir la galaxie autant que possible, pour en découvrir chaque recoin. La plupart des Explorateurs veulent simplement voir à quoi ressemble chaque planète nouvelle, ou à quel endroit ils peuvent aboutir en choisissant une direction au hasard et en allant aussi loin que possible. Un Explorateur de ce type a sans doute grandi en rêvant d’embarquer à bord du premier vaisseau de passage, et lorsqu’il a enfin réussi à quitter la surface, jamais il n’a jeté un regard en arrière.</p></li></ul><ul data-start=\"3389\" data-end=\"5304\" data-is-only-node=\"\" data-is-last-node=\"\"><li data-section-id=\"15zrs3u\" data-start=\"3389\" data-end=\"3772\"><p data-start=\"3391\" data-end=\"3772\"><strong data-start=\"3391\" data-end=\"3407\">Pourchassé :</strong> avec l’avènement de l’Empire, beaucoup ont eu de bonnes raisons d’aller chercher fortune aussi loin que possible des Mondes du Noyau. Qu’il soit l’ennemi du Nouvel Ordre, ou peut-être juste l’ennemi d’un individu riche et influent, le personnage a du souci à se faire. Moralité : mieux vaut qu’il se fonde dans la Bordure extérieure et reste toujours en mouvement.</p></li><li data-section-id=\"goi99n\" data-start=\"3774\" data-end=\"4141\"><p data-start=\"3776\" data-end=\"4141\"><strong data-start=\"3776\" data-end=\"3790\">Coupable :</strong> sentiment intense, la culpabilité peut pousser quelqu’un à fuir aussi loin que possible. Un Explorateur peut parfaitement n’avoir eu aucune envie d’entamer cette carrière, mais il est devenu expert en pérégrinations diverses et variées, et a appris beaucoup de choses en chemin. Il court, mais il fuit sa propre conscience et ne lui échappera jamais.</p></li><li data-section-id=\"hw64tw\" data-start=\"4143\" data-end=\"4684\"><p data-start=\"4145\" data-end=\"4684\"><strong data-start=\"4145\" data-end=\"4156\">Quête :</strong> un amant perdu, un bijou de famille volé ou la légende d’une relique du passé, voici quelques exemples qui peuvent pousser un explorateur à parcourir la Bordure extérieure. Il a accumulé des cartes, établi des contacts, et ses notes remplissent des dizaines de carnets, mais l’objet de sa quête lui échappe toujours. Cet explorateur a beau être expérimenté et compétent, ceux qui travaillent avec lui sont toujours animés d’un doute à son sujet. Leur faussera-t-il compagnie au premier signe d’aboutissement de ses recherches ?</p></li><li data-section-id=\"x4tgat\" data-start=\"4686\" data-end=\"5304\" data-is-last-node=\"\"><p data-start=\"4688\" data-end=\"5304\" data-is-last-node=\"\"><strong data-start=\"4688\" data-end=\"4700\">Profit :</strong> depuis toujours, les explorateurs voient les terres inexplorées comme autant de contrées de lait et de miel attendant qu’une âme entreprenante vienne ramasser l’or à la pelle. Bien que tout explorateur digne de ce nom sache qu’il ne faut pas prendre ces rêves pour des réalités, il verra toute planète comme une source potentielle de grandes richesses. Qu’il s’agisse de ressources inexploitées ou d’un tout nouveau marché d’êtres conscients avides de s’offrir des landspeeders, un explorateur en quête de profits commencera volontiers à encaisser les crédits dès qu’il aura posé le pied sur la planète.</p><div class=\"journal-side-block\"><h5>ÉTOILES INCONNUES</h5><p><span class=\"first-letter\">S</span>elon les estimations, il y aurait 400 milliards d’étoiles dans la galaxie. Une minuscule fraction de ces astres ont été explorés, et moins encore ont été décrits dans des publications <em>Star Wars</em>. Un personnage explorateur peut parfaitement avoir vu une étoile ou planète inconnue pour le reste de la galaxie. Cette connaissance pourrait être intégrée à son Obligation ou sa Motivation, ou tout simplement prendre de l’importance dans une intrigue ultérieure.</p></div></li></ul></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"><p></p></div></div>",
+    "attributes": {
+      "attr1773241814198": {
+        "modtype": "Skill Rank",
+        "mod": "Astrogation",
+        "value": 0
+      },
+      "attr1773241814379": {
+        "modtype": "Skill Rank",
+        "mod": "Cool",
+        "value": 0
+      },
+      "attr1773241814558": {
+        "modtype": "Skill Rank",
+        "mod": "Knowledge: Outer Rim",
+        "value": 0
+      },
+      "attr1773241814734": {
+        "modtype": "Skill Rank",
+        "mod": "Knowledge: Lore",
+        "value": 0
+      },
+      "attr1773241814933": {
+        "modtype": "Skill Rank",
+        "mod": "Knowledge: Xenology",
+        "value": 0
+      },
+      "attr1773241815116": {
+        "modtype": "Skill Rank",
+        "mod": "Perception",
+        "value": 0
+      },
+      "attr1773241815297": {
+        "modtype": "Skill Rank",
+        "mod": "Piloting: Space",
+        "value": 0
+      },
+      "attr1773241815658": {
+        "modtype": "Skill Rank",
+        "mod": "Survival",
+        "value": 0
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 68"
+      ]
+    },
+    "specializations": {
+      "jeRnWU3XTv0p9Zpu": {
+        "name": "Bourlingueur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.jeRnWU3XTv0p9Zpu",
+        "id": "jeRnWU3XTv0p9Zpu"
+      },
+      "RsSXoDjMHrwqqFB3": {
+        "name": "Éclaireur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.RsSXoDjMHrwqqFB3",
+        "id": "RsSXoDjMHrwqqFB3"
+      },
+      "EscUZcg8lt5csQdr": {
+        "name": "Négociant",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.EscUZcg8lt5csQdr",
+        "id": "EscUZcg8lt5csQdr"
+      }
+    },
+    "signatureabilities": {},
+    "careerSkills": {
+      "careerSkill0": "Astrogation",
+      "careerSkill1": "Cool",
+      "careerSkill2": "Knowledge: Outer Rim",
+      "careerSkill3": "Knowledge: Lore",
+      "careerSkill4": "Knowledge: Xenology",
+      "careerSkill5": "Perception",
+      "careerSkill6": "Piloting: Space",
+      "careerSkill7": "Survival"
+    }
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Astrogation.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Cool.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Outer Rim.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Xenology.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Perception.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Space.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Survival.careerskill",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "vH0MhksemGvXXrPp",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241071440,
+        "modifiedTime": 1773241888460,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.vH0MhksemGvXXrPp"
+    },
+    {
+      "name": "attr1773241814198",
+      "changes": [
+        {
+          "key": "system.skills.Astrogation.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "RF32t8cQbknFfz0I",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241819219,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.RF32t8cQbknFfz0I"
+    },
+    {
+      "name": "attr1773241814379",
+      "changes": [
+        {
+          "key": "system.skills.Cool.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "UQF2jUrw9dBues9G",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241831233,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.UQF2jUrw9dBues9G"
+    },
+    {
+      "name": "attr1773241814558",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Outer Rim.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "MCUvXMb9tweAES8g",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241834589,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.MCUvXMb9tweAES8g"
+    },
+    {
+      "name": "attr1773241814734",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "XP63YOl0K6DHb0wC",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241839865,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.XP63YOl0K6DHb0wC"
+    },
+    {
+      "name": "attr1773241814933",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Xenology.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "0Z9lqxkpSITm2R69",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241845350,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.0Z9lqxkpSITm2R69"
+    },
+    {
+      "name": "attr1773241815116",
+      "changes": [
+        {
+          "key": "system.skills.Perception.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "L84t1wbQfc6C3R5P",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241851176,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.L84t1wbQfc6C3R5P"
+    },
+    {
+      "name": "attr1773241815297",
+      "changes": [
+        {
+          "key": "system.skills.Piloting: Space.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "sv6jqFePsVKYCbTW",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241856243,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.sv6jqFePsVKYCbTW"
+    },
+    {
+      "name": "attr1773241815658",
+      "changes": [
+        {
+          "key": "system.skills.Survival.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "cYc8y7No9XsIRJQV",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241817672,
+        "modifiedTime": 1773241859782,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!oIoXKJ9CJoKps8uh.cYc8y7No9XsIRJQV"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773241071426,
+    "modifiedTime": 1773241916887,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!oIoXKJ9CJoKps8uh"
+}

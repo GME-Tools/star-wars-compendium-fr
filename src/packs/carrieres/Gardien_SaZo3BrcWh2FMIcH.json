@@ -1,0 +1,416 @@
+{
+  "name": "Gardien",
+  "type": "career",
+  "_id": "SaZo3BrcWh2FMIcH",
+  "img": "modules/star-wars-compendium-fr/packs/carrieres/images/Guardian-FDCR.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\">\n<p><span class=\"first-letter\">L</span>es six competences de carri&egrave;re du Gardien sont <strong>Calme</strong>, <strong>Corps &agrave; corps</strong>, <strong>Pugilat</strong>, <strong>R&eacute;sistance</strong>, <strong>Sang-froid</strong> et <strong>Vigilance</strong>. Il gagne automatiquement un rang dans trois de ces comp&eacute;tences sans d&eacute;penser de points d'exp&eacute;rience, et b&eacute;n&eacute;ficie d'une remise quand il d&eacute;pense de l'exp&eacute;rience pour les am&eacute;liorer. <strong>Le Gardien commence le jeu avec une valeur de Force de 1.</strong></p>\n<h2>R&ocirc;le du Gardien</h2>\n<p>Ceux qui suivent la carri&egrave;re de Gardien sont mus &agrave; la fois par la compassion et par le sens des responsabilit&eacute;s. Ils estiment que leur affinite avec la Force leur donne le&nbsp;pouvoir - et l'obligation - d'aider les faibles et les opprim&eacute;s. Les Gardiens se montrent brusques et directs, utilisant leurs prodigieuses capacit&eacute;s de combat et leur autorit&eacute; naturelle pour intervenir directement partout ou l'on a besoin d'eux.</p>\n<p>La plupart des Gardiens affichent une pointe d'arrogance, une froide confiance en eux associ&eacute;e &agrave; un air de noblesse et de superiorit&eacute;. Cette attitude est souvent l&eacute;gitime : les Gardiens s'av&egrave;rent capables de remporter des batailles face &agrave; des forces &eacute;crasantes, et d'y survivre. Leur formation martiale, presque enti&egrave;rement tourn&eacute;e vers la<br>d&eacute;fense et la r&eacute;sistance, les rend aussi solides que le granit. Des hordes d'ennemis se brisent sur le Gardien comme autant de vagues sur un rocher, laissant des survivants &eacute;puis&eacute;s et ouverts &agrave; des contre-attaques d&eacute;vastatrices.</p>\n<p>Seules, ses prouesses au combat seraient d&eacute;ja impressionnantes, mais le Gardien y ajoute un lien avec la Force qui le porte &agrave; eprouver une grande compassion pour<br>ses prot&eacute;g&eacute;s. Cette combinaison fait de lui bien autre chose qu'une simple brute. Le style de combat d&eacute;fensif du Gardien rejoint sa preoccupation pour la vie. Plut&ocirc;t que d'effectuer des mouvements agressifs, il donne a ses ennemis toutes les chances de se rendre et d'opter pour une solution pacifique. Toutefois, s'ils attaquent, le Gardien leur montre rapidement qu'ils ont commis une terrible erreur.</p>\n<p>Dans bien des cas, un Gardien s'installe dans une region pr&eacute;cise. Il peut s'agir d'un groupe de plan&egrave;tes au sein d'un secteur ou, plus modestement. d'un quartier dans une ville. Un tel individu qui se concentre sur une r&eacute;gion peut en devenir le defenseur, mais cette position repose sur sa perception de son devoir et ne s'accompagne d'aucune autorit&eacute; officielle. Les Gardiens assument rarement un pouvoir politique. Ils pr&eacute;ferent agir en accord avec leur sens moral, guid&eacute; par la Force, pour s'assurer que tous ceux qui se trouvent sous leur protection sont trait&eacute;s comme il se doit.</p>\n<p>D'autres Gardiens voyagent au gre de la Force, aidant tous les n&eacute;cessiteux et les opprim&eacute;s qu'ils croisent. Beaucoup semblent se d&eacute;placer sans but, laissant le hasard d&eacute;cider de leurs mouvements. Presque toujours, ils tombent sur des individus qui ont d&eacute;sesp&eacute;r&eacute;ment besoin d'aide.</p>\n<div class=\"journal-side-block\">\n<h5>Forme III du combat au Sabre Laser : Soresu</h5>\n<p><span class=\"first-letter\">L</span>e soresu, &eacute;galement connu comme &laquo; la forme de Resistance &raquo;, est un style de combat au sabre laser qui se concentre sur les man&oelig;uvres d&eacute;fensives. Les Jedi qui s'entrainent &agrave; suivre cette forme passent beaucoup de temps plong&eacute;s dans une m&eacute;diation profonde. Ceux qui le maitrisent se consid&egrave;rent comme l'&oelig;il du cyclone du combat. De cette position, ils peuvent ais&eacute;ment renvoyer les attaques qui les visent.</p>\n<p>Le soresu est adapt&eacute; &agrave; l'interception des tirs de blaster aussi bien qu'&agrave; la parade des sabres laser d'adversaires multiples. Lorsqu'il pratique cette technique &agrave; un haut niveau, le Jedi entre dans un &eacute;tat pr&eacute;cognitif. Il sait quel mouvement pr&eacute;cis va tui servir &agrave; r&eacute;fl&eacute;chir chaque attaque. Cependant, du fait qu'ils sont mieux pr&eacute;par&eacute;s &agrave; se defendre, les adeptes du soresu connaissent des limitations en ce qui concerne les contre-attaques</p>\n</div>\n<h2>Histoires de Gardiens</h2>\n<p>Motiv&eacute;s par une inextinguible soif de justice et d'&eacute;quit&eacute; &agrave; l'echelle de la galaxie, les Gardiens peuvent apparaltre dans pratiquement tous les environnements. Bien qu'ils soient souvent forts physiquement, ils mettent leurs muscles au service de ceux qui en ont besoin, plut&ocirc;t que de s'en servir comme un moyen d'imposer leurs croyances aux autres.</p>\n<ul>\n<li>\n<p><strong>Justice :</strong> les Gardiens viennent souvent de cultures ou de communaut&eacute;s o&ugrave; les in&eacute;galit&eacute;s sont patentes.&nbsp;Un jour, alors qu'il ne s'y attend pas, le personnage puise instinctivement dans la Force pour renverser un tyran ou ameliorer le sort des malheureux. Ensuite, il passera sans doute sa vie &agrave; mener croisade apr&egrave;s croisade contre l'injustice, s'effor&ccedil;ant toujours d'offrir son aide a ceux qui ne peuvent pas s'aider eux-memes.</p>\n</li>\n<li>\n<p><strong>Altruisme :</strong> la plupart des Gardiens se montrent tres s&ucirc;rs d'eux, mais sont aussi prets &agrave; agir sans crainte des cons&eacute;quences qui les attendent Tout au long de leur vie, ils ont prouv&eacute; qu'ils &eacute;taient capables de relever les d&eacute;fis les plus dramatiques. En raison de leurs triomphes pass&eacute;s - et de leur lien avec la Force - l'id&eacute;e de courir des risques&nbsp; personnels extr&ecirc;mes, qui paraitraient inacceptables &agrave; d'autres, ne les bouleverse pas. Ils savent qu'ils sont les seuls &agrave; pouvoir aider autrui dans des situations terribles, et<br>passent &agrave; l'action en n'&eacute;coutant que leur altruisme. Toute leur formation et toutes leurs &eacute;tudes se concentrent sur l'id&eacute;e d'aider les autres.</p>\n</li>\n<li>\n<p><strong>Z&egrave;le :</strong> l'enthousiasme joue un role central dans la vie et les choix de certains Gardiens. Les personnages qui voient leurs prises de risque couronn&eacute;es de succ&egrave;s s'habituent peu &agrave; peu &agrave; la sensation du danger et au doux parfum de la victoire. Pour un individu qui a l'habitude de se rire du danger, parcourir la galaxie pour redresser des torts et sauver des infortun&eacute;s peut devenir extr&ecirc;mement tentant. Les Gardiens qui se lancent dans cette carri&egrave;re pour cette raison ont parfois besoin que leurs alli&eacute;s et compagnons les guident vers des solutions mod&eacute;r&eacute;es. Autrement, ils finissent par se retrouver d&eacute;bord&eacute;s en d&eacute;pit de tous leurs avantages.</p>\n</li>\n<li>\n<p><strong>Vagabondage :</strong> certains Gardiens, peu nombreux, sont envahis d'un immense d&eacute;sir de decouvrir la galaxie. Cette combinaison peut &ecirc;tre positive, car leurs voyages sont ponctu&eacute;s d'occasions d'employer leurs capacit&eacute;s pour soulager les souffrances. D'innombrables plan&egrave;tes et une infinit&eacute; de pers&eacute;cut&eacute;s attendent d'etre d&eacute;livr&eacute;s d'une multitude d'oppresseurs. Pour beaucoup de Gardiens, les voyages ne s'ach&egrave;vent jamais, car ils meditent sur la Force et la laissent les conduire l&agrave; o&ugrave; l'on a besoin d'eux.</p>\n</li>\n</ul>\n</div>",
+    "attributes": {
+      "attr1747049169294": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Cool"
+      },
+      "attr1747049169471": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Melee"
+      },
+      "attr1747049169665": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Brawl"
+      },
+      "attr1747049169842": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Resilience"
+      },
+      "attr1747049170029": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Discipline"
+      },
+      "attr1747049170277": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Vigilance"
+      },
+      "attr1747049170983": {
+        "modtype": "Stat",
+        "value": 1,
+        "mod": "ForcePool"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.78"
+      ]
+    },
+    "specializations": {
+      "VJSPFqxFztLr27YV": {
+        "name": "Défenseur Soresu",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.VJSPFqxFztLr27YV",
+        "id": "VJSPFqxFztLr27YV"
+      },
+      "Qns9KN5CtltGHqqi": {
+        "name": "Pacificateur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.Qns9KN5CtltGHqqi",
+        "id": "Qns9KN5CtltGHqqi"
+      },
+      "gdTbJ2QeP9BpSlrO": {
+        "name": "Protecteur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.gdTbJ2QeP9BpSlrO",
+        "id": "gdTbJ2QeP9BpSlrO"
+      }
+    },
+    "signatureabilities": {},
+    "careerSkills": {
+      "careerSkill0": "Cool",
+      "careerSkill1": "Melee",
+      "careerSkill2": "Brawl",
+      "careerSkill3": "Resilience",
+      "careerSkill4": "Discipline",
+      "careerSkill5": "Vigilance",
+      "careerSkill6": "(none)",
+      "careerSkill7": "(none)"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747049169294",
+      "changes": [
+        {
+          "key": "system.skills.Cool.rank",
+          "mode": 2,
+          "value": "0",
+          "priority": null
+        }
+      ],
+      "_id": "39gaTNx1eG13SIDz",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.39gaTNx1eG13SIDz"
+    },
+    {
+      "name": "attr1747049169471",
+      "changes": [
+        {
+          "key": "system.skills.Melee.rank",
+          "mode": 2,
+          "value": "0",
+          "priority": null
+        }
+      ],
+      "_id": "f71LNAmxW3STuG9z",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.f71LNAmxW3STuG9z"
+    },
+    {
+      "name": "attr1747049169665",
+      "changes": [
+        {
+          "key": "system.skills.Brawl.rank",
+          "mode": 2,
+          "value": "0",
+          "priority": null
+        }
+      ],
+      "_id": "AKnXxejxUQMLFUcF",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.AKnXxejxUQMLFUcF"
+    },
+    {
+      "name": "attr1747049169842",
+      "changes": [
+        {
+          "key": "system.skills.Resilience.rank",
+          "mode": 2,
+          "value": "0",
+          "priority": null
+        }
+      ],
+      "_id": "NHil2lY0G2vzjbY3",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.NHil2lY0G2vzjbY3"
+    },
+    {
+      "name": "attr1747049170029",
+      "changes": [
+        {
+          "key": "system.skills.Discipline.rank",
+          "mode": 2,
+          "value": "0",
+          "priority": null
+        }
+      ],
+      "_id": "wKi5yTKzenEwzyhK",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.wKi5yTKzenEwzyhK"
+    },
+    {
+      "name": "attr1747049170277",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.rank",
+          "mode": 2,
+          "value": "0",
+          "priority": null
+        }
+      ],
+      "_id": "MpEpEVh0ZTavUxpp",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.MpEpEVh0ZTavUxpp"
+    },
+    {
+      "name": "attr1747049170983",
+      "changes": [
+        {
+          "key": "system.stats.forcePool.max",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "_id": "hwfflytOrRGwdQgC",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766905878196,
+        "modifiedTime": 1766905878196,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SaZo3BrcWh2FMIcH.hwfflytOrRGwdQgC"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747048471652,
+    "modifiedTime": 1768464278984,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!SaZo3BrcWh2FMIcH"
+}
