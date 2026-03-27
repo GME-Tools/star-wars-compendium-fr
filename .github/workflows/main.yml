@@ -6,16 +6,51 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - run: zip -r ./star-wars-compendium-fr.zip module.json packs/ assets/ styles/ scripts/ template/
-    - name: Create Release
-      id: create_latest_release
-      uses: ncipollo/release-action@v1
-      with:
-        allowUpdates: true
-        name: Latest
-        draft: false
-        prerelease: false
-        token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './module.json,./star-wars-compendium-fr.zip'
-        tag: latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate sources
+        run: npm run validate
+
+      - name: Prepare fake Foundry data root
+        run: |
+          mkdir -p "$RUNNER_TEMP/foundry-root/Data/modules"
+          ln -s "$GITHUB_WORKSPACE" "$RUNNER_TEMP/foundry-root/Data/modules/star-wars-compendium-fr"
+          npx fvtt configure set dataPath "$RUNNER_TEMP/foundry-root"
+          npx fvtt package workon star-wars-compendium-fr --type Module
+
+      - name: Pack careers
+        run: npm run pack:carrieres
+      
+      - name: Build release archive
+        run: |
+          zip -r ./star-wars-compendium-fr.zip module.json packs/ assets/ styles/ scripts/ template/
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: star-wars-compendium-fr
+          path: |
+            module.json
+            star-wars-compendium-fr.zip
+
+      - name: Create Release
+        id: create_latest_release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          name: Latest
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: './module.json,./star-wars-compendium-fr.zip'
+          tag: latest

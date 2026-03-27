@@ -1,0 +1,200 @@
+{
+  "name": "Jedi",
+  "type": "career",
+  "_id": "ka2LoCk2Qngdixuk",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/jedi.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p><span class=\"first-letter\">L</span>es six compétences de carrière du Jedi sont <strong>Athlétisme, Calme, Connaissance (Culture), Pilotage (Espace), Sabre laser et Sang-froid.</strong> Il gagne automatiquement 1 rang dans trois de ces compétences sans dépenser de points d’expérience et bénéficie d’une remise quand il dépense de l’expérience pour les améliorer. <strong>Le Jedi commence le jeu avec une valeur de Force de 1.</strong></p><h2><span role=\"text\"><strong>UN GUERRIER DE LA PAIX</strong></span></h2><p>Les Jedi sont décrits dans de nombreux mythes, légendes et contes. Ces récits évoquent d’étranges mystiques, des héros pourfendeurs de tyrans et des figures encapuchonnées manipulant les esprits. Bien qu’ils soient basés sur des faits, ils ne sont plus d’actualité : de nos jours, les membres de l’Ordre Jedi servent comme généraux, soldats, spécialistes des interventions d’urgence et même, dans certains cas, exécuteurs de la volonté de la République.</p><p>Depuis le commencement de la Guerre des Clones, les Jedi n’explorent que rarement les aspects les plus ésotériques de la Force. Plutôt que de méditer sur ses secrets, ils passent le plus clair de leur temps à lutter contre des droïdes de combat, à démasquer des agents séparatistes ou à secourir des civils quasiment abandonnés par le gouvernement.</p><p>Chaque Jedi débute sa formation comme novice. Puis il devient un Padawan sous la tutelle d’un Maître en particulier, avant de recevoir le titre de Chevalier lorsqu’il est prêt à en assumer les responsabilités. Enfin, certains atteignent le rang de Maître et choisissent alors de se consacrer à la contemplation, la recherche ou la gestion de l’Ordre. Cette approche hiérarchisée est particulièrement utile en temps de guerre pour déterminer le rôle de chacun : les Maîtres conseillent l’Ordre et la République depuis Coruscant. Les Chevaliers se rendent sur le terrain en tant que commandants, et les Padawans les accompagnent pour servir de sous-commandants et d’aides de camp.</p><div class=\"journal-side-block\"><h5><span role=\"text\">ENTRAÎNEMENT JEDI</span></h5><p><span class=\"first-letter\">C</span>omme les carrières de <strong style=\"font-variant:small-caps\">Force et Destinée</strong>, celle de Jedi n’octroie que six compétences de carrière et un rang gratuit dans trois d’entre elles. Bien que les livres de règles d’<strong style=\"font-variant:small-caps\">Aux Confins de l'Empire</strong> et de <strong style=\"font-variant:small-caps\">L'Ère de la Rébellion</strong> stipulent qu’une carrière offre huit compétences et accorde un rang gratuit dans quatre d’entre elles, il est tout à fait possible de créer un Jedi en utilisant uniquement ces ouvrages et <strong style=\"font-variant: small-caps\">L’Ascension des Séparatistes</strong><strong>.</strong> Suivez simplement les instructions sur le gain de compétences de carrière et le choix de rangs de départ dans la description de la carrière Jedi @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.Cq6F5Asrxuyc0WUh.JournalEntryPage.snBocaAPPH7179Ya#le-jedi]{page 24}. Elles annulent et remplacent celles des livres de règles.</p></div></div>",
+    "attributes": {
+      "attr1774541551513": {
+        "modtype": "Stat",
+        "mod": "ForcePool",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ascension des Séparatistes pg. 24"
+      ]
+    },
+    "specializations": {
+      "LkB8e17B6OdduTw1": {
+        "name": "Chevalier",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.LkB8e17B6OdduTw1",
+        "id": "LkB8e17B6OdduTw1"
+      },
+      "zK2jm6YhAEsfOQVW": {
+        "name": "Padawan",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.zK2jm6YhAEsfOQVW",
+        "id": "zK2jm6YhAEsfOQVW"
+      },
+      "Hcqn6nVd1NnqBOlD": {
+        "name": "Général",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.Hcqn6nVd1NnqBOlD",
+        "id": "Hcqn6nVd1NnqBOlD"
+      },
+      "8sHQnzVuQ7o4jSDV": {
+        "name": "Maître",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.8sHQnzVuQ7o4jSDV",
+        "id": "8sHQnzVuQ7o4jSDV"
+      }
+    },
+    "signatureabilities": {
+      "L7sZhq4XBaU7Z0rO": {
+        "name": "Interception sans égale",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.L7sZhq4XBaU7Z0rO",
+        "id": "L7sZhq4XBaU7Z0rO"
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Athletics",
+      "careerSkill1": "Cool",
+      "careerSkill2": "Knowledge: Lore",
+      "careerSkill3": "Piloting: Space",
+      "careerSkill4": "Lightsaber",
+      "careerSkill5": "Discipline",
+      "careerSkill6": "(none)",
+      "careerSkill7": "(none)"
+    }
+  },
+  "effects": [
+    {
+      "name": "Compétences de Carrière",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Cool.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Space.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Lightsaber.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Discipline.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "jmyjuUBJtPqtCAb2",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774354997951,
+        "modifiedTime": 1774541549666,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!ka2LoCk2Qngdixuk.jmyjuUBJtPqtCAb2"
+    },
+    {
+      "name": "Rang de Force",
+      "changes": [
+        {
+          "key": "system.stats.forcePool.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "SsijTbg4w3WsrKDP",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774541552704,
+        "modifiedTime": 1774541554266,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!ka2LoCk2Qngdixuk.SsijTbg4w3WsrKDP"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774354997941,
+    "modifiedTime": 1774541921356,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!ka2LoCk2Qngdixuk"
+}

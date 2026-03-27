@@ -22,7 +22,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | Réf. | Livre | Texte intégral | Historiques | Obligations | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWE01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
-| SWE02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ✅ | 🟨 | 🟨 | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWE02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ✅ | ✅ | 🟨 | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWE03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
@@ -60,7 +60,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | Réf. | Livre | Texte intégral | Historiques | Devoirs | Motivations | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | Planètes | PNJ | Rencontres |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWA01 | Kit d'Initiation     | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ |
-| SWA02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA02 | Livre de Règles      | 🟨 | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | SWA03 | Kit du Maître de Jeu | ⬜ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | ⬜ | 🚫 | ⬜ | ⬜ |
 
 ## 🧑‍🚀 Suppléments de Carrière
@@ -128,7 +128,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 
 ## 📘 Le Réveil de la Force
 | Réf. | Livre | Texte intégral | Talents | Équipement | Véhicules | PNJ | Rencontres |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|---|---|---:|---:|---:|---:|---:|---:|
 | SWR09 | Kit d'Initiation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | -- | L'appel des Héros   | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ |
 
@@ -136,12 +136,12 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Planètes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | SWR10 | L'Aube de la Rébellion       | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWR11 | L'Ascension des Séparatistes | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWR11 | L'Ascension des Séparatistes | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWR15 | Collapse of the Republic     | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Compendiums
 | Réf. | Livre | Texte intégral | Espèces | Équipement | Véhicules | PNJ | Talents |
-|---|---|---:|---:|---:|---:|---:|
+|---|---|---:|---:|---:|---:|---:|---:|
 | SWR12 | Allies and Adversaries | ⬜ | ⬜ | ⬜ | 🚫 | ⬜ | 🚫 |
 | SWR17 | Gadgets and Gear       | ⬜ | 🚫 | ⬜ | 🚫 | 🚫 | ⬜ |
 | SWR18 | Starships and Speeders | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | 🚫 |

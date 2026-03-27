@@ -1,0 +1,171 @@
+{
+  "name": "Mercenaire",
+  "type": "career",
+  "_id": "lsIBwJ4E24CQS7Kw",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/mercenaire.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p><span class=\"first-letter\">L</span>es huit compétences de carrière du Mercenaire sont <strong>Athlétisme, Corps à corps, Distance (armes légères), Pilotage (planétaire), Pugilat, Résistance, Sang-froid et Vigilance.</strong> Il gagne automatiquement 1 rang dans quatre de ces compétences (de son choix) sans dépenser d’expérience, et il bénéficie d’une remise quand il dépense de l’expérience pour acheter des rangs dans ces compétences.</p><h2><span role=\"text\"><strong>RÔLE DU MERCENAIRE</strong></span></h2><p>Quand il faut en découdre, le Mercenaire est aux premières loges. Il est moins indépendant que le chasseur de primes, préfère avoir une mission clairement définie, un objectif à atteindre, et un paquet de crédits à dépenser une fois son boulot terminé. Les Mercenaires sont des gros bras qui appliquent les règles de leur employeur, qu’il s’agisse de défendre ou d’attaquer, en fonction de la situation. Ils cognent ou protègent en échange de crédits, ce qui en fait des individus d’une grande simplicité, et parfois d’une franchise vraiment rafraîchissante.</p><p>Les mercenaires dont on croise la route dans la Bordure extérieure ont généralement eu un des trois parcours suivants : il peut s’agir d’anciens soldats impériaux (ou pourquoi pas de l’Ancienne République, avant sa chute), ils peuvent avoir servi au sein de forces planétaires ou organisationnelles d’un genre ou d’un autre, ou ils ont pu apprendre à se servir d’une arme sur le tas, tout simplement parce que leur vie en dépendait. Quel que soit son passé, le mercenaire a les compétences et talents qui lui permettent de trouver facilement du travail dans la Bordure extérieure et en marge de la société.</p><p>Beaucoup sont des mercenaires au sens le plus strict du terme ; ils bossent pour eux-mêmes ou sont sous contrat auprès d’une guilde ou d’une société. Comme les chasseurs de primes, les mercenaires qui font partie d’une guilde bénéficient d’un soutien important, mais ils n’ont pas autant de liberté. Plus d’un mercenaire a déjà résilié un contrat qui violait son éthique personnelle ou lui donnait le sentiment d’être exploité. Malheureusement, ce genre d’individu a alors intérêt à surveiller ses arrières pendant de longues années.</p><p>Les mercenaires indépendants jouissent d’une grande liberté, mais ils passent aussi beaucoup de temps à chercher du travail, de préférence du genre qui ne réduit pas leur espérance de vie à quelques jours. La réputation compte beaucoup pour ce genre de professionnels, mais une petite démonstration de leur talent n’est pas sans offrir certains avantages quand leur employeur est impressionné.</p><h2>HISTOIRES DE MERCENAIRES</h2><p>Les mercenaires sont d’origines très variées, et on ne sait jamais où va les mener leur route. Les histoires de guerriers sont intemporelles et fascinantes, et pas toujours très simples.</p><ul><li><p><strong>Mérite</strong> : beaucoup de ceux qui empruntent la voie du guerrier essaient avant tout de répondre aux attentes de leurs proches. Ce genre de mercenaire est issu d’une culture belliqueuse, ou d’une société où l’on admire les capacités de survie. Il peut aussi venir d’une famille à l’histoire militaire prestigieuse. Il se met alors en route alors pour prouver qu’il peut être à la hauteur de son héritage.</p></li><li><p><strong>Conscience</strong> : avec l’avènement de l’Empire, de nombreux soldats se sont aperçus qu’ils ne voulaient plus servir un régime exerçant une politique répressive, voire génocidaire. Ce genre de mercenaire ne s’encombre pas forcément de morale ou d’éthique, mais il y a certaines choses qu’ils refusent de faire, comme tuer des gens sans défense ou asservir des populations entières. Ne voulant pas perdre la vie en entamant une lutte contre le Nouvel Ordre, ce genre de mercenaire fait ses valises et file vers les recoins les plus éloignés de la galaxie, dans l’espoir de disparaître parmi les étoiles et de vivre de ce qu’il sait faire de mieux.</p></li><li><p><strong>But</strong> : certains naissent avec un véritable don pour le combat, à moins que leurs conditions de vie ne les obligent à développer de telles compétences. Ce genre de mercenaire n’a peut-être jamais voulu entreprendre une carrière aussi brutale, mais c’est la main qui lui a été distribuée et il va jouer avec. Sans rien de mieux à faire, il parcourt la galaxie et cherche le moyen d’utiliser ce qu’il sait pour avancer, peut-être même pour donner un sens à sa vie.</p></li><li><p><strong>Respect</strong> : il n’est peut-être pas très malin. Il a peut-être une gueule qui pourrait faire penser qu’il a pris une pluie de météorites de plein fouet. Il ne sait peut-être pas faire grand-chose à part utiliser et entretenir ses armes, mais ça, en tout cas, il le fait bien. Et il compte bien gagner le respect de quelqu’un avant d’en avoir terminé. Souvent, les mercenaires ayant ce genre d’histoire sont facilement manipulés, mais ils peuvent aussi faire d’excellents amis. Il faut juste reconnaître leur mérite.</p></li><li><p><strong>Fuite</strong> : on peut apprendre à se battre à force d’entraînement, mais également lorsqu’on doit survivre face à l’adversité ou un environnement hostile grouillant d’ennemis. Ce genre de mercenaire fait peut-être simplement la seule chose qu’il sache faire, issu d’une expérience qu’il n’aide à s’éloigner d’un passé dont il ne veut rien entendre. Peut-être ne sait-il pas grand-chose, mais il est déterminé à apprendre tout ce qu’il peut pour s’assurer que nul ne viendra le chercher pour le ramener là-bas.</p></li></ul><div class=\"journal-side-block\"><h5><span role=\"text\">LES CONSEILS DE MYK TARM : EN VOULOIR POUR SON ARGENT</span></h5><p><span class=\"first-letter\">O</span>ui, on peut toujours louer les services d’un porte-flingue à la cantina, comme un Arcona intoxiqué au sel ou l’un de ces Aquales qui n’ont même pas de pouce, mais feront le sale boulot à votre place. Ils travaillent pour pas cher. Et ils se font souvent tuer. Moi, j’exerce un métier et j’ai acquis mes compétences à la sueur de mon front. Si c’était facile, si n’importe qui pouvait le faire, vous ne vous seriez pas tournés vers moi. Mais vous êtes là et vous avez besoin de mon aide. Ne paniquez pas. Je vais vous aider. Et vous me paierez pour ça.</p><p>La galaxie est dangereuse. Permettez-moi de vous confier un secret : je n’aime même pas ce que je fais. Je n’aime pas le fait que les gens comme moi soient nécessaires. Mais les méchants, les pirates, les pillards et les armées privées à deux crédits sont bien là, dehors. Ils sont bien armés, et parfois bien entraînés. Alors, ouais, vous avez besoin de moi. Je suis nécessaire.</p><p>Je ne sais pas dans quel guêpier vous vous êtes fourrés. Et je m’en moque. Je vous ai donné mon prix. Vous vous demandez si vous pouvez vous offrir mes services. Regardez autour de vous. Songez à vos ennuis, aux autres options qui s’offrent à vous. Pouvez-vous vraiment vous permettre de PAS m’engager ?</p></div></div>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 74"
+      ]
+    },
+    "specializations": {
+      "o6qWZNEOvrKTSkcE": {
+        "name": "Garde du corps",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.o6qWZNEOvrKTSkcE",
+        "id": "o6qWZNEOvrKTSkcE"
+      },
+      "cWxqzMNaXe8L39sm": {
+        "name": "Maraudeur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.cWxqzMNaXe8L39sm",
+        "id": "cWxqzMNaXe8L39sm"
+      },
+      "ekSBPJZvZBa338dO": {
+        "name": "Soldat à louer",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.ekSBPJZvZBa338dO",
+        "id": "ekSBPJZvZBa338dO"
+      },
+      "hLsOQELuCuY1oXpY": {
+        "name": "Nervi",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.hLsOQELuCuY1oXpY",
+        "id": "hLsOQELuCuY1oXpY"
+      },
+      "JMGA1FloccJdJHmf": {
+        "name": "Démolisseur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.JMGA1FloccJdJHmf",
+        "id": "JMGA1FloccJdJHmf"
+      },
+      "dFRpWISxqBPZu4ks": {
+        "name": "Canonnier",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.dFRpWISxqBPZu4ks",
+        "id": "dFRpWISxqBPZu4ks"
+      }
+    },
+    "signatureabilities": {
+      "h3zoufBlMFqwD1dv": {
+        "name": "Jusqu'au dernier",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.h3zoufBlMFqwD1dv",
+        "id": "h3zoufBlMFqwD1dv"
+      },
+      "izxKRHJ86wBsVic5": {
+        "name": "Carapace",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.izxKRHJ86wBsVic5",
+        "id": "izxKRHJ86wBsVic5"
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Athletics",
+      "careerSkill1": "Melee",
+      "careerSkill2": "Ranged: Light",
+      "careerSkill3": "Piloting: Planetary",
+      "careerSkill4": "Brawl",
+      "careerSkill5": "Resilience",
+      "careerSkill6": "Discipline",
+      "careerSkill7": "Vigilance"
+    }
+  },
+  "effects": [
+    {
+      "name": "Compétences de Carrière",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Melee.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Ranged: Light.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Planetary.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Brawl.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Resilience.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Discipline.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Vigilance.careerskill",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "uJ0PfRdH9aYSpj08",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774354495328,
+        "modifiedTime": 1774546214679,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!lsIBwJ4E24CQS7Kw.uJ0PfRdH9aYSpj08"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774354495318,
+    "modifiedTime": 1774546466735,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!lsIBwJ4E24CQS7Kw"
+}

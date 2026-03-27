@@ -1,0 +1,215 @@
+{
+  "name": "Gardien",
+  "type": "career",
+  "_id": "D8Ci4Vk8UJHEKVIn",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/gardien.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p><span class=\"first-letter\">L</span>es six competences de carrière du Gardien sont <strong>Calme</strong>, <strong>Corps à corps</strong>, <strong>Pugilat</strong>, <strong>Résistance</strong>, <strong>Sang-froid</strong> et <strong>Vigilance</strong>. Il gagne automatiquement un rang dans trois de ces compétences sans dépenser de points d'expérience, et bénéficie d'une remise quand il dépense de l'expérience pour les améliorer. <strong>Le Gardien commence le jeu avec une valeur de Force de 1.</strong></p><h2>Rôle du Gardien</h2><p>Ceux qui suivent la carrière de Gardien sont mus à la fois par la compassion et par le sens des responsabilités. Ils estiment que leur affinite avec la Force leur donne le pouvoir - et l'obligation - d'aider les faibles et les opprimés. Les Gardiens se montrent brusques et directs, utilisant leurs prodigieuses capacités de combat et leur autorité naturelle pour intervenir directement partout ou l'on a besoin d'eux.</p><p>La plupart des Gardiens affichent une pointe d'arrogance, une froide confiance en eux associée à un air de noblesse et de superiorité. Cette attitude est souvent légitime : les Gardiens s'avèrent capables de remporter des batailles face à des forces écrasantes, et d'y survivre. Leur formation martiale, presque entièrement tournée vers la<br>défense et la résistance, les rend aussi solides que le granit. Des hordes d'ennemis se brisent sur le Gardien comme autant de vagues sur un rocher, laissant des survivants épuisés et ouverts à des contre-attaques dévastatrices.</p><p>Seules, ses prouesses au combat seraient déja impressionnantes, mais le Gardien y ajoute un lien avec la Force qui le porte à eprouver une grande compassion pour<br>ses protégés. Cette combinaison fait de lui bien autre chose qu'une simple brute. Le style de combat défensif du Gardien rejoint sa preoccupation pour la vie. Plutôt que d'effectuer des mouvements agressifs, il donne a ses ennemis toutes les chances de se rendre et d'opter pour une solution pacifique. Toutefois, s'ils attaquent, le Gardien leur montre rapidement qu'ils ont commis une terrible erreur.</p><p>Dans bien des cas, un Gardien s'installe dans une region précise. Il peut s'agir d'un groupe de planètes au sein d'un secteur ou, plus modestement. d'un quartier dans une ville. Un tel individu qui se concentre sur une région peut en devenir le defenseur, mais cette position repose sur sa perception de son devoir et ne s'accompagne d'aucune autorité officielle. Les Gardiens assument rarement un pouvoir politique. Ils préferent agir en accord avec leur sens moral, guidé par la Force, pour s'assurer que tous ceux qui se trouvent sous leur protection sont traités comme il se doit.</p><p>D'autres Gardiens voyagent au gre de la Force, aidant tous les nécessiteux et les opprimés qu'ils croisent. Beaucoup semblent se déplacer sans but, laissant le hasard décider de leurs mouvements. Presque toujours, ils tombent sur des individus qui ont désespérément besoin d'aide.</p><div class=\"journal-side-block\"><h5>Forme III du combat au Sabre Laser : Soresu</h5><p><span class=\"first-letter\">L</span>e soresu, également connu comme « la forme de Resistance », est un style de combat au sabre laser qui se concentre sur les manœuvres défensives. Les Jedi qui s'entrainent à suivre cette forme passent beaucoup de temps plongés dans une médiation profonde. Ceux qui le maitrisent se considèrent comme l'œil du cyclone du combat. De cette position, ils peuvent aisément renvoyer les attaques qui les visent.</p><p>Le soresu est adapté à l'interception des tirs de blaster aussi bien qu'à la parade des sabres laser d'adversaires multiples. Lorsqu'il pratique cette technique à un haut niveau, le Jedi entre dans un état précognitif. Il sait quel mouvement précis va tui servir à réfléchir chaque attaque. Cependant, du fait qu'ils sont mieux préparés à se defendre, les adeptes du soresu connaissent des limitations en ce qui concerne les contre-attaques</p></div><h2>Histoires de Gardiens</h2><p>Motivés par une inextinguible soif de justice et d'équité à l'echelle de la galaxie, les Gardiens peuvent apparaltre dans pratiquement tous les environnements. Bien qu'ils soient souvent forts physiquement, ils mettent leurs muscles au service de ceux qui en ont besoin, plutôt que de s'en servir comme un moyen d'imposer leurs croyances aux autres.</p><ul><li><p><strong>Justice :</strong> les Gardiens viennent souvent de cultures ou de communautés où les inégalités sont patentes. Un jour, alors qu'il ne s'y attend pas, le personnage puise instinctivement dans la Force pour renverser un tyran ou ameliorer le sort des malheureux. Ensuite, il passera sans doute sa vie à mener croisade après croisade contre l'injustice, s'efforçant toujours d'offrir son aide a ceux qui ne peuvent pas s'aider eux-memes.</p></li><li><p><strong>Altruisme :</strong> la plupart des Gardiens se montrent tres sûrs d'eux, mais sont aussi prets à agir sans crainte des conséquences qui les attendent Tout au long de leur vie, ils ont prouvé qu'ils étaient capables de relever les défis les plus dramatiques. En raison de leurs triomphes passés - et de leur lien avec la Force - l'idée de courir des risques  personnels extrêmes, qui paraitraient inacceptables à d'autres, ne les bouleverse pas. Ils savent qu'ils sont les seuls à pouvoir aider autrui dans des situations terribles, et<br>passent à l'action en n'écoutant que leur altruisme. Toute leur formation et toutes leurs études se concentrent sur l'idée d'aider les autres.</p></li><li><p><strong>Zèle :</strong> l'enthousiasme joue un role central dans la vie et les choix de certains Gardiens. Les personnages qui voient leurs prises de risque couronnées de succès s'habituent peu à peu à la sensation du danger et au doux parfum de la victoire. Pour un individu qui a l'habitude de se rire du danger, parcourir la galaxie pour redresser des torts et sauver des infortunés peut devenir extrêmement tentant. Les Gardiens qui se lancent dans cette carrière pour cette raison ont parfois besoin que leurs alliés et compagnons les guident vers des solutions modérées. Autrement, ils finissent par se retrouver débordés en dépit de tous leurs avantages.</p></li><li><p><strong>Vagabondage :</strong> certains Gardiens, peu nombreux, sont envahis d'un immense désir de decouvrir la galaxie. Cette combinaison peut être positive, car leurs voyages sont ponctués d'occasions d'employer leurs capacités pour soulager les souffrances. D'innombrables planètes et une infinité de persécutés attendent d'etre délivrés d'une multitude d'oppresseurs. Pour beaucoup de Gardiens, les voyages ne s'achèvent jamais, car ils meditent sur la Force et la laissent les conduire là où l'on a besoin d'eux.</p></li></ul></div>",
+    "attributes": {
+      "attr1774534460232": {
+        "modtype": "Stat",
+        "mod": "ForcePool",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 78"
+      ]
+    },
+    "specializations": {
+      "VJSPFqxFztLr27YV": {
+        "name": "Défenseur Soresu",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.VJSPFqxFztLr27YV",
+        "id": "VJSPFqxFztLr27YV"
+      },
+      "Qns9KN5CtltGHqqi": {
+        "name": "Pacificateur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.Qns9KN5CtltGHqqi",
+        "id": "Qns9KN5CtltGHqqi"
+      },
+      "gdTbJ2QeP9BpSlrO": {
+        "name": "Protecteur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.gdTbJ2QeP9BpSlrO",
+        "id": "gdTbJ2QeP9BpSlrO"
+      },
+      "8m2rLyg9XD5xGguP": {
+        "name": "Armurier",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.8m2rLyg9XD5xGguP",
+        "id": "8m2rLyg9XD5xGguP"
+      },
+      "ENR73gZoDZm4xeef": {
+        "name": "Égide",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.ENR73gZoDZm4xeef",
+        "id": "ENR73gZoDZm4xeef"
+      },
+      "LGMDpSOxUoa1SKU4": {
+        "name": "Chef de guerre",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.LGMDpSOxUoa1SKU4",
+        "id": "LGMDpSOxUoa1SKU4"
+      }
+    },
+    "signatureabilities": {
+      "pgKWUt0z1zqboh9n": {
+        "name": "Duel fatal",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.pgKWUt0z1zqboh9n",
+        "id": "pgKWUt0z1zqboh9n"
+      },
+      "BoVBbVFXbveqT1N4": {
+        "name": "Héroïsme hors pair",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.BoVBbVFXbveqT1N4",
+        "id": "BoVBbVFXbveqT1N4"
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Cool",
+      "careerSkill1": "Melee",
+      "careerSkill2": "Brawl",
+      "careerSkill3": "Resilience",
+      "careerSkill4": "Discipline",
+      "careerSkill5": "Vigilance",
+      "careerSkill6": "(none)",
+      "careerSkill7": "(none)"
+    }
+  },
+  "effects": [
+    {
+      "name": "Compétences de Carrière",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Cool.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Melee.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Brawl.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Resilience.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Discipline.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Vigilance.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "C3phWb9DLccMq6Gh",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774534361312,
+        "modifiedTime": 1774534493427,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!D8Ci4Vk8UJHEKVIn.C3phWb9DLccMq6Gh"
+    },
+    {
+      "name": "Rang de Force",
+      "changes": [
+        {
+          "key": "system.stats.forcePool.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "CaRGdhbvxmvY1skV",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774534461738,
+        "modifiedTime": 1774534463337,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!D8Ci4Vk8UJHEKVIn.CaRGdhbvxmvY1skV"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774534361302,
+    "modifiedTime": 1774534704291,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!D8Ci4Vk8UJHEKVIn"
+}

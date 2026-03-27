@@ -2,51 +2,10 @@
   "name": "Chasseur de primes",
   "type": "career",
   "_id": "rA6CwqtlTCaFCKr0",
-  "img": "modules/star-wars-compendium-fr/assets/images/bounty_hunter.webp",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/chasseur_de_primes.png",
   "system": {
-    "description": "<div class=\"journal-page-content\">\n<p data-start=\"417\" data-end=\"814\"><span class=\"first-letter\">L</span>es huit comp&eacute;tences de carri&egrave;re du Chasseur de primes sont <strong>Athl&eacute;tisme</strong>, <strong>Distance (armes lourdes)</strong>, <strong>Perception</strong>, <strong>Pilotage (espace)</strong>, <strong>Pilotage (plan&eacute;taire)</strong>, <strong>Pugilat</strong>, <strong>Syst&egrave;me D</strong> et <strong>Vigilance</strong>. Il gagne automatiquement 1 rang dans quatre de ces comp&eacute;tences (de son choix) sans d&eacute;penser d&rsquo;exp&eacute;rience, et il b&eacute;n&eacute;ficie d&rsquo;une remise quand il d&eacute;pense de l&rsquo;exp&eacute;rience pour acheter des rangs dans ces comp&eacute;tences.</p>\n<h2 data-start=\"417\" data-end=\"814\">R&ocirc;le du Chasseur de primes</h2>\n<p data-start=\"852\" data-end=\"1342\">Comme son nom l&rsquo;indique, ce type d&rsquo;individu cherche &agrave; ramasser des primes en &eacute;change de son travail. Les Chasseurs de primes sont g&eacute;n&eacute;ralement craints, d&eacute;test&eacute;s et m&eacute;pris&eacute;s, et pourtant demand&eacute;s partout dans la galaxie. Ce sont des pisteurs redoutables, des combattants brutaux et d&rsquo;excellents enqu&ecirc;teurs. Ils pr&eacute;f&egrave;rent g&eacute;n&eacute;ralement les magouilles, la discr&eacute;tion et les pi&egrave;ges aux assauts frontaux, mais les plus respect&eacute;s font le n&eacute;cessaire pour capturer leurs proies et r&eacute;cup&eacute;rer leur d&ucirc;.</p>\n<p data-start=\"1344\" data-end=\"1973\">Les Chasseurs de primes entrent habituellement dans trois grandes cat&eacute;gories : les chasseurs de primes imp&eacute;riaux, les chasseurs de primes de guilde et les ind&eacute;pendants. Les premiers sont g&eacute;n&eacute;ralement sous contrat permanent avec le BSI (ou quelque autre institution repr&eacute;sentant le droit imp&eacute;rial) et n&rsquo;acceptent jamais de missions des corporations, gouvernements locaux ou des particuliers. Il s&rsquo;agit de membres de confiance de la vaste communaut&eacute; de l&rsquo;Empire charg&eacute;e de faire appliquer la loi, g&eacute;n&eacute;ralement d&rsquo;anciens personnels militaires qui pr&eacute;f&egrave;rent travailler dans un cadre moins strict (mais pas forc&eacute;ment moins dangereux).</p>\n<p data-start=\"1975\" data-end=\"2460\">Les chasseurs de primes li&eacute;s &agrave; une guilde b&eacute;n&eacute;ficient de nombreux avantages de taille : le g&icirc;te et le couvert partout o&ugrave; la guilde est pr&eacute;sente, un entra&icirc;nement exceptionnel et un acc&egrave;s &agrave; du mat&eacute;riel de qualit&eacute; adapt&eacute; &agrave; leur travail, ainsi qu&rsquo;un flot incessant de missions que leur confient les agents de la guilde. Le mauvais c&ocirc;t&eacute; des choses, c&rsquo;est qu&rsquo;ils n&rsquo;ont pas leur mot &agrave; dire sur les t&acirc;ches qu&rsquo;on leur remet, et qu&rsquo;un refus se traduit par l&rsquo;annulation imm&eacute;diate de leur contrat.</p>\n<p data-start=\"2462\" data-end=\"2954\">Ce sont les ind&eacute;pendants qui jouissent de la plus grande libert&eacute;, mais qui doivent aussi affronter les plus grands dangers et relever les d&eacute;fis les plus cons&eacute;quents. Bien qu&rsquo;ils acceptent souvent les contrats imp&eacute;riaux, qui sont g&eacute;n&eacute;ralement plus nombreux et lucratifs &agrave; la fois, ils aiment savoir qu&rsquo;ils ne font pas partie de l&rsquo;Empire. Ne pas &ecirc;tre li&eacute; &agrave; une guilde sert aussi leurs sensibilit&eacute;s : ils peuvent choisir leurs contrats et ne peuvent en vouloir qu&rsquo;&agrave; eux-m&ecirc;mes quand ils &eacute;chouent.</p>\n<p data-start=\"2956\" data-end=\"3606\">Les PJ seront presque assur&eacute;ment des chasseurs de guilde ou des ind&eacute;pendants. Mais quel que soit son type, le personnage aura besoin d&rsquo;un certificat de maintien de la paix imp&eacute;rial (CMPI). Il s&rsquo;agit de la licence que tous les chasseurs de primes sont cens&eacute;s demander &agrave; l&rsquo;Empire pour exercer leur profession. Sans ce document, le chasseur de primes n&rsquo;est rien de plus qu&rsquo;un kidnappeur, voire un assassin. Tout personnage qui choisit cette carri&egrave;re a automatiquement un CMPI, sauf si le joueur s&rsquo;y oppose. Ce genre de d&eacute;cision pourrait &eacute;videmment para&icirc;tre curieux, mais cela peut ajouter un &eacute;l&eacute;ment tr&egrave;s int&eacute;ressant &agrave; l&rsquo;histoire du personnage concern&eacute;.</p>\n<h2 data-start=\"7908\" data-end=\"7943\">Histoires de Chasseurs de primes</h2>\n<p data-start=\"7945\" data-end=\"8189\">La carri&egrave;re de chasseur de primes n&rsquo;attire pas les individus ordinaires et raisonnables. Chacun a ses raisons pour se tourner vers une telle carri&egrave;re, des raisons qui peuvent &eacute;norm&eacute;ment enrichir l&rsquo;histoire de l&rsquo;int&eacute;ress&eacute;. Voici quelques id&eacute;es :</p>\n<ul>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"8193\" data-end=\"8206\">Vengeance</strong> : de nombreux chasseurs de primes se lancent dans ce genre de m&eacute;tier pour se venger de quelqu&rsquo;un (ou d&rsquo;une organisation) qui a &eacute;chapp&eacute; &agrave; la justice. Leurs motivations initiales sont tr&egrave;s personnelles, et g&eacute;n&eacute;ralement dues &agrave; la perte d&rsquo;un objet ou d&rsquo;un &ecirc;tre cher. Une fois justice rendue, les individus qui ont d&eacute;velopp&eacute; ces comp&eacute;tences et talents r&eacute;alisent qu&rsquo;ils ont trouv&eacute; leur voie.</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"8596\" data-end=\"8608\">Disgr&acirc;ce</strong> : un &eacute;chec d&eacute;sastreux ou une terrible trag&eacute;die a pouss&eacute; le personnage vers cette carri&egrave;re pour s&rsquo;&eacute;loigner de son ancienne vie. En traquant les criminels dans toute la galaxie, il se construit une vie totalement diff&eacute;rente et se taille une r&eacute;putation, tout cela dans l&rsquo;espoir de laisser son pass&eacute; derri&egrave;re lui. Mais peut-&ecirc;tre n&rsquo;aura-t-il pas cette chance.</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"8967\" data-end=\"8978\">Honneur</strong> : certains ont le sentiment que la justice qu&rsquo;ils servent est foul&eacute;e aux pieds par les gens pour lesquels ils travaillent. D&rsquo;autres sont t&eacute;moins de la corruption et de la tyrannie qui broient tout autour d&rsquo;eux, et estiment que cela suffit. Ce genre de chasseur de primes peut avoir fait partie des forces de l&rsquo;ordre, et avoir finalement compris qu&rsquo;il n&rsquo;en pouvait plus. Il est bien d&eacute;cid&eacute; &agrave; d&eacute;fendre la justice et la loi &agrave; sa fa&ccedil;on, peut-&ecirc;tre m&ecirc;me contre ceux qu&rsquo;il servait.</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"9457\" data-end=\"9470\">Agression</strong> : dans la galaxie, certains &eacute;prouvent tout simplement le besoin de molester leur prochain, ou de se livrer &agrave; des activit&eacute;s dangereuses. Marcher dans le rang et ob&eacute;ir aux ordres ne leur convient pas, mais tabasser leur proie avant de la livrer pour toucher leur prime, voil&agrave; qui les satisfait. Ce genre de chasseur a peut-&ecirc;tre quitt&eacute; l&rsquo;arm&eacute;e, &agrave; moins qu&rsquo;il ne se soit rabattu sur cette carri&egrave;re apr&egrave;s avoir fui les troupes de choc (ou pire).</p>\n</li>\n<li data-start=\"7945\" data-end=\"8189\">\n<p><strong data-start=\"9915\" data-end=\"9927\">H&eacute;ritage</strong> : peut-&ecirc;tre que son p&egrave;re, et le p&egrave;re de son p&egrave;re, ont &eacute;t&eacute; chasseurs de primes, et que le personnage a choisi de respecter la tradition familiale. Il pourrait &ecirc;tre issu d&rsquo;une culture qui v&eacute;n&egrave;re tous ceux qui traquent les d&eacute;linquants, &agrave; moins qu&rsquo;un ami cher n&rsquo;ait voulu lui transmettre ses comp&eacute;tences. Quoi qu&rsquo;il en soit, ce genre de chasseur de primes voit les traditions de cette profession avec le plus grand respect.</p>\n</li>\n</ul>\n<div class=\"journal-side-block\">\n<h5>Le Credo du Chasseur de primes</h5>\n<p data-start=\"10389\" data-end=\"10706\"><span class=\"first-letter\">B</span>ien que les chasseurs de primes soient souvent consid&eacute;r&eacute;s comme des racailles sans foi ni loi, cette assertion est rarement fond&eacute;e. La plupart suivent simplement un ensemble de r&egrave;gles tr&egrave;s diff&eacute;rentes de celles du civil moyen. C&rsquo;est ce qu&rsquo;on appelle le Credo des chasseurs de primes. En voici les principes r&eacute;sum&eacute;s :</p>\n<ul>\n<li data-start=\"10708\" data-end=\"10866\">\n<p><strong data-start=\"10710\" data-end=\"10775\">Les primes ne visent pas des gens, seulement des acquisitions</strong> : ceux dont la t&ecirc;te est mise &agrave; prix ne sont plus des personnes, mais des &laquo; acquisitions &raquo;.</p>\n</li>\n<li data-start=\"10868\" data-end=\"10987\">\n<p><strong data-start=\"10870\" data-end=\"10912\">Capturer &agrave; dessein, tuer par n&eacute;cessit&eacute;</strong> : un chasseur de primes doit au moins essayer de ramener sa cible vivante.</p>\n</li>\n<li data-start=\"10989\" data-end=\"11168\">\n<p><strong data-start=\"10991\" data-end=\"11028\">Les chasseurs ne s&rsquo;entretuent pas</strong> : cette r&egrave;gle, et la suivante, peuvent &ecirc;tre &laquo; interpr&eacute;t&eacute;es de fa&ccedil;on cr&eacute;ative &raquo;, et il est parfois difficile de prouver la cause de la mort.</p>\n</li>\n<li data-start=\"11170\" data-end=\"11319\">\n<p><strong data-start=\"11172\" data-end=\"11228\">Un chasseur ne se m&ecirc;lera pas des affaires d&rsquo;un autre</strong> : en r&egrave;gle g&eacute;n&eacute;rale, les chasseurs de primes ne se m&ecirc;lent pas des affaires de leurs pairs.</p>\n</li>\n<li data-start=\"11321\" data-end=\"11519\">\n<p><strong data-start=\"11323\" data-end=\"11377\">&Agrave; la chasse, on capture ou on tue, jamais les deux</strong> : une fois l&rsquo;acquisition captur&eacute;e vivante, le chasseur de primes a l&rsquo;obligation de la garder dans cet &eacute;tat jusqu&rsquo;&agrave; la r&eacute;cup&eacute;ration de son d&ucirc;.</p>\n</li>\n<li data-start=\"11521\" data-end=\"11692\">\n<p><strong data-start=\"11523\" data-end=\"11572\">Un chasseur ne refusera pas d&rsquo;aider ses pairs</strong> : les chasseurs de primes prennent soin les uns des autres, mais il n&rsquo;y a pas de mal &agrave; n&eacute;gocier un petit quelque chose.</p>\n</li>\n</ul>\n</div>\n</div>",
-    "attributes": {
-      "attr1768128991584": {
-        "modtype": "Skill Rank",
-        "mod": "Athletics",
-        "value": 0
-      },
-      "attr1768128991807": {
-        "modtype": "Skill Rank",
-        "mod": "Ranged: Heavy",
-        "value": 0
-      },
-      "attr1768128991999": {
-        "modtype": "Skill Rank",
-        "mod": "Perception",
-        "value": 0
-      },
-      "attr1768128992222": {
-        "modtype": "Skill Rank",
-        "mod": "Piloting: Space",
-        "value": 0
-      },
-      "attr1768128992446": {
-        "modtype": "Skill Rank",
-        "mod": "Piloting: Planetary",
-        "value": 0
-      },
-      "attr1768128992665": {
-        "modtype": "Skill Rank",
-        "mod": "Brawl",
-        "value": 0
-      },
-      "attr1768129001018": {
-        "modtype": "Skill Rank",
-        "mod": "Streetwise",
-        "value": 0
-      },
-      "attr1768129001208": {
-        "modtype": "Skill Rank",
-        "mod": "Vigilance",
-        "value": 0
-      }
-    },
+    "description": "<div class=\"journal-page-content\">\n<p><span class=\"first-letter\">L</span>es huit compétences de carrière du Chasseur de primes sont <strong>Athlétisme</strong>, <strong>Distance (armes lourdes)</strong>, <strong>Perception</strong>, <strong>Pilotage (espace)</strong>, <strong>Pilotage (planétaire)</strong>, <strong>Pugilat</strong>, <strong>Système D</strong> et <strong>Vigilance</strong>. Il gagne automatiquement 1 rang dans quatre de ces compétences (de son choix) sans dépenser d’expérience, et il bénéficie d’une remise quand il dépense de l’expérience pour acheter des rangs dans ces compétences.</p>\n<h2>Rôle du Chasseur de primes</h2>\n<p>Comme son nom l’indique, ce type d’individu cherche à ramasser des primes en échange de son travail. Les Chasseurs de primes sont généralement craints, détestés et méprisés, et pourtant demandés partout dans la galaxie. Ce sont des pisteurs redoutables, des combattants brutaux et d’excellents enquêteurs. Ils préfèrent généralement les magouilles, la discrétion et les pièges aux assauts frontaux, mais les plus respectés font le nécessaire pour capturer leurs proies et récupérer leur dû.</p>\n<p>Les Chasseurs de primes entrent habituellement dans trois grandes catégories : les chasseurs de primes impériaux, les chasseurs de primes de guilde et les indépendants. Les premiers sont généralement sous contrat permanent avec le BSI (ou quelque autre institution représentant le droit impérial) et n’acceptent jamais de missions des corporations, gouvernements locaux ou des particuliers. Il s’agit de membres de confiance de la vaste communauté de l’Empire chargée de faire appliquer la loi, généralement d’anciens personnels militaires qui préfèrent travailler dans un cadre moins strict (mais pas forcément moins dangereux).</p>\n<p>Les chasseurs de primes liés à une guilde bénéficient de nombreux avantages de taille : le gîte et le couvert partout où la guilde est présente, un entraînement exceptionnel et un accès à du matériel de qualité adapté à leur travail, ainsi qu’un flot incessant de missions que leur confient les agents de la guilde. Le mauvais côté des choses, c’est qu’ils n’ont pas leur mot à dire sur les tâches qu’on leur remet, et qu’un refus se traduit par l’annulation immédiate de leur contrat.</p>\n<p>Ce sont les indépendants qui jouissent de la plus grande liberté, mais qui doivent aussi affronter les plus grands dangers et relever les défis les plus conséquents. Bien qu’ils acceptent souvent les contrats impériaux, qui sont généralement plus nombreux et lucratifs à la fois, ils aiment savoir qu’ils ne font pas partie de l’Empire. Ne pas être lié à une guilde sert aussi leurs sensibilités : ils peuvent choisir leurs contrats et ne peuvent en vouloir qu’à eux-mêmes quand ils échouent.</p>\n<p>Les PJ seront presque assurément des chasseurs de guilde ou des indépendants. Mais quel que soit son type, le personnage aura besoin d’un certificat de maintien de la paix impérial (CMPI). Il s’agit de la licence que tous les chasseurs de primes sont censés demander à l’Empire pour exercer leur profession. Sans ce document, le chasseur de primes n’est rien de plus qu’un kidnappeur, voire un assassin. Tout personnage qui choisit cette carrière a automatiquement un CMPI, sauf si le joueur s’y oppose. Ce genre de décision pourrait évidemment paraître curieux, mais cela peut ajouter un élément très intéressant à l’histoire du personnage concerné.</p>\n<h2>Histoires de Chasseurs de primes</h2>\n<p>La carrière de chasseur de primes n’attire pas les individus ordinaires et raisonnables. Chacun a ses raisons pour se tourner vers une telle carrière, des raisons qui peuvent énormément enrichir l’histoire de l’intéressé. Voici quelques idées :</p>\n<ul>\n<li>\n<p><strong>Vengeance</strong> : de nombreux chasseurs de primes se lancent dans ce genre de métier pour se venger de quelqu’un (ou d’une organisation) qui a échappé à la justice. Leurs motivations initiales sont très personnelles, et généralement dues à la perte d’un objet ou d’un être cher. Une fois justice rendue, les individus qui ont développé ces compétences et talents réalisent qu’ils ont trouvé leur voie.</p>\n</li>\n<li>\n<p><strong>Disgrâce</strong> : un échec désastreux ou une terrible tragédie a poussé le personnage vers cette carrière pour s’éloigner de son ancienne vie. En traquant les criminels dans toute la galaxie, il se construit une vie totalement différente et se taille une réputation, tout cela dans l’espoir de laisser son passé derrière lui. Mais peut-être n’aura-t-il pas cette chance.</p>\n</li>\n<li>\n<p><strong>Honneur</strong> : certains ont le sentiment que la justice qu’ils servent est foulée aux pieds par les gens pour lesquels ils travaillent. D’autres sont témoins de la corruption et de la tyrannie qui broient tout autour d’eux, et estiment que cela suffit. Ce genre de chasseur de primes peut avoir fait partie des forces de l’ordre, et avoir finalement compris qu’il n’en pouvait plus. Il est bien décidé à défendre la justice et la loi à sa façon, peut-être même contre ceux qu’il servait.</p>\n</li>\n<li>\n<p><strong>Agression</strong> : dans la galaxie, certains éprouvent tout simplement le besoin de molester leur prochain, ou de se livrer à des activités dangereuses. Marcher dans le rang et obéir aux ordres ne leur convient pas, mais tabasser leur proie avant de la livrer pour toucher leur prime, voilà qui les satisfait. Ce genre de chasseur a peut-être quitté l’armée, à moins qu’il ne se soit rabattu sur cette carrière après avoir fui les troupes de choc (ou pire).</p>\n</li>\n<li>\n<p><strong>Héritage</strong> : peut-être que son père, et le père de son père, ont été chasseurs de primes, et que le personnage a choisi de respecter la tradition familiale. Il pourrait être issu d’une culture qui vénère tous ceux qui traquent les délinquants, à moins qu’un ami cher n’ait voulu lui transmettre ses compétences. Quoi qu’il en soit, ce genre de chasseur de primes voit les traditions de cette profession avec le plus grand respect.</p>\n</li>\n</ul>\n<div class=\"journal-side-block\">\n<h5>Le Credo du Chasseur de primes</h5>\n<p><span class=\"first-letter\">B</span>ien que les chasseurs de primes soient souvent considérés comme des racailles sans foi ni loi, cette assertion est rarement fondée. La plupart suivent simplement un ensemble de règles très différentes de celles du civil moyen. C’est ce qu’on appelle le Credo des chasseurs de primes. En voici les principes résumés :</p>\n<ul>\n<li>\n<p><strong>Les primes ne visent pas des gens, seulement des acquisitions</strong> : ceux dont la tête est mise à prix ne sont plus des personnes, mais des « acquisitions ».</p>\n</li>\n<li>\n<p><strong>Capturer à dessein, tuer par nécessité</strong> : un chasseur de primes doit au moins essayer de ramener sa cible vivante.</p>\n</li>\n<li>\n<p><strong>Les chasseurs ne s’entretuent pas</strong> : cette règle, et la suivante, peuvent être « interprétées de façon créative », et il est parfois difficile de prouver la cause de la mort.</p>\n</li>\n<li>\n<p><strong>Un chasseur ne se mêlera pas des affaires d’un autre</strong> : en règle générale, les chasseurs de primes ne se mêlent pas des affaires de leurs pairs.</p>\n</li>\n<li>\n<p><strong>À la chasse, on capture ou on tue, jamais les deux</strong> : une fois l’acquisition capturée vivante, le chasseur de primes a l’obligation de la garder dans cet état jusqu’à la récupération de son dû.</p>\n</li>\n<li>\n<p><strong>Un chasseur ne refusera pas d’aider ses pairs</strong> : les chasseurs de primes prennent soin les uns des autres, mais il n’y a pas de mal à négocier un petit quelque chose.</p>\n</li>\n</ul>\n</div>\n</div>",
+    "attributes": {},
     "metadata": {
       "tags": [],
       "sources": [
@@ -68,9 +27,35 @@
         "name": "Expert en survie",
         "source": "Compendium.star-wars-compendium-fr.specialites.Item.MVSvlIcuvw1mlBnT",
         "id": "MVSvlIcuvw1mlBnT"
+      },
+      "jH5gfquFapU9OiqF": {
+        "name": "Artiste Martial",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.jH5gfquFapU9OiqF",
+        "id": "jH5gfquFapU9OiqF"
+      },
+      "v1PQHS2ZlqL7eKyx": {
+        "name": "Opérateur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.v1PQHS2ZlqL7eKyx",
+        "id": "v1PQHS2ZlqL7eKyx"
+      },
+      "qXqK5yu5xINb7QDV": {
+        "name": "Limier",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.qXqK5yu5xINb7QDV",
+        "id": "qXqK5yu5xINb7QDV"
       }
     },
-    "signatureabilities": {},
+    "signatureabilities": {
+      "zQSg6nA6NHYOLGdJ": {
+        "name": "Aucune prime ne m'échappe",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.zQSg6nA6NHYOLGdJ",
+        "id": "zQSg6nA6NHYOLGdJ"
+      },
+      "3FazDPAKrHNamk9i": {
+        "name": "Dévastation inégalée",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.3FazDPAKrHNamk9i",
+        "id": "3FazDPAKrHNamk9i"
+      }
+    },
     "careerSkills": {
       "careerSkill0": "Athletics",
       "careerSkill1": "Ranged: Heavy",
@@ -84,7 +69,7 @@
   },
   "effects": [
     {
-      "name": "(inherent)",
+      "name": "Compétences de Carrière",
       "img": "icons/svg/item-bag.svg",
       "changes": [
         {
@@ -160,350 +145,6 @@
         "exportSource": null
       },
       "_key": "!items.effects!rA6CwqtlTCaFCKr0.dZJGy17GHZkp9Akt"
-    },
-    {
-      "name": "attr1768128991584",
-      "changes": [
-        {
-          "key": "system.skills.Athletics.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "NPduq6pRWMzgnnpi",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217120,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.NPduq6pRWMzgnnpi"
-    },
-    {
-      "name": "attr1768128991807",
-      "changes": [
-        {
-          "key": "system.skills.Ranged: Heavy.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "XOAVDz1AoyP4Zxf7",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217124,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.XOAVDz1AoyP4Zxf7"
-    },
-    {
-      "name": "attr1768128991999",
-      "changes": [
-        {
-          "key": "system.skills.Perception.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "TNgdtuxq0XUN8Qgs",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217133,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.TNgdtuxq0XUN8Qgs"
-    },
-    {
-      "name": "attr1768128992222",
-      "changes": [
-        {
-          "key": "system.skills.Piloting: Space.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "oia9qwLRbv8fYjbz",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217142,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.oia9qwLRbv8fYjbz"
-    },
-    {
-      "name": "attr1768128992446",
-      "changes": [
-        {
-          "key": "system.skills.Piloting: Planetary.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "mpoFT2alFxBO3XQZ",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217147,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.mpoFT2alFxBO3XQZ"
-    },
-    {
-      "name": "attr1768128992665",
-      "changes": [
-        {
-          "key": "system.skills.Brawl.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "jIMV49sG5ufzbsWJ",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217151,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.jIMV49sG5ufzbsWJ"
-    },
-    {
-      "name": "attr1768129001018",
-      "changes": [
-        {
-          "key": "system.skills.Streetwise.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "VzLVEjk8RPpq2zbv",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217155,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.VzLVEjk8RPpq2zbv"
-    },
-    {
-      "name": "attr1768129001208",
-      "changes": [
-        {
-          "key": "system.skills.Vigilance.rank",
-          "mode": 2,
-          "value": "0"
-        }
-      ],
-      "_id": "J7O9qrGRwZxYVZmb",
-      "img": null,
-      "type": "base",
-      "system": {},
-      "disabled": false,
-      "duration": {
-        "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
-      },
-      "description": "",
-      "origin": null,
-      "tint": "#ffffff",
-      "transfer": true,
-      "statuses": [],
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1768129007377,
-        "modifiedTime": 1769188217159,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
-      },
-      "_key": "!items.effects!rA6CwqtlTCaFCKr0.J7O9qrGRwZxYVZmb"
     }
   ],
   "folder": null,
@@ -525,10 +166,10 @@
     "duplicateSource": null,
     "coreVersion": "13.351",
     "systemId": "starwarsffg",
-    "systemVersion": "1.910",
+    "systemVersion": "2.0.0",
     "createdTime": 1768128712188,
-    "modifiedTime": 1773224197766,
-    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "modifiedTime": 1774447699366,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
     "exportSource": null
   },
   "_key": "!items!rA6CwqtlTCaFCKr0"

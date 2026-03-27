@@ -2,7 +2,7 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
@@ -276,6 +276,18 @@
       "name": "degats_critiques",
       "label": "Dégâts Critiques",
       "path": "packs/degats_critiques",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "starwarsffg",
+      "flags": {}
+    },
+    {
+      "name": "capacites_emblematiques",
+      "label": "Capacités Emblématiques",
+      "path": "packs/capacites_emblematiques",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",

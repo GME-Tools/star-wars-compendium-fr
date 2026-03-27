@@ -1,0 +1,215 @@
+{
+  "name": "Errant",
+  "type": "career",
+  "_id": "GLqUtFM9AWfskYI5",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/errant.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p><span class=\"first-letter\">L</span>es six competences de carrière de l'Errant sont <strong>Connaissance (xénologie)</strong>, <strong>Distance (armes lourdes)</strong>, <strong>Pilotage (espace)</strong>, <strong>Pilotage (planétaire)</strong>, <strong>Survie </strong>et <strong>Vigilance </strong>Il gagne automatiquement un rang<br>dans trois de ces compétences sans dépenser de points d'expérience, et bénéficie d'une remise quand il dépense de l'expérience pour les améliorer. <strong>L'Errant commence le jeu avec une valeur de Force de 1.</strong></p><h2>Le Rôle de l'Errant</h2><p>Souvent, les utilisateurs de la Force se sentent poussés à sillonner la galaxie, afin d'aider ceux qui en ont besoin et de s'opposer aux adeptes du côté obscur. Beaucoup se concentrent sur les centres urbains et les villes, mais parfois le besoin s'avère aussi grand à la périphérie de la civilisation galactique. Un adepte de la Force désireux de voyager dans des environnements sauvages a une chance unique de soulager leurs habitants de la pauvreté, de la disette et des épidémies. Il peut aussi découvrir de nouvelles techniques de la Force dans la nature, y rencontrer de futurs adeptes à former ou y mettre un terme à des menaces qui, sans lui, se propageraient sans etre remarquées. Un Errant doit être capable d'accomplir tout cela et bien d'autres choses, et ce, sans aucun soutien.</p><p>Les Errants adoptent généralement une vue très pragmatique de la Force. Opérant indépendamment, ils considèrent qu'il s'agit d'un des outils de leur arsenal, mais<br>pas le seul. Pour un Errant, il est capital de se montrer à la fois préparé et flexible. Dans les régions isolées, les outils adaptés à ses besoins sont rares ou introuvables. Il doit donc tirer le meilleur équipement possible de ce qui est disponible. Dans certains environnements, cela l'oblige à découvrir des informations sur une faune et une flore encore inconnues. La Force peut devenir son atout le plus fiable : en plus d'être souple d'utilisation, elle l'aide à choisir ce dont il a besoin parmi tout ce qu'il a sous la main, puis à l'exploiter au mieux.</p><p>Pour les Errants, le maitre mot est « adaptation ». Certains suivent les directives de la Force, laissant le hasard et le destin leur montrer leurs destinations et leurs compagnons de voyage. D'autres évoluent au sein de groupes plus importants, qu'il s'agisse d'agents gouvernementaux, de chasseurs de primes, d'emissaires ou de marchands itinerants. La variêté des tâches impose à chaque Errant de se tenir pret à réagir rapidement à une situation changeante, et à exploiter au mieux les outils dont il dispose.</p><div class=\"journal-side-block\"><h5>Forme IV de combat au Sabre Laser : Ataru</h5><p><span class=\"first-letter\">L</span>a « forme de l'Agression » apparait au non-initié comme une suite de bonds et de plongeons si rapides qu'ils en deviennent. indistincts. Ce style de combat au sabre laser est épuisant, même pour des combattants capables d'augmenter leur vitesse et leur endurance grâce à la Force. En conséquence, son efficacité est maximale dans des combats brefs, où l'attaquant arrive à déborder rapidement les défenses de son adversaire.</p><p>En dépit des apparences, l'ataru est une forme très structurée, bâtie autour de nombreuses techniques soigneusement raffinées. En combinant les différents mouvements qu'il a appris, le Jedi se deplace selon trois axes, frappant l'adversaire sous des angles imprévus. Toutefois, comme il consacre toute son attention a attaquer férocement, le bretteur a beaucoup plus de mal à se défendre contre plusieurs ennemis.</p></div><h2>Histores d'Errants</h2><p>Les Errants se caractérisent par leur préférence pour le travail en solitaire ainsi que par leurs dons pour la survie dans des environnements hostiles. Bien qu'il existe des exceptions à cette règle, à l'origine, ils ont souvent dû se débrouiller seuls.</p><ul><li><p><strong>Exploration :</strong> le desir d'être le premier à visiter un nouvel endroit et d'y découvrir quelque chose de neuf peut parfois vous consumer. Certains Errants s'intéressent à ce domaine professionnel avec l'espoir d'y devenir célèbres ou d'y faire fortune. D'autres sont simplement fascinés par l'idée d'expériences complètement nouvelles. Blasés par la vie civilisée, ils rêvent des regions sauvages et inexplorées de la galaxie, loin d'une normalité qui, à leurs yeux,<br>est banale et ennuyeuse.</p></li><li><p><strong>Seul survivant :</strong> la capsule de survie de l'Errant s'est peut-ētre écrasée sur un monde isolé alors qu'il était enfant. Un désastre s'est peut-etre produit dans sa<br>colonie, à moins que le personnage n'ait été séparé de son peuple pendant une migration tribale. Dans tous les cas, il a appris à se débrouiller loin de la<br>civilisation dès son enfance. Grâce a sa sensibilité à la Force. il a fait mieux que survivre : il a prospéré dans la solitude. Très vite, il est devenu capable<br>d'evoluer dans cet environnement aussi bien que n'importe quel animal indigène. Même après avoir renoué avec la civilisation, l'Errant apprécie toujours<br>de s'en éloigner.</p></li><li><p><strong>Le monde naturel :</strong> les villes offrent une multitude de commodités et de liens sociaux, mais une splendeur très différente attend ceux qui visitent les régions sauvages. Ces environnements attirent un certain type d'individus, peu importe qu'ils aient grandi en ville ou dans la nature. Certains PJ découvrent que ces lieux reculés conviennent à leurs talents de la Force, et tentent d'y vivre ou d'y travailler, en tout cas d'y passer autant de temps que possible. Apprécier les beautés de la nature et les joies de la solitude loin des pressions de la vie civilisée peut veritablement métamorphoser un individu.</p></li><li><p><strong>Fuite :</strong> des propriétaires d'esclaves et des tyrans martyrisent leurs victimes dans toute la galaxie. Beaucoup d'enfants vivant dans la terreur préfèrent fuir loin de la société plutôt que de supporter cette existence. Un individu sensible à la Force qui se sort d'une telle situation développera sans doute des talents qui lui permettront de survivre puis de prospérer dans la nature. Avec les animaux pour alliés et les etendues sauvages pour garde-manger, le PJ peut devenir un véritable seigneur de la solitude. Même une fois qu'il aura repris contact avec la civilisation, il reviendra vivre dans la nature dès qu'il en aura l'occasion.</p></li></ul></div>",
+    "attributes": {
+      "attr1774518218595": {
+        "modtype": "Stat",
+        "mod": "ForcePool",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 72"
+      ]
+    },
+    "specializations": {
+      "0y9sP8axJ5JS372V": {
+        "name": "Arpenteur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.0y9sP8axJ5JS372V",
+        "id": "0y9sP8axJ5JS372V"
+      },
+      "FHGKeQGuNsc5tGpJ": {
+        "name": "Bretteur Ataru",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.FHGKeQGuNsc5tGpJ",
+        "id": "FHGKeQGuNsc5tGpJ"
+      },
+      "1UpcsKF8IZtqP9yG": {
+        "name": "Chasseur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.1UpcsKF8IZtqP9yG",
+        "id": "1UpcsKF8IZtqP9yG"
+      },
+      "RT9oZfpQOxuswu8D": {
+        "name": "Exécuteur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.RT9oZfpQOxuswu8D",
+        "id": "RT9oZfpQOxuswu8D"
+      },
+      "v7Xq59NHec008eKd": {
+        "name": "Ermite",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.v7Xq59NHec008eKd",
+        "id": "v7Xq59NHec008eKd"
+      },
+      "KNxHsO59x9W1Y5cc": {
+        "name": "Navigateur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.KNxHsO59x9W1Y5cc",
+        "id": "KNxHsO59x9W1Y5cc"
+      }
+    },
+    "signatureabilities": {
+      "qEYstEtiJ3sKBxOI": {
+        "name": "Fin inattendue",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.qEYstEtiJ3sKBxOI",
+        "id": "qEYstEtiJ3sKBxOI"
+      },
+      "hsndt8IJ9HuPlKHy": {
+        "name": "Poursuite implacable",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.hsndt8IJ9HuPlKHy",
+        "id": "hsndt8IJ9HuPlKHy"
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Knowledge: Xenology",
+      "careerSkill1": "Ranged: Heavy",
+      "careerSkill2": "Piloting: Space",
+      "careerSkill3": "Piloting: Planetary",
+      "careerSkill4": "Survival",
+      "careerSkill5": "Vigilance",
+      "careerSkill6": "(none)",
+      "careerSkill7": "(none)"
+    }
+  },
+  "effects": [
+    {
+      "name": "Compétences de Carrière",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Xenology.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Ranged: Heavy.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Space.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Piloting: Planetary.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Survival.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Vigilance.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "9yIafI2PzoStq7hU",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774518046241,
+        "modifiedTime": 1774518215833,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!GLqUtFM9AWfskYI5.9yIafI2PzoStq7hU"
+    },
+    {
+      "name": "Rang de Force",
+      "changes": [
+        {
+          "key": "system.stats.forcePool.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "2t4Jb6Nzuro15Ktf",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774518219812,
+        "modifiedTime": 1774518221384,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!GLqUtFM9AWfskYI5.2t4Jb6Nzuro15Ktf"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774518046232,
+    "modifiedTime": 1774521970827,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!GLqUtFM9AWfskYI5"
+}

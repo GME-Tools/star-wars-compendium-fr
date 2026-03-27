@@ -1,0 +1,215 @@
+{
+  "name": "Guerrier",
+  "type": "career",
+  "_id": "wISXsd5kB8TKnQJf",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/guerrier.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p><span class=\"first-letter\">L</span>es six competences de carrière du Guerrier sont <strong>Athletisme</strong>, <strong>Calme</strong>, <strong>Corps a corps</strong>, <strong>Perception</strong>, <strong>Pugilat </strong>et <strong>Survie</strong>. Il gagne automatiquement un rang dans trois de ces compétences sans dépenser de points d'expérience, et bénéficie d'une remise quand il dépense de l'expérience pour les améliorer. <strong>Le Guerrier commence le jeu avec une valeur de Force de 1.</strong></p><h2>Le Rôle du Guerrier</h2><p>Le sabre laser symbolise les utilisateurs de la Force dans bien des esprits, mais certains se consacrent entièrement à sa pratique afin de devenir des experts du combat. Ces individus redoutables sont les Guerriers.</p><p>Les Guerriers sont des combattants spécialisés qui se servent de la Force pour améliorer leurs considérables prouesses martiales. Qu'ils se trouvent sur le siège du pilote d'un chasseur spatial, brandissent un sabre laser sur un champ de batallle ou foncent blaster au poing, les Guerrier brillent dans toutes les formes de combat.</p><p>À en croire les légendes, l'Ordre Jedi est né lorsque des guerriers ont appris à intégrer des techniques de la Force dans leur entraînement physique. Cette association subsiste même en l'absence des gardiens de l'Ancienne République. La Force endurcit ceux qui en ont besoin, et les Guerriers excellent à l'utiliser. Ils deviennent une manifestation physique de cette énergie mystique, prets a triompher de tous leurs adversaires.</p><p>Toutefois, le principal atout du Guerrier peut aussi devenir sa plus grande faiblesse : l'agressivité constante ouvre la voie vers le côté obscur. Un sage doit admettre que si la violence a sa place, elle ne dolt pas être<br>la seule réponse. Un Guerrier peut infliger des dégâts à la fois considérables et ciblés. Toutefols, même des attaques bien appliquées risquent d'engendrer des conséquences à long terme. Pour cette raison, il doit savoir reconnaitre les moments où il est souhaitable de ne pas attaquer. Parmi les Guerriers, certains considerent que leur jugement est l'aspect le plus important de leur formation.</p><p>Ces individus proviennent d'un vaste eventail de cultures et d'environnements. Les conflits physiques sont aussi répandus dans les mondes avancés et à première vue pacifiques du Noyau que dans les sociétés moins civilisées de la Bordure Exterieure. Les styles de combat et les outils employés changent, mais les motivations et les résultats restent souvent similaires. Au bout du compte, les Guerriers doivent se montrer prets a risquer leur vie pour triompher des menaces qui pèsent contre eux et ceux qui leur sont chers.</p><div class=\"journal-side-block\"><h5>Forme I du combat au Sabre Laser : Shii-Cho</h5><p><span class=\"first-letter\">C</span>onsidéré comme la plus ancienne technique de combat au sabre laser, le shii-cho reste le plus élémentaire des styles. Mais cela ne veut pas dire qu'il est simple : alors que tous les Jedi recevaient un enseignement dans ce style, tous n'étaient pas capables de le maitriser. Développée en parallèle avec les premiers sabres laser cette forme comporte des mouvements tres similaires aux attaques et parades pratiquées avec une épée ordinaire.</p><p>Le shii-cho est conçu pour être simple et brut. Ses mouvements logiques et calculés sont pensés pour réduire méthodiquement les choix de l'adversaire avant de lui porter un coup final puissant. Sa plus grande faiblesse reste son âge. Ce style, né avant les blasters, ne tient pas compte de la capacité des sabres laser à renvoyer les tirs de ces armes. Toutefois, au corps à corps, il existe peu de formes plus efficaces.</p></div><h2>Histoires de Guerriers</h2><p>La violence conduit les personnages sur la voie du Guerrier. Pour certains, c'est une capacité naturelle due a leurs dons physiques ou à leurs talents de la Force. Pour d'autres, elle est devenue le seul choix possible à cause d'un passé tragique.</p><ul><li><p><strong>Discipline :</strong> certains individus éprouvent un désir naturel de violence et de combat. Chez de nombreuses espèces, l'évolution a créé un besoin pour ce genre d'exercice physique. Pour d'autres, les arts martiaux forment un element central de la culture. Au bout du compte, interagir avec la civilisation galactique contraint ceux qui sont dotés de telles tendances à se contrôler en permanence. Pour beaucoup, trouver un moyen d'employer cette énergie et ces émotions s'avère indispensable s'ils veulent vivre dans une société « civilisée ». Certains s'embarquent sur la voie du Guerrier à la recherche d'une telle soupape de sécurité et découvrent que cette voie leur convient.</p></li><li><p><strong>Vengeance :</strong> la violence engendre souvent la sauvagerie. Des enfants qui ont vu leurs amis, ou même leurs protecteurs, souffrir aux mains d'autrui jurent parfois de venger ces drames. Les individus sensibles à la Force qui ont affronté ce genre de défis dans leur enfance peuvent passer une grande partie de leur vie à aiguiser leurs capacités physiques ou liées à la Force afin d'assouvir leur vengeance.</p></li><li><p><strong>Survie :</strong> même au sein d'une civilisation urbaine, il reste des quartiers où la brutalité fait loi. Dans ces lieux, les dominants sont des prédateurs urbains, aussi dangereux que les fauves qui occupent le sommet de la chaîne alimentaire d'un monde frontalier. Parmi ceux qui ont souffert entre les mains de ces monstres, certains admettent que le seul moyen de les vaincre est de devenir un combattant encore plus redoutable qu'eux. Les adeptes de la Force qui ont traversé de telles épreuves orientent leurs talents vers la violence et l'intimidation, car pour eux, elles représentent le seul moyen de s'en sortir.</p></li></ul></div>",
+    "attributes": {
+      "attr1774534901300": {
+        "modtype": "Stat",
+        "mod": "ForcePool",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 84"
+      ]
+    },
+    "specializations": {
+      "C5d4AwxAh09LkPU4": {
+        "name": "Agresseur",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.C5d4AwxAh09LkPU4",
+        "id": "C5d4AwxAh09LkPU4"
+      },
+      "LysqaT8q6bjKyobp": {
+        "name": "Chevalier Shii-Cho",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.LysqaT8q6bjKyobp",
+        "id": "LysqaT8q6bjKyobp"
+      },
+      "zpRkbUBGsMuSM8Dl": {
+        "name": "As de l'Espace",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.zpRkbUBGsMuSM8Dl",
+        "id": "zpRkbUBGsMuSM8Dl"
+      },
+      "merltrGNpYRHWyQw": {
+        "name": "Colosse",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.merltrGNpYRHWyQw",
+        "id": "merltrGNpYRHWyQw"
+      },
+      "cwtb7xJF9LefoF25": {
+        "name": "Berserker Juyo",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.cwtb7xJF9LefoF25",
+        "id": "cwtb7xJF9LefoF25"
+      },
+      "KIy5aYxeYOrZHeCx": {
+        "name": "Adepte de la Main d'acier",
+        "source": "Compendium.star-wars-compendium-fr.specialites.Item.KIy5aYxeYOrZHeCx",
+        "id": "KIy5aYxeYOrZHeCx"
+      }
+    },
+    "signatureabilities": {
+      "GrEWGXi8vCyNEK9c": {
+        "name": "Réputation mortelle",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.GrEWGXi8vCyNEK9c",
+        "id": "GrEWGXi8vCyNEK9c"
+      },
+      "PlpsC8vEcmU2P3X1": {
+        "name": "Férocité hors pair",
+        "source": "Compendium.star-wars-compendium-fr.capacites_emblematiques.Item.PlpsC8vEcmU2P3X1",
+        "id": "PlpsC8vEcmU2P3X1"
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Athletics",
+      "careerSkill1": "Cool",
+      "careerSkill2": "Melee",
+      "careerSkill3": "Perception",
+      "careerSkill4": "Brawl",
+      "careerSkill5": "Survival",
+      "careerSkill6": "(none)",
+      "careerSkill7": "(none)"
+    }
+  },
+  "effects": [
+    {
+      "name": "Compétences de Carrière",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Cool.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Melee.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Perception.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Brawl.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Survival.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "EJfHkJ5jZvnvSqGi",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774534391799,
+        "modifiedTime": 1774534936337,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!wISXsd5kB8TKnQJf.EJfHkJ5jZvnvSqGi"
+    },
+    {
+      "name": "Rang de Force",
+      "changes": [
+        {
+          "key": "system.stats.forcePool.max",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "9lMX5vtOuoWVLLOy",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774534905376,
+        "modifiedTime": 1774534909898,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!wISXsd5kB8TKnQJf.9lMX5vtOuoWVLLOy"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774534391791,
+    "modifiedTime": 1774535820456,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!wISXsd5kB8TKnQJf"
+}
