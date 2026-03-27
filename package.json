@@ -6,14 +6,16 @@
     "fvtt:configure": "fvtt configure",
     "fvtt:status": "fvtt package",
     "fvtt:workon": "fvtt package workon star-wars-compendium-fr --type Module",
-    "validate:carrieres": "node scripts/validation/validate-careers.mjs",
-    "validate": "npm run validate:carrieres",
+    "validate": "node scripts/validation/validate.mjs",
     "unpack:carrieres": "fvtt package unpack carrieres --outputDirectory src/packs/carrieres",
+    "unpack:talents": "fvtt package unpack talents --outputDirectory src/packs/talents",
     "pack:carrieres": "fvtt package pack carrieres --inputDirectory src/packs/carrieres --outputDirectory packs",
+    "pack:talents": "fvtt package pack talents --inputDirectory src/packs/talents --outputDirectory packs",
     "build": "npm run validate && npm run pack:carrieres"
   },
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^3.0.3",
+    "html-validate": "^9.3.0",
     "pngjs": "^7.0.0"
   }
 }
