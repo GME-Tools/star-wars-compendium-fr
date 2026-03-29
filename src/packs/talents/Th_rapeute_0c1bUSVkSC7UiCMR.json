@@ -1,0 +1,60 @@
+{
+  "name": "Thérapeute",
+  "type": "talent",
+  "_id": "0c1bUSVkSC7UiCMR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez un test de M&eacute;decine pour aider un personnage &agrave; soigner ses blessures, celui-ci &eacute;limine 1 point de stress suppl&eacute;mentaire par rang de Th&eacute;rapeute.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "gdTbJ2QeP9BpSlrO"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Gu&eacute;risseur, Protecteur</p>\n<p>Quand le personnage effectue un test de M&eacute;decine pour aider un personnage &agrave; &eacute;liminer des blessures, le patient r&eacute;cup&egrave;re de 1 point de stress suppl&eacute;mentaire par rang de Th&eacute;rapeute.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746992950728,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!0c1bUSVkSC7UiCMR"
+}

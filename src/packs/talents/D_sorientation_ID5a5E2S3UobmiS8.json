@@ -1,0 +1,58 @@
+{
+  "name": "Désorientation",
+  "type": "talent",
+  "_id": "ID5a5E2S3UobmiS8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Après avoir touché avec un test de combat, vous pouvez dépenser [AD][AD] pour désorienter la cible pour un nombre de rounds égal à votre rang de Désorientation.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 136"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Après avoir touché avec un test de combat, le personnage peut dépenser [AD][AD] pour désorienter son adversaire (cf. @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.cDQ6hKWkTPTyowae.JournalEntryPage.uzSdAZTDwgxg5cAm#autres-etats]{page 218}). Une cible désorientée ajoute [SE] à tous ses tests de compétence. La cible est désorientée pour un nombre de rounds égal au rang du personnage en Désorientation.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768465380522,
+    "modifiedTime": 1774724232863,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!ID5a5E2S3UobmiS8"
+}

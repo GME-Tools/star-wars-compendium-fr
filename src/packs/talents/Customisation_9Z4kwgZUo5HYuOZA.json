@@ -1,0 +1,58 @@
+{
+  "name": "Customisation",
+  "type": "talent",
+  "_id": "9Z4kwgZUo5HYuOZA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez ajouter 1 emplacement à un nombre d'objets égal à votre rang en Customisation. Chaque objet ne peut être modifié qu'une fois.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut augmenter les possibilités d'amélioration d'un équipement. Il choisit une pièce d'équipement et augmente de 1 le nombre de ses emplacements. Il ne peut le faire qu'une seule fois par pièce d'équipement donnée, mais peut modifier un nombre d'éléments d'équipement égal à son rang en Customisation. S'il perd une pièce d'équipement ainsi modifiée, il peut appliquer son talent de Customisation à un nouvel élément.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768465892268,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!9Z4kwgZUo5HYuOZA"
+}

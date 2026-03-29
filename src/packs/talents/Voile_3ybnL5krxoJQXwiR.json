@@ -1,0 +1,58 @@
+{
+  "name": "Voile",
+  "type": "talent",
+  "_id": "3ybnL5krxoJQXwiR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>D&eacute;pensez 1 point de Destin. Vous &ecirc;tes ind&eacute;tectable aux pouvoirs de la Force et vos propres pouvoirs passent inaper&ccedil;us jusqu&rsquo;&agrave; la fin de la rencontre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Ombre</p>\n<p>Une fois par session de jeu, le personnage peut d&eacute;penser 1 point de Destin pour se rendre ind&eacute;tectable via la Force (gr&acirc;ce &agrave; des aptitudes telles que le pouvoir de la Force D&eacute;tection par exemple) et rendre ses propres pouvoirs de la Force ind&eacute;tectables pendant le reste de la rencontre.</p>\n<p>Il appartient au joueur et au MJ de d&eacute;terminer les implications exactes. Le MJ peut d&eacute;cider que certaines actions (comme soulever un X-wing par la force de l'esprit) sont trop &eacute;videntes pour &ecirc;tre ignor&eacute;es. Cependant,&nbsp;des aptitudes telles que la manipulation de manettes de&nbsp;commande, la levitation de petits objets ou l'utilisation de pouvoirs de la Force pour affecter quelqu'un de mani&egrave;re physique ou mentale peuvent passer inaper&ccedil;us, ou leurs effets se voir attribu&eacute;s &agrave; d'autres ph&eacute;nom&egrave;nes.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144639632,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!3ybnL5krxoJQXwiR"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Mécanicien de Précision",
+  "type": "talent",
+  "_id": "4SjzZxcmXoxeTWBY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous éliminez des points de stress mécanique subis par un véhicule ou un vaisseau, supprimez-en 1 de plus par rang de Mécanicien de précision.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139",
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Chaque fois que le personnage élimine des points de stress mécanique subis par un véhicule ou un vaisseau, il en supprime 1 de plus par rang de Mécanicien de précision.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143140232,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!4SjzZxcmXoxeTWBY"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Défaut de Motivateur",
+  "type": "talent",
+  "_id": "DhRPrcBPeLtjeiFV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par partie, entreprenez une action de Défaut de motivateur ; effectuez un <strong>test de Mécanique Difficile ([DI][DI][DI])</strong> pour que l'appareil visé tombe en panne sur-le-champ.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 136"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut entreprendre une action de Défaut de motivateur pour effectuer un <strong>test de Mécanique Difficile ([DI][DI][DI])</strong>. En cas de succès, un appareil (choisi avec l'approbation du MJ) tombe en panne sur-le-champ, soit du fait de l'intervention du personnage, soit parce qu'il était sur le point de tomber en panne et que le personnage l'a simplement remarqué (au choix du personnage).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683877281,
+    "modifiedTime": 1774768511249,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!DhRPrcBPeLtjeiFV"
+}

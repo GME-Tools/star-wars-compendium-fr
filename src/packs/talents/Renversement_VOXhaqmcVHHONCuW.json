@@ -1,0 +1,58 @@
+{
+  "name": "Renversement",
+  "type": "talent",
+  "_id": "VOXhaqmcVHHONCuW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Après avoir touché avec une attaque au corps à corps, vous pouvez dépenser [TR] pour jeter la cible à terre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Après avoir touché avec une attaque au corps à corps, le personnage peut jeter la cible à terre au prix d'un [TR]. Si la cible est plus grande que le personnage actif, il faut un [TR] supplémentaire par gabarit en plus.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1773242516327,
+    "modifiedTime": 1774771398072,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!VOXhaqmcVHHONCuW"
+}

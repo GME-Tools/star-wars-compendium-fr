@@ -1,0 +1,58 @@
+{
+  "name": "Utinni !",
+  "type": "talent",
+  "_id": "bRYQynGS9J8Gk7m8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang d'Utinni ! aux tests effectués pour trouver ou récupérer des objets ou de l'équipement. Ces tests prennent la moitié de leur durée normale.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage retire [SE] par rang en Utinni ! aux tests effectués pour trouver ou récupérer des objets ou de l'équipement. Il peut s'agir de tests de Négociation, de Perception ou d'autres compétences, selon les circonstances et à l'appréciation du MJ. Ces tests de compétence prennent la moitié de leur durée normale (indépendamment du nombre de rangs en Utinni !).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684370942,
+    "modifiedTime": 1774734176065,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!bRYQynGS9J8Gk7m8"
+}

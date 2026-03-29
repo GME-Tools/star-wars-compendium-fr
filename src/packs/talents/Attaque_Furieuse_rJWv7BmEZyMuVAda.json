@@ -1,0 +1,58 @@
+{
+  "name": "Attaque Furieuse",
+  "type": "talent",
+  "_id": "rJWv7BmEZyMuVAda",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez un test de Corps à corps ou de Pugilat, subissez un certain nombre de points de stress pour améliorer autant de dés de votre attaque. Le stress ainsi subi ne peut pas dépasser votre rang d'Attaque furieuse.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand il effectue un test de Corps à corps ou de Pugilat, le personnage peut choisir de subir un certain nombre de points de stress (qui ne peut excéder son nombre de rangs en Attaque furieuse) pour améliorer autant de dés d'aptitude à son test de combat.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683653844,
+    "modifiedTime": 1774705540330,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!rJWv7BmEZyMuVAda"
+}

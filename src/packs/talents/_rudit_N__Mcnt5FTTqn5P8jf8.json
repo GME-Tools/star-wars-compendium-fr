@@ -1,0 +1,58 @@
+{
+  "name": "Érudit-Né",
+  "type": "talent",
+  "_id": "Mcnt5FTTqn5P8jf8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par partie, vous pouvez relancer 1 test de Connaissance.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut relancer un test de Connaissance.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768489793123,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!Mcnt5FTTqn5P8jf8"
+}

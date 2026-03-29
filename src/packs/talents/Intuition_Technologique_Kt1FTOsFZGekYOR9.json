@@ -1,0 +1,59 @@
+{
+  "name": "Intuition Technologique",
+  "type": "talent",
+  "_id": "Kt1FTOsFZGekYOR9",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Intuition technologique : effectuez un [B]test de Connaissance (&eacute;ducation) Moyen ([DI][DI])[b] pour employer votre&nbsp;valeur de Force en tant que rang dans la comp&eacute;tence n&eacute;cessaire pour employer un objet pr&eacute;cis.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Artisan</p>\n<p>Une fois par session de jeu, le personnage peut entreprendre l'action Intuition technologique. Pour cela, il effectue un [B]test de Connaissance (Education) Moyen ([DI][DI])[b] afin d'obtenir une connaissance intuitive d'une arme, d'une pi&egrave;ce d'armure ou de tout autre &eacute;quipement. En cas de succ&egrave;s, pendant le reste de la rencontre, lorsque le personnage effectue un test visant &agrave; utiliser ou r&eacute;parer l'objet, ses rangs dans la comp&eacute;tence concern&eacute;e seront consid&eacute;r&eacute;s comme &eacute;gaux &agrave; sa valeur de Force actuelle.</p>\n<p>Ainsi, lorsqu'un personnage r&eacute;pare un sabre laser, il peut recourir &agrave; ce talent pour que ses rangs de M&eacute;canique soient &eacute;gaux &agrave; sa valeur de Force. De&nbsp; m&ecirc;me, ses rangs de Distance (armes l&eacute;g&egrave;res) seront &eacute;gaux &agrave; sa valeur de Force lorsqu'il tirera avec un pistolet blaster.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143722043,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!Kt1FTOsFZGekYOR9"
+}

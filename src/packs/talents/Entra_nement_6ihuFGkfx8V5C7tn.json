@@ -1,0 +1,75 @@
+{
+  "name": "Entraînement",
+  "type": "talent",
+  "_id": "6ihuFGkfx8V5C7tn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous gagnez +1 dans une caractéristique. Cela ne permet pas d'augmenter une caractéristique au-delà de 6.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137",
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "SSkeyiuQmBH7y2tX",
+      "0y9sP8axJ5JS372V",
+      "FHGKeQGuNsc5tGpJ",
+      "1UpcsKF8IZtqP9yG",
+      "VJSPFqxFztLr27YV",
+      "Qns9KN5CtltGHqqi",
+      "gdTbJ2QeP9BpSlrO",
+      "C5d4AwxAh09LkPU4",
+      "LysqaT8q6bjKyobp",
+      "zpRkbUBGsMuSM8Dl",
+      "Fgyxn5M9sJgOdPby",
+      "I3skkvGJrIVNeEwb",
+      "LoiPEc5ZBR9AudeV",
+      "scFBucLhyPvXA2Kx",
+      "QbH3ogQ5JNMYxI5V"
+    ],
+    "longDesc": "<p>Chaque rang augmente de 1 point permanent une caractéristique au choix du joueur. Ce talent ne permet pas d'augmenter une caractéristique au-delà de 6.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746991237029,
+    "modifiedTime": 1774731367940,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!6ihuFGkfx8V5C7tn"
+}

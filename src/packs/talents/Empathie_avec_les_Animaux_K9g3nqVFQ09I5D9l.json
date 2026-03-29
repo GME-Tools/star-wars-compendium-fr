@@ -1,0 +1,59 @@
+{
+  "name": "Empathie avec les Animaux",
+  "type": "talent",
+  "_id": "K9g3nqVFQ09I5D9l",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous effectuez des tests pour ma&icirc;triser ou dresser des animaux, ajoutez-y un nombre de [FO] inf&eacute;rieur ou<br>&eacute;gal &agrave; votre valeur de Force. D&eacute;pensez [FP] pour ajouter [SU] ou [AD] au r&eacute;sultat.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur</p>\n<p>Lorsque le personnage effectue des tests visant &agrave; maitriser, dresser ou contr&ocirc;ler des anlmaux, il peut y ajouter un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Il peut d&eacute;penser [FP] pour ajouter [SU] ou [TH] au r&eacute;sultat.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747032390182,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!K9g3nqVFQ09I5D9l"
+}

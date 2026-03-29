@@ -1,0 +1,59 @@
+{
+  "name": "Coup de Grâce Makashi",
+  "type": "talent",
+  "_id": "ZhA5DbZSQyPeW6jc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Coup de gr&acirc;ce makashi. Effectuez un test de combat de Sabre laser (Pr&eacute;sence) contre une cible au contact, en ajoutant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. D&eacute;pensez [FP] pour ajouter +10 &agrave; toute Blessure critique qui en r&eacute;sulterait.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Duelliste makashi</p>\n<p>Pour entreprendre l'action Coup de gr&acirc;ce makashi, le personnage effectue un test de Sabre laser (Pr&eacute;sence) contre une cible au contact en ajoutant &agrave; sa r&eacute;serve un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Le personnage peut d&eacute;penser [FP] pour ajouter + 10 &agrave; n'importe quel jet de blessure critique obtenu suite &agrave; ce test.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747140179575,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!ZhA5DbZSQyPeW6jc"
+}

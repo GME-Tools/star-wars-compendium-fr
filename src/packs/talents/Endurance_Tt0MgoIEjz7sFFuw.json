@@ -1,0 +1,105 @@
+{
+  "name": "Endurance",
+  "type": "talent",
+  "_id": "Tt0MgoIEjz7sFFuw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Augmentez votre valeur d'encaissement de +1.</p>",
+    "attributes": {
+      "attr1774731079958": {
+        "modtype": "Stat",
+        "mod": "Soak",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137",
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>La valeur d'encaissement du personnage gagne +1 par rang d'Endurance.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774731079958",
+      "changes": [
+        {
+          "key": "system.stats.soak.value",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "XcyE3k4deCeBRhfV",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774731081261,
+        "modifiedTime": 1774731083036,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!Tt0MgoIEjz7sFFuw.XcyE3k4deCeBRhfV"
+    }
+  ],
+  "folder": null,
+  "sort": 18800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747033371954,
+    "modifiedTime": 1774731083045,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!Tt0MgoIEjz7sFFuw"
+}

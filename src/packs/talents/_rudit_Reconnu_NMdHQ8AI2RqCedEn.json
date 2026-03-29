@@ -1,0 +1,59 @@
+{
+  "name": "Érudit Reconnu",
+  "type": "talent",
+  "_id": "NMdHQ8AI2RqCedEn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>D&eacute;gradez 1 d&eacute; de difficult&eacute; par rang d&rsquo;&Eacute;rudit reconnu lors des tests pour interagir avec des institutions acad&eacute;miques.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage dégrade 1 dé de difficulté par rang en Érudit reconnu lors des tests destinés à interagir avec des institutions académiques.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768489657646,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!NMdHQ8AI2RqCedEn"
+}

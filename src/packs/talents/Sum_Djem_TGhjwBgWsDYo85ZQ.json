@@ -1,0 +1,61 @@
+{
+  "name": "Sum Djem",
+  "type": "talent",
+  "_id": "TGhjwBgWsDYo85ZQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Sur un test r&eacute;ussi de Sabre Laser, d&eacute;pensez [TR] ou [AD][AD] pour d&eacute;sarmer votre adversaire.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "LysqaT8q6bjKyobp",
+      "I3skkvGJrIVNeEwb"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Chevalier shii-cho, Disciple niman, Duelliste makashi</p>\n<p>Quand le personnage r&eacute;ussit un test de Sabre laser, il peut d&eacute;penser [TR] ou [AD][AD] pour d&eacute;sarmer son adversaire (avec l'approbation du MJ). L'arme atterrit n'importe o&ugrave; &agrave; courte port&eacute;e du combat (au choix du personnage).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746991160860,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!TGhjwBgWsDYo85ZQ"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Esquive Intuitive",
+  "type": "talent",
+  "_id": "Fw1yUClxxWEQrRdK",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Accomplissez la man&oelig;uvre Esquive intuitive. Subissez 1 point de stress et engagez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; vos rangs d&rsquo;Esquive&nbsp;intuitive. Am&eacute;liorez autant de d&eacute;s de difficult&eacute; des tests de combat visant le vaisseau ou le v&eacute;hicule. Subissez 1 point de stress par round o&ugrave; un [FO] reste engag&eacute;.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> As de l'espace</p>\n<p>Quand il pilote un v&eacute;hicule de gabarit inf&eacute;rieur ou &eacute;gal &agrave; 5, le personnage peut entreprendre la man&oelig;uvre Esquive intuitive. Pour ce faire, il subit 1 point de stress et engage un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force et &agrave; ses rangs d'Esquive intuitive. Il am&eacute;liore alors autant de d&eacute;s de difficult&eacute; des tests de combat visant son vehicule. Le personnage subit 1 point de stress au d&eacute;but de chacun de ses tours au cours desquels les d&eacute;s restent engag&eacute;s.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747135901347,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!Fw1yUClxxWEQrRdK"
+}

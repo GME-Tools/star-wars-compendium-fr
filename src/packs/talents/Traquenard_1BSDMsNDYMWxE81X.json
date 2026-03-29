@@ -1,0 +1,58 @@
+{
+  "name": "Traquenard",
+  "type": "talent",
+  "_id": "1BSDMsNDYMWxE81X",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Traquenard : Effectuez un [B]test de Sabre laser (Intelligence) Difficile ([DI][DI][DI])[b], en lan&ccedil;ant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. S&rsquo;il est r&eacute;ussi, 1 cible &agrave; port&eacute;e courte ne peut attaquer que vous pendant un round. D&eacute;pensez [FP] pour &eacute;tendre les effets &agrave; 1 cible suppl&eacute;mentaire pendant 1 round.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> D&eacute;fenseur soresu</p>\n<p>Pendant qu'il manie un sabre laser, le personnage peut entreprendre l'action Traquenard. Pour ce faire, il effectue un [B]test de Sabre laser (Intelligence) Difficile ([DI][DI][DI])[b] en ajoutant &agrave; sa r&eacute;serve de d&eacute;s un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Pour chaque [SU], une cible &agrave; port&eacute;e courte du personnage se retrouve dans&nbsp; l'impossibilit&eacute; d'effectuer des tests de combat ne prenant pas pour cible le personnage, et ce, jusqu'&agrave; la fin du round suivant.</p>\n<p>Le personnage peut d&eacute;penser [FP] pour que Traquenard affecte une cible pendant un round suppl&eacute;mentaire.&nbsp;Les effets de Traquenard prennent fin si le personnage est neutralis&eacute;.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747053038291,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!1BSDMsNDYMWxE81X"
+}

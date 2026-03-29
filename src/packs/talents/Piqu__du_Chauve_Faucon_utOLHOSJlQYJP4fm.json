@@ -1,0 +1,59 @@
+{
+  "name": "Piqué du Chauve-Faucon",
+  "type": "talent",
+  "_id": "utOLHOSJlQYJP4fm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Piqu&eacute; du chauve-faucon. Effectuez un test de combat au Sabre laser (Agilit&eacute;) contre une cible &agrave; port&eacute;e courte, en y ajoutant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. En cas de r&eacute;ussite, vous pouvez d&eacute;penser [FP] pour vous retrouver au contact de la cible. Vous pouvez aussi d&eacute;penser [FP] pour ajouter [SU] au test.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 149"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Bretteur ataru</p>\n<p>Pour entreprendre une action de Piqu&eacute; du chauve faucon, le personnage doit effectuer un test de Sabre laser (Agilit&eacute;) contre une cible situ&eacute;e &agrave; courte port&eacute;e, en ajoutant &agrave; sa r&eacute;serve un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Avant de d&eacute;terminer l'issue du test, il peut d&eacute;penser [FP] pour se retrouver au contact de sa cible au prix d'une broutille. Il peut &eacute;galement depenser [FP] pour ajouter [AD] au test. Si le personnage ne peut se placer au contact de la cible, l'attaque &eacute;choue automatiquement.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 19800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747042177821,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!utOLHOSJlQYJP4fm"
+}

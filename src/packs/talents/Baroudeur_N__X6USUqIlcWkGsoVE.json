@@ -1,0 +1,60 @@
+{
+  "name": "Baroudeur-Né",
+  "type": "talent",
+  "_id": "X6USUqIlcWkGsoVE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par partie, vous pouvez relancer 1 test de Résistance ou de Survie.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133",
+        "Force et Destinée - Livre de Règles, pg. 140"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut relancer un test de Résistance ou de Survie.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747033420401,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!X6USUqIlcWkGsoVE"
+}

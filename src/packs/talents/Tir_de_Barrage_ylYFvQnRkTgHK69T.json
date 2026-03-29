@@ -1,0 +1,58 @@
+{
+  "name": "Tir de Barrage",
+  "type": "talent",
+  "_id": "ylYFvQnRkTgHK69T",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez 1 point de dégâts par rang de Tir de barrage à 1 coup réussi d'une attaque d'Artillerie ou de Distance (armes lourdes) à portée longue ou extrême.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Ajoutez 1 point de dégâts par rang de Tir de barrage à un coup réussi d'une attaque d'Artillerie ou de Distance (armes lourdes) à portée longue ou extrême, et à condition de ne pas utiliser une arme montée sur un véhicule ou un vaisseau spatial.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684332486,
+    "modifiedTime": 1774734095331,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!ylYFvQnRkTgHK69T"
+}

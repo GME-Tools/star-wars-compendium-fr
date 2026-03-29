@@ -1,0 +1,146 @@
+{
+  "name": "Poigne",
+  "type": "talent",
+  "_id": "5cBoQ3ak1V0KDOv0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Poigne aux tests de Calme et de Commandement.</p>",
+    "attributes": {
+      "attr1774773298850": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Cool",
+        "value": 1
+      },
+      "attr1774773299070": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Leadership",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Pacificateur</p><p>Le personnage retire un nombre de [SE] égal à son rang de Poigne aux tests de Calme et de Commandement.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774773298850",
+      "changes": [
+        {
+          "key": "system.skills.Cool.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "lNvZcUqumhB3SX3W",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774773302385,
+        "modifiedTime": 1774773308196,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!5cBoQ3ak1V0KDOv0.lNvZcUqumhB3SX3W"
+    },
+    {
+      "name": "attr1774773299070",
+      "changes": [
+        {
+          "key": "system.skills.Leadership.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "Oylxq2wxpfhRgcTI",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774773302385,
+        "modifiedTime": 1774773309113,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!5cBoQ3ak1V0KDOv0.Oylxq2wxpfhRgcTI"
+    }
+  ],
+  "folder": null,
+  "sort": 10600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747065025703,
+    "modifiedTime": 1774773309122,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!5cBoQ3ak1V0KDOv0"
+}

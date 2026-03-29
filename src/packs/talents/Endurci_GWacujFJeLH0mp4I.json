@@ -1,0 +1,116 @@
+{
+  "name": "Endurci",
+  "type": "talent",
+  "_id": "GWacujFJeLH0mp4I",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Augmentez votre seuil de blessure de +2.</p>",
+    "attributes": {
+      "attr1774731344242": {
+        "modtype": "Stat",
+        "mod": "Wounds",
+        "value": 2
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137",
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "SSkeyiuQmBH7y2tX",
+      "0y9sP8axJ5JS372V",
+      "1UpcsKF8IZtqP9yG",
+      "VJSPFqxFztLr27YV",
+      "Qns9KN5CtltGHqqi",
+      "gdTbJ2QeP9BpSlrO",
+      "C5d4AwxAh09LkPU4",
+      "LysqaT8q6bjKyobp",
+      "Fgyxn5M9sJgOdPby",
+      "JnWsrEaKwLPX0wBb",
+      "scFBucLhyPvXA2Kx"
+    ],
+    "longDesc": "<p>Le personnage augmente son seuil de blessure de 2 par rang d'Endurci.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774731344242",
+      "changes": [
+        {
+          "key": "system.stats.wounds.max",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "_id": "C6osI7MRiskb3KTi",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774731346810,
+        "modifiedTime": 1774731346810,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!GWacujFJeLH0mp4I.C6osI7MRiskb3KTi"
+    }
+  ],
+  "folder": null,
+  "sort": 15600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746990689308,
+    "modifiedTime": 1774731346821,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!GWacujFJeLH0mp4I"
+}

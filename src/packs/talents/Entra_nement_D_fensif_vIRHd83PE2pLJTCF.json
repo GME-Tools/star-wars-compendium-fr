@@ -1,0 +1,61 @@
+{
+  "name": "Entraînement Défensif",
+  "type": "talent",
+  "_id": "vIRHd83PE2pLJTCF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous maniez un sabre laser, une arme de corps &agrave; corps ou de pugilat, l'arme gagne l'attribut Parade avec une valeur &eacute;gale &agrave; votre nombre de rangs d'Entra&icirc;nement D&eacute;fensif.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "LysqaT8q6bjKyobp",
+      "I3skkvGJrIVNeEwb"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Chevalier shii-cho, Disciple niman, Duelliste makashi</p>\n<p>Quand le personnage manie une arme de Corps a corps ou de Pugilat (ou un sabre laser), cette derni&egrave;re gagne un nombre de rangs dans l'attribut Parade &eacute;gal a celui des rangs d'Entra&icirc;nement d&eacute;fensif du personnage (cette nouvelle valeur remplace celle de l'attribut Parade normal de l'arme).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746990836769,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!vIRHd83PE2pLJTCF"
+}

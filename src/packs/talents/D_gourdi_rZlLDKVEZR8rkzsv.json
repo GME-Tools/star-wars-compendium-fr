@@ -1,0 +1,148 @@
+{
+  "name": "Dégourdi",
+  "type": "talent",
+  "_id": "rZlLDKVEZR8rkzsv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Dégourdi à vos tests de Connaissance (Pègre) et de Système D.</p>",
+    "attributes": {
+      "attr1774724106735": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Underworld",
+        "value": 1
+      },
+      "attr1774724107072": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Streetwise",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 136",
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Retirez un [SE] par rang de Dégourdi aux tests de Connaissance (Pègre) et de Système D du personnage.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774724106735",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Underworld.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "kX8j864HGRI1lid4",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774724108420,
+        "modifiedTime": 1774724112510,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!rZlLDKVEZR8rkzsv.kX8j864HGRI1lid4"
+    },
+    {
+      "name": "attr1774724107072",
+      "changes": [
+        {
+          "key": "system.skills.Streetwise.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "74Vd8nYB5SmqCn7k",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774724108420,
+        "modifiedTime": 1774724118664,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!rZlLDKVEZR8rkzsv.74Vd8nYB5SmqCn7k"
+    }
+  ],
+  "folder": null,
+  "sort": 8900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747143906789,
+    "modifiedTime": 1774724118674,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!rZlLDKVEZR8rkzsv"
+}

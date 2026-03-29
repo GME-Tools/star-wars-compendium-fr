@@ -1,0 +1,58 @@
+{
+  "name": "Contacts au Marché Noir",
+  "type": "talent",
+  "_id": "LSsFDRl4KOIoeXbw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous achetez des biens illégaux, vous pouvez réduire la rareté de 1 par rang de Contacts au marché noir. Le coût de l'objet augmente de 50 % de son prix de base par réduction.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage cherche à acheter des produits exotiques, illégaux ou des marchandises au marché noir, il peut diminuer la rareté d'un objet de 1 niveau par rang de Contacts au marché noir. En contrepartie, pour chaque diminution de 1 niveau de rareté, le prix de l'objet augmente de 50 % de son prix de base.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773243660358,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!LSsFDRl4KOIoeXbw"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Sens des Affaires",
+  "type": "talent",
+  "_id": "gSNUZL8RrmnNKiJh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous vendez des marchandises légalement, gagnez 10 % de crédits en plus par rang de Sens des affaires.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage vend des marchandises légales à un marchand ou une entreprise honorable, il gagne 10 % de plus par rang de Sens des affaires sur le prix de vente normal.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773243517044,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!gSNUZL8RrmnNKiJh"
+}

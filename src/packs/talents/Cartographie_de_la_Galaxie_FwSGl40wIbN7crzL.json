@@ -1,0 +1,104 @@
+{
+  "name": "Cartographie de la Galaxie",
+  "type": "talent",
+  "_id": "FwSGl40wIbN7crzL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Cartographie de la galaxie aux tests d'Astrogation. Les tests d'Astrogation demandent moitié moins de temps.</p>",
+    "attributes": {
+      "attr1774708124562": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Astrogation",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133",
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Retirez [SE] par rang de Cartographie de la galaxie à tous les tests d'Astrogation. De plus, les tests d'Astrogation demandent moitié moins de temps. Des rangs supplémentaires en Cartographie de la galaxie ne modifient pas cette réduction de durée.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774708124562",
+      "changes": [
+        {
+          "key": "system.skills.Astrogation.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "pL1YQpqgK7WLkxe0",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774708126097,
+        "modifiedTime": 1774708128387,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!FwSGl40wIbN7crzL.pL1YQpqgK7WLkxe0"
+    }
+  ],
+  "folder": null,
+  "sort": 3900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747136025766,
+    "modifiedTime": 1774708128397,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!FwSGl40wIbN7crzL"
+}

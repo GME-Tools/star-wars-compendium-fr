@@ -1,0 +1,65 @@
+{
+  "name": "Parer",
+  "type": "talent",
+  "_id": "Qe6vu1ztTIqvSadM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque au corps &agrave; corps, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de Parer.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "FHGKeQGuNsc5tGpJ",
+      "VJSPFqxFztLr27YV",
+      "gdTbJ2QeP9BpSlrO",
+      "LysqaT8q6bjKyobp",
+      "I3skkvGJrIVNeEwb",
+      "scFBucLhyPvXA2Kx"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Bretteur ataru, Chevalier shii-cho, D&eacute;fenseur soresu, Duelliste makashi, Disciple niman, Expert shien, Protecteur</p>\n<p>Si le personnage est touch&eacute; suite a un test de Pugilat, de Corps &agrave; corps ou de Sabre laser, une fois les d&eacute;gats calcul&eacute;s (mais avant de prendre en compte sa valeur d'encaissement, et donc imm&eacute;diatement apr&egrave;s la troisi&egrave;me &eacute;tape d'[B]Effectuer un test de combat, page 210[b]), il peut utiliser le talent Parer au prix d'une broutille. Il subit alors 3 points de stress et r&eacute;duit les points de d&eacute;gats infiig&eacute;s par le coup de cette attaque de 2 plus son rang de Parer. Ce talent ne peut &ecirc;tre utilis&eacute; que lorsque le personnage manie un sabre laser ou une arme de corps &agrave; corps</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746990312696,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!Qe6vu1ztTIqvSadM"
+}

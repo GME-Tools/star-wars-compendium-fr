@@ -1,0 +1,60 @@
+{
+  "name": "Accompli",
+  "type": "talent",
+  "_id": "rKse9gy0lqqnyxD9",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choisissez 2 comp&eacute;tences. Elles deviennent &agrave; tout jamais des comp&eacute;tences de carri&egrave;re.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132",
+        "Force et Destinée - Livre de Règles pg. 136"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage choisit deux compétences. Elles deviennent à tout jamais des compétences de carrière.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747144556752,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!rKse9gy0lqqnyxD9"
+}

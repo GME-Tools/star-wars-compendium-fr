@@ -1,0 +1,58 @@
+{
+  "name": "Points Névralgiques",
+  "type": "talent",
+  "_id": "jiedFhgJMMdcfDPF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez un test de Pugilat contre un adversaire, au lieu d'infliger des blessures, vous pouvez infliger l'équivalant en stress, auquel s'ajoute 1 point de stress supplémentaire par rang en Médecine (ignorez l'encaissement).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage effectue un test de Pugilat contre une créature vivante, il peut décider d'infliger des dégâts non en blessure, mais en stress, auxquels il ajoute 1 point de stress supplémentaire par rang qu'il possède en Médecine. Ce talent ne fonctionne pas si le personnage utilise une arme ; par contre, ces dégâts de stress ne sont pas réduits par l'encaissement.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768483941185,
+    "modifiedTime": 1774770343721,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!jiedFhgJMMdcfDPF"
+}

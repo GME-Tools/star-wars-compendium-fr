@@ -1,0 +1,58 @@
+{
+  "name": "Touche Makashi",
+  "type": "talent",
+  "_id": "XGyqFJowDs0yx0ku",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par rencontre, entreprenez l&rsquo;action Touche makashi. Effectuez un [B]test de Sabre laser (Pr&eacute;sence) Moyen ([DI][DI])[b]. Un adversaire au contact subit un nombre de points de stress &eacute;gal aux [SU] obtenus. Vous &eacute;liminez autant de points de stress.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Duelliste makashi</p>\n<p>Une fois par rencontre, le personnage peut entreprendre l'action Touche makashi. Pour ce faire, il effectue un [B]test de Sabre laser (Pr&eacute;sence) Difficile ([DI][DI][DI])[b]. En cas de r&eacute;ussite, un de ses adversaires au contact subit un nombre de points de stress &eacute;gal &agrave; [SU] (l'encaissement n'est pas pris en compte), et le personnage en elimine le m&ecirc;me nombre. Il peut &eacute;galement d&eacute;penser [AD][AD][AD] ou [TR] obtenus suite &agrave; ce test pour &eacute;tourdir son adversaire jusqu'&agrave; la fin du prochain tour de sa cible.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747140087443,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!XGyqFJowDs0yx0ku"
+}

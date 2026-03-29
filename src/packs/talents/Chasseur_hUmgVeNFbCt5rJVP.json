@@ -1,0 +1,59 @@
+{
+  "name": "Chasseur",
+  "type": "talent",
+  "_id": "hUmgVeNFbCt5rJVP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] par rang de Chasseur à tous les tests concernant des interactions avec des bêtes sauvages et des animaux (y compris les tests de combat). Ajoutez +10 par rang de Chasseur aux résultats des blessures critiques contre les bêtes sauvages et les animaux.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 134",
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage ajoute [BO] par rang de Chasseur à tous les tests concernant des interactions avec des bêtes sauvages et des animaux, y compris les tests de combat. Par ailleurs, il ajoute +10 par rang de Chasseur aux jets de blessures critiques contre des animaux.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747046886301,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!hUmgVeNFbCt5rJVP"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Habitué des Systèmes Solaires",
+  "type": "talent",
+  "_id": "1w9LiFAARG1zlQjo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par partie, vous pouvez effectuer une manœuvre spéciale : effectuez un <strong>test de Connaissance (Bordure extérieure) </strong>ou <strong>(Mondes du Noyau) Difficile ([DI][DI][DI])</strong> pour révéler le type d'environnement planétaire et autres informations utiles.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut dépenser une manœuvre pour effectuer un <strong>test de Connaissance (Bordure extérieure)</strong> ou de <strong>Connaissance (Mondes du Noyau) Difficile ([DI][DI][DI])</strong>. En cas de succès, le personnage a la chance d'être familier avec le type d'environnement planétaire où il se trouve. Il sait si la planète a des chances d'être habitée et, si tel est le cas, où l'on doit pouvoir trouver des habitations. Il a également connaissance des effets environnementaux inhabituels, des prédateurs dangereux, ou des sources potentielles de profit.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1773243263872,
+    "modifiedTime": 1774769499568,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!1w9LiFAARG1zlQjo"
+}

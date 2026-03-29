@@ -1,0 +1,58 @@
+{
+  "name": "Bricoleur",
+  "type": "talent",
+  "_id": "SI2uoAmwmmXcy9Le",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par partie, entreprenez une action de Bricoleur ; effectuez un <strong>test de Mécanique Difficile ([DI][DI][DI])</strong> pour fabriquer, avec les outils et les pièces dont vous disposez, un appareil permettant de répondre à un problème actuel.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut effectuer une action de Bricoleur. En réussissant un <strong>test de Mécanique Difficile ([DI][DI][DI])</strong>, le personnage est en mesure de fabriquer, avec les outils et les pièces dont il dispose, un appareil permettant de répondre à un problème actuel. Cet appareil doit être approuvé par le MJ et fonctionne uniquement pour la durée de la rencontre en cours. Les outils utilisés sont détruits dans l'opération. Un [TR] peut permettre de récupérer les outils afin de pouvoir les réutiliser ultérieurement.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683705717,
+    "modifiedTime": 1774735098835,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!SI2uoAmwmmXcy9Le"
+}

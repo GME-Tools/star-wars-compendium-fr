@@ -1,0 +1,58 @@
+{
+  "name": "Déplacement Eclair",
+  "type": "talent",
+  "_id": "cFTtAR5IHf9dftyl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 2 points de stress pour accomplir la broutille D&eacute;placement &eacute;clair : ajoutez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force au prochain test. Apr&egrave;s avoir agi, vous pouvez d&eacute;penser [FP][FP] pour accomplir une manoeuvre de D&eacute;placement additionnelle.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur</p>\n<p>Au cours d'un round de jeu structur&eacute;, avant d'effectuer un test ne concernant pas un pouvoir de la Force, le personnage peut subir 2 points de stress pour ajouter &agrave; sa r&eacute;serve un nombre de [FO] inf&eacute;rieur ou egal &agrave; sa valeur de Force. Une fois le test termin&eacute;, il peut d&eacute;penser [FP][FP] obtenus pour entreprendre une man&oelig;euvre de d&eacute;placement gratuite. Cette man&oelig;uvre peut s'ajouter &agrave; d'autres effectu&eacute;es lors de ce tour, ce qui permet au personnage d'accomplir trois man&oelig;uvres en un tour.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747033144390,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!cFTtAR5IHf9dftyl"
+}

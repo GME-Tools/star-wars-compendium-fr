@@ -1,0 +1,58 @@
+{
+  "name": "As de la Mécanique",
+  "type": "talent",
+  "_id": "PfLwFfYHahgd0mfA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang d'As de la mécanique à vos tests de Mécanique. Le coût en crédits pour ajouter des mods sur des kits est réduit de moitié.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Retirez [SE] par rang d'As de la mécanique à tous les tests de Mécanique. De plus, le coût en crédits pour ajouter des mods sur des kits est réduit de moitié. Des rangs supplémentaires en As de la mécanique ne modifient pas cette réduction de coût.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10300000,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683504368,
+    "modifiedTime": 1774705406456,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!PfLwFfYHahgd0mfA"
+}

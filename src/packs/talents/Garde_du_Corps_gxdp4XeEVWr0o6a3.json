@@ -1,0 +1,59 @@
+{
+  "name": "Garde du Corps",
+  "type": "talent",
+  "_id": "gxdp4XeEVWr0o6a3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, exécutez une manœuvre pour protéger un personnage au contact. Vous subissez un nombre de points de stress inférieur ou égal à votre rang de Garde du corps. Jusqu'au début de votre tour suivant, améliorez autant de dés de difficulté des tests de combat visant le personnage protégé.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 138",
+        "Force et Destinée - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, le personnage peut, à son tour, exécuter une manœuvre de Garde du corps pour protéger un allié au contact. Le personnage subit un nombre de points de stress inférieur ou égal à son rang en Garde du corps. Jusqu'au début du tour suivant du personnage, sur tous les tests de combat prenant pour cible l'allié protégé, améliorez un nombre de dés de difficulté égal au nombre de points de stress subis par le personnage.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747082678506,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!gxdp4XeEVWr0o6a3"
+}

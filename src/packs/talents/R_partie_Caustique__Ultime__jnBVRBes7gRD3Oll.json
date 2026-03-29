@@ -1,0 +1,58 @@
+{
+  "name": "Répartie Caustique (Ultime)",
+  "type": "talent",
+  "_id": "jnBVRBes7gRD3Oll",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 1 point de stress pour utiliser Répartie caustique au prix d'une manœuvre au lieu d'une action.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut choisir de subir 1 point de stress afin de pouvoir utiliser Répartie caustique au prix d'une manœuvre au lieu d'une action.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768484722194,
+    "modifiedTime": 1774733635259,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!jnBVRBes7gRD3Oll"
+}

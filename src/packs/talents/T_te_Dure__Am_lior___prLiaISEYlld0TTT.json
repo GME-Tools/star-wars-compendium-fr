@@ -1,0 +1,58 @@
+{
+  "name": "Tête Dure (Amélioré)",
+  "type": "talent",
+  "_id": "prLiaISEYlld0TTT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous êtes neutralisé pour avoir dépassé votre seuil de stress, vous pouvez entreprendre une action de Tête dure plus difficile pour ramener votre stress à 1 point au-dessous de votre seuil.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut utiliser son action de Tête dure quand il est neutralisé pour avoir dépassé son seuil de stress. Au tour qui suit sa neutralisation, il effectue un <strong>test de Sang-froid Exceptionnel ([DI][DI][DI][DI][DI])</strong> dans le cadre de son action de Tête dure (même si normalement il ne devrait pas pouvoir entreprendre d'action). En cas de succès, il ramène son stress à un point au-dessous de son seuil. La difficulté de ce test diminue de 1 dé par rang de Tête dure, jusqu'à un minimum de <strong>Facile ([DI])</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684320485,
+    "modifiedTime": 1774734084038,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!prLiaISEYlld0TTT"
+}

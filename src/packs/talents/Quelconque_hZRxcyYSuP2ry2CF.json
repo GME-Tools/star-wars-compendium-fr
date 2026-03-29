@@ -1,0 +1,60 @@
+{
+  "name": "Quelconque",
+  "type": "talent",
+  "_id": "hZRxcyYSuP2ry2CF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Améliorez 1 dé de difficulté des tests visant à vous identifier par rang de Quelconque.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142",
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>L'apparence du personnage est tellement ordinaire que les gens ont du mal à se souvenir précisément de lui. On améliore 1 dé de difficulté des tests pour identifier le personnage par rang de Quelconque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144524352,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!hZRxcyYSuP2ry2CF"
+}

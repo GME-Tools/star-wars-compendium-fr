@@ -1,0 +1,60 @@
+{
+  "name": "Aplomb",
+  "type": "talent",
+  "_id": "wdjBey0OktD4H2rv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter la peur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132",
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter les effets de peur. S'il ne reste aucun dé de difficulté, le personnage n'a pas à effectuer de test de Sang-froid.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746994204014,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!wdjBey0OktD4H2rv"
+}

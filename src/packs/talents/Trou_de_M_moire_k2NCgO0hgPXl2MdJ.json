@@ -1,0 +1,58 @@
+{
+  "name": "Trou de Mémoire",
+  "type": "talent",
+  "_id": "k2NCgO0hgPXl2MdJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par session de jeu, entreprenez l&rsquo;action Trou de m&eacute;moire. Effectuez un [B]test de Tromperie Difficile ([DI][DI][DI])[b] pour &ecirc;tre oubli&eacute; par un nombre de PNJ &eacute;gal &agrave; votre Ruse, situ&eacute;s au plus &agrave; port&eacute;e moyenne.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Ombre</p>\n<p>Une fois par session de jeu, le personnage peut entreprendre l'action Trou de m&eacute;moire. Pour ce faire, il effectue un [B]test de Tromperie Difficile ([DI][DI][DI])[b]. En cas de r&eacute;ussite, un nombre de PNJ &agrave; moyenne port&eacute;e &eacute;gal &agrave; sa Ruse oublie toute interaction effectu&eacute;e avec le personnage au cours des trente derni&egrave;res minutes.</p>\n<p>&Agrave; la discr&eacute;tion du MJ, une s&eacute;rie de [TH] ou de [DE] peut infliger aux PNJ concern&eacute;s des effets secondaires d&eacute;sagr&eacute;ables tels que troubles, cauchemars, ou la sensation aga&ccedil;ante et persistante d'avoir oubli&eacute; quelque chose d'important.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144771249,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!k2NCgO0hgPXl2MdJ"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Maître Artisan",
+  "type": "talent",
+  "_id": "82C5OmGBTzCA9Fy6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez effectuer la broutille Ma&icirc;tre artisan : subissez 2 points de stress pour diminuer la difficult&eacute; du prochain&nbsp;test de M&eacute;canique de 1, jusqu&rsquo;&agrave; un minimum de [B]Facile ([DI])[b].</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Artisan</p>\n<p>Une fois par round, le personnage peut d&eacute;cider de subir deux points de stress pour r&eacute;duire de 1 d&eacute; la difficult&eacute; de son prochain test de M&eacute;canique (ou de son prochain test visant &agrave; construire ou am&eacute;liorer un objet), jusqu'&agrave; un minimum de [B]Facile ([DI])[b].</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143593297,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!82C5OmGBTzCA9Fy6"
+}

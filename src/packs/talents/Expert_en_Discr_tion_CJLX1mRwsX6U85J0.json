@@ -1,0 +1,59 @@
+{
+  "name": "Expert en Discrétion",
+  "type": "talent",
+  "_id": "CJLX1mRwsX6U85J0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, subissez 2 points de stress pour réduire de 1 la difficulté de votre prochain test de Discrétion ou de Magouilles.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 138",
+        "Force et Destinée - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, le personnage peut choisir de subir 2 points de stress pour réduire de 1 dé la difficulté de son prochain test de Discrétion ou de Magouilles, jusqu'à un minimum de <strong>Facile ([DI])</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747144897162,
+    "modifiedTime": 1774731568135,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!CJLX1mRwsX6U85J0"
+}

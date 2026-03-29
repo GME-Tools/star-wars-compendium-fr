@@ -1,0 +1,58 @@
+{
+  "name": "Trait de Génie",
+  "type": "talent",
+  "_id": "EuOEhg4in4CDkW8G",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par séance de jeu, effectuez un test de compétence en utilisant votre Intelligence plutôt que la caractéristique normalement associée à cette compétence.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut choisir d'effectuer un test de compétence en utilisant son Intelligence plutôt que la caractéristique normalement associée à cette compétence. Il doit toutefois expliquer comment, dans cette circonstance particulière, il fait appel à son intelligence pour accomplir son action.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768489939634,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!EuOEhg4in4CDkW8G"
+}

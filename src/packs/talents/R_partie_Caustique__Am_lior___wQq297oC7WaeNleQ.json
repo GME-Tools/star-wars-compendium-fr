@@ -1,0 +1,58 @@
+{
+  "name": "Répartie Caustique (Amélioré)",
+  "type": "talent",
+  "_id": "wQq297oC7WaeNleQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Chaque ennemi affecté par Répartie caustique subit [SE] à tous ses tests de compétence pour un nombre de rounds égal à votre rang en Coercition.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Chaque ennemi affecté par Répartie caustique subit [SE] à tous ses tests de compétence pour un nombre de rounds égal au rang du personnage en Coercition. Plusieurs utilisations de ce talent ne se cumulent pas.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768484556534,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!wQq297oC7WaeNleQ"
+}

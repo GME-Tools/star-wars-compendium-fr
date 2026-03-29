@@ -1,0 +1,58 @@
+{
+  "name": "Visée Juste",
+  "type": "talent",
+  "_id": "w8hzPZRjqZvx0Q8A",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez exécuter une manœuvre de Visée juste pour obtenir tous les bénéfices associés au fait de viser et améliorer 1 dé du test de combat par rang de Visée juste.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, avant que le personnage effectue une attaque à distance, il peut accomplir la manœuvre Visée juste. Le personnage obtient tous les bénéfices associés au fait de viser et améliore 1 dé de son jet d'attaque par rang de Visée juste.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1767196049476,
+    "modifiedTime": 1774772790922,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!w8hzPZRjqZvx0Q8A"
+}

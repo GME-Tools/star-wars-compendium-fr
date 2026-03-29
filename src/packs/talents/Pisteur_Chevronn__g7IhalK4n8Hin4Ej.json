@@ -1,0 +1,62 @@
+{
+  "name": "Pisteur Chevronné",
+  "type": "talent",
+  "_id": "g7IhalK4n8Hin4Ej",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Pisteur chevronné aux tests effectués pour suivre ou trouver des traces. Réduisez de moitié le temps nécessaire pour suivre une cible.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles, pg. 149"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "1UpcsKF8IZtqP9yG",
+      "JnWsrEaKwLPX0wBb"
+    ],
+    "longDesc": "<p>Retirez [SE] par rang de Pisteur chevronné aux tests effectués pour suivre ou trouver des traces. Les tests de Survie effectués pour suivre une piste prennent moitié moins de temps que la normale. Des rangs supplémentaires en Pisteur chevronné ne modifient pas cette réduction de durée.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 19900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747044496406,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!g7IhalK4n8Hin4Ej"
+}

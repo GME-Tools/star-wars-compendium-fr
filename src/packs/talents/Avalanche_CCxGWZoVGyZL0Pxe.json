@@ -1,0 +1,58 @@
+{
+  "name": "Avalanche",
+  "type": "talent",
+  "_id": "CCxGWZoVGyZL0Pxe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 2 points de stress pour ajouter des d&eacute;g&acirc;ts &eacute;gaux &agrave; votre Vigueur au prochain test de combat au Sabre laser effectu&eacute; &agrave; ce tour.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Expert shien</p>\n<p>Une fois par round, quand il r&eacute;ussit une attaque de sabre laser, le personnage peut subir 2 points de stress pour en augmenter les d&eacute;g&auml;ts d'un montant &eacute;gal a sa Vigueur.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144235274,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!CCxGWZoVGyZL0Pxe"
+}

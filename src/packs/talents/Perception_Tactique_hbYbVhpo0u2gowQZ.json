@@ -1,0 +1,59 @@
+{
+  "name": "Perception Tactique",
+  "type": "talent",
+  "_id": "hbYbVhpo0u2gowQZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par session de jeu, vous pouvez ajouter [SE][SE] au test de comp&eacute;tence d&rsquo;un PNJ.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Conseiller, Agresseur, Visionnaire</p>\n<p>Une fois par session de jeu, le personnage peut ajouter [SE][SE] &agrave; un test de comp&eacute;tence d'un PNJ situ&eacute; jusqu'&agrave; port&eacute;e extr&ecirc;me.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 13800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747122486396,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!hbYbVhpo0u2gowQZ"
+}

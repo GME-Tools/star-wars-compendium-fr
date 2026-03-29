@@ -1,0 +1,58 @@
+{
+  "name": "Contre Toute Attente",
+  "type": "talent",
+  "_id": "KQ7weBuzmai76nut",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous &ecirc;tes neutralis&eacute;, accomplissez l&rsquo;action Contre toute attente : effectuez un [B]test de R&eacute;sistance Difficile ([DI][DI][DI])[b] avec autant de [FO] que votre valeur de Force. Vous gu&eacute;rissez d&rsquo;autant de points de blessure que de [SU], et vous pouvez d&eacute;penser [FP] pour ajouter [SU].</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Agresseur</p>\n<p>Une fois par session de jeu, lorsque le personnage est neutralis&eacute; parce que son seuil de blessure est d&eacute;pass&eacute;, il peut entreprendre l'action Contre toute attente (meme si normalement le fait d'&ecirc;tre neutralis&eacute; devrait&nbsp; l'empecher d'entreprendre la moindre action). Il effectue un [B]test de R&eacute;sistance Difficile ([DI][DI][DI])[b] en ajoutant &agrave; sa r&eacute;serve un nombre de [FO] &eacute;gal &agrave; sa valeur de Force. En cas de succ&egrave;s, le personnage soigne autant de points de blessure que de [SU]. Le personnage peut depenser des [FP] pour ajouter des [SU] au r&eacute;sultat.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747127156976,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!KQ7weBuzmai76nut"
+}

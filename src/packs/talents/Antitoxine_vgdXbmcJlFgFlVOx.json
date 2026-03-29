@@ -1,0 +1,58 @@
+{
+  "name": "Antitoxine",
+  "type": "talent",
+  "_id": "vgdXbmcJlFgFlVOx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] par rang d'Antitoxine à tous les tests pour résister aux poisons, venins et autres toxines, ou pour s'en remettre. Réduisez la durée des effets et les dégâts des toxines, venins et poisons de 1 round par rang d'Antitoxine, jusqu'à un minimum de 1.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Ajoutez [BO] par rang d'Antitoxine à tous les tests pour résister aux poisons, venins et autres toxines, ainsi qu'aux tests visant à se remettre de leurs effets. Réduisez la durée des effets et les dégâts des toxines, venins et poisons de 1 round/point par rang d'Antitoxine, jusqu'à un minimum de 1.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768466712910,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!vgdXbmcJlFgFlVOx"
+}

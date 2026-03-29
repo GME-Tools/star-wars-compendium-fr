@@ -1,0 +1,58 @@
+{
+  "name": "Lien avec les Animaux",
+  "type": "talent",
+  "_id": "D3pd1ijSFvMCOP25",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>D&eacute;veloppez un lien &agrave; long terme avec un animal unique dont le gabarit est inf&eacute;rieur &agrave; la moiti&eacute; de votre valeur de Force, arrondie &agrave; l&rsquo;entier inf&eacute;rieur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur</p>\n<p>En recourant &agrave; la Force, le personnage cr&eacute;e un lien avec un seul et unique animal vis&eacute;. Cette action ne peut pas etre entreprise lors de rencontres structur&eacute;es. Le gabarit de l'animal doit &ecirc;tre inf&eacute;rieur ou &eacute;gal &agrave; la moiti&eacute; de la valeur de Force du personnage au moment o&ugrave; le lien est cr&eacute;&eacute;, arrondi au chiffre inf&eacute;rieur (cela signifie qu'un personnage avec une valeur de Force de 1 ne peut se lier qu'&agrave; un animal de gabarit 0). Le lien subsiste au gr&eacute; de la volont&eacute; du personnage, m&ecirc;me si le MJ peut d&eacute;cider de le rompre suite &agrave; de mauvais traitements ou &agrave; d'autres circonstances exceptionnelles.</p>\n<p>Tant que ce lien subsiste, l'animal demeure a proximit&eacute; du personnage, et le joueur qui le controle lui dicte son comportement. Cependant, puisque la b&ecirc;te est uniquement li&eacute;e et non domin&eacute;e, il peut lui arriver de faire quelques b&eacute;tises comme griffer des meubles, manger des rations et marquer son territoire. Une fois par tour lors de rencontres structur&eacute;es, le personnage peut, au prix d'une man&oelig;uvre, inciter son animal &agrave; effectuer une action et une man&oelig;uvre. Pour ce faire, la b&ecirc;te doit se trouver &agrave; port&eacute;e de voix et de vue (ce qui correspond au plus &agrave; la port&eacute;e moyenne) du personnage. Sinon, elle ne pourra pas participer &agrave; la rencontre. Les sp&eacute;cificit&eacute;s de son comportement sont laiss&eacute;es &agrave; l'appr&eacute;ciation du joueur et du MJ.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747032454891,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!D3pd1ijSFvMCOP25"
+}

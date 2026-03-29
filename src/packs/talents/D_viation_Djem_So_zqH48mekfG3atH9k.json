@@ -1,0 +1,58 @@
+{
+  "name": "Déviation Djem So",
+  "type": "talent",
+  "_id": "zqH48mekfG3atH9k",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Apr&egrave;s avoir utilis&eacute; D&eacute;vier, d&eacute;pensez 1 point de Destin pour accomplir la man&oelig;uvre D&eacute;placement comme une broutille hors tour afin de&nbsp;r&eacute;duire la distance ou de vous retrouver au contact de votre adversaire.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Expert shien</p>\n<p>Un personnage ayant recouru au talent D&eacute;vier peut d&eacute;penser un point de Destin pour ex&eacute;cuter une man&oelig;uvre de D&eacute;placement au prix d'une broutille hors tour afin de se rapprocher ou de venir au contact d'un adversaire. Cette broutille peut etre accomplie une seule fois par tour.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144164586,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!zqH48mekfG3atH9k"
+}

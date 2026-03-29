@@ -1,0 +1,58 @@
+{
+  "name": "En Selle !",
+  "type": "talent",
+  "_id": "VtkHAhKz85JNEtLU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez monter ou descendre d'un véhicule ou d'une monture, ou vous installer dans le cockpit ou la tourelle d'armement d'un vaisseau au prix d'une broutille.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, le personnage peut, à son tour, monter ou descendre d'un véhicule ou d'une monture, ou s'installer dans le cockpit ou la tourelle d'armement d'un vaisseau spatial au prix d'une broutille au lieu d'une manœuvre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773243196094,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!VtkHAhKz85JNEtLU"
+}

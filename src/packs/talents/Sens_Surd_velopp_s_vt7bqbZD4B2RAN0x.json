@@ -1,0 +1,105 @@
+{
+  "name": "Sens Surdéveloppés",
+  "type": "talent",
+  "_id": "vt7bqbZD4B2RAN0x",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] par rang de Sens surd&eacute;velopp&eacute; aux tests de Perception.</p>",
+    "attributes": {
+      "attr1774733850335": {
+        "modtype": "Skill Boost",
+        "mod": "Perception",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144",
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage ajoute [BO] par rang en Sens surdéveloppés à tous ses tests de Perception.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774733850335",
+      "changes": [
+        {
+          "key": "system.skills.Perception.boost",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "vM5yc0jBE0mBQbCn",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774733852074,
+        "modifiedTime": 1774733856965,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!vt7bqbZD4B2RAN0x.vM5yc0jBE0mBQbCn"
+    }
+  ],
+  "folder": null,
+  "sort": 13000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747046942692,
+    "modifiedTime": 1774733856976,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!vt7bqbZD4B2RAN0x"
+}

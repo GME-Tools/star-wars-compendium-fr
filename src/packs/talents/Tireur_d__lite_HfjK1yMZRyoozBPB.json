@@ -1,0 +1,58 @@
+{
+  "name": "Tireur d'Élite",
+  "type": "talent",
+  "_id": "HfjK1yMZRyoozBPB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Avant de porter une attaque à distance (mais pas avec une arme de jet), vous pouvez exécuter une manœuvre pour augmenter la portée de votre arme à distance de 1 niveau par rang de Tireur d'élite. Pour chaque niveau de portée en plus, améliorez 1 dé de difficulté de l'attaque.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, avant de porter une attaque à distance (mais pas avec une arme de jet), le personnage peut effectuer la manœuvre de Tireur d'élite. Cela augmente la portée maximale de son arme à distance de 1 niveau par rang de Tireur d'élite. Pour chaque niveau de portée au-delà de la portée maximale de l'arme, on améliore 1 dé de difficulté du test (ce qui s'ajoute à la difficulté accrue pour un tir à longue portée).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767195595088,
+    "modifiedTime": 1774684354872,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!HfjK1yMZRyoozBPB"
+}

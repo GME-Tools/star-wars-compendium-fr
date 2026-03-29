@@ -1,0 +1,59 @@
+{
+  "name": "Résistance au Désarmement",
+  "type": "talent",
+  "_id": "mOPVQhxQGrapP0pP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 2 points de stress pour &eacute;viter d&rsquo;&ecirc;tre d&eacute;sarm&eacute; ou de voir votre arme endommag&eacute;e ou d&eacute;truite.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Duelliste makashi</p>\n<p>Si le personnage est desarm&eacute; ou si son arme est endommag&eacute;e ou d&eacute;truite, il peut choisir de subir 2 points de stress pour y &eacute;chapper.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747139565146,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!mOPVQhxQGrapP0pP"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Schémas Connus",
+  "type": "talent",
+  "_id": "0cG0PFYnUj5TpUdq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par partie, exécutez une manœuvre de Schémas connus : effectuez un <strong>test de Connaissance (Éducation) Difficile ([DI][DI][DI])</strong>. Un succès signifie que vous connaissez bien le plan d'un bâtiment ou d'un vaisseau.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par session de jeu, le personnage peut utiliser une manœuvre pour effectuer un <strong>test de Connaissance (Éducation) Difficile ([DI][DI][DI])</strong>. Un succès signifie que le personnage est familier du plan d'un bâtiment ou d'un vaisseau capital. Il connaît l'emplacement des installations et circuits principaux du vaisseau ou du véhicule, ainsi que sa propre localisation à l'intérieur de celui-ci. Il est également en mesure d'emprunter des chemins détournés à l'intérieur du vaisseau afin d'éviter certains obstacles. Des [SU], [AD] ou [TR] supplémentaires peuvent également lui révéler d'autres informations utiles, au choix du MJ.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684199650,
+    "modifiedTime": 1774771883343,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!0cG0PFYnUj5TpUdq"
+}

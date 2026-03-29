@@ -1,0 +1,59 @@
+{
+  "name": "Génie de l'Informatique",
+  "type": "talent",
+  "_id": "vWKx6sjjuFshcLfh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Pour chaque rang de Génie de l'informatique, réduisez de 25 % le temps nécessaire pour accomplir une tâche liée à la compétence Informatique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139",
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Pour chaque rang en Génie de l'informatique, le personnage réduit de 25 % le temps nécessaire pour accomplir des tâches liées à la compétence Informatique.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143226124,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!vWKx6sjjuFshcLfh"
+}

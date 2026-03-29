@@ -1,0 +1,58 @@
+{
+  "name": "Coup Précis",
+  "type": "talent",
+  "_id": "5gQTyb0oJjJLc5ed",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez exécuter une manœuvre, mais subissez du stress qui ne peut dépasser votre rang de Coup précis. Ensuite, réduisez d'autant la défense au corps à corps et à distance de la cible.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, le personnage peut, à son tour, exécuter la manœuvre Coup précis avant de tenter un test de compétence de combat et subir un nombre de points de stress inférieur ou égal à son rang en Coup précis. Il réduit d'autant la défense (au corps à corps et à distance) de la cible.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 19400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768130780755,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!5gQTyb0oJjJLc5ed"
+}

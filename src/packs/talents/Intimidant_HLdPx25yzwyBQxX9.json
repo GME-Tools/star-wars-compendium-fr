@@ -1,0 +1,60 @@
+{
+  "name": "Intimidant",
+  "type": "talent",
+  "_id": "HLdPx25yzwyBQxX9",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez subir un certain nombre de points de stress pour dégrader autant de dés de difficulté des tests de Coercition que vous effectuez, ou pour améliorer autant de dés de difficulté des tests de Coercition qui vous prennent pour cible. Le stress ainsi subi ne peut pas dépasser votre rang en Intimidant.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139",
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage effectue un test de Coercition, il peut choisir de subir un certain nombre de points de stress (inférieur ou égal à son rang d'Intimidant) pour dégrader autant de dés de difficulté du test. Quand le personnage est la cible d'un test de Coercition, il peut choisir de subir un certain nombre de points de stress (inférieur ou égal à son rang d'Intimidant) pour améliorer autant de dés de difficulté du test.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 13400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747120520276,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!HLdPx25yzwyBQxX9"
+}

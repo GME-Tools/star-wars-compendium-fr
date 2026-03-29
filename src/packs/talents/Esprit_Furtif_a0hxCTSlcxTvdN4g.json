@@ -1,0 +1,106 @@
+{
+  "name": "Esprit Furtif",
+  "type": "talent",
+  "_id": "a0hxCTSlcxTvdN4g",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] &agrave; tous les tests de Discr&eacute;tion, sauf quand l&rsquo;opposant est immunis&eacute; contre&nbsp;les pouvoirs de la Force.</p>",
+    "attributes": {
+      "attr1774773162932": {
+        "modtype": "Skill Boost",
+        "mod": "Stealth",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "QbH3ogQ5JNMYxI5V",
+      "0y9sP8axJ5JS372V"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur, Ombre</p>\n<p>Le personnage ajoute [BO] par rang d'Esprit furtif &agrave; tous ses tests de Discretion, sauf quand l'&ecirc;tre vivant qui tente de le d&eacute;tecter est immunis&eacute; contre les pouvoirs de la Force.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774773162932",
+      "changes": [
+        {
+          "key": "system.skills.Stealth.boost",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "qrwZmqrncuqyrHX8",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774773164521,
+        "modifiedTime": 1774773169416,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!a0hxCTSlcxTvdN4g.qrwZmqrncuqyrHX8"
+    }
+  ],
+  "folder": null,
+  "sort": 18400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747032503930,
+    "modifiedTime": 1774773169425,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!a0hxCTSlcxTvdN4g"
+}

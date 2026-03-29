@@ -1,0 +1,59 @@
+{
+  "name": "Protection de la Force",
+  "type": "talent",
+  "_id": "zdgbELeJTiqkOHBl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez la manoeuvre Protection de la Force : subissez 1 point de stress et engagez un nombre de [FO]&nbsp;inf&eacute;rieur ou &eacute;gal &agrave; vos rangs de Protection de la Force. Augmentez votre encaissement du nombre de [FO] engag&eacute;s jusqu&rsquo;au d&eacute;but du tour suivant. Subissez 1 point de stress par tour o&ugrave; un [FO] reste engag&eacute;.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Protecteur</p>\n<p>Pour entreprendre la man&oelig;uvre Protection de la Force, le personnage subit 1 point de stress et engage un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force et &agrave; ses rangs de Protection de la Force. Le personnage peut alors augmenter son Encaissement d'une valeur &eacute;gale au nombre de d&eacute;s engag&eacute;s. Il subit 1 point de stress au debut de chaque tour, tant que ces d&eacute;s restent engag&eacute;s.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 13300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747082835772,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!zdgbELeJTiqkOHBl"
+}

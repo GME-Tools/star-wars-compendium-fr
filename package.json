@@ -11,7 +11,7 @@
     "unpack:talents": "fvtt package unpack talents --outputDirectory src/packs/talents",
     "pack:carrieres": "fvtt package pack carrieres --inputDirectory src/packs/carrieres --outputDirectory packs",
     "pack:talents": "fvtt package pack talents --inputDirectory src/packs/talents --outputDirectory packs",
-    "build": "npm run validate && npm run pack:carrieres"
+    "build": "npm run validate && npm run pack:carrieres && npm run pack:talents"
   },
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^3.0.3",

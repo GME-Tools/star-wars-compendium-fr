@@ -1,0 +1,61 @@
+{
+  "name": "Subsistance",
+  "type": "talent",
+  "_id": "dWSD0Nx2LjTCQz1O",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez jusqu'à [SE][SE] aux tests de compétence pour trouver de la nourriture, de l'eau ou un abri. Ces tests de Survie prennent moitié moins de temps que la normale.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144",
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "JnWsrEaKwLPX0wBb"
+    ],
+    "longDesc": "<p>Éliminez jusqu'à [SE][SE] aux tests de compétence pour trouver de la nourriture, de l'eau ou un abri. Ces tests de Survie prennent moitié moins de temps que la normale.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747032176980,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!dWSD0Nx2LjTCQz1O"
+}

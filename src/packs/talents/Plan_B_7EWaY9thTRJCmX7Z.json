@@ -1,0 +1,60 @@
+{
+  "name": "Plan B",
+  "type": "talent",
+  "_id": "7EWaY9thTRJCmX7Z",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>D&eacute;pensez 1 point de Destin pour &eacute;liminer un nombre de points de stress &eacute;gal &agrave; votre valeur de Ruse.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 149"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "Fgyxn5M9sJgOdPby"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Conseiller</p>\n<p>Le personnage peut d&eacute;penser un point de Destin pour &eacute;liminer un nombre de points de stress &eacute;gal &agrave; sa valeur de Ruse.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747138925930,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!7EWaY9thTRJCmX7Z"
+}

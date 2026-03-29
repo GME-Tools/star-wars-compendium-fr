@@ -1,0 +1,58 @@
+{
+  "name": "Slicer Chevronné",
+  "type": "talent",
+  "_id": "QY8oiUbXSWEVs8Se",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez un test d'Informatique, vous pouvez dépenser [TR] pour effectuer les tests d'Informatique ultérieurs concernant le même système au prix de manœuvres.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage effectue un test d'Informatique, il peut dépenser [TR] pour conserver un certain contrôle sur le système ciblé. Tous les tests d'Informatique ultérieurs concernant le même système peuvent être effectués au prix d'une manœuvre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684223962,
+    "modifiedTime": 1774772321126,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!QY8oiUbXSWEVs8Se"
+}

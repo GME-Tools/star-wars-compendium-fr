@@ -1,0 +1,60 @@
+{
+  "name": "Lancer de Sabre",
+  "type": "talent",
+  "_id": "GOjTkMhxqNBleAyp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Lancer de sabre : effectuez un test de combat au Sabre laser en tant qu&rsquo;attaque &agrave; distance &agrave; port&eacute;e moyenne. Ajoutez un nombre de [FO] inf&eacute;rieur ou&nbsp;&eacute;gal &agrave; votre valeur de Force. Vous devez d&eacute;penser [FP] et r&eacute;ussir &agrave; toucher la cible. Vous pouvez d&eacute;penser [FP] pour que l&rsquo;arme revienne dans votre main.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "scFBucLhyPvXA2Kx"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Bretteur ataru, Expert shien</p>\n<p>Le personnage peut entreprendre l'action Lancer de sabre contre une cible &agrave; port&eacute;e moyenne (au plus). Il doit effectuer un test de Sabre laser en ajoutant &agrave; sa reserve un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. La cible est touch&eacute;e si le test est r&eacute;ussi et que le personnage d&eacute;pense [FP]. ll peut &eacute;galement d&eacute;penser [FP] pour que son arme revienne entre ses mains apr&egrave;s la r&eacute;solution de l'attaque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 20100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747042689274,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!GOjTkMhxqNBleAyp"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Soins Experts",
+  "type": "talent",
+  "_id": "919roQvhMLkQUaJS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous soignez un alli&eacute;, d&eacute;pensez 1 point de Destin pour &eacute;liminer un nombre de points de blessure &eacute;gal &agrave; vos rangs en Connaissance (x&eacute;nologie).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Gu&eacute;risseur</p>\n<p>Quand il r&eacute;ussit un test de Medecine pour soigner un alli&eacute;, le personnage peut d&eacute;penser un point de Destin pour permettre &agrave; sa cible d'&eacute;liminer un nombre de points de blessure suppl&eacute;mentaire &eacute;gal &agrave; son rang de Connaissance (X&eacute;nologie).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746993044238,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!919roQvhMLkQUaJS"
+}

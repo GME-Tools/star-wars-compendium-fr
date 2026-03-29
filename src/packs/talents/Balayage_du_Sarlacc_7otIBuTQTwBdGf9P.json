@@ -1,0 +1,58 @@
+{
+  "name": "Balayage du Sarlacc",
+  "type": "talent",
+  "_id": "7otIBuTQTwBdGf9P",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Augmentez la difficult&eacute; d&rsquo;un test de Sabre laser d&rsquo;un cran pour accomplir l&rsquo;action Balayage du Sarlacc. Vous pouvez d&eacute;penser [AD][AD] pour toucher des cibles au contact suppl&eacute;mentaires.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 140"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Chevalier shii-cho</p>\n<p>Pour entreprendre l'action Balayage du sarlacc contre une cible au contact, le personnage doit effectuer un test de Sabre laser en ajoutant 1 d&eacute; de difficult&eacute; &agrave; sa r&eacute;serve. Il peut d&eacute;penser [AD][AD] obtenus lors de ce test pour toucher une cible suppl&eacute;mentaire avec laquelle il est au contact. Il peut toucher d'autres cibles au contact tant qu'il peut d&eacute;penser les symboles suppl&eacute;mentaires n&eacute;cessaires. Lorsqu'il entreprend cette action, le personnage doit toujours viser en premier l'adversaire qui beneficie du plus haut niveau de difficult&eacute; pour &ecirc;tre touch&eacute; et de la meilleure d&eacute;fense (si deux cibles ont les m&ecirc;mes niveaux de difficult&eacute; et valeurs de d&eacute;fense, le MJ choisit laquelle sera vis&eacute;e en premier).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747128614865,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!7otIBuTQTwBdGf9P"
+}

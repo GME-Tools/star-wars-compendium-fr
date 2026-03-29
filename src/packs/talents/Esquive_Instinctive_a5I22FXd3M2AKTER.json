@@ -1,0 +1,59 @@
+{
+  "name": "Esquive Instinctive",
+  "type": "talent",
+  "_id": "a5I22FXd3M2AKTER",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez exécuter une manœuvre d'Esquive instinctive en subissant un certain nombre de points de stress pour améliorer autant de dés de difficulté de chaque test de combat à distance qui vous vise lors du round suivant. Le stress ainsi subi ne doit pas dépasser votre rang d'Esquive instinctive.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 138",
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, le personnage peut à son tour de jeu accomplir une manœuvre d'Esquive instinctive pour faire un pas de côté et éviter les attaques à distance. Le personnage subit un nombre de points de stress inférieur ou égal à son rang en Esquive instinctive. Jusqu'au début du tour suivant du personnage, améliorez autant de dés de difficulté de tous les tests de combat à distance le prenant pour cible que de points de stress subis.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 11600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747046993130,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!a5I22FXd3M2AKTER"
+}

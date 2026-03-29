@@ -1,0 +1,58 @@
+{
+  "name": "Bout Portant",
+  "type": "talent",
+  "_id": "xEZqwsrWIhIApHF8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez 1 point de dégâts par rang de Bout portant aux dégâts d'un coup d'une attaque réussie de Distance (armes lourdes) ou Distance (armes légères) effectuée à portée courte ou au contact.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage ajoute 1 point de dégâts par rang de Bout portant à un coup réussi d'une attaque de Distance (armes lourdes) ou Distance (armes légères) effectuée à portée courte ou au contact.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768465299360,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!xEZqwsrWIhIApHF8"
+}

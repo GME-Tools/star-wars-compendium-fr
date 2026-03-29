@@ -1,0 +1,58 @@
+{
+  "name": "As de la Manœuvre",
+  "type": "talent",
+  "_id": "KofVoSNRxsslPruh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par rencontre, vous pouvez entreprendre l'action As de la manœuvre. Choisissez 1 adversaire et effectuez un <strong>test opposé de Pilotage (planétaire </strong>ou <strong>espace)</strong> pour l'empêcher de vous attaquer pendant un nombre de rounds égal à votre Agilité.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut effectuer une action d'As de la manœuvre quand il pilote un véhicule ou un vaisseau spatial. Le personnage choisit un adversaire avec lequel il effectue un <strong>test opposé de Pilotage (planétaire ou espace)</strong>. En cas de succès, le véhicule ou vaisseau de l'adversaire ne peut effectuer aucune attaque contre le véhicule du personnage, pour un nombre de rounds égal à la valeur d'Agilité du personnage. As de la manœuvre ne peut être utilisé qu'une seule fois par rencontre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10200000,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683488798,
+    "modifiedTime": 1774734672014,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!KofVoSNRxsslPruh"
+}

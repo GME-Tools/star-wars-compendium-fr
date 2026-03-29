@@ -1,0 +1,58 @@
+{
+  "name": "Pleins Gaz (Ultime)",
+  "type": "talent",
+  "_id": "gfvJyUUagkVWHHNb",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous utilisez Pleins gaz, la vitesse maximale du vaisseau augmente de 2 (au lieu de 1).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage utilise avec succès Pleins gaz, la vitesse maximale du vaisseau augmente de 2 (au lieu de 1), pour un nombre de rounds égal à sa Ruse.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684111631,
+    "modifiedTime": 1774684111631,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!gfvJyUUagkVWHHNb"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Assaut de la Force",
+  "type": "talent",
+  "_id": "8QJMOQaIdt1qTFjB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>D&eacute;pensez [TR] ou [AD][AD][AD] sur un test de combat manqu&eacute; de Sabre laser (Volont&eacute;) pour accomplir imm&eacute;diatement une action du pouvoir de la Force D&eacute;placement en tant que man&oelig;uvre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Disciple niman</p>\n<p>Apr&egrave;s avoir rat&eacute; un adversaire lors d'un test de Sabre laser (Volont&eacute;), le personnage peut d&eacute;penser [TR] ou [AD][AD][AD] pour accomplir une action de pouvoir de la Force D&eacute;placement au prix d'une man&oelig;uvre lors de ce tour (le personnage doit &ecirc;tre encore capable d'ex&eacute;cuter des man&oelig;uvres, et ne peut toujours pas en accomplir plus de deux par tour).</p>\n<p>Le personnage doit avoir acquis le pouvoir D&eacute;placement pour l'utiliser dans le cadre de cette capacit&eacute;.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746991730832,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!8QJMOQaIdt1qTFjB"
+}

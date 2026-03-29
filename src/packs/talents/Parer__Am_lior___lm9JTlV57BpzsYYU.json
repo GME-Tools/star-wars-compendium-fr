@@ -1,0 +1,63 @@
+{
+  "name": "Parer (Amélioré)",
+  "type": "talent",
+  "_id": "lm9JTlV57BpzsYYU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous parez une attaque qui a g&eacute;n&eacute;r&eacute; [DE] ou [TH][TH][TH], une fois l&rsquo;attaque originale r&eacute;solue, vous pouvez toucher l&rsquo;adversaire une fois avec un sabre laser, une arme de pugilat ou de corps &agrave; corps. L&rsquo;arme inflige les d&eacute;g&acirc;ts de base.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles, pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "VJSPFqxFztLr27YV",
+      "LysqaT8q6bjKyobp",
+      "I3skkvGJrIVNeEwb"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Bretteur ataru, Chevalier shii-cho, D&eacute;fenseur soresu, Duelliste makashi</p>\n<p>Si le test de combat de Pugilat, Corps &agrave; corps ou Sabre laser d'un adversaire g&eacute;n&egrave;re [DE] ou [TH][TH][TH] et que le personnage utilise le talent Parer pour r&eacute;duire les d&eacute;gats de l'attaque, il peut toucher automatiquement l'attaquant une fois au prix d'une broutille. Pour cela, le personnage doit lui-m&ecirc;me manier une arme de pugilat, de corps &agrave; corps ou un sabre laser. Ce coup inflige les d&eacute;g&acirc;ts de base de l'arme plus les &eacute;ventuels points de d&eacute;gats dus &agrave; des talents. Parer (am&eacute;liore) ne peut pas &ecirc;tre utilis&eacute; si l'attaque d'origine neutralise le personnage.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 19700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747042102093,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!lm9JTlV57BpzsYYU"
+}

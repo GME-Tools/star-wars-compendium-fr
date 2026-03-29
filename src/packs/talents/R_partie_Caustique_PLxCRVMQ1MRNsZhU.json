@@ -1,0 +1,58 @@
+{
+  "name": "Répartie Caustique",
+  "type": "talent",
+  "_id": "PLxCRVMQ1MRNsZhU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez une action de Répartie caustique ; effectuez un <strong>test de Coercition Moyen ([DI][DI])</strong>. Chaque [SU] inflige 1 point de stress à un ennemi à portée courte. Dépensez [AD] pour infliger 1 point de stress supplémentaire à un ennemi.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut entreprendre une action de Répartie caustique et effectuer un <strong>test de Coercition Moyen ([DI][DI])</strong>. Pour chaque [SU], un ennemi à portée courte subit 1 point de stress. Le personnage peut aussi utiliser les [AD] ; pour chaque [AD] dépensé, une cible déjà affectée subit 1 point de stress supplémentaire.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768484394538,
+    "modifiedTime": 1774771698221,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!PLxCRVMQ1MRNsZhU"
+}

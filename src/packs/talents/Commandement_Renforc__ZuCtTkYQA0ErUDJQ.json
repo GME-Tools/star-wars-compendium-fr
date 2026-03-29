@@ -1,0 +1,104 @@
+{
+  "name": "Commandement Renforcé",
+  "type": "talent",
+  "_id": "ZuCtTkYQA0ErUDJQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous effectuez un test de Commandement, ajoutez un nombre de [FO] qui ne doit pas &ecirc;tre sup&eacute;rieur &agrave; votre Valeur de Force. D&eacute;pensez [FP] pour ajouter [SU] ou [AD]&nbsp;au r&eacute;sultat.</p>",
+    "attributes": {
+      "attr1774773029547": {
+        "modtype": "Force Boost",
+        "mod": "Leadership",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Pacificateur</p>\n<p>Lorsqu'il effectue un test de Commandement, le personnage peut y ajouter un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Il peut d&eacute;penser [FP] pour ajouter, au choix, [SU] ou [AD], au r&eacute;sultat.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774773029547",
+      "changes": [
+        {
+          "key": "system.skills.Leadership.force",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "2JldKzi2XlVL6vjB",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774773032060,
+        "modifiedTime": 1774773040986,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!ZuCtTkYQA0ErUDJQ.2JldKzi2XlVL6vjB"
+    }
+  ],
+  "folder": null,
+  "sort": 11400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747065094208,
+    "modifiedTime": 1774773040997,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!ZuCtTkYQA0ErUDJQ"
+}

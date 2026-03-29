@@ -1,0 +1,59 @@
+{
+  "name": "Pleins Gaz",
+  "type": "talent",
+  "_id": "FqKY00iSYzftjX1T",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez une action de Pleins gaz ; effectuez un <strong>test de Pilotage Difficile ([DI][DI][DI])</strong> pour augmenter de 1 la vitesse maximale d'un véhicule ou vaisseau pendant un nombre de rounds égal à votre Ruse.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>L'action de Pleins gaz permet à un personnage de pousser un vaisseau ou un véhicule au-delà de sa vitesse maximale. Il effectue pour cela un <strong>test de Pilotage Difficile ([DI][DI][DI])</strong>. En cas de réussite, la vitesse maximale du vaisseau augmente de 1 pendant un nombre de rounds égal à la Ruse du personnage. L'appareil ne peut cependant pas entreprendre d'actions ou exécuter de manœuvres qui lui sont refusées en temps normal (par exemple, celles qui nécessitent une certaine vitesse).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747136084828,
+    "modifiedTime": 1774770185748,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!FqKY00iSYzftjX1T"
+}

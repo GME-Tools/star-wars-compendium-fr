@@ -1,0 +1,58 @@
+{
+  "name": "Dose de Stimulant (Amélioré)",
+  "type": "talent",
+  "_id": "501mMnVkzY5zBmPk",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez l'action Dose de stimulant, vous pouvez faire passer la difficulté du <strong>test de Médecine à Difficile ([DI][DI][DI])</strong> et la cible ne subit que 1 point de stress.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage effectue une action Dose de stimulant il peut, au prix d'une broutille, faire passer la difficulté du <strong>test de Médecine à Difficile ([DI][DI][DI])</strong>. Dans ce cas, la cible de l'action ne subit que 1 point de stress au lieu de 4.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768484051241,
+    "modifiedTime": 1774768764241,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!501mMnVkzY5zBmPk"
+}

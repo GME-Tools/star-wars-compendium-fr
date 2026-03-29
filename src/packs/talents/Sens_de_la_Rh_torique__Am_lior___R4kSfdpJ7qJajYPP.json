@@ -1,0 +1,59 @@
+{
+  "name": "Sens de la Rhétorique (Amélioré)",
+  "type": "talent",
+  "_id": "R4kSfdpJ7qJajYPP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Chaque allié affecté par l'action Sens de la rhétorique gagne [BO] à tous ses tests de compétence pour un nombre de rounds égal à votre rang en Commandement.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Chaque allié affecté par l'action Sens de la rhétorique obtient [BO] à tous ses tests de compétence pour un nombre de rounds égal au rang du personnage en Commandement. On ne peut pas bénéficier de plusieurs utilisations cumulées de ce talent.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768484513469,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!R4kSfdpJ7qJajYPP"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "La Force Est Mon Alliée",
+  "type": "talent",
+  "_id": "fwCVbj6rl2pgQHBG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par session de jeu, vous pouvez subir 2 points de stress afin d'accomplir une action de pouvoir de la Force en tant que man&oelig;uvre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "JnWsrEaKwLPX0wBb",
+      "q3uTtiCCU54Wm8ge"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Sage, Visionnaire</p>\n<p>Une fois par session de jeu le personnage peut subir deux points de stress afin d'employer un pouvoir de la Force au prix d'une man&oelig;uvre au lieu d'une action.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746995121204,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!fwCVbj6rl2pgQHBG"
+}

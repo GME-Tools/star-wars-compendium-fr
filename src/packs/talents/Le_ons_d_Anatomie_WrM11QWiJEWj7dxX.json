@@ -1,0 +1,59 @@
+{
+  "name": "Leçons d'Anatomie",
+  "type": "talent",
+  "_id": "WrM11QWiJEWj7dxX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Après avoir réussi une attaque, vous pouvez dépenser 1 point de Destin pour ajouter des dégâts égaux à votre Intelligence à un coup.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139",
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Après avoir réussi une attaque avec une arme qui n'est pas montée sur un véhicule ou un vaisseau spatial, le personnage peut dépenser 1 point de Destin pour ajouter des dégâts égaux à son Intelligence à un coup de l'attaque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144865770,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!WrM11QWiJEWj7dxX"
+}

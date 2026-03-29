@@ -1,0 +1,58 @@
+{
+  "name": "Raccourci",
+  "type": "talent",
+  "_id": "lmg9AN8UFb0ao4Ps",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lors d'une poursuite, ajoutez [BO] par rang de Raccourci aux tests pour rattraper un ennemi ou pour échapper à vos poursuivants.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Lors d'une poursuite, le personnage ajoute autant de [BO] qu'il possède de rangs en Raccourci à ses tests pour rattraper un ennemi ou pour échapper à ses poursuivants.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773243137238,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!lmg9AN8UFb0ao4Ps"
+}

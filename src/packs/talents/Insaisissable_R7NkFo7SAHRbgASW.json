@@ -1,0 +1,58 @@
+{
+  "name": "Insaisissable",
+  "type": "talent",
+  "_id": "R7NkFo7SAHRbgASW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Si vous &ecirc;tes sous l&rsquo;effet d&rsquo;un pouvoir de la Force, entreprenez l&rsquo;action Insaisissable : effectuez un [B]test de Tromperie Difficile ([DI][DI][DI])[b] pour mettre un terme imm&eacute;diat aux effets de ce pouvoir.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Ombre</p>\n<p>Lors d'un tour durant lequel le personnage est sous l'effet d'un pouvoir de la Force, il peut entreprendre l'action Insaisissable (et ce, m&ecirc;me si le pouvoir de la Force devrait normalement l'emp&ecirc;cher d'entreprendre la moindre action). Il effectue alors un [B]test de Tromperie Difficile ([DI][DI][DI]). En cas de r&eacute;ussite, il n'est plus sous l'effet du pouvoir de la Force.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144707026,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!R7NkFo7SAHRbgASW"
+}

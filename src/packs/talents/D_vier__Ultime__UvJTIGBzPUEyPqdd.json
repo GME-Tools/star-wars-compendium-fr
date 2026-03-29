@@ -1,0 +1,58 @@
+{
+  "name": "Dévier (Ultime)",
+  "type": "talent",
+  "_id": "UvJTIGBzPUEyPqdd",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Si vous n&rsquo;avez pas effectu&eacute; de test de combat au tour pr&eacute;c&eacute;dent, vous pouvez subir 1 point de stress pour&nbsp;utiliser D&eacute;vier.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Expert shien</p>\n<p>Si le personnage n'a pas effectu&eacute; de test de combat lors de son tour pr&eacute;cedent, il subit 1 point de stress au lieu de 3 quand il entreprend la broutille D&eacute;vier.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144371134,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!UvJTIGBzPUEyPqdd"
+}

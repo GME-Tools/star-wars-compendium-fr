@@ -1,0 +1,58 @@
+{
+  "name": "Détermination",
+  "type": "talent",
+  "_id": "CdgYjsqCjmJCQrgM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand le personnage subit involontairement du stress, il en reçoit 1 point de moins par rang de Détermination, pour un minimum de 1.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 136"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage subit du stress, il en reçoit 1 point de moins par rang de Détermination, pour un minimum de 1. L'effet ne s'applique cependant pas aux pertes de stress volontaires.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768469257405,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!CdgYjsqCjmJCQrgM"
+}

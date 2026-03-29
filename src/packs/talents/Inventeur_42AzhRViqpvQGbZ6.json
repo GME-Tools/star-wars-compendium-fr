@@ -1,0 +1,60 @@
+{
+  "name": "Inventeur",
+  "type": "talent",
+  "_id": "42AzhRViqpvQGbZ6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous fabriquez de nouveaux objets ou modifiez des kits existants, ajoutez [BO] ou retirez [SE] par rang d'Inventeur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139",
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage fabrique de nouveaux objets ou modifie des kits existants (cf. <strong>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.iAput103viUVpHJw]{Chapitre V : Matériel et équipement}</strong>), il peut choisir d'ajouter [BO] ou de retirer [SE] à son test par rang d'Inventeur.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747143308785,
+    "modifiedTime": 1774732365307,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!42AzhRViqpvQGbZ6"
+}

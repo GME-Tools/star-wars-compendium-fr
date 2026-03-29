@@ -1,0 +1,58 @@
+{
+  "name": "Pleins Gaz (Amélioré)",
+  "type": "talent",
+  "_id": "9fcmqdIi8rj7nyVT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 1 point de stress pour tenter Pleins gaz au prix d'une manœuvre en réduisant la difficulté à <strong>Moyenne ([DI][DI])</strong>.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut délibérément subir 1 point de stress pour tenter Pleins gaz au prix d'une manœuvre. Par ailleurs, la difficulté est réduite à <strong>Moyenne ([DI][DI])</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684101175,
+    "modifiedTime": 1774770243477,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!9fcmqdIi8rj7nyVT"
+}

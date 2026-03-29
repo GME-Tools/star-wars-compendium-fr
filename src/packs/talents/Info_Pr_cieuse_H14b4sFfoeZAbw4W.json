@@ -1,0 +1,59 @@
+{
+  "name": "Info Précieuse",
+  "type": "talent",
+  "_id": "H14b4sFfoeZAbw4W",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par rencontre, accomplissez une action Info pr&eacute;cieuse : effectuez un [B]test de Connaissance Moyen ([DI][DI])[b]. S'il est r&eacute;ussi, ajoutez [TR] au test de comp&eacute;tence d'un alli&eacute; pendant la rencontre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Sage</p>\n<p>Une fois par rencontre, le personnage peut utiliser son talent Info pr&eacute;cieuse en effectuant un [B]test de Connaissance Moyen ([DI][DI])[b]. Le MJ et le joueur devraient d&eacute;terminer quelle comp&eacute;tence de Connaissance est la plus adapt&eacute;e &agrave; la situation. Si le test est r&eacute;ussi, le personnage peut ajouter [TR] &agrave; un autre test effectu&eacute; par un alli&eacute; pendant la rencontre.</p>\n<p>Le test en question doit avoir un rapport avec les faits dont le personnage est inform&eacute; ou qu'il a appris. Le joueur doit &eacute;galement expliquer en quoi les informations r&eacute;v&eacute;l&eacute;es par son personnage sont Importantes pour la r&eacute;ussite du test de l'alli&eacute;.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746994618966,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!H14b4sFfoeZAbw4W"
+}

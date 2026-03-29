@@ -1,0 +1,58 @@
+{
+  "name": "Dépannage de Récup'",
+  "type": "talent",
+  "_id": "Kj2qONKa2uBU3goN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par séance de jeu, entreprenez une action de Dépannage de récup' ; effectuez un <strong>test de Mécanique Facile ([DI])</strong> pour récupérer des pièces sur un appareil en état de marche afin d'en réparer un autre sans pour autant nuire au bon fonctionnement du premier.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 136"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>En réussissant un <strong>test de Mécanique Facile ([DI])</strong>, le personnage peut récupérer des pièces sur un appareil en état de marche afin d'en réparer un autre sans pour autant nuire au bon fonctionnement du premier. Cela permet au personnage de réparer un appareil cassé sans avoir sous la main ni pièces détachées, ni matériel, ni kit de réparation (et le test ne subit pas non plus de malus par manque d'un kit de réparation). Toutefois, il ne peut utiliser ce talent que si l'appareil en état de marche est au moins d'une taille et d'un niveau de technologie similaires à ceux de l'engin à réparer (il est par exemple impossible de réparer un vaisseau spatial en utilisant les pièces d'un pistolet blaster, ni un sabre laser avec les pièces d'une roue hydraulique).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683906226,
+    "modifiedTime": 1774768588930,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!Kj2qONKa2uBU3goN"
+}

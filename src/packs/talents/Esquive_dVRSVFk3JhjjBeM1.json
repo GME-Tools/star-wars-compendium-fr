@@ -1,0 +1,63 @@
+{
+  "name": "Esquive",
+  "type": "talent",
+  "_id": "dVRSVFk3JhjjBeM1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous êtes la cible d'un test de combat, vous pouvez esquiver au prix d'une broutille, mais subissez du stress qui ne peut dépasser votre rang d'Esquive. Ensuite, améliorez autant de dés de difficulté du test que de stress subi.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137",
+        "Force et Destinée - Livre de Règles, pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "JnWsrEaKwLPX0wBb",
+      "QbH3ogQ5JNMYxI5V"
+    ],
+    "longDesc": "<p>Quand il est la cible d'une attaque (à distance ou au corps à corps), le personnage peut choisir de subir aussi un certain nombre de points de stress, puis d'améliorer autant de dés de difficulté du test de combat. Le nombre de points de stress subis ne peut dépasser son rang d'Esquive.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 19500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747041985942,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!dVRSVFk3JhjjBeM1"
+}

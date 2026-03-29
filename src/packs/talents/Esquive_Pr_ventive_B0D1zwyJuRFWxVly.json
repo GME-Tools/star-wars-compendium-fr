@@ -1,0 +1,59 @@
+{
+  "name": "Esquive Préventive",
+  "type": "talent",
+  "_id": "B0D1zwyJuRFWxVly",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour rompre le contact avec un ennemi en tant que broutille hors tour.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Sage, Visionnaire</p>\n<p>Imm&eacute;diatement apr&egrave;s qu'un adversaire s'est approch&eacute; au contact d'un personnage, ce dernier peut d&eacute;penser 1 point de Destin pour s'&eacute;loigner de lui au prix d'une broutille hors tour.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746994943925,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!B0D1zwyJuRFWxVly"
+}

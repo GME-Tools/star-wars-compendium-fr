@@ -1,0 +1,58 @@
+{
+  "name": "Améliorations Intuitives",
+  "type": "talent",
+  "_id": "OeoMrgJmpoBM6NhJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez un test pour fabriquer ou r&eacute;parer un objet, vous pouvez y ajouter un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. D&eacute;pensez [FP][FP] pour augmenter les emplacements disponibles de 1, avec un maximum de +2.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Artisan</p>\n<p>Quand il effectue un test visant &agrave; r&eacute;parer ou &agrave; concevoir un objet n'&eacute;tant ni un vaisseau spatial<br>ni un vehicule, le personnage peut ajouter a sa reserve un nombre de [FO] inf&eacute;rieur ou &eacute;gal a sa valeur de Force. Il peut depenser [FP][FP] pour augmenter de 1 le nombre d'emplacements disponibles de l'objet de mani&egrave;re permanente, jusqu'&agrave; un maximum de 2 emplacements suppl&eacute;mentaires. Cette am&eacute;lioration ne peut s'effectuer qu'une seule fois par objet.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9650000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143657868,
+    "modifiedTime": 1774683517617,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!OeoMrgJmpoBM6NhJ"
+}

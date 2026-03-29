@@ -1,0 +1,148 @@
+{
+  "name": "Œil Aiguisé",
+  "type": "talent",
+  "_id": "3NuBqpBOHXwgO2fV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang en &OElig;il aiguis&eacute; &agrave; tous les tests de Perception ou de Vigilance. Divisez par deux le temps n&eacute;cessaire pour fouiller un lieu.</p>",
+    "attributes": {
+      "attr1774614134127": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Perception",
+        "value": 1
+      },
+      "attr1774614147824": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Vigilance",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "JnWsrEaKwLPX0wBb"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur, Chasseur, Visionnaire</p>\n<p>Le personnage retire [SE] par rang d'&OElig;il Aiguis&eacute; aux tests de Perception et de Vigilance. Les tests visant &agrave; rechercher quelque chose dans une zone sp&eacute;cifique prennent moiti&eacute; moins de temps que la normale. Des rangs suppl&eacute;mentaires d'&OElig;il Aiguis&eacute; ne modifient pas cette r&eacute;duction de dur&eacute;e.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774614134127",
+      "changes": [
+        {
+          "key": "system.skills.Perception.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "TAr9wQatdbCCdflF",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774614137582,
+        "modifiedTime": 1774614181286,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!3NuBqpBOHXwgO2fV.TAr9wQatdbCCdflF"
+    },
+    {
+      "name": "attr1774614147824",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "rTvDlmOSyqY0AKWn",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774614150869,
+        "modifiedTime": 1774614182291,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!3NuBqpBOHXwgO2fV.rTvDlmOSyqY0AKWn"
+    }
+  ],
+  "folder": null,
+  "sort": 17800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747032014277,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!3NuBqpBOHXwgO2fV"
+}

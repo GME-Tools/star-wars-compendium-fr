@@ -1,0 +1,59 @@
+{
+  "name": "Coup Ciblé",
+  "type": "talent",
+  "_id": "1DWMbMiE6L1to0ow",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Après avoir réussi une attaque, vous pouvez dépenser 1 point de Destin pour ajouter des dégâts égaux à votre Agilité à un coup.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage réussit une attaque avec une arme qui n'est pas montée sur un véhicule ou un vaisseau spatial, il peut dépenser 1 point de Destin pour ajouter des dégâts égaux à son Agilité à ce coup réussi de l'attaque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768130884928,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!1DWMbMiE6L1to0ow"
+}

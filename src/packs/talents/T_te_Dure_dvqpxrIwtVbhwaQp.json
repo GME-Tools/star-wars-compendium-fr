@@ -1,0 +1,58 @@
+{
+  "name": "Tête Dure",
+  "type": "talent",
+  "_id": "dvqpxrIwtVbhwaQp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous êtes étourdi ou désorienté, entreprenez l'action de Tête dure ; effectuez un <strong>test de Sang-froid Intimidant ([DI][DI][DI][DI])</strong> pour vous débarrasser de ce statut. La difficulté diminue de 1 par rang supplémentaire de Tête dure.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Lors d'un tour de jeu où le personnage est étourdi ou désorienté, il peut entreprendre l'action de Tête dure (même si normalement le fait d'être étourdi devrait l'empêcher d'entreprendre la moindre action). Il effectue un <strong>test de Sang-froid Intimidant ([DI][DI][DI][DI])</strong>. En cas de succès, le personnage n'est plus étourdi ni désorienté. La difficulté de ce test diminue de 1 dé par rang en Tête dure à partir du deuxième, jusqu'à un minimum de <strong>Facile ([DI])</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684268492,
+    "modifiedTime": 1774772522319,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!dvqpxrIwtVbhwaQp"
+}

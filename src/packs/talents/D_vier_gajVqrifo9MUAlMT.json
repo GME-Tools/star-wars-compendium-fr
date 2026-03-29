@@ -1,0 +1,59 @@
+{
+  "name": "Dévier",
+  "type": "talent",
+  "_id": "gajVqrifo9MUAlMT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque &agrave; distance, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de D&eacute;vier.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Bretteur ataru, Disciple niman, Protecteur, Expert shien, D&eacute;fenseur soresu</p>\n<p>Si le personnage est touch&eacute; suite &agrave; un test de Distance (armes leg&egrave;res), de Distance (armes lourdes) ou d'Artillerie, une fois les d&eacute;gats calcul&eacute;s (mais avant de prendre en compte sa valeur d'encaissement, et donc imm&eacute;diatement apr&egrave;s la troisi&egrave;me &eacute;tape d'[B]Effectuer un test de combat, page 210[b]), il peut utiliser le talent D&eacute;vier aux prix d'une broutille. Il subit alors 3 points de stress et r&eacute;duit les points de d&eacute;gāts inflig&eacute;s par ce coup de 2 plus son rang de D&eacute;vier. Ce talent ne peut &ecirc;tre utilise que lorsque le personnage manie un sabre laser.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746990509711,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!gajVqrifo9MUAlMT"
+}

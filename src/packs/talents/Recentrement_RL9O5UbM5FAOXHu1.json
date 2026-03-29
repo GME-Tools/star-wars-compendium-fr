@@ -1,0 +1,61 @@
+{
+  "name": "Recentrement",
+  "type": "talent",
+  "_id": "RL9O5UbM5FAOXHu1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Effectuez la man&oelig;uvre Recentrement. Jusqu'au d&eacute;but&nbsp;du tour suivant, le niveau de critique des attaques qui vous prennent pour cible augmente de 1 par rang de Recentrement.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "gdTbJ2QeP9BpSlrO",
+      "LysqaT8q6bjKyobp"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Chevalier shii-cho, Disciple niman, Protecteur</p>\n<p>Une fois par round, lorsqu'il manie un sabre laser, le personnage peut effectuer une man&oelig;uvre de Recentrement. Jusqu'au d&eacute;but de son prochain tour, chaque fois qu'il sera vis&eacute; par une attaque au corps &agrave; corps, le niveau de Critique de l'arme employ&eacute;e contre lui sera augment&eacute; de 1 point par rang de Recentrement.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746991639886,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!RL9O5UbM5FAOXHu1"
+}

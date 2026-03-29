@@ -1,0 +1,58 @@
+{
+  "name": "Expert en Pilotage",
+  "type": "talent",
+  "_id": "B7O15XjuC22BFYC0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, quand vous pilotez un vaisseau spatial, vous pouvez subir 2 points de stress afin d'accomplir n'importe quelle action au prix d'une manœuvre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 138"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage pilote un vaisseau spatial (tout vaisseau nécessitant l'utilisation de la compétence Pilotage [espace]), il peut une fois par round choisir de subir 2 points de stress afin d'accomplir une action à la place d'une manœuvre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683967691,
+    "modifiedTime": 1774731600447,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!B7O15XjuC22BFYC0"
+}

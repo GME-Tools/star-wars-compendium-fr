@@ -1,0 +1,58 @@
+{
+  "name": "Jamais à Court",
+  "type": "talent",
+  "_id": "IdOXpMNUbWxA9ERj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous ne pouvez pas tomber à court de munitions sur un [DE]. Les objets possédant l'attribut Munitions limitées tombent à court de munitions selon les règles normales.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage ne tombe pas à court de munitions sur un [DE]. Les armes possédant l'attribut Munitions limitées tombent à court de munitions selon la règle normale.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768465091596,
+    "modifiedTime": 1774769615952,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!IdOXpMNUbWxA9ERj"
+}

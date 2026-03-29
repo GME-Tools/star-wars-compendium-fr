@@ -1,0 +1,60 @@
+{
+  "name": "Coup Handicapant",
+  "type": "talent",
+  "_id": "ZImmZRcTFD2bvmYk",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Augmentez la difficulté du prochain test de combat. Si le test inflige des dégâts, la cible subit 1 point de stress chaque fois qu'elle se déplace jusqu'à la fin de la rencontre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135",
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut volontairement ajouter 1 dé de difficulté à un test de combat afin d'infliger un coup handicapant. Si son attaque touche et inflige des dégâts, jusqu'à la fin de la rencontre, la cible subit 1 point de stress chaque fois qu'elle se déplace.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747125112779,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!ZImmZRcTFD2bvmYk"
+}

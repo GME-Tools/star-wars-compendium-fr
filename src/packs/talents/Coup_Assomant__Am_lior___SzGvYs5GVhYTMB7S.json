@@ -1,0 +1,58 @@
+{
+  "name": "Coup Assomant (Amélioré)",
+  "type": "talent",
+  "_id": "SzGvYs5GVhYTMB7S",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous infligez des d&eacute;g&acirc;ts de stress avec des tests de Corps &agrave; corps ou de Pugilat, vous pouvez d&eacute;penser [TR] pour &eacute;tourdir la cible pendant 1 round par [TR].</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage inflige des dégâts en points de stress lors d'un test de Corps à corps ou de Pugilat, il peut dépenser [TR] pour étourdir sa cible (cf. @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.cDQ6hKWkTPTyowae.JournalEntryPage.uzSdAZTDwgxg5cAm#autres-etats]{Page 218}) pour une durée de 1 round par [TR] utilisé.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 5900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768465961094,
+    "modifiedTime": 1774723660195,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!SzGvYs5GVhYTMB7S"
+}

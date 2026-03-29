@@ -1,0 +1,59 @@
+{
+  "name": "Difficile à Viser",
+  "type": "talent",
+  "_id": "4vhsEO89mYaGy8o8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le véhicule ou vaisseau piloté par le personnage est considéré comme ayant 1 point de gabarit de moins quand il est attaqué.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137",
+        "Force et Destinée - Livre de Règles, pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Tout véhicule piloté par le personnage est considéré comme ayant 1 point de gabarit de moins que la normale (pour un minimum de 0) quand il est la cible d'une attaque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747136287534,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!4vhsEO89mYaGy8o8"
+}

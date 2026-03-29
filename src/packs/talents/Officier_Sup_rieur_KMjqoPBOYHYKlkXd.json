@@ -1,0 +1,59 @@
+{
+  "name": "Officier Supérieur",
+  "type": "talent",
+  "_id": "KMjqoPBOYHYKlkXd",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l'action d'Officier supérieur ; effectuez un <strong>test de Commandement Moyen ([DI][DI])</strong>. Un nombre d'alliés égal à votre Présence peuvent exécuter 1 manœuvre immédiatement à condition de subir 1 point de stress.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles, pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut entreprendre l'action d'Officier supérieur. Il effectue alors un <strong>test de Commandement Moyen ([DI][DI])</strong>. En cas de réussite, un nombre d'alliés égal à sa Présence peuvent exécuter une manœuvre à condition de subir préalablement 1 point de stress. Celle-ci ne compte pas dans le nombre de manœuvres auquel on a droit à chaque tour. S'il faut déterminer l'ordre dans lequel les alliés agissent, c'est le personnage qui utilise Officier supérieur qui a le dernier mot.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747068681836,
+    "modifiedTime": 1774769863274,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!KMjqoPBOYHYKlkXd"
+}

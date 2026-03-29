@@ -1,0 +1,61 @@
+{
+  "name": "Garde Stratégique",
+  "type": "talent",
+  "_id": "jLDuK9H8j2y2ChAY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez exécuter une manœuvre et subir un certain nombre de points de stress pour améliorer autant de dés de difficulté de chaque attaque de corps à corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas dépasser votre rang en Garde stratégique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 138",
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "scFBucLhyPvXA2Kx"
+    ],
+    "longDesc": "<p>Une fois par round, le personnage peut accomplir une manœuvre de Garde stratégique afin d'adopter une position défensive contre des attaques au corps à corps. Il subit alors un nombre de points de stress inférieur ou égal à son nombre de rangs en Garde Stratégique. Jusqu'au début du tour suivant du personnage, sur tous les tests de combat au corps à corps le prenant pour cible, améliorez un nombre de dés de difficulté égal au nombre de points de stress subis par le personnage en utilisant le talent.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747052579970,
+    "modifiedTime": 1774732081760,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!jLDuK9H8j2y2ChAY"
+}

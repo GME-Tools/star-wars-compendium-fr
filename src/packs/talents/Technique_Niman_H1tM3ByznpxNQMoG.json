@@ -1,0 +1,60 @@
+{
+  "name": "Technique Niman",
+  "type": "talent",
+  "_id": "H1tM3ByznpxNQMoG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque le personnage effectue un test avec la comp&eacute;tence Sabre Laser, il peut se servir de sa Volont&eacute; &agrave; la place de sa Vigueur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "VtQhB7mPdFxHb3DQ"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Disciple niman</p>\n<p>Quand il effectue un test de Sabre laser, le personnage peut y associer Volont&eacute; au lieu de Vigueur.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746990950972,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!H1tM3ByznpxNQMoG"
+}

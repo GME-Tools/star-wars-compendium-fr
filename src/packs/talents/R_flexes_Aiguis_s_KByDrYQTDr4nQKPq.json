@@ -1,0 +1,103 @@
+{
+  "name": "Réflexes Aiguisés",
+  "type": "talent",
+  "_id": "KByDrYQTDr4nQKPq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Augmentez votre défense au corps-à-corps de 1.</p>",
+    "attributes": {
+      "attr1774733356698": {
+        "modtype": "Stat",
+        "mod": "Defence-Melee",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage gagne +1 en défense de corps à corps.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774733356698",
+      "changes": [
+        {
+          "key": "system.stats.defence.melee",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "YMpDC4A3KeW29GaW",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774733359013,
+        "modifiedTime": 1774733360896,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!KByDrYQTDr4nQKPq.YMpDC4A3KeW29GaW"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684170673,
+    "modifiedTime": 1774733360906,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!KByDrYQTDr4nQKPq"
+}

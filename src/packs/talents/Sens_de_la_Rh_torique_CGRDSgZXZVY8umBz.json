@@ -1,0 +1,59 @@
+{
+  "name": "Sens de la Rhétorique",
+  "type": "talent",
+  "_id": "CGRDSgZXZVY8umBz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l'action Sens de la rhétorique ; effectuez un <strong>test de Commandement Moyen ([DI][DI])</strong>. Chaque [SU] permet à un allié à portée de se débarrasser de 1 point de stress. Chaque [AD] permet à un allié affecté de se débarrasser de 1 point de stress supplémentaire.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut entreprendre l'action Sens de la rhétorique. Effectuez un <strong>test de Commandement Moyen ([DI][DI])</strong>. Pour chaque [SU], un allié situé à portée courte se débarrasse de 1 point de stress. Pour chaque [AD], un allié qui profite de Sens de la rhétorique se débarrasse de 1 point de stress supplémentaire.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768484322330,
+    "modifiedTime": 1774771954810,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!CGRDSgZXZVY8umBz"
+}

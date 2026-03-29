@@ -1,0 +1,146 @@
+{
+  "name": "Intuition",
+  "type": "talent",
+  "_id": "7z1gFelN1S1eR7Jv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Perception et Sang-froid deviennent des compétences de carrière.</p>",
+    "attributes": {
+      "attr1774732280883": {
+        "modtype": "Career Skill",
+        "mod": "Perception",
+        "value": 1
+      },
+      "attr1774732281074": {
+        "modtype": "Career Skill",
+        "mod": "Discipline",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Perception et Sang-froid deviennent des compétences de carrière, si ce n'est pas déjà le cas.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774732280883",
+      "changes": [
+        {
+          "key": "system.skills.Perception.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "NwsRWLP2oop0SksW",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732283703,
+        "modifiedTime": 1774732306769,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!7z1gFelN1S1eR7Jv.NwsRWLP2oop0SksW"
+    },
+    {
+      "name": "attr1774732281074",
+      "changes": [
+        {
+          "key": "system.skills.Discipline.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "u29YMnLNDDdOdDxy",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732283703,
+        "modifiedTime": 1774732308202,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!7z1gFelN1S1eR7Jv.u29YMnLNDDdOdDxy"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684019989,
+    "modifiedTime": 1774769549155,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!7z1gFelN1S1eR7Jv"
+}

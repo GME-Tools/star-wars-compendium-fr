@@ -1,0 +1,363 @@
+{
+  "name": "Chercheur",
+  "type": "talent",
+  "_id": "pmFpJpC9TiYFX4By",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Chercheur aux tests de Connaissance. Les recherches entreprises prennent deux fois moins de temps.</p>",
+    "attributes": {
+      "attr1774723079776": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Core Worlds",
+        "value": 1
+      },
+      "attr1774723089508": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Education",
+        "value": 1
+      },
+      "attr1774723097232": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Lore",
+        "value": 1
+      },
+      "attr1774723104965": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Outer Rim",
+        "value": 1
+      },
+      "attr1774723114462": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Underworld",
+        "value": 1
+      },
+      "attr1774723123412": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Warfare",
+        "value": 1
+      },
+      "attr1774723132713": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Knowledge: Xenology",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 134",
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage retire [SE] par rang de Chercheur aux tests de Connaissance. Les recherches entreprises prennent deux fois moins de temps. Des rangs supplémentaires en Chercheur ne modifient pas cette réduction de durée.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774723079776",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Core Worlds.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "aTUhCU1B8oYLx7u9",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723082036,
+        "modifiedTime": 1774723087431,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.aTUhCU1B8oYLx7u9"
+    },
+    {
+      "name": "attr1774723089508",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Education.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "UpVnwzdjF8aMd3K3",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723091620,
+        "modifiedTime": 1774723095836,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.UpVnwzdjF8aMd3K3"
+    },
+    {
+      "name": "attr1774723097232",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "CJpnftcKoHKnYFfz",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723099206,
+        "modifiedTime": 1774723103464,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.CJpnftcKoHKnYFfz"
+    },
+    {
+      "name": "attr1774723104965",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Outer Rim.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "qn1DPHI5YNVx8d0B",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723107115,
+        "modifiedTime": 1774723112658,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.qn1DPHI5YNVx8d0B"
+    },
+    {
+      "name": "attr1774723114462",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Underworld.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "dtGAaS9WMjPCEGIj",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723117638,
+        "modifiedTime": 1774723121774,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.dtGAaS9WMjPCEGIj"
+    },
+    {
+      "name": "attr1774723123412",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Warfare.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "bLLWtsPo25XabYIx",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723126533,
+        "modifiedTime": 1774723131100,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.bLLWtsPo25XabYIx"
+    },
+    {
+      "name": "attr1774723132713",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Xenology.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "mCrGAW4Kx66I8a4P",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774723136041,
+        "modifiedTime": 1774723139484,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!pmFpJpC9TiYFX4By.mCrGAW4Kx66I8a4P"
+    }
+  ],
+  "folder": null,
+  "sort": 17200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746994017755,
+    "modifiedTime": 1774723139498,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!pmFpJpC9TiYFX4By"
+}

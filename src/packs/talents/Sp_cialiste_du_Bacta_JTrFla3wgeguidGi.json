@@ -1,0 +1,59 @@
+{
+  "name": "Spécialiste du Bacta",
+  "type": "talent",
+  "_id": "JTrFla3wgeguidGi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les patients éliminent 1 blessure supplémentaire par rang de Spécialiste du bacta lorsqu'ils se reposent dans une cuve à bacta ou dans un centre de soins à long terme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Les patients dont le personnage s'occupe récupèrent 1 blessure supplémentaire par rang de Spécialiste du bacta que ce dernier possède lorsqu'ils se reposent dans une cuve à bacta, sous surveillance médicale ou dans un centre de soins à long terme.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768469195204,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!JTrFla3wgeguidGi"
+}

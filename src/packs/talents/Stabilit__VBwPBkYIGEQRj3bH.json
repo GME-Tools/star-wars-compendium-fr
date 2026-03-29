@@ -1,0 +1,59 @@
+{
+  "name": "Stabilité",
+  "type": "talent",
+  "_id": "VBwPBkYIGEQRj3bH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Exécutez une manœuvre pour retirer [SE] par rang de Stabilité à votre prochaine action. Cela ne peut retirer que les [SE] liés à l'environnement.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>En effectuant une manœuvre de Stabilité, le personnage retire [SE] par rang de Stabilité à son prochain test influencé par les conditions environnementales, comme le climat, les surfaces instables, l'apesanteur, une gravité plus forte, ou tout autre élément physique perturbant qui compliquerait un test de compétence.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1768464971417,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!VBwPBkYIGEQRj3bH"
+}

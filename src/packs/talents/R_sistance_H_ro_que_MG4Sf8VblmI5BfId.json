@@ -1,0 +1,60 @@
+{
+  "name": "Résistance Héroïque",
+  "type": "talent",
+  "_id": "MG4Sf8VblmI5BfId",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez dépenser 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Vigueur et d'Agilité jusqu'à la fin de la rencontre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143",
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut dépenser 1 point de Destin pour ignorer jusqu'à la fin de la rencontre les effets des blessures critiques sur les tests associés à la Vigueur et à l'Agilité. Il continue néanmoins à souffrir de la blessure critique elle-même.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747127091522,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!MG4Sf8VblmI5BfId"
+}

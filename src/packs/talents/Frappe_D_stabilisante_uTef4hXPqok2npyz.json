@@ -1,0 +1,58 @@
+{
+  "name": "Frappe Déstabilisante",
+  "type": "talent",
+  "_id": "uTef4hXPqok2npyz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Frappe d&eacute;stabilisante : effectuez un test de combat au Sabre laser (Ruse) en ajoutant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. D&eacute;pensez [FP] pour ajouter [FA] au prochain test de combat de votre cible.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Expert shien</p>\n<p>Pour entreprendre un action de Frappe d&eacute;stabilisante, le personnage effectue un test de Sabre laser (Ruse) contre une cible au contact et ajoute &agrave; sa r&eacute;serve de d&eacute;s un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Le personnage peut d&eacute;penser [FP] pour ajouter [FA] au prochain test de combat de la cible effectu&eacute; lors de cette rencontre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144288298,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!uTef4hXPqok2npyz"
+}

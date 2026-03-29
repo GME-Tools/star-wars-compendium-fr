@@ -1,0 +1,60 @@
+{
+  "name": "Âme de Mécano",
+  "type": "talent",
+  "_id": "w6rX3amP7LRyp4eF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous &ecirc;tes consid&eacute;r&eacute; comme ayant toujours les bons outils lorsque vous effectuez des tests de M&eacute;canique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "LoiPEc5ZBR9AudeV"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Artisan</p>\n<p>Quand il effectue des tests de M&eacute;canique, on consid&egrave;re que le personnage a toujours l'outil adapte &agrave; sa tache (cf. page 181).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17750000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143188517,
+    "modifiedTime": 1774683516767,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!w6rX3amP7LRyp4eF"
+}

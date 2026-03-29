@@ -1,0 +1,58 @@
+{
+  "name": "Terrifiant",
+  "type": "talent",
+  "_id": "D5EoMsq3e2f0cBF7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l&rsquo;action Terrifiant : effectuez un [B]test de Coercition Difficile ([DI][DI][DI])[b],&nbsp;ajoutez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. D&eacute;sorientez une cible &agrave; port&eacute;e moyenne par [SU]. D&eacute;pensez [AD][AD] pour &eacute;tendre la dur&eacute;e, et d&eacute;pensez [FP]&nbsp;pour immobiliser une cible affect&eacute;e.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": true,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Agresseur</p>\n<p>Pour entreprendre l'action Terrifiant, le personnage effectue un [B]test de Coercition Difficile ([DI][DI][DI]) en ajoutant &agrave; sa r&eacute;serve un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. En cas de r&eacute;ussite, une cible par [SU] &agrave; port&eacute;e moyenne du personnage est d&eacute;sorient&eacute;e jusqu'&agrave; la fin du round suivant. Le personnage peut depenser [AD][AD] pour augmenter d'un round la dur&eacute;e de la d&eacute;sorientation pour toutes les cibles affect&eacute;es, et d&eacute;penser [FP] pour immobiliser une cible affect&eacute;e jusqu'&agrave; la fin du tour suivant. Un personnage qui a acquis ce talent re&ccedil;oit automatiquement 1 point de Conflit au d&eacute;but d'une session de jeu.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 13900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747124201214,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!D5EoMsq3e2f0cBF7"
+}

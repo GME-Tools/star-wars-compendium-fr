@@ -1,0 +1,59 @@
+{
+  "name": "Sens de la Rhétorique (Ultime)",
+  "type": "talent",
+  "_id": "DvwGvDmGmova5nBL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 1 point de stress pour utiliser Sens de la rhétorique au prix d'une manœuvre au lieu d'une action.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut choisir de subir 1 point de stress afin d'utiliser Sens de la rhétorique au prix d'une manœuvre au lieu d'une action.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768484660653,
+    "modifiedTime": 1774733812252,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!DvwGvDmGmova5nBL"
+}

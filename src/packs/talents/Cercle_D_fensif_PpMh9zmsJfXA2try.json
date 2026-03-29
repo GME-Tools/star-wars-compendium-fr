@@ -1,0 +1,58 @@
+{
+  "name": "Cercle Défensif",
+  "type": "talent",
+  "_id": "PpMh9zmsJfXA2try",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l'action Cercle d&eacute;fensif. Effectuez un [B]test de Sabre laser Difficile ([DI][DI][DI])[b]. Le personnage, plus un alli&eacute; &agrave; port&eacute;e courte par [SU] gagne X en d&eacute;fense jusqu&rsquo;au d&eacute;but du tour suivant, X &eacute;tant &eacute;gal &agrave; 1 + 1 par [AD][AD].</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> D&eacute;fenseur soresu</p>\n<p>Lorsque le personnage manie un sabre laser, il peut entreprendre l'action Cercle d&eacute;fensif. Pour ce faire, il effectue un [B]test de Sabre laser (Intelligence) Difficile ([DI][DI][DI])[b]. En cas de r&eacute;ussite, le personnage plus un alli&eacute; par [SU] &agrave; courte port&eacute;e augmentent leur d&eacute;fense &agrave; distance et au corps &agrave; corps de X jusqu'au d&eacute;but du prochain tour du personnage. X egale 1, plus 1 par [AD][AD].</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 11000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747052704835,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!PpMh9zmsJfXA2try"
+}

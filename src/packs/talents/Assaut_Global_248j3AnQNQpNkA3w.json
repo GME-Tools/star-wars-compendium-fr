@@ -1,0 +1,58 @@
+{
+  "name": "Assaut Global",
+  "type": "talent",
+  "_id": "248j3AnQNQpNkA3w",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Si un test de combat rat&eacute; g&eacute;n&egrave;re [TR] ou [AD][AD][AD] vous pouvez les d&eacute;penser pour effectuer une action de pouvoir de la Force en tant que man&oelig;uvre. Le pouvoir doit cibler vos alli&eacute;s.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Pacificateur</p>\n<p>Chaque fois que le personnage &eacute;choue &agrave; un test de combat, il peut d&eacute;penser [TR] ou [AD][AD][AD] pour effectuer une action de pouvoir de la Force au prix d'une man&oelig;uvre. Ce pouvoir doit viser un ou plusieurs alli&egrave;s. Le personnage doit encore &ecirc;tre capable d'ex&eacute;cuter des man&oelig;uvres, et ne peut toujours pas en accomplir plus de deux par tour.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 10500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747068897345,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!248j3AnQNQpNkA3w"
+}

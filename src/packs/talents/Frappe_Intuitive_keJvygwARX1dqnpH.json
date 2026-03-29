@@ -1,0 +1,58 @@
+{
+  "name": "Frappe Intuitive",
+  "type": "talent",
+  "_id": "keJvygwARX1dqnpH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous effectuez un test de combat avec une arme &agrave; l&rsquo;&eacute;chelle plan&eacute;taire, ajoutez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. D&eacute;pensez [FP][FP] pour ajouter [SU] ou [AD].</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 145"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> As de l'espace</p>\n<p>Quand il effectue un test de combat avec une arme mont&eacute;e sur un vehicule, le personnage peut ajouter &agrave; sa r&eacute;serve un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Il peut d&eacute;penser [FP] pour ajouter, au choix. [SU] ou [AD] au r&eacute;sultat.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747136175538,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!keJvygwARX1dqnpH"
+}

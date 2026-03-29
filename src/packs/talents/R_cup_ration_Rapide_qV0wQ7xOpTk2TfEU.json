@@ -1,0 +1,61 @@
+{
+  "name": "Récupération Rapide",
+  "type": "talent",
+  "_id": "qV0wQ7xOpTk2TfEU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous éliminez du stress après une rencontre, débarrassez-vous de 1 point de stress supplémentaire par rang de Récupération rapide.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142",
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "1UpcsKF8IZtqP9yG"
+    ],
+    "longDesc": "<p>Quand le personnage récupère du stress à l'issue d'une rencontre, il élimine 1 point de stress supplémentaire par rang en Récupération rapide.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746992880218,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!qV0wQ7xOpTk2TfEU"
+}

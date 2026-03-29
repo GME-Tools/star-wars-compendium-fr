@@ -1,0 +1,59 @@
+{
+  "name": "Officier Supérieur (Amélioré)",
+  "type": "talent",
+  "_id": "SpQswlNTd8kENzJz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>L'action d'Officier supérieur affecte un nombre d'alliés égal au double de votre Présence, et vous pouvez dépenser [TR] pour permettre à des alliés (qui subissent 1 point de stress) d'exécuter 1 action gratuite à la place.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand il entreprend une action d'Officier supérieur, le personnage peut affecter un nombre d'alliés égal au double de sa Présence. De plus, lors de son test de Commandement, il peut utiliser [TR] pour permettre à un allié (qui subit 1 point de stress) d'exécuter une action au lieu d'une manœuvre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 11200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747068801111,
+    "modifiedTime": 1774769888213,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!SpQswlNTd8kENzJz"
+}

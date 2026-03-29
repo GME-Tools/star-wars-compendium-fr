@@ -1,0 +1,58 @@
+{
+  "name": "Compartiment Caché",
+  "type": "talent",
+  "_id": "4suSKzpOTYZSdFwM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Un de vos équipements ou véhicules dispose d'un ou plusieurs compartiments cachés dont l'encombrement total est égal à vos rangs de Compartiment caché.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 134"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Un équipement, véhicule ou droïde appartenant au personnage dispose d'un ou plusieurs compartiments cachés adaptés à la contrebande. La taille des compartiments est proportionnelle à celle du véhicule ou du droïde en question. La plupart des droïdes humanoïdes ne peuvent dissimuler que des objets de la taille d'une arme à une main, tandis qu'un vaisseau de gabarit 4 pourra cacher des humanoïdes. Les tests visant à trouver ce genre de compartiment s'accompagnent d'une difficulté <strong>Exceptionnelle ([DI][DI][DI][DI][DI])</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683735534,
+    "modifiedTime": 1774723233847,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!4suSKzpOTYZSdFwM"
+}

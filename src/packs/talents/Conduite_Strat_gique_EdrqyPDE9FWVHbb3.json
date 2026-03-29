@@ -1,0 +1,58 @@
+{
+  "name": "Conduite Stratégique",
+  "type": "talent",
+  "_id": "EdrqyPDE9FWVHbb3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Augmentez de 1 point par rang de Conduite stratégique la défense du véhicule ou vaisseau que vous pilotez.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 134"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Un véhicule conduit par le personnage voit sa valeur de défense à toutes les zones augmentée de 1 point par rang de Conduite stratégique.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 3300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1773242410314,
+    "modifiedTime": 1774723394469,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!EdrqyPDE9FWVHbb3"
+}

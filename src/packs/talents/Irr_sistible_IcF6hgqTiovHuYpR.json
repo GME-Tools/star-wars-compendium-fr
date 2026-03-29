@@ -1,0 +1,148 @@
+{
+  "name": "Irrésistible",
+  "type": "talent",
+  "_id": "IcF6hgqTiovHuYpR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang d'Irrésistible à tous vos tests de Charme et de Commandement.</p>",
+    "attributes": {
+      "attr1774732392483": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Charm",
+        "value": 1
+      },
+      "attr1774732392903": {
+        "modtype": "Skill Remove Setback",
+        "mod": "Leadership",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 139",
+        "Force et Destinée - Livre de Règles, pg. 147"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Retirez [SE] par rang d'Irrésistible aux tests de Charme et de Commandement du personnage.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774732392483",
+      "changes": [
+        {
+          "key": "system.skills.Charm.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "CEgp0NuSGQo6zZQR",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732394320,
+        "modifiedTime": 1774732403543,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!IcF6hgqTiovHuYpR.CEgp0NuSGQo6zZQR"
+    },
+    {
+      "name": "attr1774732392903",
+      "changes": [
+        {
+          "key": "system.skills.Leadership.remsetback",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "gym6kAOGj5ziCd3Z",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732394320,
+        "modifiedTime": 1774732404348,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!IcF6hgqTiovHuYpR.gym6kAOGj5ziCd3Z"
+    }
+  ],
+  "folder": null,
+  "sort": 15900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746993938386,
+    "modifiedTime": 1774732404359,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!IcF6hgqTiovHuYpR"
+}

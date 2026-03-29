@@ -1,0 +1,58 @@
+{
+  "name": "Proie du Chasseur",
+  "type": "talent",
+  "_id": "bkwIHQ3jPo84Kj21",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez entreprendre une action de Proie du chasseur pour effectuer un <strong>test de Survie Diffcile ([DI][DI][DI])</strong> ; en cas de succ&egrave;s, vous am&eacute;liorez un d&eacute; d&rsquo;aptitude &agrave; toutes vos attaques effectu&eacute;es contre une cible &agrave; port&eacute;e longue jusqu&rsquo;&agrave; la fin de votre tour suivant.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Au cœur de l'inconnu, pg. 30"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :&nbsp;</strong></p>\n<p>Le personnage peut entreprendre un action de Proie du chasseur contre un adversaire &agrave; port&eacute;e longue pour effectuer un <strong>test de Survie Difficile ([DI][DI][DI])</strong> ; en cas de succ&egrave;s, il am&eacute;liore un d&eacute; d'aptitude &agrave; toutes ses attaques effectu&eacute;es contre la cible jusqu'&agrave; la fin de son tour suivant.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767610494156,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!bkwIHQ3jPo84Kj21"
+}

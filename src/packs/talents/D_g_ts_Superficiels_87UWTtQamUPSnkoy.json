@@ -1,0 +1,58 @@
+{
+  "name": "Dégâts Superficiels",
+  "type": "talent",
+  "_id": "87UWTtQamUPSnkoy",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dépensez 1 point de Destin pour utiliser Dégâts superficiels au prix d'une broutille juste après qu'un véhicule ou un vaisseau spatial subit des dégâts pour les transformer en points de stress mécanique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 136"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut dépenser 1 point de Destin pour utiliser Dégâts superficiels immédiatement après qu'un véhicule ou un vaisseau spatial qu'il a déjà réparé durant cette rencontre subit des dégâts. Le personnage explique pourquoi les dégâts apparemment sérieux n'étaient en réalité que superficiels, et l'attaque inflige des points de stress mécanique plutôt que des dégâts de coque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683894626,
+    "modifiedTime": 1774724067284,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!87UWTtQamUPSnkoy"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Précision Mortelle",
+  "type": "talent",
+  "_id": "f1jKD1P6t5GQJXkA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choisissez 1 compétence de combat au moment de l'acquisition de ce talent. Ajoutez des dégâts égaux à votre rang dans cette compétence à une attaque réussie utilisant celle-ci.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Chaque fois que le personnage acquiert un rang en Précision mortelle, il doit choisir une compétence de combat. Lorsqu'il utilise la compétence choisie, le personnage ajoute ses rangs dans celle-ci comme dégâts supplémentaires à un coup réussi de l'attaque. Le personnage ne peut pas choisir deux fois la même compétence de combat et ce talent ne s'applique pas aux armes montées sur un véhicule ou un vaisseau spatial.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768131019771,
+    "modifiedTime": 1774770483529,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!f1jKD1P6t5GQJXkA"
+}

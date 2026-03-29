@@ -1,0 +1,58 @@
+{
+  "name": "Ceinture à gadgets",
+  "type": "talent",
+  "_id": "aUsuwBxjEblo5Lu3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dépensez 1 point de Destin pour exécuter une broutille ; sortez d'une ceinture à outils ou d'une sacoche un objet ou une arme (sous certaines restrictions) ne figurant pas sur votre liste d'équipement.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut dépenser 1 point de Destin et utiliser Ceinture à gadgets au prix d'une broutille pour sortir de sa ceinture multi-usage, de sa sacoche ou de ses poches un petit objet ne figurant pas sur sa liste d'équipement et dont la rareté ne dépasse pas 4. Il ne peut s'agir d'une arme, à moins que celle-ci ne possède l'attribut Munitions limitées (1).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 6800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1773243388275,
+    "modifiedTime": 1774735190060,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!aUsuwBxjEblo5Lu3"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Harmonie avec l'Univers",
+  "type": "talent",
+  "_id": "STenJpC1KisYv3Ry",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par session de jeu, m&eacute;ditez puis accomplissez l'action Harmonie avec l'univers : effectuez un [B]test d'Astrogation Moyen ([DI][DI])[b]. S'il est r&eacute;ussi, ajoutez [LI] &agrave; tous les tests de pouvoirs de la Force au cours de la prochaine rencontre. Si le test d'Astrogation est r&eacute;ussi avec un [TH], ajoutez [DA] &agrave; la place.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Sage</p>\n<p>Une fois par session de jeu, le personnage peut m&eacute;diter plusieurs minutes, puis effectuer l'action Harmonie avec l'univers. Pour cela, il effectue un [B]test d'Astrogation Moyen ([DI][DI])[b]. Si le test est r&eacute;ussi, le personnage ajoute [LI] a tous ses tests de pouvoir de la Force durant la prochaine rencontre. Toutefois, s'il a r&eacute;ussi, mais avec une ou plusieurs [TH], il ajoute [DA] &agrave; tous ses tests de pouvoir de la Force &agrave; la place.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746994744623,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!STenJpC1KisYv3Ry"
+}

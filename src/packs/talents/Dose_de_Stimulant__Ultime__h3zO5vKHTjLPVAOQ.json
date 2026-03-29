@@ -1,0 +1,58 @@
+{
+  "name": "Dose de Stimulant (Ultime)",
+  "type": "talent",
+  "_id": "h3zO5vKHTjLPVAOQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous effectuez l'action Dose de stimulant, chaque [TR] dépensé permet d'augmenter une caractéristique supplémentaire.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage effectue l'action Dose de stimulant, chaque [TR] peut être dépensé pour augmenter de 1 une autre caractéristique.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 7500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768484157136,
+    "modifiedTime": 1774768780366,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!h3zO5vKHTjLPVAOQ"
+}

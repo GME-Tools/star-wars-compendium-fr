@@ -1,0 +1,59 @@
+{
+  "name": "Transe Revigorante",
+  "type": "talent",
+  "_id": "Elm7VbEe3EToxYDp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Engagez [FO]. Pour chaque rencontre compl&egrave;te o&ugrave; [FO] reste engag&eacute;, &eacute;liminez 1 point de blessure par rang de Transe revigorante.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Gu&eacute;risseur</p>\n<p>Le personnage peut engager [FO]. Lors de chaque rencontre compl&egrave;te durant laquelle le [FO] demeure engag&eacute;, le personnage est soign&eacute; de 1 point de blessure par rang de Transe revigorante. Ceci s'ajoute aux blessures soign&eacute;es par le repos ou d'autres moyens. Dans une situation sans rencontre d&eacute;finie, le MJ peut decider que Transe revigorante prend effet toutes les 12 heures.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746992408815,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!Elm7VbEe3EToxYDp"
+}

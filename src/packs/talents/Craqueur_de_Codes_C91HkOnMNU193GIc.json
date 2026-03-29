@@ -1,0 +1,59 @@
+{
+  "name": "Craqueur de Codes",
+  "type": "talent",
+  "_id": "C91HkOnMNU193GIc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Craqueur de codes aux tests pour percer un code ou décrypter des communications. Retirez 1 dé de difficulté aux tests pour percer un code ou décrypter des communications.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135",
+        "Force et Destinée - Livre de Règles, pg. 142"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage enlève autant de [SE] qu'il possède de rangs en Craqueur de codes à ses tentatives pour percer un code ou pour décrypter des communications. De plus, le personnage retire 1 dé de difficulté (quel que soit son nombre de rangs en Craqueur de codes) aux tests d'Informatique ou d'Intelligence pour percer un code ou décrypter des communications.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 2500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747144483638,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!C91HkOnMNU193GIc"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Imprégnation",
+  "type": "talent",
+  "_id": "IosqrpeKRMuyzRMF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez la man&oelig;uvre Impr&eacute;gnation : subissez 1 point de stress et engagez [FO] pour donner &agrave; une arme, une pi&egrave;ce d&rsquo;armure ou un&nbsp;objet d&rsquo;&eacute;quipement une am&eacute;lioration tant que le [FO] reste engag&eacute;. Subissez 1 point de stress pour chaque round o&ugrave; le [FO] reste engag&eacute;.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 146"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Artisan</p>\n<p>Pour entreprendre la man&oelig;uvre Impr&eacute;gnation, le personnage subit 1 point de stress et engage [FO]. Il peut alors am&eacute;liorer temporairement une arme ou un objet &agrave; courte distance en choisissant une des options suivantes : augmenter les d&eacute;g&acirc;ts d'une arme de 1, r&eacute;duire de 1 le nombre de [AD] n&eacute;cessaires pour d&eacute;clencher un critique ou tout autre effet unique, augmenter de 1 la d&eacute;fense au corps a corps ou &agrave; distance d'une pi&egrave;ce d'armure. Sinon, le personnage peut r&eacute;duire de 2 l'encombrement d'un objet jusqu'&agrave; un minimum de 1. Il subit 1 point de stress au d&eacute;but de chacun des tours au cours desquels le d&eacute; reste engag&eacute;.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 4400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747143361643,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!IosqrpeKRMuyzRMF"
+}

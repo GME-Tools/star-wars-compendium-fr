@@ -1,0 +1,58 @@
+{
+  "name": "Cercle de Protection",
+  "type": "talent",
+  "_id": "hr5b9KJhDyTR8uR5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsqu&rsquo;un alli&eacute; au contact est touch&eacute;, vous pouvez employer Parer ou D&eacute;vier comme une broutille pour contrer ce coup.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Protecteur</p>\n<p>Lorsqu'un alli&eacute; au contact du personnage est touch&eacute; suite &agrave; un test de combat, le personnage peut, au prix d'une broutille, utiliser Parer ou Devier pour r&eacute;duire les d&eacute;gats subis (meme s'il n'est pas lul-m&ecirc;me la cible du test de combat).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747082992423,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!hr5b9KJhDyTR8uR5"
+}

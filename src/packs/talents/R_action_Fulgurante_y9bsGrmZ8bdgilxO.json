@@ -1,0 +1,106 @@
+{
+  "name": "Réaction Fulgurante",
+  "type": "talent",
+  "_id": "y9bsGrmZ8bdgilxO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] par rang de R&eacute;action fulgurante aux tests de Vigilance.</p>",
+    "attributes": {
+      "attr1774733309768": {
+        "modtype": "Skill Boost",
+        "mod": "Vigilance",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142",
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "JnWsrEaKwLPX0wBb"
+    ],
+    "longDesc": "<p>Le personnage ajoute [BO] par rang en Réaction fulgurante à tous ses tests de Vigilance.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774733309768",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.boost",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "pw9pb4jVfXVGs800",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774733311362,
+        "modifiedTime": 1774733314947,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!y9bsGrmZ8bdgilxO.pw9pb4jVfXVGs800"
+    }
+  ],
+  "folder": null,
+  "sort": 13100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747047175100,
+    "modifiedTime": 1774733314959,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!y9bsGrmZ8bdgilxO"
+}

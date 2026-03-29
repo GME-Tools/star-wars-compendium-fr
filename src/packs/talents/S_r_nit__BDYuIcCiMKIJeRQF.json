@@ -1,0 +1,62 @@
+{
+  "name": "Sérénité",
+  "type": "talent",
+  "_id": "BDYuIcCiMKIJeRQF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous &eacute;liminez du stress &agrave; la fin de la rencontre, vous pouvez ajouter [FO] par point de Valeur de Force. Vous r&eacute;cup&eacute;rez un point de stress suppl&eacute;mentaire par [FP] g&eacute;n&eacute;r&eacute;.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144",
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Active (Maneuver)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "FHGKeQGuNsc5tGpJ",
+      "q3uTtiCCU54Wm8ge"
+    ],
+    "longDesc": "<p>Quand le personnage élimine des points de stress à la fin d'une rencontre, il lance un nombre de [FO] inférieur ou égal à sa valeur de Force. Il élimine un nombre de points de stress supplémentaires égal au nombre de [FP] obtenus.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746995008923,
+    "modifiedTime": 1774772196247,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!BDYuIcCiMKIJeRQF"
+}

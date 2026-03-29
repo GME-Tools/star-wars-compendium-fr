@@ -1,0 +1,58 @@
+{
+  "name": "Bouche d'Entrée",
+  "type": "talent",
+  "_id": "vLIu1ookB3JoB82q",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Avant d&rsquo;attaquer un vaisseau ou un v&eacute;hicule, vous pouvez d&eacute;penser 1 point de Destin pour ignorer les effets de la r&egrave;gle Massif.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 140"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> As de l'Espace</p>\n<p>Avant d'attaquer un vaisseau ou un v&eacute;hicule, le personnage peut depenser un point de Destin pour ignorer les effets de la r&egrave;gle Massif des grands vaisseaux pour cette attaque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747136137508,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!vLIu1ookB3JoB82q"
+}

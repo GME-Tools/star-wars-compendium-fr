@@ -1,0 +1,58 @@
+{
+  "name": "Rapprochement",
+  "type": "talent",
+  "_id": "EgTakM9IzmiEJM36",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Entreprenez l'action Rapprochement : effectuez un test de combat de Sabre laser (Volont&eacute;) contre une cible de gabarit 1 &agrave; port&eacute;e moyenne, en y ajoutant un nombre de [FO] qui ne doit pas &ecirc;tre sup&eacute;rieur &agrave; votre Valeur de Force. D&eacute;pensez [FP] pour rapprocher la cible d'un niveau de distance ou pour ajouter [SU] au test.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Disciple niman</p>\n<p>Pour entreprendre une action de Rapprochement, le personnage effectue un test de combat Sabre laser (Volont&eacute;) contre une cible de gabarit inf&eacute;rieur ou &eacute;gal &agrave; 1 situ&eacute;e &agrave; moyenne port&eacute;e, en ajoutant &agrave; sa r&eacute;serve un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; sa valeur de Force. Avant de d&eacute;terminer l'issue du test, le personnage peut d&eacute;penser [FP] afin de rapprocher la cible d'un niveau de port&eacute;e (de courte &agrave; au contact par exemple). Il peut aussi d&eacute;penser [FP] pour ajouter [SU] au resultat du test. Si le personnage ne peut d&eacute;placer sa cible de mani&egrave;re &agrave; se placer au contact, le test &eacute;choue automatiquement.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746991434745,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!EgTakM9IzmiEJM36"
+}

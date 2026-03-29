@@ -1,0 +1,58 @@
+{
+  "name": "Transe Revigorante Améliorée",
+  "type": "talent",
+  "_id": "MFb2ImxpxeBfsbMo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous &eacute;liminez des blessures avec Transe revigorante, effectuez un test de R&eacute;sistance pour &eacute;liminer une blessure critique. La difficult&eacute; du test est &eacute;gale au niveau de gravit&eacute; de la blessure critique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Gu&eacute;risseur</p>\n<p>Chaque fois que le personnage soigne un de ses points de blessure au moyen de Transe revigorante, il peut, s'il souffre &eacute;galement d'une blessure critique, effectuer un test de R&eacute;sistance d'une difficult&eacute; &eacute;gale au niveau de gravit&eacute; de la blessure critique. En cas de r&eacute;ussite, il &eacute;limine la blessure critique. Si le personnage souffre de plusieurs blessures critiques, il choisit laquelle il va tenter d'&eacute;liminer.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746993121501,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!MFb2ImxpxeBfsbMo"
+}

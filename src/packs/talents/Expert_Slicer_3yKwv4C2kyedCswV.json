@@ -1,0 +1,58 @@
+{
+  "name": "Expert Slicer",
+  "type": "talent",
+  "_id": "3yKwv4C2kyedCswV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par round, vous pouvez utiliser Expert slicer au prix d'une broutille pour subir 2 points de stress et retirer 1 dé de difficulté aux tests d'Informatique ou à tout autre test relatif au piratage informatique, jusqu'à un minimum de <strong>Facile ([DI])</strong>.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 138"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Une fois par round, le personnage peut choisir de subir 2 points de stress pour réduire de 1 dé la difficulté de son prochain test d'Informatique ou de tout autre test relatif au piratage informatique, jusqu'à un minimum de <strong>Facile ([DI])</strong>.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683976724,
+    "modifiedTime": 1774769258865,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!3yKwv4C2kyedCswV"
+}

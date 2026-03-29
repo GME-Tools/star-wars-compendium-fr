@@ -1,0 +1,59 @@
+{
+  "name": "Réparations Solides",
+  "type": "talent",
+  "_id": "l2mzSuhREjbNitnc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous réparez un véhicule ou un vaisseau spatial, vous restaurez +1 dégât de coque par rang de Réparations solides.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143",
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage répare un véhicule ou un vaisseau spatial, il restaure +1 dégât de coque par rang en Réparations solides.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 8200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747135848221,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!l2mzSuhREjbNitnc"
+}

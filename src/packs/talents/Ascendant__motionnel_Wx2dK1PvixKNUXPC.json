@@ -1,0 +1,58 @@
+{
+  "name": "Ascendant Émotionnel",
+  "type": "talent",
+  "_id": "Wx2dK1PvixKNUXPC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez ajouter un nombre de [FO] égal à votre Valeur de Force aux tests de Charme, de Coercition ou de Tromperie. Les [LI] et les [DA] ajoutent des [SU] ou des [FA] aux tests.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage effectue un test de Charme, Coercition ou Tromperie, il peut ajouter à sa réserve de dés autant de [FO] que sa valeur de Force. Chaque [LI] ajoute [SU] aux tests de Charme. Chaque [DA] ajoute [SU] aux tests de Coercition ou de Tromperie. Toutefois, chaque [LI] [LI] ajoute [FA] aux tests de Coercition et de Tromperie, et chaque [DA][DA] ajoute [FA] aux tests de Charme. Ce talent ne s'applique pas contre les cibles immunisées contre les pouvoirs de la Force (ni contre les droïdes).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683628883,
+    "modifiedTime": 1774734768857,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!Wx2dK1PvixKNUXPC"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Slicer Stratégique (Amélioré)",
+  "type": "talent",
+  "_id": "reEaIr0B1kgwDtsz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Améliorez 1 dé de difficulté de vos adversaires par rang de Slicer stratégique. Cette capacité remplace les bénéfices habituels du talent Slicer stratégique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 144"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage s'efforce de défendre un système informatique contre un piratage, il améliore autant de dés de difficulté de la réserve de son adversaire qu'il possède de rangs en Slicer stratégique. Cette capacité remplace les bénéfices habituels du talent Slicer stratégique.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774684239899,
+    "modifiedTime": 1774684239899,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!reEaIr0B1kgwDtsz"
+}

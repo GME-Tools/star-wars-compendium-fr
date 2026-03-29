@@ -1,0 +1,58 @@
+{
+  "name": "Douleur Partagée",
+  "type": "talent",
+  "_id": "ligD70q1oznIjYP1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous pouvez accomplir la broutille Douleur partag&eacute;e lorsque l&rsquo;animal li&eacute; souffre d&rsquo;une blessure. Le nombre de points de blessure subis par l&rsquo;animal est r&eacute;duit de moiti&eacute;, mais le personnage subit un nombre de points de blessure &eacute;gal &agrave; ceux que l&rsquo;animal a &eacute;limin&eacute;es de la sorte.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur</p>\n<p>Quand un animal li&eacute; au personnage par @UUID[Compendium.star-wars-compendium-fr.talents.Item.K9g3nqVFQ09I5D9l]{Empathie avec les Animaux} subit des blessures, son maitre peut entreprendre la broutille Douleur partag&eacute;e. Il r&eacute;duit ainsl le nombre de points de blessures re&ccedil;us par l'animal de moiti&eacute; (r&eacute;sultat arrondi au chiffre sup&eacute;rieur). Cependant, en retour, il subit lui-m&ecirc;me les points de blessures que l'animal n'a pas re&ccedil;us grace &agrave; l'emploi du talent.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747033255867,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!ligD70q1oznIjYP1"
+}

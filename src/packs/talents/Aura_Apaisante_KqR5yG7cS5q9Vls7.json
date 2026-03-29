@@ -1,0 +1,58 @@
+{
+  "name": "Aura Apaisante",
+  "type": "talent",
+  "_id": "KqR5yG7cS5q9Vls7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsqu'un adversaire cible le personnage avec un pouvoir de la Force, r&eacute;duisez les [FP] g&eacute;n&eacute;r&eacute;s de 1.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 137"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Gu&eacute;risseur</p>\n<p>Lorsque le personnage a &eacute;t&eacute; vis&eacute; par un pouvoir de la Force, r&eacute;duisez de 1 le nombre total de [FP] obtenus par l'adversaire, jusqu'&agrave; un minimum de 0.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 16000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1746993208770,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!KqR5yG7cS5q9Vls7"
+}

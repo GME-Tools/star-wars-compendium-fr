@@ -1,0 +1,59 @@
+{
+  "name": "Baroudeur",
+  "type": "talent",
+  "_id": "P6dybampTQRY5sYA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Retirez [SE] par rang de Baroudeur aux tests effectués pour se déplacer au sol ou pour gérer les effets d'un environnement. Réduisez de moitié le temps de voyage terrestre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 132",
+        "Force et Destinée - Livre de Règles, pg. 140"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage retire [SE] par rang de Baroudeur aux tests effectués pour se déplacer au sol ou pour gérer les effets d'un environnement ou d'un terrain particulier. Par ailleurs, il réduit de moitié le temps de voyage terrestre. Des rangs supplémentaires de Baroudeur ne modifient pas cette réduction de durée.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1747032282913,
+    "modifiedTime": 1774705713258,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!P6dybampTQRY5sYA"
+}

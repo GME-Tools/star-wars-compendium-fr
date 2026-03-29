@@ -1,0 +1,58 @@
+{
+  "name": "Dans le Mille",
+  "type": "talent",
+  "_id": "evc3ay7bQVFOsrxJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dépensez 1 point de Destin pour ajouter des dégâts supplémentaires égaux à la moitié de votre valeur d'Agilité (arrondi à l'entier supérieur) à un coup réussi d'une attaque effectuée avec une arme de véhicule ou de vaisseau.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 135"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage peut dépenser 1 point de Destin pour ajouter des dégâts égaux à la moitié de sa valeur d'Agilité (arrondi à l'entier supérieur) à un coup réussi d'une attaque effectuée avec une arme de véhicule ou de vaisseau.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774683831953,
+    "modifiedTime": 1774723963504,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!evc3ay7bQVFOsrxJ"
+}

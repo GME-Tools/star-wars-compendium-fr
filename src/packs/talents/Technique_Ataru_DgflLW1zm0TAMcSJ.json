@@ -1,0 +1,58 @@
+{
+  "name": "Technique Ataru",
+  "type": "talent",
+  "_id": "DgflLW1zm0TAMcSJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque vous effectuez un test employant la comp&eacute;tence Sabre laser, vous pouvez vous servir d&rsquo;Agilit&eacute; au lieu de Vigueur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 152"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Bretteur ataru</p>\n<p>Quand il effectue un test de Sabre laser, le personnage peut y associer Agilit&eacute; au lieu de Vigueur.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 19600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747042051469,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!DgflLW1zm0TAMcSJ"
+}

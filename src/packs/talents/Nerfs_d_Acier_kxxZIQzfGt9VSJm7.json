@@ -1,0 +1,61 @@
+{
+  "name": "Nerfs d'Acier",
+  "type": "talent",
+  "_id": "kxxZIQzfGt9VSJm7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dépensez 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Présence et de Volonté jusqu'à la fin de la rencontre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles, pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "Fgyxn5M9sJgOdPby"
+    ],
+    "longDesc": "<p>Le personnage peut dépenser 1 point de Destin pour ignorer jusqu'à la fin de la rencontre les effets des blessures critiques sur les tests associés à la Présence et la Volonté. Il continue néanmoins à souffrir de la blessure critique elle-même.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12700000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747068754925,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!kxxZIQzfGt9VSJm7"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Point Faible",
+  "type": "talent",
+  "_id": "gngLnkYnPrGmB6vz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Après avoir réussi une attaque, vous pouvez dépenser 1 point de Destin pour ajouter des dégâts égaux à votre Ruse à un coup réussi.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 142",
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Après avoir réussi une attaque avec une arme qui n'est pas montée sur un vaisseau spatial ou un véhicule, le personnage peut dépenser 1 point de Destin pour ajouter des dégâts égaux à sa Ruse à un coup réussi de l'attaque.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747047248721,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!gngLnkYnPrGmB6vz"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Vivacité",
+  "type": "talent",
+  "_id": "CPoIIIRFZeNN5nUR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Vous ne subissez pas les malus habituels pour vous déplacer en terrain difficile.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 145",
+        "Force et Destinée - Livre de Règles, pg. 153"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage ne subit aucun malus pour se déplacer en terrain difficile (il se déplace à sa vitesse normale, sans devoir dépenser de manœuvres supplémentaires).</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18000000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747032242324,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!CPoIIIRFZeNN5nUR"
+}

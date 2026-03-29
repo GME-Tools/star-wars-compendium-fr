@@ -1,0 +1,61 @@
+{
+  "name": "Second Souffle",
+  "type": "talent",
+  "_id": "frv1ZEaW75O8WyZr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois par rencontre, vous pouvez utiliser Second souffle au prix d'une broutille et éliminer autant de points de stress que votre rang de Second souffle.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 143",
+        "Force et Destinée - Livre de Règles, pg. 151"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "LysqaT8q6bjKyobp"
+    ],
+    "longDesc": "<p>Une fois par rencontre, le personnage peut utiliser Second souffle au prix d'une broutille et éliminer autant de points de stress qu'il possède de rangs en Second souffle.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 11900000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747064962832,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!frv1ZEaW75O8WyZr"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Beau Parleur",
+  "type": "talent",
+  "_id": "8EmideBQQHqtj0uZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous acquérez ce talent, choisissez 1 compétence : Charme, Coercition, Négociation ou Tromperie. Quand vous effectuez des tests avec cette compétence, vous pouvez dépenser [TR] pour gagner un nombre de [SU] supplémentaires égal à votre rang de Beau parleur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133",
+        "Force et Destinée - Livre de Règles, pg. 140"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand un personnage acquiert ce talent, il choisit une compétence : Charme, Coercition, Négociation, ou Tromperie. Lors des tests de la compétence choisie, il peut dépenser [TR] afin d'obtenir un nombre de [SU] supplémentaires égal à son rang en Beau parleur.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 14600000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746994285732,
+    "modifiedTime": 1774734946315,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!8EmideBQQHqtj0uZ"
+}

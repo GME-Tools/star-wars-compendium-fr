@@ -1,0 +1,58 @@
+{
+  "name": "Connexion Psychique",
+  "type": "talent",
+  "_id": "y0WhYlxx1DCY43ib",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Effectuez l&rsquo;action Connexion psychique. Engagez [FO]. Tant qu&rsquo;il reste engag&eacute;, vous pouvez communiquer avec l&rsquo;animal li&eacute; &agrave; longue port&eacute;e, et voir et entendre par ses sens.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Active (Action)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Arpenteur</p>\n<p>Pour entreprendre l'action Connexion psychique, le personnage engage [FO]. Tant que ce dernier demeure engag&eacute;, le personnage peut communiquer mentalement avec l'animal auquel il est li&eacute; via le talent Lien avec des animaux. Il voit et entend ce que per&ccedil;oit l'animal, et lors de rencontres structur&eacute;es, il peut le diriger (voir @UUID[Compendium.star-wars-compendium-fr.talents.Item.D3pd1ijSFvMCOP25]{Lien avec les Animaux}, page 147) jusqu'a une port&eacute;e extr&ecirc;me</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 18500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747033080825,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!y0WhYlxx1DCY43ib"
+}

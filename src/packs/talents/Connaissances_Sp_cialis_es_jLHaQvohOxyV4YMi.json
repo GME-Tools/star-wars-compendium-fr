@@ -1,0 +1,60 @@
+{
+  "name": "Connaissances Spécialisées",
+  "type": "talent",
+  "_id": "jLHaQvohOxyV4YMi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous acquérez ce talent, choisissez une compétence de Connaissance. Lorsque vous effectuez un test avec cette compétence, vous pouvez dépenser [TR] pour obtenir des succès supplémentaires égaux à votre rang de Connaissances spécialisées.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 134",
+        "Force et Destinée - Livre de Règles, pg. 141"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Quand le personnage acquiert ce talent pour la première fois, il choisit une compétence de Connaissance. Lorsqu'il effectue des tests avec cette compétence, il peut utiliser [TR] afin d'obtenir un nombre de succès supplémentaires égal à son rang en Connaissances spécialisées.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 17100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746994502663,
+    "modifiedTime": 1774735507643,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!jLHaQvohOxyV4YMi"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Dévier (Amélioré)",
+  "type": "talent",
+  "_id": "iVM5cHsegFcZv1oq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand vous d&eacute;viez un tir qui a g&eacute;n&eacute;r&eacute; [DE] ou [TH][TH][TH], une fois l&rsquo;attaque initiale r&eacute;solue,&nbsp;vous pouvez toucher une cible &agrave; port&eacute;e moyenne, infligeant les m&ecirc;mes d&eacute;g&acirc;ts que le tir initial.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental, Out of Turn)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "scFBucLhyPvXA2Kx"
+    ],
+    "longDesc": "<p><strong>Arborescences :</strong> Expert shien, D&eacute;fenseur soresu</p>\n<p>S'il est touch&eacute; suite &agrave; un test de Distance (armes l&eacute;g&egrave;res), de Distance (armes lourdes) ou d'Artillerie, et qu'il utilise le talent D&eacute;vier afin de r&eacute;duire les d&eacute;gats de l'attaque, le personnage peut d&eacute;penser [DE] ou [TH][TH][TH] pour toucher automatiquement une cible se trouvant jusqu'&agrave; port&eacute;e moyenne et infliger autant de d&eacute;g&acirc;ts que l'attaque &agrave; distance initiale (cela doit &ecirc;tre fait apr&egrave;s la r&eacute;solution de l'attaque initiale).</p>\n<p>Pour que ce talent fonctionne, il faut que l'attaque d'origine puisse etre renvoy&eacute;e (normalement, seuls les tirs de blasters ou autres attaques d'&eacute;nergie rel&egrave;vent de cette cat&eacute;gorie, mais le MJ a le dernier mot en la mati&egrave;re) et qu'elle n'ait pas neutralis&eacute; le personnage.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 12400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747052938764,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!iVM5cHsegFcZv1oq"
+}

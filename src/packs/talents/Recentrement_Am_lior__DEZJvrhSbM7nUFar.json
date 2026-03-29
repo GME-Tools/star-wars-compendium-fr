@@ -1,0 +1,58 @@
+{
+  "name": "Recentrement Amélioré",
+  "type": "talent",
+  "_id": "DEZJvrhSbM7nUFar",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Subissez 1 point de stress pour effectuer Recentrement au prix d'une broutille.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 150"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences :</strong> Disciple niman</p>\n<p>Le personnage peut d&eacute;cider de subir 1 point de stress pour effectuer Recentrement au prix d'une broutille au lieu d'une man&oelig;uvre.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 15200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746991897580,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!DEZJvrhSbM7nUFar"
+}

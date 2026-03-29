@@ -1,0 +1,59 @@
+{
+  "name": "Adversaires Multiples",
+  "type": "talent",
+  "_id": "2cDCqXEN2NHSLGPL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] aux tests de Sabre laser, Pugilat et Corps &agrave; corps lorsque vous &ecirc;tes au&nbsp;contact avec plusieurs adversaires.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 143"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p><strong>Arborescences </strong>: Chevalier shii-cho</p>\n<p>Le personnage ajoute [BO] &agrave; ses tests de Vigueur, Corps &agrave; corps et Sabre laser quand il se retrouve au contact de plusieurs adversaires, y compris les groupes constitu&eacute;s de plusieurs sbires.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 9500000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747128481477,
+    "modifiedTime": 1774683515799,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!2cDCqXEN2NHSLGPL"
+}

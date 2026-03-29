@@ -1,0 +1,193 @@
+{
+  "name": "Perception des Emotions",
+  "type": "talent",
+  "_id": "fcyEnCs2eVdxmO2i",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ajoutez [BO] &agrave; tous les tests de Charme, de Coercition et de Tromperie, &agrave; moins que la cible ne soit immunis&eacute;e contre les pouvoirs de la Force.</p>",
+    "attributes": {
+      "attr1774732764853": {
+        "modtype": "Skill Boost",
+        "mod": "Charm",
+        "value": 1
+      },
+      "attr1774732765277": {
+        "modtype": "Skill Boost",
+        "mod": "Coercion",
+        "value": 1
+      },
+      "attr1774732765614": {
+        "modtype": "Skill Boost",
+        "mod": "Deception",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 141",
+        "Force et Destinée - Livre de Règles, pg. 148"
+      ]
+    },
+    "activation": {
+      "value": "Active (Incidental)",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": false,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": true,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [
+      "Fgyxn5M9sJgOdPby"
+    ],
+    "longDesc": "<p>Le personnage ajoute [BO] à tous ses tests de Charme, Coercition et Tromperie, à moins que la cible ne soit immunisée contre les pouvoirs de la Force.</p>"
+  },
+  "effects": [
+    {
+      "name": "attr1774732764853",
+      "changes": [
+        {
+          "key": "system.skills.Charm.boost",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "HZgp6jknWKhLk9MU",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732767188,
+        "modifiedTime": 1774732785829,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!fcyEnCs2eVdxmO2i.HZgp6jknWKhLk9MU"
+    },
+    {
+      "name": "attr1774732765277",
+      "changes": [
+        {
+          "key": "system.skills.Coercion.boost",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "hq9yvIVU1XcIHK4Q",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732767188,
+        "modifiedTime": 1774732786574,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!fcyEnCs2eVdxmO2i.hq9yvIVU1XcIHK4Q"
+    },
+    {
+      "name": "attr1774732765614",
+      "changes": [
+        {
+          "key": "system.skills.Deception.boost",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "jaDGVxIImZ2TCTkh",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774732767188,
+        "modifiedTime": 1774732787668,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!fcyEnCs2eVdxmO2i.jaDGVxIImZ2TCTkh"
+    }
+  ],
+  "folder": null,
+  "sort": 16800000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1746991033071,
+    "modifiedTime": 1774732787681,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!fcyEnCs2eVdxmO2i"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Bidouillage",
+  "type": "talent",
+  "_id": "1YUOWbWbK4pCZGNg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choisissez 1 arme, armure ou autre objet et offrez-lui une amélioration valable tant qu'il/elle est utilisé(e).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 133"
+      ]
+    },
+    "activation": {
+      "value": "Passive",
+      "type": "String",
+      "label": "Activation"
+    },
+    "ranks": {
+      "ranked": true,
+      "current": 1,
+      "min": 0
+    },
+    "isForceTalent": false,
+    "isConflictTalent": false,
+    "tier": 1,
+    "trees": [],
+    "longDesc": "<p>Le personnage choisit une arme ou pièce d'armure personnelle par rang de Bidouillage. Il peut augmenter de 1 les dégâts de l'arme, réduire de 1 le coût en avantages [AD] pour infliger une blessure critique ou déclencher un autre effet (jusqu'à un minimum de 1), ou augmenter de 1 la défense au corps à corps ou à distance de l'armure. Ou bien il peut encore réduire l'encombrement de l'objet de 2, jusqu'à un minimum de 1.</p><p>Le bonus s'applique tant que le peronnage utilise l'objet. Si ce dernier est perdu ou détruit, le personnage peut appliquer ce talent à une nouvelle arme ou pièce d'armure personnelle.</p>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    },
+    "clickfromparent": {}
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1768465250527,
+    "modifiedTime": 1774707975579,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!1YUOWbWbK4pCZGNg"
+}
