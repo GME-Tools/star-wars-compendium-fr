@@ -2,12 +2,12 @@
   "id": "star-wars-compendium-fr",
   "title": "Star Wars - Compendium FR",
   "description": "Compendiums FR pour le système Star Wars FFG",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "manifest": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/module.json",
   "download": "https://github.com/GME-Tools/star-wars-compendium-fr/releases/download/latest/star-wars-compendium-fr.zip",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "esmodules": [
     "scripts/journal.js",
