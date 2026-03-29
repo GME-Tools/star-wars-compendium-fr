@@ -66,12 +66,12 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Historiques | Devoirs | Motivations | Espèces | Spécialités | Talents | Équipement | Véhicules | Rencontres | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| SWA25 | Cible Verrouillée      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWA31 | Alliés de Circonstance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWA36 | Officiers de Terrain   | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWA42 | Forgé par la Guerre    | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWA47 | Fully Operational      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWA53 | Cyphers and Masks      | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA25 | Cible Verrouillée       | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA31 | Alliés de Circonstance  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA36 | Officiers de Terrain    | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA42 | Forgé par la Guerre     | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA47 | Pleinement Opérationnel | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWA53 | Cyphers and Masks       | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Autres suppléments
 | Réf. | Livre | Texte intégral | Espèces | Équipement | Véhicules | PNJ | Planètes | Rencontres |
@@ -102,12 +102,12 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 ## 🧑‍🚀 Suppléments de Carrière
 | Réf. | Livre | Texte intégral | Historiques | Moralités | Motivations | Espèces | Spécialités | Talents | Équipement | Véhicules | Rencontres | Capacités Emblématiques | Force |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| SWF24 | Les Garants de la Paix | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF30 | Endless Vigil          | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF35 | Disciples of Harmony   | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF41 | Savage Spirits         | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF46 | Knights of Fate        | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF52 | Unlimited Power        | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF24 | Les Garants de la Paix  | 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF30 | Veille Eternelle        | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF35 | Disciples de l'Harmonie | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF41 | Savage Spirits          | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF46 | Knights of Fate         | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF52 | Unlimited Power         | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Autres suppléments
 | Réf. | Livre | Texte intégral | Espèces | Motivations | Équipement | PNJ | Rencontres |
@@ -117,10 +117,10 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 ## 🧭 Aventures & Campagnes
 | Réf. | Livre | Texte intégral | Planètes | Équipement | Véhicules | PNJ | Rencontres | Force |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| BTA007 | Lost Knowledge (Beta) | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWFP01 | La Ruse de l'Oublié   | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWF23 | Chroniques du Gardien  | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF40 | Ghosts of Dathomir     | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| BTA007 | Lost Knowledge (Beta)   | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWFP01 | La Ruse de l'Oublié     | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWF23 | Chroniques du Gardien    | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF40 | Les SPectres de Dathomir | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
@@ -135,9 +135,9 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 ## ⌛ Suppléments de périodes
 | Réf. | Livre | Texte intégral | Espèces | Carrières | Spécialités | Talents | Force | Équipement | Véhicules | PNJ | Rencontres | Planètes | Capacités Emblématiques |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| SWR10 | L'Aube de la Rébellion       | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWR11 | L'Ascension des Séparatistes | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
-| SWR15 | Collapse of the Republic     | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWR10 | L'Aube de la Rébellion          | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWR11 | L'Ascension des Séparatistes    | ⬜ | ⬜ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
+| SWR15 | L'Effondrement de la République | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## 🗺️ Compendiums
 | Réf. | Livre | Texte intégral | Espèces | Équipement | Véhicules | PNJ | Talents |
