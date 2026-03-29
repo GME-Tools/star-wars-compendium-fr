@@ -1,0 +1,22 @@
+{
+  "name": "Aux Confins de l'Empire",
+  "sorting": "a",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "g9xXMj1vyku9ArCv",
+  "description": "",
+  "sort": 0,
+  "color": "#d5d1b3",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746535286962,
+    "modifiedTime": 1746535286962,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!g9xXMj1vyku9ArCv"
+}

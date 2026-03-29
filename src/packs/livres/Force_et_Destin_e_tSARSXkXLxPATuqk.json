@@ -1,0 +1,22 @@
+{
+  "name": "Force et Destinée",
+  "sorting": "a",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "tSARSXkXLxPATuqk",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746535318358,
+    "modifiedTime": 1746535318358,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!tSARSXkXLxPATuqk"
+}

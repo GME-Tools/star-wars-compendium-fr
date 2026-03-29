@@ -1,0 +1,22 @@
+{
+  "name": "Générique",
+  "sorting": "a",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "00i4ND35eqgvPQ1e",
+  "description": "",
+  "sort": 0,
+  "color": "#6fa59e",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1746535354130,
+    "modifiedTime": 1746535354130,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!00i4ND35eqgvPQ1e"
+}

@@ -1,0 +1,107 @@
+{
+  "folder": "00i4ND35eqgvPQ1e",
+  "name": "SWR11 - L'Ascension des Séparatistes",
+  "_id": "Cq6F5Asrxuyc0WUh",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "La Guerre des Clones à Commencé",
+      "type": "text",
+      "_id": "v2ntC9NvEhtECYW4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774379043489,
+        "modifiedTime": 1774379043489,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!Cq6F5Asrxuyc0WUh.v2ntC9NvEhtECYW4"
+    },
+    {
+      "sort": 200000,
+      "name": "Héros de la République",
+      "type": "text",
+      "_id": "snBocaAPPH7179Ya",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Nouvelles Espèces</h1><h1>Nouvelles carrières et spécialités</h1><h2>Nouvelles carrières</h2><h2>Nouvelles Spécialités Universelles</h2><h1>Le Soldat Clone</h1><h1>Le Jedi</h1><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774379081250,
+        "modifiedTime": 1774379256454,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!Cq6F5Asrxuyc0WUh.snBocaAPPH7179Ya"
+    }
+  ],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "star-wars-compendium-fr": {
+      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/swr11.png"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774379006781,
+    "modifiedTime": 1774379006781,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!journal!Cq6F5Asrxuyc0WUh"
+}

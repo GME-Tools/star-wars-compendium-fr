@@ -1,0 +1,186 @@
+{
+  "folder": "tSARSXkXLxPATuqk",
+  "name": "SWF24 - Les Garants de la Paix",
+  "_id": "HwiPWMQke6awrGDD",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Le Manuel des Gardiens",
+      "type": "text",
+      "_id": "Ag5M1A3iSdzFkIwn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><span class=\"first-letter\">C</span>'est encore loin ?</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767708551737,
+        "modifiedTime": 1767708601483,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!HwiPWMQke6awrGDD.Ag5M1A3iSdzFkIwn"
+    },
+    {
+      "sort": 200000,
+      "name": "Dévoués protecteurs",
+      "type": "text",
+      "_id": "xb80tOCqo0VJfk07",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767708633694,
+        "modifiedTime": 1767708635598,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!HwiPWMQke6awrGDD.xb80tOCqo0VJfk07"
+    },
+    {
+      "sort": 300000,
+      "name": "Les lames de la Justice",
+      "type": "text",
+      "_id": "jAatDL8MICvAP25A",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767708645029,
+        "modifiedTime": 1767708646427,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!HwiPWMQke6awrGDD.jAatDL8MICvAP25A"
+    },
+    {
+      "sort": 400000,
+      "name": "Envers et contre tout",
+      "type": "text",
+      "_id": "UxexiC7QnX8AOI7g",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767708654290,
+        "modifiedTime": 1767708655508,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!HwiPWMQke6awrGDD.UxexiC7QnX8AOI7g"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "star-wars-compendium-fr": {
+      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/swf24.png"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767708528283,
+    "modifiedTime": 1767708528283,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!HwiPWMQke6awrGDD"
+}

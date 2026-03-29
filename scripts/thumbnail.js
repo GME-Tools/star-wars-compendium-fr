@@ -1,60 +1,73 @@
 class Thumbnail {
-    static addToEntries(app, html) {
-        console.log('update journal!')
-        const lis = html.find('li.journalentry');
-        for (const li of lis) {
-            const target = $(li);
-            const id = target.data('document-id');
-            const journalEntry = game.journal.get(id);
+  static MODULE_ID = "star-wars-compendium-fr";
 
-            console.log(journalEntry);
-            console.log(journalEntry.cover);
-            
-            if(journalEntry?.pages.size > 0) {
-                const sortedArray = journalEntry.pages.contents.sort((a,b)=> a.sort - b.sort)
-                const firstJournalPage = sortedArray[0];
-    
-                if (firstJournalPage.src) {
-                    const thumbnail = $('<img class="thumbnail" src="' + firstJournalPage.src + '" alt="Journal Entry Thumbnail">');
-                    
-                    switch (game.settings.get("journal-thumbnail", "thumbnailPosition")) {
-                        case "right": target.append(thumbnail); break;
-                        case "left": target.prepend(thumbnail); break;
-                      }
-                }
-            }
-        }
-    }
-    static updateJournalDirectory(app, html) {
-        game.journal.render();
-    }
+  static async addCovers(app, html) {
+    const pack = app.collection;
+    if (!pack || pack.metadata.name !== "livres") return;
+    if (!game.settings.get(this.MODULE_ID, "enableBookThumbnails")) return;
 
-    static addCovers(compendium, html, data) {
-        if (data.collection.metadata.name == "livres") {
-            console.log("livres !!")
-        }
+    const position = game.settings.get(this.MODULE_ID, "bookThumbnailPosition");
+    const entries = html.querySelectorAll("li.directory-item.entry.document.journalentry");
+
+    for (const li of entries) {
+      if (li.querySelector(".book-thumb")) continue;
+
+      const id = li.dataset.entryId ?? li.dataset.documentId;
+      if (!id) continue;
+
+      const entry = await pack.getDocument(id);
+      if (!entry) continue;
+
+      const thumb = entry.getFlag(this.MODULE_ID, "thumbnail");
+      if (!thumb) continue;
+
+      li.classList.add("has-book-thumb", `book-thumb-${position}`);
+
+      const img = document.createElement("img");
+      img.className = "book-thumb";
+      img.src = thumb;
+      img.alt = entry.name ?? "";
+
+      if (position === "right") {
+        li.appendChild(img);
+      } else {
+        li.insertAdjacentElement("afterbegin", img);
+      }
     }
+  }
+
+  static rerenderOpenBookCompendiums() {
+    for (const app of Object.values(ui.windows)) {
+      const pack = app?.collection;
+      if (pack?.metadata?.name === "livres") app.render(false);
+    }
+  }
 }
 
-console.log(game.settings);
+Hooks.once("init", () => {
+  game.settings.register(Thumbnail.MODULE_ID, "enableBookThumbnails", {
+    name: "Afficher les thumbnails des livres",
+    hint: "Ajoute la miniature des livres dans le compendium Livres.",
+    scope: "client",
+    config: true,
+    type: Boolean,
+    default: true,
+    onChange: () => Thumbnail.rerenderOpenBookCompendiums()
+  });
 
-Hooks.once("init", function() {
-    game.settings.register("journal-thumbnail", "thumbnailPosition", {
-        name: "Thumbnail Position",
-        hint: "Whether the thumbnail is left of the journal entry title or right",
-        scope: "world",
-        config: true,
-        default: "right",
-        type: String,
-        choices: {
-            right: "Right",
-            left: "Left",
-        },
-        onChange: () => game.journal.render()
-    });
+  game.settings.register(Thumbnail.MODULE_ID, "bookThumbnailPosition", {
+    name: "Position du thumbnail des livres",
+    hint: "Affiche la miniature à gauche ou à droite du titre.",
+    scope: "client",
+    config: true,
+    type: String,
+    choices: {
+      left: "Gauche",
+      right: "Droite"
+    },
+    default: "left",
+    onChange: () => Thumbnail.rerenderOpenBookCompendiums()
+  });
 });
 
-Hooks.on('renderJournalDirectory', Thumbnail.addToEntries);
-Hooks.on('renderJournalSheet', Thumbnail.updateJournalDirectory);
-
-Hooks.on('renderCompendium', Thumbnail.addCovers)
+Hooks.on("renderCompendium", (...args) => Thumbnail.addCovers(...args));

@@ -1,0 +1,29 @@
+{
+  "folder": "g9xXMj1vyku9ArCv",
+  "name": "SWE01 - Kit d'Initiation",
+  "_id": "60iprZ1kjCmyE2At",
+  "pages": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "star-wars-compendium-fr": {
+      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/swe01.png"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767789819921,
+    "modifiedTime": 1767789819921,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!60iprZ1kjCmyE2At"
+}

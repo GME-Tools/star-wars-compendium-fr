@@ -1,0 +1,29 @@
+{
+  "folder": "g9xXMj1vyku9ArCv",
+  "name": "BTA004 - Crates of Krayt (Beta)",
+  "_id": "fA05jvUh5AY9JTLL",
+  "pages": [],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "star-wars-compendium-fr": {
+      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/bta004.png"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774785141868,
+    "modifiedTime": 1774785141868,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!journal!fA05jvUh5AY9JTLL"
+}

@@ -120,7 +120,7 @@ Ce module vise à intégrer progressivement **la gamme officielle de livres de j
 | BTA007 | Lost Knowledge (Beta)   | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWFP01 | La Ruse de l'Oublié     | ⬜ | 🚫 | ⬜ | ⬜ | ⬜ | ⬜ | 🚫 |
 | SWF23 | Chroniques du Gardien    | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| SWF40 | Les SPectres de Dathomir | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| SWF40 | Les Spectres de Dathomir | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 

@@ -1,0 +1,29 @@
+{
+  "folder": "g9xXMj1vyku9ArCv",
+  "name": "SWEP01 - Sous le Soleil Noir",
+  "_id": "mnabEd5iG3IFGElX",
+  "pages": [],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "star-wars-compendium-fr": {
+      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/swep01.png"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774785224134,
+    "modifiedTime": 1774785224134,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!journal!mnabEd5iG3IFGElX"
+}

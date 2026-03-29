@@ -1,0 +1,22 @@
+{
+  "name": "Tables",
+  "sorting": "a",
+  "folder": null,
+  "type": "JournalEntry",
+  "_id": "KaYFPCFo82JL6Zky",
+  "description": "",
+  "sort": 0,
+  "color": "#878787",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767443794645,
+    "modifiedTime": 1767443794645,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!KaYFPCFo82JL6Zky"
+}

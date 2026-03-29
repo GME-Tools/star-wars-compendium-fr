@@ -1,0 +1,29 @@
+{
+  "folder": "kBHXeh3HMIU4tMZt",
+  "name": "SWA01 - Kit d'Initiation",
+  "_id": "TdvTUsRhrf8sE2Dt",
+  "pages": [],
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "star-wars-compendium-fr": {
+      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/swa01.png"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770719854036,
+    "modifiedTime": 1770719854036,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!journal!TdvTUsRhrf8sE2Dt"
+}

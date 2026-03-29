@@ -1,8 +1,8 @@
-2026/03/29-10:29:04.992 7d08 Recovering log #732
-2026/03/29-10:29:04.993 7d08 Delete type=0 #732
-2026/03/29-10:29:04.993 7d08 Delete type=3 #730
-2026/03/29-10:35:23.291 1e24 Level-0 table #737: started
-2026/03/29-10:35:23.291 1e24 Level-0 table #737: 0 bytes OK
-2026/03/29-10:35:23.292 1e24 Delete type=0 #735
-2026/03/29-10:35:23.293 1e24 Manual compaction at level-0 from '!folders!Uv13yOsvwIEWEFMN' @ 72057594037927935 : 1 .. '!items.effects!mcGgumk8xfpLaBwP.zjz6p3mFmDdcHa4p' @ 0 : 0; will stop at (end)
-2026/03/29-10:35:23.293 1e24 Manual compaction at level-1 from '!folders!Uv13yOsvwIEWEFMN' @ 72057594037927935 : 1 .. '!items.effects!mcGgumk8xfpLaBwP.zjz6p3mFmDdcHa4p' @ 0 : 0; will stop at (end)
+2026/03/29-21:36:45.168 6e9c Recovering log #794
+2026/03/29-21:36:45.170 6e9c Delete type=0 #794
+2026/03/29-21:36:45.170 6e9c Delete type=3 #792
+2026/03/29-21:36:59.504 744 Level-0 table #799: started
+2026/03/29-21:36:59.504 744 Level-0 table #799: 0 bytes OK
+2026/03/29-21:36:59.504 744 Delete type=0 #797
+2026/03/29-21:36:59.505 744 Manual compaction at level-0 from '!folders!Uv13yOsvwIEWEFMN' @ 72057594037927935 : 1 .. '!items.effects!mcGgumk8xfpLaBwP.zjz6p3mFmDdcHa4p' @ 0 : 0; will stop at (end)
+2026/03/29-21:36:59.505 744 Manual compaction at level-1 from '!folders!Uv13yOsvwIEWEFMN' @ 72057594037927935 : 1 .. '!items.effects!mcGgumk8xfpLaBwP.zjz6p3mFmDdcHa4p' @ 0 : 0; will stop at (end)
