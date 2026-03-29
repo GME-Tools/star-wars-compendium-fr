@@ -28,8 +28,8 @@ jobs:
           npx fvtt configure set dataPath "$RUNNER_TEMP/foundry-root"
           npx fvtt package workon star-wars-compendium-fr --type Module
 
-      - name: Pack careers
-        run: npm run pack:carrieres
+      - name: Validate and Build packs
+        run: npm run build
       
       - name: Build release archive
         run: |
