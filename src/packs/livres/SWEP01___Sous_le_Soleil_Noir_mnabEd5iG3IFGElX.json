@@ -2,7 +2,47 @@
   "folder": "g9xXMj1vyku9ArCv",
   "name": "SWEP01 - Sous le Soleil Noir",
   "_id": "mnabEd5iG3IFGElX",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "7DtlARYjPCOXXwUB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864566941,
+        "modifiedTime": 1774864566941,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!mnabEd5iG3IFGElX.7DtlARYjPCOXXwUB"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

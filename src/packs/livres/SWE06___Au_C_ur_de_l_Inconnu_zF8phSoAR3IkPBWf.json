@@ -2,7 +2,164 @@
   "folder": "g9xXMj1vyku9ArCv",
   "name": "SWE06 - Au Cœur de l'Inconnu",
   "_id": "zF8phSoAR3IkPBWf",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "L'exploration aux confins de l'Empire",
+      "type": "text",
+      "_id": "qi0DzLEsrfqJMZgn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>L'exploration dans <em>Star Wars</em></h1><h2>Une brève histoire de l'exploration</h2><h2>Explorer l'inconnu</h2><h2>Le commerce galactique</h2><h2>Sites archéologiques</h2><h2>La chasse au gros gibier</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864596766,
+        "modifiedTime": 1774892945602,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!zF8phSoAR3IkPBWf.qi0DzLEsrfqJMZgn"
+    },
+    {
+      "sort": 200000,
+      "name": "Prospecteurs galactiques",
+      "type": "text",
+      "_id": "EvINKZXOlYyDTloK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Chercheurs et trouveurs</h1><h1>La voie de l'exploration</h1><h1>Historiques d'explorateur</h1><h3>Universitaire</h3><h3>Criminel</h3><h3>Entrepreneur</h3><h3>Ancien agent impérial</h3><h3>Aristocrate déchu</h3><h3>Vagabond</h3><h1>Obligations d'explorateur</h1><h6>Table 1-1 : Obligations d'explorateur</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.h4CETZsVAz1Q0XuM]{Obligations d'explorateur}</p><h1>Nouvelles espèces</h1><h2>Les Chiss</h2><h2>Les Duros</h2><h2>Les Toydarians</h2><h1>Spécialités d'explorateur</h1><h1>L'Archéologue</h1><h1>Le prédateur</h1><h1>Le fonceur</h1><h1>Nouveaux talents</h1><div class=\"journal-side-block\"><h5>Coordonnées temporelles 16.275.5486</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h1>Motivations d'explorateur</h1><h6>Table 1-2 : Motivation aléatoire d'explorateur</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.l9qr8EON2SXyf1Gp]{Motivation aléatoire d'explorateur}</p><h6>Table 1-3 : Découvertes spécifiques</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.Vlh5QN2h1tSFQMIn]{Découvertes spécifiques}</p><h1>Capacités emblématiques d'explorateur</h1><h2>Présentation des capacités emblématiques</h2><h3>Jonction</h3><h3>Manifestation de base</h3><h3>Améliorations</h3><h2>Acquisition de capacités emblématiques</h2><div class=\"journal-side-block\"><h5>Capacités narratives</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h2>Capacité emblématique : Découverte soudaine</h2><h2>Capacité emblématique : Mobilité hors pair</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774892954104,
+        "modifiedTime": 1774897788487,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!zF8phSoAR3IkPBWf.EvINKZXOlYyDTloK"
+    },
+    {
+      "sort": 300000,
+      "name": "Paré pour l'aventure",
+      "type": "text",
+      "_id": "Q5JYE0JUQHjLyFXp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>L'arsenal</h1><h6>Table 2-1 : Armes à distance</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.lDFkn19yToQJMEAH]{Armes à distance}</p><h2>Armes à énergie</h2><div class=\"journal-side-block\"><h5>« Smarttranq de Field Sports »</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h2>Armes à impact</h2><div class=\"journal-side-block\"><h5>Munition explosive Czerka</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h2>Explosifs et autres armes</h2><h2>Armes de corps à corps</h2><h6>Table 2-2 : Armes de corps à corps</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.zyaliEHsZPDAzy86]{Armes de corps à corps}</p><h1>Équipement pour l'exploration</h1><h6>Table 2-3 : Armures et vêtements</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.dz5ltDQRpXYnIo5t]{Armures et vêtements}</p><h2>Armures et vêtements</h2><h2>Matériel de Détection</h2><h2>Matériel médical</h2><h6>Table 2-4 : Outils et équipement</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.G8yT65EuZdEKIiUr]{Outils et équipement}</p><h2>Équipement de survie</h2><h2>Outils</h2><h2>Droïdes</h2><h6>Table 2-5 : Droïdes</h6><p>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.371bQahtrGi9dF52.JournalEntryPage.dQgT9ZjMvXs2BqK3]{Droïdes}</p><h1>Vaisseaux et véhicules</h1><h2>Landspeeders</h2><h2>Chasseurs et patrouilleurs</h2><div class=\"journal-side-block\"><h5>Ordinateur de visée ANQ 3.6</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><div class=\"journal-side-block\"><h5>Accès aux machines</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h2>Cargos et transports</h2><h2>Vaisseaux capitaux</h2><div class=\"journal-side-block\"><h5>Coordonnées temporelles 16.275.5486</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774897812367,
+        "modifiedTime": 1774898369229,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!zF8phSoAR3IkPBWf.Q5JYE0JUQHjLyFXp"
+    },
+    {
+      "sort": 400000,
+      "name": "Sur la route",
+      "type": "text",
+      "_id": "otZ4vEDfqhYK35lc",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h1>Qui devient explorateur ?</h1><h2>Motivations idéologiques</h2><h2>La soif de profit</h2><h2>Astucieux, charismatiques et impitoyables</h2><h2>Coriaces, ingénieux et autonomes</h2><h2>Francs-Tireurs d'élite</h2><h2>Rats de bibliothèque, rats des champs</h2><h2>Pragmatiques et sociables</h2><h2>Compétiteurs et intrépides</h2><h1>Histoires à dormir debout</h1><h1>Mise en scène</h1><h2>Une galaxie vaste, très vaste</h2><h2>Un brin d'humour</h2><h3>Juxtaposer horreur et humour</h3><h3>Gérer la tension</h3><h2>Avantages et inconvénients des signes annonciateurs</h2><h2>Créer des personnages mémorables</h2><h3>Voix</h3><h3>Langues</h3><h3>Manies</h3><h3>Description</h3><h3>Accessoires</h3><h3>Rumeurs</h3><h1>Aventures et missions</h1><h2>Structure narrative</h2><h3>Le début : l'appel à l'aventure</h3><h3>Le milieu : le cheminement de l'épreuve</h3><h3>La fin : le retour à la normalité</h3><h2>Lancez la scène et passez à l'action</h2><h1>Amorces d'aventures</h1><h2>La farce Anaxienne</h2><h2>Mission sur Mimban</h2><h2>Le grand cambriolage zoologique de Bespin</h2><h1>Némésis pour explorateurs</h1><h3>Le rival</h3><h3>Le monstre</h3><h3>Le missionnaire</h3><h1>Risques et récompenses de l'exploration</h1><h2>Découvrir de nouveaux mondes et systèmes</h2><div class=\"journal-side-block\"><h5>Coordonnées temporelles 16.275.5486</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h2>Mécènes</h2><h3>Guilde des navigateurs de l'hyperespace</h3><h3>Gardiens des compilations de Claatuvac</h3><h3>La Confrérie de Kooroo</h3><h2>Découvrir un monde habité</h2><h2>Ouvrir de nouvelles voies hyperspatiales</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774898378085,
+        "modifiedTime": 1774898798422,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!zF8phSoAR3IkPBWf.otZ4vEDfqhYK35lc"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

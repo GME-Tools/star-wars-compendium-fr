@@ -2,7 +2,47 @@
   "folder": "kBHXeh3HMIU4tMZt",
   "name": "SWA31 - Alliés de Circonstance",
   "_id": "zzw1ynXfoZzxexRz",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "Qw9teOzNvUsvROyr",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864541968,
+        "modifiedTime": 1774864541968,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!zzw1ynXfoZzxexRz.Qw9teOzNvUsvROyr"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

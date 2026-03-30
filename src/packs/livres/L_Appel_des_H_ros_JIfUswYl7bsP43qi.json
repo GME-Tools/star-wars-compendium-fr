@@ -2,7 +2,47 @@
   "folder": "DSMCeIk9DH2gyuhs",
   "name": "L'Appel des Héros",
   "_id": "JIfUswYl7bsP43qi",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "hUxZV7tmEPYMIp6D",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864437739,
+        "modifiedTime": 1774864437739,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!JIfUswYl7bsP43qi.hUxZV7tmEPYMIp6D"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

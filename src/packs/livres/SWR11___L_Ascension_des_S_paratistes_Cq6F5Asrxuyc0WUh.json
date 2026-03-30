@@ -15,7 +15,8 @@
       },
       "image": {},
       "text": {
-        "format": 1
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -54,7 +55,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h1>Nouvelles Espèces</h1><h1>Nouvelles carrières et spécialités</h1><h2>Nouvelles carrières</h2><h2>Nouvelles Spécialités Universelles</h2><h1>Le Soldat Clone</h1><h1>Le Jedi</h1><p></p>"
+        "content": "<h1>Nouvelles Espèces</h1><h1>Nouvelles carrières et spécialités</h1><h2>Nouvelles carrières</h2><h2>Nouvelles Spécialités Universelles</h2><h1>Le Soldat Clone</h1><h1>Le Jedi</h1>"
       },
       "video": {
         "controls": true,

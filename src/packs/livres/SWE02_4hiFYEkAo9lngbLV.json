@@ -236,6 +236,2034 @@
       },
       "category": null,
       "_key": "!journal.pages!4hiFYEkAo9lngbLV.I5wtr7UAQcEedxOI"
+    },
+    {
+      "sort": 600000,
+      "name": "Dépenser l'expérience de départ",
+      "type": "text",
+      "_id": "9bvaEPDSPiyTdBdl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774869478480,
+        "modifiedTime": 1774869478480,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.9bvaEPDSPiyTdBdl"
+    },
+    {
+      "sort": 700000,
+      "name": "Motivation aléatoire",
+      "type": "text",
+      "_id": "GlmwCJxy0ht1RRJ4",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774869566185,
+        "modifiedTime": 1774869566185,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.GlmwCJxy0ht1RRJ4"
+    },
+    {
+      "sort": 800000,
+      "name": "Causes spécifiques",
+      "type": "text",
+      "_id": "FkrKe7Owy73IIS3Y",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774869641459,
+        "modifiedTime": 1774869641459,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.FkrKe7Owy73IIS3Y"
+    },
+    {
+      "sort": 750000,
+      "name": "Ambitions spécifiques",
+      "type": "text",
+      "_id": "jDn2iPa6acc3IBOn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774869653331,
+        "modifiedTime": 1774869655742,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.jDn2iPa6acc3IBOn"
+    },
+    {
+      "sort": 900000,
+      "name": "Relations spécifiques",
+      "type": "text",
+      "_id": "RmkNyA0pvGoCnaXF",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774869663860,
+        "modifiedTime": 1774869663860,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.RmkNyA0pvGoCnaXF"
+    },
+    {
+      "sort": 1000000,
+      "name": "Liste des compétences",
+      "type": "text",
+      "_id": "iKV8xk2uhXQf7Flp",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870048629,
+        "modifiedTime": 1774870048629,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.iKV8xk2uhXQf7Flp"
+    },
+    {
+      "sort": 1100000,
+      "name": "Difficulté des tests de Médecine",
+      "type": "text",
+      "_id": "ScCvX8jNtT3PwkQn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870246539,
+        "modifiedTime": 1774870246539,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.ScCvX8jNtT3PwkQn"
+    },
+    {
+      "sort": 1200000,
+      "name": "Interactions sociales",
+      "type": "text",
+      "_id": "fCpr21cC3H2yH4lq",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870348149,
+        "modifiedTime": 1774870348149,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.fCpr21cC3H2yH4lq"
+    },
+    {
+      "sort": 1300000,
+      "name": "Liste des talents",
+      "type": "text",
+      "_id": "3svqYxOR24v8Ev8n",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870684582,
+        "modifiedTime": 1774870684582,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.3svqYxOR24v8Ev8n"
+    },
+    {
+      "sort": 1400000,
+      "name": "Rareté des objets",
+      "type": "text",
+      "_id": "i0NVO1pxOKZKPrGe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870917411,
+        "modifiedTime": 1774870917411,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.i0NVO1pxOKZKPrGe"
+    },
+    {
+      "sort": 1500000,
+      "name": "Modificateurs aux tests de rareté",
+      "type": "text",
+      "_id": "AwxQUxftVgDefZ6Z",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870928731,
+        "modifiedTime": 1774870928731,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.AwxQUxftVgDefZ6Z"
+    },
+    {
+      "sort": 1600000,
+      "name": "Commerce et prix de revente",
+      "type": "text",
+      "_id": "dAayBzcSstnjcSCc",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774870935908,
+        "modifiedTime": 1774870935908,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.dAayBzcSstnjcSCc"
+    },
+    {
+      "sort": 1700000,
+      "name": "Équipement endommagé",
+      "type": "text",
+      "_id": "ymFo6xkU6qr1gRmB",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774871312477,
+        "modifiedTime": 1774871312477,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.ymFo6xkU6qr1gRmB"
+    },
+    {
+      "sort": 1800000,
+      "name": "Armes à distance",
+      "type": "text",
+      "_id": "juTUg9lqVDMFjDLU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774871427143,
+        "modifiedTime": 1774871427143,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.juTUg9lqVDMFjDLU"
+    },
+    {
+      "sort": 1900000,
+      "name": "Armes de corps à corps",
+      "type": "text",
+      "_id": "9k14GY4o2jo7nRAC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774871433344,
+        "modifiedTime": 1774871433344,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.9k14GY4o2jo7nRAC"
+    },
+    {
+      "sort": 2000000,
+      "name": "Armures",
+      "type": "text",
+      "_id": "PTG19kr3y1mrnHwi",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774871553075,
+        "modifiedTime": 1774871553075,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.PTG19kr3y1mrnHwi"
+    },
+    {
+      "sort": 2100000,
+      "name": "Matériel et équipement",
+      "type": "text",
+      "_id": "jOsE8TeY0wuf87pE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774872331646,
+        "modifiedTime": 1774872331646,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.jOsE8TeY0wuf87pE"
+    },
+    {
+      "sort": 2200000,
+      "name": "Matériel du marché noir",
+      "type": "text",
+      "_id": "FFIu5VekEAqzjpXY",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774872391490,
+        "modifiedTime": 1774872391490,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.FFIu5VekEAqzjpXY"
+    },
+    {
+      "sort": 2300000,
+      "name": "Équipement individuel",
+      "type": "text",
+      "_id": "DIuDYW9mCq1UNtGJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774872452169,
+        "modifiedTime": 1774872452169,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.DIuDYW9mCq1UNtGJ"
+    },
+    {
+      "sort": 2400000,
+      "name": "Kits d'armes et d'armure",
+      "type": "text",
+      "_id": "tCvG8H5vWRK2QIuG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774872574084,
+        "modifiedTime": 1774872574084,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.tCvG8H5vWRK2QIuG"
+    },
+    {
+      "sort": 2500000,
+      "name": "Difficulté des attaques à distance",
+      "type": "text",
+      "_id": "rCI6YBQ0IqeIggh5",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774873420762,
+        "modifiedTime": 1774873420762,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.rCI6YBQ0IqeIggh5"
+    },
+    {
+      "sort": 2600000,
+      "name": "Utilisation des [AD] et [TR] au combat",
+      "type": "text",
+      "_id": "RwtsJ0TM1O8Rivre",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774873651104,
+        "modifiedTime": 1774873651104,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.RwtsJ0TM1O8Rivre"
+    },
+    {
+      "sort": 2700000,
+      "name": "Utilisation des [TH] et [DE] au combat",
+      "type": "text",
+      "_id": "TMIJlJ4fRlcv9weq",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774873757194,
+        "modifiedTime": 1774873757194,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.TMIJlJ4fRlcv9weq"
+    },
+    {
+      "sort": 2800000,
+      "name": "Modificateurs par distance",
+      "type": "text",
+      "_id": "B7ozcZeibRhnPR7z",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774874010801,
+        "modifiedTime": 1774874010801,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.B7ozcZeibRhnPR7z"
+    },
+    {
+      "sort": 2900000,
+      "name": "Armes improvisées",
+      "type": "text",
+      "_id": "GSJ7M1Z9hQMNuc6V",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774874113858,
+        "modifiedTime": 1774874113858,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.GSJ7M1Z9hQMNuc6V"
+    },
+    {
+      "sort": 3000000,
+      "name": "Gabarits et personnages",
+      "type": "text",
+      "_id": "obUN0IxZvKT8Qwj3",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774874144811,
+        "modifiedTime": 1774874144811,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.obUN0IxZvKT8Qwj3"
+    },
+    {
+      "sort": 3100000,
+      "name": "Camouflage",
+      "type": "text",
+      "_id": "eqYZbX5PcE0zoUhQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774874272342,
+        "modifiedTime": 1774874272342,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.eqYZbX5PcE0zoUhQ"
+    },
+    {
+      "sort": 3200000,
+      "name": "Feu, acide et atmosphères corrosives",
+      "type": "text",
+      "_id": "vkJAlRnGOGqE61Br",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774874302583,
+        "modifiedTime": 1774874302583,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.vkJAlRnGOGqE61Br"
+    },
+    {
+      "sort": 3300000,
+      "name": "Dégâts de chute",
+      "type": "text",
+      "_id": "fCiSs7nZyDQa5Qu9",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774874324752,
+        "modifiedTime": 1774874324752,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.fCiSs7nZyDQa5Qu9"
+    },
+    {
+      "sort": 3400000,
+      "name": "Blessures critiques",
+      "type": "text",
+      "_id": "ZBwvu3u1aAt0xtcz",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774875153268,
+        "modifiedTime": 1774875153268,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.ZBwvu3u1aAt0xtcz"
+    },
+    {
+      "sort": 3500000,
+      "name": "Difficulté du test de médecine",
+      "type": "text",
+      "_id": "gcWbjQDkl1ZsIOab",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774875574535,
+        "modifiedTime": 1774875574535,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.gcWbjQDkl1ZsIOab"
+    },
+    {
+      "sort": 3600000,
+      "name": "Armes des vaisseaux et véhicules",
+      "type": "text",
+      "_id": "iZLYD75syxDOWeiO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774876708491,
+        "modifiedTime": 1774876708491,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.iZLYD75syxDOWeiO"
+    },
+    {
+      "sort": 3700000,
+      "name": "Difficulté de contrôle des dégâts",
+      "type": "text",
+      "_id": "MU2JEdDuOKe8QZpI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774876996818,
+        "modifiedTime": 1774876996818,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.MU2JEdDuOKe8QZpI"
+    },
+    {
+      "sort": 3800000,
+      "name": "Avantage de vitesse et difficulté",
+      "type": "text",
+      "_id": "ceu8Y2gUIMLdaxT6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774877718860,
+        "modifiedTime": 1774877718860,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.ceu8Y2gUIMLdaxT6"
+    },
+    {
+      "sort": 3900000,
+      "name": "Comparaison des gabarits",
+      "type": "text",
+      "_id": "zaxDsb9dFdEXZZwm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774877801246,
+        "modifiedTime": 1774877801246,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.zaxDsb9dFdEXZZwm"
+    },
+    {
+      "sort": 4000000,
+      "name": "Dépenser les [AD] et les [TR] dans les combats spatiaux",
+      "type": "text",
+      "_id": "SLL3ujMjJqjECHOn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774877974986,
+        "modifiedTime": 1774877974986,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.SLL3ujMjJqjECHOn"
+    },
+    {
+      "sort": 4100000,
+      "name": "Dépenser les [TH] et les [DE] dans les combats spatiaux",
+      "type": "text",
+      "_id": "lAbXlQdK3RCsE21R",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774877995865,
+        "modifiedTime": 1774877995865,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.lAbXlQdK3RCsE21R"
+    },
+    {
+      "sort": 4200000,
+      "name": "Actions supplémentaires des vaisseaux et véhicules",
+      "type": "text",
+      "_id": "Ycl9IeK1Ayz6B3Ag",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878013892,
+        "modifiedTime": 1774878018635,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.Ycl9IeK1Ayz6B3Ag"
+    },
+    {
+      "sort": 4300000,
+      "name": "Difficulté de navigations et dés d'infortune [SE]",
+      "type": "text",
+      "_id": "gWXuPRIDQVkKNfFm",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878335976,
+        "modifiedTime": 1774878335976,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.gWXuPRIDQVkKNfFm"
+    },
+    {
+      "sort": 4400000,
+      "name": "Résultats des dégâts critiques",
+      "type": "text",
+      "_id": "fRWVHUxQHn7Cv7Wy",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878437294,
+        "modifiedTime": 1774878437294,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.fRWVHUxQHn7Cv7Wy"
+    },
+    {
+      "sort": 4500000,
+      "name": "Composants des petits vaisseaux et véhicules",
+      "type": "text",
+      "_id": "9vaNzF0FyHXqpyKt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878506847,
+        "modifiedTime": 1774878506847,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.9vaNzF0FyHXqpyKt"
+    },
+    {
+      "sort": 4600000,
+      "name": "Composants des gros vaisseaux et véhicules",
+      "type": "text",
+      "_id": "2r8r0IAYMkJyGYqa",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878518927,
+        "modifiedTime": 1774878518927,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.2r8r0IAYMkJyGYqa"
+    },
+    {
+      "sort": 4700000,
+      "name": "Durée des voyages à vitesse subluminiques",
+      "type": "text",
+      "_id": "thHA5zmnkDwoHeRb",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878605858,
+        "modifiedTime": 1774878605858,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.thHA5zmnkDwoHeRb"
+    },
+    {
+      "sort": 4800000,
+      "name": "Modificateurs d'astrogation",
+      "type": "text",
+      "_id": "qwKrf7ga8FYcGNmK",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878653859,
+        "modifiedTime": 1774878653859,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.qwKrf7ga8FYcGNmK"
+    },
+    {
+      "sort": 4900000,
+      "name": "Durée des voyages dans l'hyperespace",
+      "type": "text",
+      "_id": "RLiUzXNkoBI3xWbD",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878662260,
+        "modifiedTime": 1774878662260,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.RLiUzXNkoBI3xWbD"
+    },
+    {
+      "sort": 5000000,
+      "name": "Terrain difficile",
+      "type": "text",
+      "_id": "xKiTnLzUmfwu2eOg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878815143,
+        "modifiedTime": 1774878815143,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.xKiTnLzUmfwu2eOg"
+    },
+    {
+      "sort": 5100000,
+      "name": "Kits",
+      "type": "text",
+      "_id": "58CLU5qosu987z12",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774878999588,
+        "modifiedTime": 1774878999588,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.58CLU5qosu987z12"
+    },
+    {
+      "sort": 5200000,
+      "name": "Améliorations d'armes",
+      "type": "text",
+      "_id": "z6noLrLrlmdzQH9c",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774879012628,
+        "modifiedTime": 1774879012628,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.z6noLrLrlmdzQH9c"
+    },
+    {
+      "sort": 5300000,
+      "name": "Utiliser les tests de peur",
+      "type": "text",
+      "_id": "Do2q88qfrHbPUEYv",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774886602936,
+        "modifiedTime": 1774886602936,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.Do2q88qfrHbPUEYv"
+    },
+    {
+      "sort": 5400000,
+      "name": "Dépenser les points d'expérience",
+      "type": "text",
+      "_id": "N3j41n3mg6JAN5gR",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774886698249,
+        "modifiedTime": 1774886698249,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.N3j41n3mg6JAN5gR"
+    },
+    {
+      "sort": 5500000,
+      "name": "Seuil d'obligation du groupe",
+      "type": "text",
+      "_id": "lROVyaUvMzU43Z6E",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774886950960,
+        "modifiedTime": 1774886950960,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.lROVyaUvMzU43Z6E"
+    },
+    {
+      "sort": 5600000,
+      "name": "Prix des droïdes",
+      "type": "text",
+      "_id": "LiJ65mzhaZlxsFe2",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774890073345,
+        "modifiedTime": 1774890073345,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!4hiFYEkAo9lngbLV.LiJ65mzhaZlxsFe2"
     }
   ],
   "sort": 0,

@@ -1,8 +1,40 @@
-#journal .thumbnail {
-    margin: 0;
-    flex: 0 0 32px;
-    width: 32px;
-    height: 32px;
-    max-width: 32px;
-    max-height: 32px;
+li.directory-item.entry.document.journalentry.has-book-thumb {
+  align-items: center;
+  gap: 0.5rem;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb .book-thumb {
+  width: 50px;
+  height: 65px;
+  flex: 0 0 40px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 3px;
+  margin: 3px;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb .entry-name {
+  min-width: 0;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb.book-thumb-left {
+  flex-direction: row;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb.book-thumb-right {
+  flex-direction: row;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb.book-thumb-right .entry-name {
+  order: 2;
+  flex: 1 1 auto;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb.book-thumb-right .book-thumb {
+  order: 3;
+  margin-left: auto;
+}
+
+li.directory-item.entry.document.journalentry.has-book-thumb.book-thumb-right > i {
+  order: 1;
 }

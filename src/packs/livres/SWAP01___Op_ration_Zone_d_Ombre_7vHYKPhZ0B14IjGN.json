@@ -2,7 +2,47 @@
   "folder": "kBHXeh3HMIU4tMZt",
   "name": "SWAP01 - Opération Zone d'Ombre",
   "_id": "7vHYKPhZ0B14IjGN",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "aPMxDvRHTKcg1lTI",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864521585,
+        "modifiedTime": 1774864521585,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!7vHYKPhZ0B14IjGN.aPMxDvRHTKcg1lTI"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

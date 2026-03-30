@@ -2,7 +2,47 @@
   "folder": "00i4ND35eqgvPQ1e",
   "name": "SWR17 - Gadgets and Gear",
   "_id": "urd0SSKh0a2vZMwp",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "LkXU8RrBbMdWsurV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864443658,
+        "modifiedTime": 1774864443658,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!urd0SSKh0a2vZMwp.LkXU8RrBbMdWsurV"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

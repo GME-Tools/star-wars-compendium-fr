@@ -2,7 +2,47 @@
   "folder": "g9xXMj1vyku9ArCv",
   "name": "SWE14 - Modifications Spéciales",
   "_id": "ysTzkMAYQInKLbn6",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "quV9zT87p5MreAB8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864575214,
+        "modifiedTime": 1774864575214,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!ysTzkMAYQInKLbn6.quV9zT87p5MreAB8"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

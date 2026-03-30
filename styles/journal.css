@@ -29,7 +29,7 @@
   text-shadow: rgba(37,161,171,128) 0 0 5px;
 }
 
-.journal-page-content h1 {
+.journal-page-content h1, .journal-page-header h2 {
   font-size: 26pt;
   color: #766a08;
   font-family: 'ElektraMediumProBold';

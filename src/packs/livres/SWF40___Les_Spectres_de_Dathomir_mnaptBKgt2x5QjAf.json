@@ -2,7 +2,47 @@
   "folder": "tSARSXkXLxPATuqk",
   "name": "SWF40 - Les Spectres de Dathomir",
   "_id": "mnaptBKgt2x5QjAf",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Text",
+      "type": "text",
+      "_id": "Kk5rtQspDrcxvbCl",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content":"<p>Lorem Ipsum</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864467273,
+        "modifiedTime": 1774864467273,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!mnaptBKgt2x5QjAf.Kk5rtQspDrcxvbCl"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

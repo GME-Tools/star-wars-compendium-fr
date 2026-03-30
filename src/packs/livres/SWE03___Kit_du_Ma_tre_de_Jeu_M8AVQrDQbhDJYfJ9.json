@@ -2,7 +2,125 @@
   "folder": "g9xXMj1vyku9ArCv",
   "name": "SWE03 - Kit du Maître de Jeu",
   "_id": "M8AVQrDQbhDJYfJ9",
-  "pages": [],
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Qui paie ses dettes s'enrichit",
+      "type": "text",
+      "_id": "JCu2bvxrds2WeX5J",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Résumé de l'aventure</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774864379221,
+        "modifiedTime": 1774892411887,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!M8AVQrDQbhDJYfJ9.JCu2bvxrds2WeX5J"
+    },
+    {
+      "sort": 200000,
+      "name": "L'exploitation de l'oridium",
+      "type": "text",
+      "_id": "CuZSD6kIKCpnpnki",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Le mouvement des nouveaux droits des droïdes</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774892524492,
+        "modifiedTime": 1774892667713,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!M8AVQrDQbhDJYfJ9.CuZSD6kIKCpnpnki"
+    },
+    {
+      "sort": 300000,
+      "name": "Les Némésis : Guide du MJ",
+      "type": "text",
+      "_id": "DwVYSfeZ9jHXS7id",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Choisir un PNJ Némésis</h2><h3>Déterminer la menace</h3><div class=\"journal-side-block\"><h5>La Némésis au combat</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h4>La brute</h4><h4>Le cerveau</h4><h4>Le leader</h4><h4>L'histoire derrière la Némésis</h4><h2>Développer une Némésis</h2><div class=\"journal-side-block\"><h5>Donner des XP à une Némésis</h5><p><span class=\"first-letter\">L</span>orem Ipsum</p></div><h3>Progression linéaire</h3><h3>Progression non linéaire</h3><h2>Évolutions narratives</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "fQraFlTkIqL0YNK4": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774892556966,
+        "modifiedTime": 1774892734449,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!journal.pages!M8AVQrDQbhDJYfJ9.DwVYSfeZ9jHXS7id"
+    }
+  ],
   "categories": [],
   "sort": 0,
   "ownership": {

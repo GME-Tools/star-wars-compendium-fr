@@ -1,13 +1,13 @@
 {
-  "folder": "g9xXMj1vyku9ArCv",
-  "name": "SWE01 - Kit d'Initiation",
-  "_id": "60iprZ1kjCmyE2At",
+  "folder": "KaYFPCFo82JL6Zky",
+  "name": "SWE06",
+  "_id": "371bQahtrGi9dF52",
   "pages": [
     {
       "sort": 100000,
-      "name": "À lire en premier",
+      "name": "Obligations d'explorateur",
       "type": "text",
-      "_id": "IhE6wPVyJBN3LpEp",
+      "_id": "h4CETZsVAz1Q0XuM",
       "system": {},
       "title": {
         "show": true,
@@ -16,7 +16,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Qu'est-ce qu'un Jeu de Rôle ?</h3><h3>Qui sont les Joueurs ?</h3><h4>Exemple de partie</h4><div class=\"journal-side-block\"><h5>Du bon usage des plans et des jetons de personnage</h5><p></p></div><p></p>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -36,17 +36,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774864370634,
-        "modifiedTime": 1774866946820,
+        "createdTime": 1774893078506,
+        "modifiedTime": 1774893078506,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.IhE6wPVyJBN3LpEp"
+      "_key": "!journal.pages!371bQahtrGi9dF52.h4CETZsVAz1Q0XuM"
     },
     {
       "sort": 200000,
-      "name": "Livret d'Aventure",
+      "name": "Motivation aléatoire d'explorateur",
       "type": "text",
-      "_id": "EfW2X6sLPMebPMa6",
+      "_id": "l9qr8EON2SXyf1Gp",
       "system": {},
       "title": {
         "show": true,
@@ -55,7 +55,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h1>Bienvenue dans le Kit d'Initiation de <em>Star Wars</em></h1><h3>Qu'est-ce qu'un Jeu de Rôle ?</h3><h3>Avant de commencer</h3><h4>Un des joueurs est le Maître du Jeu</h4><h4>Les autres personnages sont les Héros</h4><h1>Contenu de cette boîte</h1><h1>Star Wars : Aux Confins de l'Empire</h1><h1>Utilisation de ce livret</h1><h2>Les Personnages Joueurs</h2><h1>Bienvenue à Mos Shuuta</h1><h2>Le plan</h2><h3>Structure de l'aventure</h3><h1>L'aventure commence</h1><h1>Rencontre 1 : En cavale</h1><h1>Rencontre 2 : Un groupe de gamoréens</h1><h1>Rencontre 3 : Le bric-à-brac</h1><h1>Rencontre 4 : Centre de contrôle</h1><h1>Entracte : Expérience et Destin</h1><h1>Rencontre 5 : Les Stormtroopers</h1><h1>Rencontre 6 : Tout le monde à bord</h1><h1>Rencontre 7 : Courage, Fuyons !</h1><h1>Autres aventures à Mos Shuuta</h1><h1>Coupez !</h1><h2>Butin et crédits</h2><h2>Expérience</h2><h3>Remise des Points d'Expérience</h3><h1>Autres aventures : Inspiration</h1><h1>Autres aventures : La Galaxie de Star Wars</h1><h2>Une galaxie d'offre à vous</h2><h2>Une galaxie en guerre</h2><h2>Une galaxie riche en possibilités</h2><h1>Autres aventures : Conseils au MJ</h1><h2>N'interrompez pas l'aventure à cause d'un test raté</h2><h2>Déléguer</h2><h2>Dites « oui » et « oui…mais »</h2><h2>Traiter les autres joueurs comme des alliés</h2>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -75,17 +75,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774866990058,
-        "modifiedTime": 1774867511742,
+        "createdTime": 1774893249951,
+        "modifiedTime": 1774893249951,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.EfW2X6sLPMebPMa6"
+      "_key": "!journal.pages!371bQahtrGi9dF52.l9qr8EON2SXyf1Gp"
     },
     {
       "sort": 300000,
-      "name": "Le Jeu",
+      "name": "Découvertes spécifiques",
       "type": "text",
-      "_id": "ghnb4We0VnX3oMkU",
+      "_id": "Vlh5QN2h1tSFQMIn",
       "system": {},
       "title": {
         "show": true,
@@ -94,7 +94,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h1>Système de jeu</h1><h1>Les dés</h1>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -114,17 +114,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774869004027,
-        "modifiedTime": 1774869051035,
+        "createdTime": 1774893269904,
+        "modifiedTime": 1774893269904,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.ghnb4We0VnX3oMkU"
+      "_key": "!journal.pages!371bQahtrGi9dF52.Vlh5QN2h1tSFQMIn"
     },
     {
       "sort": 400000,
-      "name": "Combat",
+      "name": "Armes à distance",
       "type": "text",
-      "_id": "fnzddQ8YIAlgSHJx",
+      "_id": "lDFkn19yToQJMEAH",
       "system": {},
       "title": {
         "show": true,
@@ -133,7 +133,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Aperçu du jeu structuré</h2>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -153,17 +153,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774869065541,
-        "modifiedTime": 1774869079279,
+        "createdTime": 1774897851632,
+        "modifiedTime": 1774897851632,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.fnzddQ8YIAlgSHJx"
+      "_key": "!journal.pages!371bQahtrGi9dF52.lDFkn19yToQJMEAH"
     },
     {
       "sort": 500000,
-      "name": "Compétences",
+      "name": "Armes de corps à corps",
       "type": "text",
-      "_id": "SVWhSaFmrDI5I9uJ",
+      "_id": "zyaliEHsZPDAzy86",
       "system": {},
       "title": {
         "show": true,
@@ -172,7 +172,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h3>Rangs de compétence</h3>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -192,17 +192,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774869091997,
-        "modifiedTime": 1774869111415,
+        "createdTime": 1774897947914,
+        "modifiedTime": 1774897947914,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.SVWhSaFmrDI5I9uJ"
+      "_key": "!journal.pages!371bQahtrGi9dF52.zyaliEHsZPDAzy86"
     },
     {
       "sort": 600000,
-      "name": "Talents",
+      "name": "Armures et vêtements",
       "type": "text",
-      "_id": "hBxMbwJm1J5HFC7S",
+      "_id": "dz5ltDQRpXYnIo5t",
       "system": {},
       "title": {
         "show": true,
@@ -211,7 +211,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Arborescence de talents</h2>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -231,17 +231,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774869118822,
-        "modifiedTime": 1774869129591,
+        "createdTime": 1774897990059,
+        "modifiedTime": 1774897990059,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.hBxMbwJm1J5HFC7S"
+      "_key": "!journal.pages!371bQahtrGi9dF52.dz5ltDQRpXYnIo5t"
     },
     {
       "sort": 700000,
-      "name": "Matériel et équipement",
+      "name": "Outils et équipement",
       "type": "text",
-      "_id": "l1V7EsjteunVTE9E",
+      "_id": "G8yT65EuZdEKIiUr",
       "system": {},
       "title": {
         "show": true,
@@ -250,7 +250,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h1>Armes</h1>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -270,17 +270,17 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774869140727,
-        "modifiedTime": 1774869149514,
+        "createdTime": 1774898056141,
+        "modifiedTime": 1774898056141,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.l1V7EsjteunVTE9E"
+      "_key": "!journal.pages!371bQahtrGi9dF52.G8yT65EuZdEKIiUr"
     },
     {
       "sort": 800000,
-      "name": "Vaisseaux spatiaux et véhicules",
+      "name": "Droïdes",
       "type": "text",
-      "_id": "WaG0AmmoYQypUx73",
+      "_id": "dQgT9ZjMvXs2BqK3",
       "system": {},
       "title": {
         "show": true,
@@ -289,7 +289,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Caractéristiques des vaisseaux et des véhicules</h2>"
+        "content":"<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -309,73 +309,30 @@
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
         "systemVersion": "2.0.0",
-        "createdTime": 1774869164304,
-        "modifiedTime": 1774869182814,
+        "createdTime": 1774898132967,
+        "modifiedTime": 1774898132967,
         "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.WaG0AmmoYQypUx73"
-    },
-    {
-      "sort": 900000,
-      "name": "Adversaires",
-      "type": "text",
-      "_id": "4m0rXJc5jhBbVbrb",
-      "system": {},
-      "title": {
-        "show": true,
-        "level": 1
-      },
-      "image": {},
-      "text": {
-        "format": 1,
-        "content": "<h2>Sbires</h2>"
-      },
-      "video": {
-        "controls": true,
-        "volume": 0.5
-      },
-      "src": null,
-      "category": null,
-      "ownership": {
-        "default": -1,
-        "fQraFlTkIqL0YNK4": 3
-      },
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "starwarsffg",
-        "systemVersion": "2.0.0",
-        "createdTime": 1774869195272,
-        "modifiedTime": 1774869201601,
-        "lastModifiedBy": "fQraFlTkIqL0YNK4"
-      },
-      "_key": "!journal.pages!60iprZ1kjCmyE2At.4m0rXJc5jhBbVbrb"
+      "_key": "!journal.pages!371bQahtrGi9dF52.dQgT9ZjMvXs2BqK3"
     }
   ],
+  "categories": [],
   "sort": 0,
   "ownership": {
     "default": 0,
-    "Vps3UPsdK7k7lekv": 3
+    "fQraFlTkIqL0YNK4": 3
   },
-  "flags": {
-    "star-wars-compendium-fr": {
-      "thumbnail": "modules/star-wars-compendium-fr/assets/images/livres/thumbnails/swe01.png"
-    }
-  },
+  "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
+    "exportSource": null,
     "coreVersion": "13.351",
     "systemId": "starwarsffg",
-    "systemVersion": "1.910",
-    "createdTime": 1767789819921,
-    "modifiedTime": 1767789819921,
-    "lastModifiedBy": "Vps3UPsdK7k7lekv",
-    "exportSource": null
+    "systemVersion": "2.0.0",
+    "createdTime": 1774893071978,
+    "modifiedTime": 1774893071978,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
   },
-  "categories": [],
-  "_key": "!journal!60iprZ1kjCmyE2At"
+  "_key": "!journal!371bQahtrGi9dF52"
 }
