@@ -16,7 +16,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h6>Conversion des dés standards</h6><table><tbody><tr><td><p>Type de dé</p></td><td><p>1</p></td><td><p>2</p></td><td><p>3</p></td><td><p>4</p></td><td><p>5</p></td><td><p>6</p></td><td><p>7</p></td><td data-colwidth=\"95\"><p>8</p></td><td><p>9</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td></tr><tr><td><p>Dé de fortune (d6)</p></td><td><p>Vierge</p></td><td><p>Vierge</p></td><td><p>[SU]</p></td><td><p>[SU][AD]</p></td><td><p>[AD][AD]</p></td><td><p>[AD]</p></td><td><p></p></td><td data-colwidth=\"95\"><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé d'infortune (d6)</p></td><td><p>Vierge</p></td><td><p>Vierge</p></td><td><p>[FA]</p></td><td><p>[FA]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p></p></td><td data-colwidth=\"95\"><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé d'aptitude (d8)</p></td><td><p>Vierge</p></td><td><p>[SU]</p></td><td><p>[SU]</p></td><td><p>[SU][SU]</p></td><td><p>[AD]</p></td><td><p>[AD]</p></td><td><p>[SU][AD]</p></td><td data-colwidth=\"95\"><p>[AD][AD]</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé de difficulté (d8)</p></td><td><p>Vierge</p></td><td><p>[FA]</p></td><td><p>[FA][FA]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p>[TH][TH]</p></td><td data-colwidth=\"95\"><p>[FA][TH]</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé de maîtrise (d12)</p></td><td><p>Vierge</p></td><td><p>[SU]</p></td><td><p>[SU]</p></td><td><p>[SU][SU]</p></td><td><p>[SU][SU]</p></td><td><p>[AD]</p></td><td><p>[SU][AD]</p></td><td data-colwidth=\"95\"><p>[SU][AD]</p></td><td><p>[SU][AD]</p></td><td><p>[AD][AD]</p></td><td><p>[AD][AD]</p></td><td><p>[TR]</p></td></tr><tr><td><p>Dé de défi (d12)</p></td><td><p>Vierge</p></td><td><p>[FA]</p></td><td><p>[FA]</p></td><td><p>[FA][FA]</p></td><td><p>[FA][FA]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td data-colwidth=\"95\"><p>[FA][TH]</p></td><td><p>[FA][TH]</p></td><td><p>[TH][TH]</p></td><td><p>[TH][TH]</p></td><td><p>[DE]</p></td></tr><tr><td><p>Dé de Force (d12)</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA][DA]</p></td><td data-colwidth=\"95\"><p>[LI]</p></td><td><p>[LI]</p></td><td><p>[LI][LI]</p></td><td><p>[LI][LI]</p></td><td><p>[LI][LI]</p></td></tr></tbody></table>"
+        "content": "<h6>Conversion des dés standards</h6><table><tbody><tr><td><p>Type de dé</p></td><td><p>1</p></td><td><p>2</p></td><td><p>3</p></td><td><p>4</p></td><td><p>5</p></td><td><p>6</p></td><td><p>7</p></td><td><p>8</p></td><td><p>9</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td></tr><tr><td><p>Dé de fortune (d6)</p></td><td><p>Vierge</p></td><td><p>Vierge</p></td><td><p>[SU]</p></td><td><p>[SU][AD]</p></td><td><p>[AD][AD]</p></td><td><p>[AD]</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé d'infortune (d6)</p></td><td><p>Vierge</p></td><td><p>Vierge</p></td><td><p>[FA]</p></td><td><p>[FA]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé d'aptitude (d8)</p></td><td><p>Vierge</p></td><td><p>[SU]</p></td><td><p>[SU]</p></td><td><p>[SU][SU]</p></td><td><p>[AD]</p></td><td><p>[AD]</p></td><td><p>[SU][AD]</p></td><td><p>[AD][AD]</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé de difficulté (d8)</p></td><td><p>Vierge</p></td><td><p>[FA]</p></td><td><p>[FA][FA]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p>[TH][TH]</p></td><td><p>[FA][TH]</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Dé de maîtrise (d12)</p></td><td><p>Vierge</p></td><td><p>[SU]</p></td><td><p>[SU]</p></td><td><p>[SU][SU]</p></td><td><p>[SU][SU]</p></td><td><p>[AD]</p></td><td><p>[SU][AD]</p></td><td><p>[SU][AD]</p></td><td><p>[SU][AD]</p></td><td><p>[AD][AD]</p></td><td><p>[AD][AD]</p></td><td><p>[TR]</p></td></tr><tr><td><p>Dé de défi (d12)</p></td><td><p>Vierge</p></td><td><p>[FA]</p></td><td><p>[FA]</p></td><td><p>[FA][FA]</p></td><td><p>[FA][FA]</p></td><td><p>[TH]</p></td><td><p>[TH]</p></td><td><p>[FA][TH]</p></td><td><p>[FA][TH]</p></td><td><p>[TH][TH]</p></td><td><p>[TH][TH]</p></td><td><p>[DE]</p></td></tr><tr><td><p>Dé de Force (d12)</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA]</p></td><td><p>[DA][DA]</p></td><td><p>[LI]</p></td><td><p>[LI]</p></td><td><p>[LI][LI]</p></td><td><p>[LI][LI]</p></td><td><p>[LI][LI]</p></td></tr></tbody></table>"
       },
       "video": {
         "controls": true,
@@ -55,7 +55,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h6>Bons dés et Mauvais dés</h6><table><tbody><tr><td><p>Les bons dés viennent de…</p></td><td><p style=\"text-align:start\">Les mauvais dés viennent de…</p></td></tr><tr><td><p>La compétence utilisée pour accomplir une tâche.</p></td><td><p style=\"text-align:start\">La difficulté de la tâche entreprise.</p></td></tr><tr><td><p>La caractéristique concernée.</p></td><td><p style=\"text-align:start\">Une caractéristique, compétence ou capacité spéciale d'un adversaire.</p></td></tr><tr><td><p>Un talent ou une capacité spéciale applicable.</p></td><td><p style=\"text-align:start\">Les forces adverses à l'œuvre.</p></td></tr><tr><td><p>L'équipement ou le matériel du personnage.</p></td><td><p style=\"text-align:start\">Une météo défavorable ou des effets liés à l'environnement.</p></td></tr><tr><td><p>L'utilisation de points de Destin du côté lumineux.</p></td><td><p style=\"text-align:start\">L'utilisation de points de Destin du côté obscur.</p></td></tr><tr><td><p>Les avantages tactiques ou circonstanciels.</p></td><td><p style=\"text-align:start\">Les désavantages tactiques ou circonstanciels.</p></td></tr><tr><td><p>Les autres avantages, déterminés par le MJ.</p></td><td><p style=\"text-align:start\">Les autres désavantages, déterminés par le MJ.</p></td></tr></tbody></table>"
+        "content": "<h6>Bons dés et Mauvais dés</h6><table><tbody><tr><td><p>Les bons dés viennent de…</p></td><td><p class=\"left\">Les mauvais dés viennent de…</p></td></tr><tr><td><p>La compétence utilisée pour accomplir une tâche.</p></td><td><p class=\"left\">La difficulté de la tâche entreprise.</p></td></tr><tr><td><p>La caractéristique concernée.</p></td><td><p class=\"left\">Une caractéristique, compétence ou capacité spéciale d'un adversaire.</p></td></tr><tr><td><p>Un talent ou une capacité spéciale applicable.</p></td><td><p class=\"left\">Les forces adverses à l'œuvre.</p></td></tr><tr><td><p>L'équipement ou le matériel du personnage.</p></td><td><p class=\"left\">Une météo défavorable ou des effets liés à l'environnement.</p></td></tr><tr><td><p>L'utilisation de points de Destin du côté lumineux.</p></td><td><p class=\"left\">L'utilisation de points de Destin du côté obscur.</p></td></tr><tr><td><p>Les avantages tactiques ou circonstanciels.</p></td><td><p class=\"left\">Les désavantages tactiques ou circonstanciels.</p></td></tr><tr><td><p>Les autres avantages, déterminés par le MJ.</p></td><td><p class=\"left\">Les autres désavantages, déterminés par le MJ.</p></td></tr></tbody></table>"
       },
       "video": {
         "controls": true,
@@ -94,7 +94,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h6>Niveaux de Difficulté</h6><table><tbody><tr><td><p>Niveau de difficulté</p></td><td><p style=\"text-align:start\">Dés</p></td><td><p style=\"text-align:start\">Exemple</p></td></tr><tr><td><p>Simple</p></td><td><p style=\"text-align:start\">-</p></td><td><p style=\"text-align:start\">Tâche routinière, qui pose rarement problème. En règle générale, pas de test nécessaire, à moins que le MI ne souhaite connaître l'ampleur de la réussite, ou que la présence de dés d'infortune indique la possibilité de complications.</p></td></tr><tr><td><p>Facile</p></td><td><p style=\"text-align:start\">[DI]</p></td><td><p style=\"text-align:start\">Crocheter une serrure primitive, soigner de simples égratignures et contusions, trouver de quoi se remplir le ventre sur une planète où la nourriture ne manque pas, ou toucher une cible située à portée courte.</p></td></tr><tr><td><p>Moyen</p></td><td><p style=\"text-align:start\">[DI][DI]</p></td><td><p style=\"text-align:start\">Crocheter une serrure normale, recoudre une petite plaie, trouver de quoi manger et s'abriter sur une planète au climat tempéré, toucher une cible située à portée moyenne ou tenter de frapper une cible quand on est au contact.</p></td></tr><tr><td><p>Difficile</p></td><td><p style=\"text-align:start\">[DI][DI][DI]</p></td><td><p style=\"text-align:start\">Crocheter une serrure complexe, réduire une fracture ou suturer une vilaine plaie, trouver de la nourriture et un abri sur une planète hostile, ou toucher une cible située à portée longue.</p></td></tr><tr><td><p>Intimidant</p></td><td><p style=\"text-align:start\">[DI][DI][DI][DI]</p></td><td><p style=\"text-align:start\">Crocheter une serrure des plus sophistiquées, exécuter une opération chirurgicale ou greffer un implant, trouver de quoi manger et s'abriter sur une planète désertique, ou toucher une cible située à portée extrême.</p></td></tr><tr><td><p>Exceptionnel</p></td><td><p style=\"text-align:start\">[DI][DI][DI][DI][DI]</p></td><td><p style=\"text-align:start\">Crocheter une serrure dénuée de mécanisme apparent, cloner un nouveau corps, trouver de quoi manger et s'abriter sur une planète dénuée d'atmosphère respirable.</p></td></tr></tbody></table>"
+        "content": "<h6>Niveaux de Difficulté</h6><table><tbody><tr><td><p>Niveau de difficulté</p></td><td><p class=\"left\">Dés</p></td><td><p class=\"left\">Exemple</p></td></tr><tr><td><p>Simple</p></td><td><p class=\"left\">-</p></td><td><p class=\"left\">Tâche routinière, qui pose rarement problème. En règle générale, pas de test nécessaire, à moins que le MI ne souhaite connaître l'ampleur de la réussite, ou que la présence de dés d'infortune indique la possibilité de complications.</p></td></tr><tr><td><p>Facile</p></td><td><p class=\"left\">[DI]</p></td><td><p class=\"left\">Crocheter une serrure primitive, soigner de simples égratignures et contusions, trouver de quoi se remplir le ventre sur une planète où la nourriture ne manque pas, ou toucher une cible située à portée courte.</p></td></tr><tr><td><p>Moyen</p></td><td><p class=\"left\">[DI][DI]</p></td><td><p class=\"left\">Crocheter une serrure normale, recoudre une petite plaie, trouver de quoi manger et s'abriter sur une planète au climat tempéré, toucher une cible située à portée moyenne ou tenter de frapper une cible quand on est au contact.</p></td></tr><tr><td><p>Difficile</p></td><td><p class=\"left\">[DI][DI][DI]</p></td><td><p class=\"left\">Crocheter une serrure complexe, réduire une fracture ou suturer une vilaine plaie, trouver de la nourriture et un abri sur une planète hostile, ou toucher une cible située à portée longue.</p></td></tr><tr><td><p>Intimidant</p></td><td><p class=\"left\">[DI][DI][DI][DI]</p></td><td><p class=\"left\">Crocheter une serrure des plus sophistiquées, exécuter une opération chirurgicale ou greffer un implant, trouver de quoi manger et s'abriter sur une planète désertique, ou toucher une cible située à portée extrême.</p></td></tr><tr><td><p>Exceptionnel</p></td><td><p class=\"left\">[DI][DI][DI][DI][DI]</p></td><td><p class=\"left\">Crocheter une serrure dénuée de mécanisme apparent, cloner un nouveau corps, trouver de quoi manger et s'abriter sur une planète dénuée d'atmosphère respirable.</p></td></tr></tbody></table>"
       },
       "video": {
         "controls": true,
@@ -250,7 +250,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -289,7 +289,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -328,7 +328,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -367,7 +367,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -406,7 +406,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -445,7 +445,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -484,7 +484,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -523,7 +523,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -562,7 +562,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -601,7 +601,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -640,7 +640,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -679,7 +679,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -718,7 +718,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -757,7 +757,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -796,7 +796,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -835,7 +835,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -874,7 +874,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -913,7 +913,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -952,7 +952,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -991,7 +991,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1030,7 +1030,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1069,7 +1069,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1108,7 +1108,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1147,7 +1147,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1186,7 +1186,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1225,7 +1225,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1264,7 +1264,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1303,7 +1303,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1342,7 +1342,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1381,7 +1381,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1420,7 +1420,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1459,7 +1459,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1498,7 +1498,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1537,7 +1537,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1576,7 +1576,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1615,7 +1615,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1654,7 +1654,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1693,7 +1693,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1732,7 +1732,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1771,7 +1771,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1810,7 +1810,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1849,7 +1849,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1888,7 +1888,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1927,7 +1927,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -1966,7 +1966,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2005,7 +2005,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2044,7 +2044,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2083,7 +2083,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2122,7 +2122,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2161,7 +2161,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2200,7 +2200,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,
@@ -2239,7 +2239,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content":"<p>Lorem Ipsum</p>"
+        "content": "<p>Lorem Ipsum</p>"
       },
       "video": {
         "controls": true,

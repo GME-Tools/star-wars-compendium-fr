@@ -227,6 +227,7 @@
   background-color: #c6dde5;
 }
 
+
 .medium-critical-odd {
   background-color: #ABBDC6 !important;
 }
@@ -273,6 +274,26 @@ table.journal-number-table td:first-child p {
 
 table.journal-number-table tr:first-child p {
   text-align: start !important;
+}
+
+.journal-page-content .left {
+  text-align: start !important;
+}
+
+.journal-page-content .right {
+  text-align: end !important;
+}
+
+.journal-page-content .center {
+  text-align: center !important;
+}
+
+.journal-page-content .black-background {
+  background-color: #000;
+}
+
+.journal-page-content .black-background p {
+  color: #fff;
 }
 
 /* Lists */
@@ -547,4 +568,44 @@ h4 .despair {
 
 .planet-page .journal-sidebar .page-heading {
   padding-left: 0.75em;
+}
+
+/* Floating images */
+.journal-page-content img.float-left {
+  margin: 0px 5px 5px 0px;
+  float: left;
+}
+
+.journal-page-content img.float-right {
+  margin: 0px 0px 5px 5px;
+  float: right;
+}
+
+.journal-page-content .figure-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.journal-page-content .justify-center {
+  justify-content: center;
+}
+
+/* Specific : Tweaks for conflict talent image */
+.journal-page-content .conflict-talent-container {
+  width: 100%;
+}
+.journal-page-content .conflict-talent-container .conflict-talent {
+  width: 200px;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+.journal-page-content .conflict-talent-container .conflict-talent h6 {
+  position: absolute;
+  bottom: 30%;
+  left: 18%;
 }
