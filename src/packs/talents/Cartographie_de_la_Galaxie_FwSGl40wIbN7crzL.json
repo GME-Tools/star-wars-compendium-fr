@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Cartographie de la galaxie aux tests d'Astrogation. Les tests d'Astrogation demandent moitié moins de temps.</p>",
     "attributes": {
-      "attr1774708124562": {
+      "Astrogation [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Astrogation",
         "value": 1
@@ -37,7 +37,7 @@
   },
   "effects": [
     {
-      "name": "attr1774708124562",
+      "name": "Astrogation [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Astrogation.remsetback",

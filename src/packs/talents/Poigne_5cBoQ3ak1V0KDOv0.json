@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Poigne aux tests de Calme et de Commandement.</p>",
     "attributes": {
-      "attr1774773298850": {
+      "Calme [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Cool",
         "value": 1
       },
-      "attr1774773299070": {
+      "Commandement [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Leadership",
         "value": 1
@@ -41,7 +41,7 @@
   },
   "effects": [
     {
-      "name": "attr1774773298850",
+      "name": "Calme [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Cool.remsetback",
@@ -79,7 +79,7 @@
       "_key": "!items.effects!5cBoQ3ak1V0KDOv0.lNvZcUqumhB3SX3W"
     },
     {
-      "name": "attr1774773299070",
+      "name": "Commandement [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Leadership.remsetback",

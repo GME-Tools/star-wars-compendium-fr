@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>+1 &agrave; la valeur de Force</p>",
     "attributes": {
-      "attr1774734200335": {
+      "Valeur de Force [+1]": {
         "modtype": "Stat",
         "mod": "ForcePool",
         "value": 1
@@ -50,7 +50,7 @@
   },
   "effects": [
     {
-      "name": "attr1774734200335",
+      "name": "Valeur de Force [+1]",
       "changes": [
         {
           "key": "system.stats.forcePool.max",

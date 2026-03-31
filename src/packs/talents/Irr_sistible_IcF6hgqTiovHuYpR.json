@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang d'Irrésistible à tous vos tests de Charme et de Commandement.</p>",
     "attributes": {
-      "attr1774732392483": {
+      "Charme [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Charm",
         "value": 1
       },
-      "attr1774732392903": {
+      "Commandement [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Leadership",
         "value": 1
@@ -42,7 +42,7 @@
   },
   "effects": [
     {
-      "name": "attr1774732392483",
+      "name": "Charme [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Charm.remsetback",
@@ -80,7 +80,7 @@
       "_key": "!items.effects!IcF6hgqTiovHuYpR.CEgp0NuSGQo6zZQR"
     },
     {
-      "name": "attr1774732392903",
+      "name": "Commandement [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Leadership.remsetback",

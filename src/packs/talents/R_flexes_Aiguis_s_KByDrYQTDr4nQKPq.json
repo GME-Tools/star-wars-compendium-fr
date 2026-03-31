@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Augmentez votre défense au corps-à-corps de 1.</p>",
     "attributes": {
-      "attr1774733356698": {
+      "Défense (corps à corps) [+1]": {
         "modtype": "Stat",
         "mod": "Defence-Melee",
         "value": 1
@@ -36,7 +36,7 @@
   },
   "effects": [
     {
-      "name": "attr1774733356698",
+      "name": "Défense (corps à corps) [+1]",
       "changes": [
         {
           "key": "system.stats.defence.melee",

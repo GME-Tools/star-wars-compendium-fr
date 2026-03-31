@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Persuasion à vos tests de Magouilles et de Tromperie.</p>",
     "attributes": {
-      "attr1774732847732": {
+      "Magouilles [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Skulduggery",
         "value": 1
       },
-      "attr1774732848012": {
+      "Tromperie [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Deception",
         "value": 1
@@ -41,7 +41,7 @@
   },
   "effects": [
     {
-      "name": "attr1774732847732",
+      "name": "Magouilles [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Skulduggery.remsetback",
@@ -79,7 +79,7 @@
       "_key": "!items.effects!v1aowNnMIGOU1PJA.Ss2Y3qv9QBXl4KWy"
     },
     {
-      "name": "attr1774732848012",
+      "name": "Tromperie [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Deception.remsetback",

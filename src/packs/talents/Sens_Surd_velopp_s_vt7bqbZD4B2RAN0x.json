@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Ajoutez [BO] par rang de Sens surd&eacute;velopp&eacute; aux tests de Perception.</p>",
     "attributes": {
-      "attr1774733850335": {
+      "Perception [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Perception",
         "value": 1
@@ -37,7 +37,7 @@
   },
   "effects": [
     {
-      "name": "attr1774733850335",
+      "name": "Perception [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Perception.boost",

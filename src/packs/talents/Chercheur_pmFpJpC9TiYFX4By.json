@@ -6,37 +6,37 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Chercheur aux tests de Connaissance. Les recherches entreprises prennent deux fois moins de temps.</p>",
     "attributes": {
-      "attr1774723079776": {
+      "Mondes du Noyau [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Core Worlds",
         "value": 1
       },
-      "attr1774723089508": {
+      "Education [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Education",
         "value": 1
       },
-      "attr1774723097232": {
+      "Culture [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Lore",
         "value": 1
       },
-      "attr1774723104965": {
+      "Bordure Extérieure [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Outer Rim",
         "value": 1
       },
-      "attr1774723114462": {
+      "Pègre [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Underworld",
         "value": 1
       },
-      "attr1774723123412": {
+      "Stratégie [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Warfare",
         "value": 1
       },
-      "attr1774723132713": {
+      "Xénologie [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Xenology",
         "value": 1
@@ -67,7 +67,7 @@
   },
   "effects": [
     {
-      "name": "attr1774723079776",
+      "name": "Mondes du Noyau [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Core Worlds.remsetback",
@@ -105,7 +105,7 @@
       "_key": "!items.effects!pmFpJpC9TiYFX4By.aTUhCU1B8oYLx7u9"
     },
     {
-      "name": "attr1774723089508",
+      "name": "Education [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Education.remsetback",
@@ -143,7 +143,7 @@
       "_key": "!items.effects!pmFpJpC9TiYFX4By.UpVnwzdjF8aMd3K3"
     },
     {
-      "name": "attr1774723097232",
+      "name": "Culture [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Lore.remsetback",
@@ -181,7 +181,7 @@
       "_key": "!items.effects!pmFpJpC9TiYFX4By.CJpnftcKoHKnYFfz"
     },
     {
-      "name": "attr1774723104965",
+      "name": "Bordure Extérieure [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Outer Rim.remsetback",
@@ -219,7 +219,7 @@
       "_key": "!items.effects!pmFpJpC9TiYFX4By.qn1DPHI5YNVx8d0B"
     },
     {
-      "name": "attr1774723114462",
+      "name": "Pègre [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Underworld.remsetback",
@@ -257,7 +257,7 @@
       "_key": "!items.effects!pmFpJpC9TiYFX4By.dtGAaS9WMjPCEGIj"
     },
     {
-      "name": "attr1774723123412",
+      "name": "Stratégie [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Warfare.remsetback",
@@ -295,7 +295,7 @@
       "_key": "!items.effects!pmFpJpC9TiYFX4By.bLLWtsPo25XabYIx"
     },
     {
-      "name": "attr1774723132713",
+      "name": "Xénologie [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Xenology.remsetback",

@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Conditionn&eacute; aux tests d&rsquo;Athl&eacute;tisme et de Coordination. R&eacute;duisez les d&eacute;g&acirc;ts et le stress issus d&rsquo;une chute de 1 point par rang de Conditionn&eacute;.</p>",
     "attributes": {
-      "attr1774773127191": {
+      "Athlétisme [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Athletics",
         "value": 1
       },
-      "attr1774773127503": {
+      "Coordination [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Coordination",
         "value": 1
@@ -44,7 +44,7 @@
   },
   "effects": [
     {
-      "name": "attr1774773127191",
+      "name": "Athlétisme [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Athletics.remsetback",
@@ -82,7 +82,7 @@
       "_key": "!items.effects!WQYkYcYrOswRzmno.Ovz3PU3LIYwN0qVI"
     },
     {
-      "name": "attr1774773127503",
+      "name": "Coordination [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Coordination.remsetback",

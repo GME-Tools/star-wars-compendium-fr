@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Augmentez votre seuil de blessure de +2.</p>",
     "attributes": {
-      "attr1774731344242": {
+      "Blessures [Seuil+2]": {
         "modtype": "Stat",
         "mod": "Wounds",
         "value": 2
@@ -49,7 +49,7 @@
   },
   "effects": [
     {
-      "name": "attr1774731344242",
+      "name": "Blessures [Seuil+2]",
       "changes": [
         {
           "key": "system.stats.wounds.max",

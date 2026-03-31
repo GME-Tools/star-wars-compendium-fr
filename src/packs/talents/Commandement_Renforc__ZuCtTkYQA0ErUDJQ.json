@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Lorsque vous effectuez un test de Commandement, ajoutez un nombre de [FO] qui ne doit pas &ecirc;tre sup&eacute;rieur &agrave; votre Valeur de Force. D&eacute;pensez [FP] pour ajouter [SU] ou [AD]&nbsp;au r&eacute;sultat.</p>",
     "attributes": {
-      "attr1774773029547": {
+      "Commandement [+Réserve de Force]": {
         "modtype": "Force Boost",
         "mod": "Leadership",
         "value": 1
@@ -36,7 +36,7 @@
   },
   "effects": [
     {
-      "name": "attr1774773029547",
+      "name": "Commandement [+Réserve de Force]",
       "changes": [
         {
           "key": "system.skills.Leadership.force",

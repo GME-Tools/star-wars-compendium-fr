@@ -6,17 +6,17 @@
   "system": {
     "description": "<p>Ajoutez [BO] &agrave; tous les tests de Charme, de Coercition et de Tromperie, &agrave; moins que la cible ne soit immunis&eacute;e contre les pouvoirs de la Force.</p>",
     "attributes": {
-      "attr1774732764853": {
+      "Charme [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Charm",
         "value": 1
       },
-      "attr1774732765277": {
+      "Coercition [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Coercion",
         "value": 1
       },
-      "attr1774732765614": {
+      "Tromperie [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Deception",
         "value": 1
@@ -49,7 +49,7 @@
   },
   "effects": [
     {
-      "name": "attr1774732764853",
+      "name": "Charme [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Charm.boost",
@@ -87,7 +87,7 @@
       "_key": "!items.effects!fcyEnCs2eVdxmO2i.HZgp6jknWKhLk9MU"
     },
     {
-      "name": "attr1774732765277",
+      "name": "Coercition [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Coercion.boost",
@@ -125,7 +125,7 @@
       "_key": "!items.effects!fcyEnCs2eVdxmO2i.hq9yvIVU1XcIHK4Q"
     },
     {
-      "name": "attr1774732765614",
+      "name": "Tromperie [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Deception.boost",

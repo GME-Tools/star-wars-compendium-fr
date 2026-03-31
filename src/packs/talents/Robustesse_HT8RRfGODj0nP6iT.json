@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Augmentez votre seuil de stress de +1.</p>",
     "attributes": {
-      "attr1774733685911": {
+      "Stress [Seuil+1]": {
         "modtype": "Stat",
         "mod": "Strain",
         "value": 1
@@ -52,7 +52,7 @@
   },
   "effects": [
     {
-      "name": "attr1774733685911",
+      "name": "Stress [Seuil+1]",
       "changes": [
         {
           "key": "system.stats.strain.max",

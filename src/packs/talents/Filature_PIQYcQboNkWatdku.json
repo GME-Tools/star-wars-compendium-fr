@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Ajoutez [BO] par rang de Filature à tous vos tests de Coordination et de Discrétion.</p>",
     "attributes": {
-      "attr1774773221642": {
+      "Coordination [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Coordination",
         "value": 1
       },
-      "attr1774773221883": {
+      "Furtivité [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Stealth",
         "value": 1
@@ -41,7 +41,7 @@
   },
   "effects": [
     {
-      "name": "attr1774773221642",
+      "name": "Coordination [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Coordination.boost",
@@ -79,7 +79,7 @@
       "_key": "!items.effects!PIQYcQboNkWatdku.eFzEoIarreO6szkb"
     },
     {
-      "name": "attr1774773221883",
+      "name": "Furtivité [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Stealth.boost",

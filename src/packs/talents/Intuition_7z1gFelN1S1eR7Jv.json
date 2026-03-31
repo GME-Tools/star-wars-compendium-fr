@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Perception et Sang-froid deviennent des compétences de carrière.</p>",
     "attributes": {
-      "attr1774732280883": {
+      "Perception [Carrière]": {
         "modtype": "Career Skill",
         "mod": "Perception",
         "value": 1
       },
-      "attr1774732281074": {
+      "Sang-froid [Carrière]": {
         "modtype": "Career Skill",
         "mod": "Discipline",
         "value": 1
@@ -41,7 +41,7 @@
   },
   "effects": [
     {
-      "name": "attr1774732280883",
+      "name": "Perception [Carrière]",
       "changes": [
         {
           "key": "system.skills.Perception.careerskill",
@@ -79,7 +79,7 @@
       "_key": "!items.effects!7z1gFelN1S1eR7Jv.NwsRWLP2oop0SksW"
     },
     {
-      "name": "attr1774732281074",
+      "name": "Sang-froid [Carrière]",
       "changes": [
         {
           "key": "system.skills.Discipline.careerskill",

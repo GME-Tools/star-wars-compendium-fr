@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Dégourdi à vos tests de Connaissance (Pègre) et de Système D.</p>",
     "attributes": {
-      "attr1774724106735": {
+      "Pègre [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Knowledge: Underworld",
         "value": 1
       },
-      "attr1774724107072": {
+      "Système D [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Streetwise",
         "value": 1
@@ -42,7 +42,7 @@
   },
   "effects": [
     {
-      "name": "attr1774724106735",
+      "name": "Pègre [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Knowledge: Underworld.remsetback",
@@ -80,7 +80,7 @@
       "_key": "!items.effects!rZlLDKVEZR8rkzsv.kX8j864HGRI1lid4"
     },
     {
-      "name": "attr1774724107072",
+      "name": "Système D [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Streetwise.remsetback",

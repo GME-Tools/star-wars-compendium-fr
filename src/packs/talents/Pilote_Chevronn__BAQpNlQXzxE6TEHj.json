@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang de Pilote chevronné à tous vos tests de Pilotage (planétaire) et de Pilotage (espace).</p>",
     "attributes": {
-      "attr1774732902665": {
+      "Pilotage (Planétaire) [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Piloting: Planetary",
         "value": 1
       },
-      "attr1774732903942": {
+      "Pilotage (Espace) [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Piloting: Space",
         "value": 1
@@ -42,7 +42,7 @@
   },
   "effects": [
     {
-      "name": "attr1774732902665",
+      "name": "Pilotage (Planétaire) [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Piloting: Planetary.remsetback",
@@ -80,7 +80,7 @@
       "_key": "!items.effects!BAQpNlQXzxE6TEHj.i5DTtZKJ3IubtSFW"
     },
     {
-      "name": "attr1774732903942",
+      "name": "Pilotage (Espace) [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Piloting: Space.remsetback",

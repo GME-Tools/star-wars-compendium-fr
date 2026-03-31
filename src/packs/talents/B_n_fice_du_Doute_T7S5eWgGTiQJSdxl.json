@@ -6,12 +6,12 @@
   "system": {
     "description": "<p>Retirez [SE] par rang en Bénéfice du doute à tous vos tests de Coercition et de Tromperie.</p>",
     "attributes": {
-      "attr1774707883501": {
+      "Coercition [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Coercion",
         "value": 1
       },
-      "attr1774707883691": {
+      "Tromperie [Infortune-1]": {
         "modtype": "Skill Remove Setback",
         "mod": "Deception",
         "value": 1
@@ -44,7 +44,7 @@
   },
   "effects": [
     {
-      "name": "attr1774707883501",
+      "name": "Coercition [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Coercion.remsetback",
@@ -82,7 +82,7 @@
       "_key": "!items.effects!T7S5eWgGTiQJSdxl.1MA34435DWqc2x5W"
     },
     {
-      "name": "attr1774707883691",
+      "name": "Tromperie [Infortune-1]",
       "changes": [
         {
           "key": "system.skills.Deception.remsetback",

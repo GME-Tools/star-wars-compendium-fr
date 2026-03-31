@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Augmentez votre valeur d'encaissement de +1.</p>",
     "attributes": {
-      "attr1774731079958": {
+      "Encaissement [+1]": {
         "modtype": "Stat",
         "mod": "Soak",
         "value": 1
@@ -37,7 +37,7 @@
   },
   "effects": [
     {
-      "name": "attr1774731079958",
+      "name": "Encaissement [+1]",
       "changes": [
         {
           "key": "system.stats.soak.value",

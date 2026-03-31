@@ -6,7 +6,7 @@
   "system": {
     "description": "<p>Ajoutez [BO] par rang d'Autorité naturelle quand vous effectuez un test de Commandement. Les cibles affectées ajoutent [BO] aux tests de Sang-froid pour les prochaines 24 heures.</p>",
     "attributes": {
-      "attr1774705605314": {
+      "Commandement [Fortune+1]": {
         "modtype": "Skill Boost",
         "mod": "Leadership",
         "value": 1
@@ -37,7 +37,7 @@
   },
   "effects": [
     {
-      "name": "attr1774705605314",
+      "name": "Commandement [Fortune+1]",
       "changes": [
         {
           "key": "system.skills.Leadership.boost",
