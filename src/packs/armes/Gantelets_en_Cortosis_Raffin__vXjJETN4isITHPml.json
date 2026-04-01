@@ -1,0 +1,217 @@
+{
+  "folder": "ntJgc6eNnSwPrwj6",
+  "name": "Gantelets en Cortosis Raffiné",
+  "type": "weapon",
+  "_id": "vXjJETN4isITHPml",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/refined-cortosis-gloves.png",
+  "system": {
+    "description": "<p>De simples gants m&eacute;talliques ou composites auxquels sont ajout&eacute;es d'&eacute;paisses plaques de cortosis afin de prot&eacute;ger les avant-bras. Ceci permet &agrave; leur porteur de parer ou m&ecirc;me de d&eacute;sactiver la lame d'un sabre laser.</p>\n<p>Un personnage muni de gantelets en cortosis peut d&eacute;penser [AD][AD][AD] ou [TR] lors d'un test de combat qui cible un adversaire arm&eacute; d'un sabre laser afin de d&eacute;sactiver son arme momentanement. &Agrave; l'inverse, si c'est le personnage muni du sabre laser qui obtient [TH][TH][TH] ou [DE] alors qu'il attaque le porteur des gantelets, les symboles peuvent etre d&eacute;pens&eacute;s pour d&eacute;sactiver l'arme de l'attaquant. Dans les deux cas, la d&eacute;sactivation se produit une fois que le test de combat a et&eacute; r&eacute;solu. Reactiver le sabre laser n&eacute;cessite une simple broutille, mais il faut attendre la fin du dernier cr&eacute;neau d'initiative du prochain tour pour le faire.</p>",
+    "attributes": {
+      "attr1747640319763": {
+        "modtype": "Weapon Stat",
+        "value": 1,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 171"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 3,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 3
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 2,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Cortosis",
+        "type": "itemmodifier",
+        "_id": "PCY5RRUH6koM96ez",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Le Cortosis est un minerai tr&egrave;s pr&eacute;cieux que l'on trouve parfois sur les plan&egrave;tes de la Bordure ext&eacute;rieure. A l'origine, il a servi &agrave; combattre les chevaliers Jedi pendant la Guerre des Clones. Il existe deux vari&eacute;t&eacute;s de Cortosis. La plus rare est litt&eacute;ralement capable de court-circuiter la lame d'un sabre laser. La vari&eacute;t&eacute; plus commune reste une vraie merveille : fa&ccedil;onn&eacute;e en plaques d'armures, elle agit &agrave; un niveau mol&eacute;culaire, les rendant extr&ecirc;mement r&eacute;sistantes aux armes &eacute;nerg&eacute;tiques.</p>\n<p>Les armes fondues en Cortosis sont immunis&eacute;es contre l'attribut Briseur. Les armures forg&eacute;es dans ce m&eacute;tal immunisent l'encaissement du porteur contre les attributs Br&ecirc;che et Perforant.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 1,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Le Cortosis est un minerai très précieux que l'on trouve parfois sur les planètes de la Bordure extérieure. A l'origine, il a servi à combattre les chevaliers Jedi pendant la Guerre des Clones. Il existe deux variétés de Cortosis. La plus rare est littéralement capable de court-circuiter la lame d'un sabre laser. La variété plus commune reste une vraie merveille : façonnée en plaques d'armures, elle agit à un niveau moléculaire, les rendant extrêmement résistantes aux armes énergétiques.</p>\n<p>Les armes fondues en Cortosis sont immunisées contre l'attribut Briseur. Les armures forgées dans ce métal immunisent l'encaissement du porteur contre les attributs Brêche et Perforant.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747545224221,
+          "modifiedTime": 1747545319612,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "VpX3KNg50OdAdIdY"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Brawl",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 4,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 4
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "<p>Peut d&eacute;penser [AD][AD][AD] ou [TR] lors d'un test de combat qui cible un adversaire arm&eacute; d'un sabre laser afin de d&eacute;sactiver son arme momentanement.</p>",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747640319763",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "WyqlMUOkrivlR9P0",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1769240922522,
+        "modifiedTime": 1769240922522,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!vXjJETN4isITHPml.WyqlMUOkrivlR9P0"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747640007692,
+    "modifiedTime": 1769240921643,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!vXjJETN4isITHPml"
+}

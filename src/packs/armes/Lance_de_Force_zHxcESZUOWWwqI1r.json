@@ -1,0 +1,263 @@
+{
+  "folder": "4cUA7NgRkkf5FgT6",
+  "name": "Lance de Force",
+  "type": "weapon",
+  "_id": "zHxcESZUOWWwqI1r",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/force_pike.png",
+  "system": {
+    "description": "<p>D'environ deux m&egrave;tres de long, ces armes &agrave; deux mains sont constitu&eacute;es d'un long manche m&eacute;tallique dont la pointe cr&eacute;pite et bourdonne d&egrave;s l'activation. Con&ccedil;ues pour contr&ocirc;ler les foules lors d'op&eacute;rations de maintien de l'ordre, les lances de force disposent de deux modes : le mode vibrant et le mode d&eacute;charge. En mode vibrant, leur pointe produit un champ de vibration qui peut d&eacute;chiqueter les chairs, briser les os et percer les mat&eacute;riaux naturels ou artificiels. En mode d&eacute;charge, l'arme g&eacute;n&egrave;re une forte charge &eacute;lectrique qui peut &ecirc;tre r&eacute;gl&eacute;e sur diff&eacute;rents niveaux d'intensit&eacute;, le plus bas ne servant qu'a guider les foules, le plus haut pouvant assommer un Wookie d'un coup bien plac&eacute;.</p>\n<p>Les lances de force sont tr&egrave;s faciles &agrave; utiliser : il n'y a pas besoin de beaucoup de pratique pour balancer un baton de drolte et de gauche. Elles peuvent cependant causer des d&eacute;gats consid&eacute;rables entre les mains d'un utillsateur rompu &agrave; leur maniement.</p>\n<p>Lorsqu'elle est r&eacute;gl&eacute;e sur &Eacute;tourdissement, une lance de force perd son attribut Perforant 2. Ces armes s'utilisent &agrave; deux mains.</p>\n<p><strong>Mod&egrave;les typiques : </strong>Lance anti&eacute;meute SoroSuub FP</p>",
+    "attributes": {
+      "attr1747647479321": {
+        "modtype": "Weapon Stat",
+        "value": 3,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 175"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 3,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 3
+    },
+    "price": {
+      "value": 500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 4,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 3,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Perforant",
+        "type": "itemmodifier",
+        "_id": "XbOJpT26dqVZiBtX",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est sup&eacute;rieur au niveau d'encaissement de sa cible, elle l'ignore enti&egrave;rement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert &agrave; rien.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est supérieur au niveau d'encaissement de sa cible, elle l'ignore entièrement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert à rien.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549292133,
+          "modifiedTime": 1747549339000,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "3e8i6EiuvkdloHOO"
+      },
+      {
+        "name": "Réglage Etourdissant",
+        "type": "itemmodifier",
+        "_id": "vFmE9mqn3EDDxQxB",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547537712,
+          "modifiedTime": 1747547544827,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "BgrYDbWGZZVaNulw"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Melee",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 2,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 2
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747647479321",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "_id": "mOsI7Ff3Whyt50ci",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1769240657277,
+        "modifiedTime": 1769240657277,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!zHxcESZUOWWwqI1r.mOsI7Ff3Whyt50ci"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747647279708,
+    "modifiedTime": 1769240656292,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!zHxcESZUOWWwqI1r"
+}

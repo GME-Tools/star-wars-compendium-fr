@@ -1,0 +1,327 @@
+{
+  "folder": "4cUA7NgRkkf5FgT6",
+  "name": "Bouclier en Cortosis",
+  "type": "weapon",
+  "_id": "91aXB2uYUwOXhHrj",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/cortosis_shield.png",
+  "system": {
+    "description": "<p>Alors que les forces de l'ordre et certains mercenaires emploient des boucliers anti&eacute;meutes sophistiqu&eacute;s afin de g&eacute;rer les mouvements de foule, les boucliers d&eacute;fensifs classiques sont extr&ecirc;mement rares sur les champs de bataille. &Agrave; cette &eacute;poque moderne pleine d'armes &agrave; haute &eacute;nergie, de redoutables fusils &agrave; percussion et de canons mont&eacute;s sur des v&eacute;hicules et des vaisseaux, il suffit d'un clin d'&oelig;il &agrave; un &ecirc;tre vivant pour &ecirc;tre r&eacute;duit &agrave;&nbsp;un petit tas de cendres, meme s'il est muni de sa pr&eacute;cieuse armure en plasto&iuml;de. Face &agrave; une puissance de feu importante, la sagesse militaire recommande de riposter avec encore plus de punch ou de se replier si cela n'est pas possible. Certains individus ne disposent pas de ce luxe, et ceux qui doivent se charger des derniers repr&eacute;sentants de l'Ordre Jedi, comme les Inquisiteurs et les unit&eacute;s de la police secr&egrave;te de l'Empire, ont besoin de mat&eacute;riel sp&eacute;cialis&eacute;.</p>\n<p>Les boucliers en cortosis sont fabriqu&eacute;s &agrave; partir de divers alliages ou compos&eacute;s synth&eacute;tiques et renforc&eacute;s par une trame de cortosis raffin&eacute;e capable d'absorber les tirs de blaster et de neutraliser la lame d'un sabre laser. Ces boucliers peuvent &eacute;galement &ecirc;tre utilis&eacute;s comme des armes de corps &agrave; corps de fortune afin de repousser ou de percuter un adversaire.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Bouclier Ordre Sp&eacute;cial modele 3 d'Arakyd Industries</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 173"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 4,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 4
+    },
+    "price": {
+      "value": 900,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Cortosis",
+        "type": "itemmodifier",
+        "_id": "PCY5RRUH6koM96ez",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Le Cortosis est un minerai tr&egrave;s pr&eacute;cieux que l'on trouve parfois sur les plan&egrave;tes de la Bordure ext&eacute;rieure. A l'origine, il a servi &agrave; combattre les chevaliers Jedi pendant la Guerre des Clones. Il existe deux vari&eacute;t&eacute;s de Cortosis. La plus rare est litt&eacute;ralement capable de court-circuiter la lame d'un sabre laser. La vari&eacute;t&eacute; plus commune reste une vraie merveille : fa&ccedil;onn&eacute;e en plaques d'armures, elle agit &agrave; un niveau mol&eacute;culaire, les rendant extr&ecirc;mement r&eacute;sistantes aux armes &eacute;nerg&eacute;tiques.</p>\n<p>Les armes fondues en Cortosis sont immunis&eacute;es contre l'attribut Briseur. Les armures forg&eacute;es dans ce m&eacute;tal immunisent l'encaissement du porteur contre les attributs Br&ecirc;che et Perforant.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 1,
+          "rank_current": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747545224221,
+          "modifiedTime": 1747545319612,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "ki4FHhiQOghBz51x"
+      },
+      {
+        "name": "Déflexion",
+        "type": "itemmodifier",
+        "_id": "PyPESTp4UiJQHTxr",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les objets munis de cet attribut sont tr&egrave;s efficaces contre les projectiles. Les personnages qui les utilisent augmentent leur d&eacute;fense contre les attaques &agrave; distance d'un nombre de points &eacute;gal au niveau d'attribut de l'objet.</p>",
+          "attributes": {
+            "attr1747545385143": {
+              "modtype": "Stat",
+              "value": 2,
+              "mod": "Defence-Ranged"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Les objets munis de cet attribut sont très efficaces contre les projectiles. Les personnages qui les utilisent augmentent leur défense contre les attaques à distance d'un nombre de points égal au niveau d'attribut de l'objet.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747545352503,
+          "modifiedTime": 1747545393268,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "Oaj5jCD2a6O23xHP"
+      },
+      {
+        "name": "Encombrant",
+        "type": "itemmodifier",
+        "_id": "raXJ4i5VZncAcxUi",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Une arme encombrante est imposante, difficile &agrave; manipuler, g&ecirc;nante ou tr&egrave;s lourde. Pour manier un tel &eacute;quipement, il faut avoir une Vigueur sup&eacute;rieure ou &eacute;gale &agrave; son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 d&eacute; de difficult&eacute; &agrave; tous les tests effectu&eacute;s pour se servir de cette arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Une arme encombrante est imposante, difficile à manipuler, gênante ou très lourde. Pour manier un tel équipement, il faut avoir une Vigueur supérieure ou égale à son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 dé de difficulté à tous les tests effectués pour se servir de cette arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547863051,
+          "modifiedTime": 1747548206802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "pyX1ct7wVmfgni65"
+      },
+      {
+        "name": "Parade",
+        "type": "itemmodifier",
+        "_id": "z7r6JieW8OZk6W5J",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les armes munies de cet attribut permettent de se d&eacute;fendre plus efficacement au corps &agrave; corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points &eacute;gal au niveau d'attribut de l'arme.</p>",
+          "attributes": {
+            "attr1747549276207": {
+              "modtype": "Stat",
+              "value": 2,
+              "mod": "Defence-Melee"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Les armes munies de cet attribut permettent de se défendre plus efficacement au corps à corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points égal au niveau d'attribut de l'arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549240013,
+          "modifiedTime": 1747641715444,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "duJMUCrw2Gxu7Fch"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Melee",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 6,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 6
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747644085078,
+    "modifiedTime": 1769240580531,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!91aXB2uYUwOXhHrj"
+}

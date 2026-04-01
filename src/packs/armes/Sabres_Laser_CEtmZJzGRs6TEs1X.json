@@ -1,0 +1,22 @@
+{
+  "name": "Sabres Laser",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "CEtmZJzGRs6TEs1X",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747662332488,
+    "modifiedTime": 1747662332488,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!CEtmZJzGRs6TEs1X"
+}

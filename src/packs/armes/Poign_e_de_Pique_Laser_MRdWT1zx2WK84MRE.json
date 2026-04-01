@@ -1,0 +1,226 @@
+{
+  "folder": "CEtmZJzGRs6TEs1X",
+  "name": "Poignée de Pique Laser",
+  "type": "weapon",
+  "_id": "MRdWT1zx2WK84MRE",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/laser_pike.png",
+  "system": {
+    "description": "<p>L'ame de chaque sabre laser r&eacute;side dans son cristal. Les anciens Jedi testaient leurs novices en les envoyant en qu&ecirc;te du leur. Le proc&eacute;d&eacute; s'apparentait autant &agrave; un voyage spirituel qu'&agrave; une &eacute;preuve physique au cours de laquelle les jeunes gens devaient se<br>confronter a leurs propres d&eacute;mons int&eacute;rieurs. En d&eacute;couvrant leur cristal, ils se liaient &agrave; lui d'une fa&ccedil;on qui allait au-del&agrave; du simple domaine physique.</p>\n<p>La poign&eacute;e du sabre, quant &agrave; elle, n'est rien d'autre qu'un syst&egrave;me m&eacute;canique, un simple objet. Bien s&ucirc;r, un individu peut la customiser, la d&eacute;corer ou lui ajouter des fonctionnalit&eacute;s, comme pour n'importe quelle autre arme. De cette mani&egrave;re, son propri&eacute;taire peut r&eacute;aliser une &oelig;uvre unique qui lui appartiendra vraiment.</p>\n<p>&nbsp;</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 177"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 3,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 3
+    },
+    "price": {
+      "value": 600,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 3,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Encombrant",
+        "type": "itemmodifier",
+        "_id": "raXJ4i5VZncAcxUi",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Une arme encombrante est imposante, difficile &agrave; manipuler, g&ecirc;nante ou tr&egrave;s lourde. Pour manier un tel &eacute;quipement, il faut avoir une Vigueur sup&eacute;rieure ou &eacute;gale &agrave; son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 d&eacute; de difficult&eacute; &agrave; tous les tests effectu&eacute;s pour se servir de cette arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Une arme encombrante est imposante, difficile à manipuler, gênante ou très lourde. Pour manier un tel équipement, il faut avoir une Vigueur supérieure ou égale à son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 dé de difficulté à tous les tests effectués pour se servir de cette arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547863051,
+          "modifiedTime": 1747548206802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "Zoij4fFGQJ3A6Dtp"
+      },
+      {
+        "name": "Parade",
+        "type": "itemmodifier",
+        "_id": "z7r6JieW8OZk6W5J",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les armes munies de cet attribut permettent de se d&eacute;fendre plus efficacement au corps &agrave; corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points &eacute;gal au niveau d'attribut de l'arme.</p>",
+          "attributes": {
+            "attr1747549276207": {
+              "modtype": "Stat",
+              "value": 1,
+              "mod": "Defence-Melee"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 1,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Les armes munies de cet attribut permettent de se défendre plus efficacement au corps à corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points égal au niveau d'attribut de l'arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549240013,
+          "modifiedTime": 1747641715444,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "Jp4afs2vqmZnNDXC"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Lightsaber",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 0,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 0
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747747457700,
+    "modifiedTime": 1769241265459,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!MRdWT1zx2WK84MRE"
+}

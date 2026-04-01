@@ -1,0 +1,170 @@
+{
+  "folder": "IdBaB7VYJnwZzJL0",
+  "name": "Pistolet Blaster Lourd",
+  "type": "weapon",
+  "_id": "FhXJ939d7c9dltKd",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/heavy_blaster_pistol.png",
+  "system": {
+    "description": "<p>Les pistolets blaster lourds sont de pures armes de combat, con&ccedil;ues a la base pour delivrer une puissance de feu maximale tout en conservant une taille aussi r&eacute;duite que possible. Presque aussi puissants que la plupart des carabines blaster, ils sont grands, volumineux et quasi impossibles &agrave; dissimuler. Grace &agrave; leurs capacit&eacute;s &agrave; tuer n'importe quel adversaire en un coup ou deux, ou a perforer jusqu'aux armures en plasto&iuml;de des stormtroopers imp&eacute;riaux, les blasters lourds comptent parmi les armes favorites des chasseurs de primes, des mercenaires, des Rebelles et des insurg&eacute;s a travers toute la galaxie. Une telle puissance, concentr&eacute;e dans une arme si petite, a une cons&eacute;quence sur l'autonomie, moins importante que celle des modeles plus l&eacute;gers. Les blasters lourds sont si puissants et performants que l'Empire Galactique en r&eacute;glemente fortement la possession. Disposer d'un pistolet blaster lourd sans avoir les permis et les autorisations correspondants vous vaudra une lourde amende et un s&eacute;jour prolong&eacute; dans une prison Imp&eacute;riale.</p>\n<p>Durant un combat, le MJ peut faire tomber l'arme &agrave;&nbsp;court de munitions en depensant [TH][TH][TH]. Un [DE] peut toujours aboutir au m&ecirc;me effet, comme indiqu&eacute; page 212.</p>\n<p><strong>Mod&egrave;les typiques :</strong> BlasTech DT-57 &laquo; Annihilator &raquo;, BlasTech DL-44, SoroSuub SSK-7</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 168"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 2,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 2
+    },
+    "price": {
+      "value": 700,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 3,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Réglage Etourdissant",
+        "type": "itemmodifier",
+        "_id": "vFmE9mqn3EDDxQxB",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547537712,
+          "modifiedTime": 1747547544827,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "fxL8SYxZ72blTCP0"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Ranged: Light",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 7,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 3,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 3
+    },
+    "range": {
+      "value": "Medium",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Medium"
+    },
+    "special": {
+      "value": "<p>Durant un combat, le MJ peut faire tomber l'arme &agrave; court de munitions en d&eacute;pensant [TH][TH][TH].</p>",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747567311706,
+    "modifiedTime": 1769240990426,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!FhXJ939d7c9dltKd"
+}

@@ -1,0 +1,230 @@
+{
+  "folder": "CEtmZJzGRs6TEs1X",
+  "name": "Sabre Laser de Base",
+  "type": "weapon",
+  "_id": "jR5tDIfMAff0Gh6i",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/lightsaber.png",
+  "system": {
+    "description": "<p>Le sabre laser de base est le mod&egrave;le qui a donn&eacute; naissance &agrave; toutes les autres variantes. Il consiste avant tout en une simple poign&eacute;e construite dans n'importe quel mat&eacute;riau disponible au moment de sa cr&eacute;ation, souvent du m&eacute;tal ou des matieres composites. Particulierement &eacute;l&eacute;gants malgr&eacute; leur simplicit&eacute;, tous les sabres laser contiennent un cristal kyber, un min&eacute;ral dont il existe de tr&egrave;s nombreuses vari&eacute;t&eacute;s. Ces cristaux peuvent avoir des formes, des colorations et des propri&eacute;t&eacute;s diff&eacute;rentes, mais ils partagent tous un attribut unique, celui de pouvoir concentrer l'&eacute;nergie n&eacute;cessaire &agrave; la formation de la lame caract&eacute;ristique des sabres laser. Avant l'av&egrave;nement de l'Empire, et m&ecirc;me pendant la Guerre des Clones, chaque sabre construit par un membre de l'Ordre Jedi contenait un cristal r&eacute;colt&eacute; sur llum alors qu'il n'&eacute;tait qu'un jeune Padawan engag&eacute; sur le&nbsp;long chemin qui allait le mener au rang de chevalier. Les exemplaires provenant d'Ilum sont de parfaits exemples de cristaux kyber.</p>\n<p>Un sabre laser de base consiste en une @UUID[Compendium.star-wars-compendium-fr.armes.Item.lf3ElsUCtrI1Xki0]{Poign&eacute;e de Sabre Laser de Base} munie d'un @UUID[Compendium.star-wars-compendium-fr.ameliorations_armes.Item.RqTaHMdv67YmdLdS]{Cristal d'Ilum} non modifi&eacute; (cf. page 196). Ce cristal occupe deux des emplacements d'am&eacute;lioration de l'arme.</p>\n<p><strong>Mod&egrave;les typiques :</strong> aucun, chaque exemplaire est unique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 176"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 1
+    },
+    "price": {
+      "value": 9300,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 10,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 5,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [
+      {
+        "folder": "qkxrbicYJavFbjnL",
+        "name": "Cristal d'Ilum",
+        "type": "itemattachment",
+        "_id": "RqTaHMdv67YmdLdS",
+        "img": "modules/star-wars-compendium-fr/packs/ameliorations_armes/images/IlumCrystal-SWE.png",
+        "system": {
+          "description": "<p>Les cristaux kyber gisant dans les profondeurs des cavernes d'lium &eacute;taient tr&egrave;s pris&eacute;s des Jedi, qui les employaient dans la construction de leurs sabres laser. La plan&egrave;te glac&eacute;e rev&ecirc;tait une importance particuli&egrave;re dans la tradition de l'Ordre, et les jeunes Padawans s'y rendaient dans le cadre de leur entrainement. L&agrave;, ils communialent avec la Force et tentaient d'en saisir la volont&eacute; afin de d&eacute;couvrir le cristal qui irait se loger dans leur premier sabre laser.</p>\n<p>Un cristal d'Ilum est un cristal de sabre laser.</p>\n<p><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p><strong>Mods possibles : </strong></p>\n<ul>\n<li>[ ][ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC]{Sanguinaire} + 1)</li>\n<li>[ ][ ][ ][ ] D&eacute;g&acirc;ts + 1</li>\n<li>[ ] R&eacute;duire le niveau de critique de 1 (pour un minimum de 1)</li>\n</ul>",
+          "attributes": {
+            "attr1747663600999": {
+              "modtype": "Weapon Stat",
+              "value": 6,
+              "mod": "damage"
+            },
+            "attr1747663618322": {
+              "modtype": "Weapon Stat",
+              "value": 2,
+              "mod": "critical"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": []
+          },
+          "quantity": {
+            "value": 1,
+            "type": "Number",
+            "label": "Quantity",
+            "abrev": "Qty"
+          },
+          "encumbrance": {
+            "value": 0,
+            "type": "Number",
+            "label": "Encumbrance",
+            "abrev": "Encum",
+            "adjusted": 0
+          },
+          "price": {
+            "value": 9000,
+            "type": "Number",
+            "label": "Price",
+            "adjusted": 0
+          },
+          "rarity": {
+            "value": 10,
+            "type": "Number",
+            "label": "Rarity",
+            "adjusted": 0,
+            "isrestricted": true
+          },
+          "hardpoints": {
+            "value": 2,
+            "type": "Number",
+            "label": "Hard Points",
+            "abrev": "HP",
+            "adjusted": 0
+          },
+          "itemmodifier": [
+            {
+              "name": "Brèche",
+              "system": {
+                "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>        <p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+                "active": true,
+                "rank": 1
+              }
+            },
+            {
+              "name": "Briseur",
+              "system": {
+                "description": "<p>Quand l'attribut est d&eacute;clench&eacute;, l'assaillant choisit un des objets les plus expos&eacute;s de sa cible (comme une arme, un bouclier ou quelque chose qui pend &agrave; sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact &agrave; endommag&eacute; leg&eacute;rement, d'endommag&eacute; l&eacute;g&egrave;rement&nbsp;&agrave; endommag&eacute; mod&eacute;r&eacute;ment et d'endommag&eacute; mod&eacute;r&eacute;ment &agrave; endommag&eacute; gravement. Un objet endommag&eacute; gravement qui subit une nouvelle fois les effets de l'attribut Briseur est d&eacute;truit.</p>        <p>Un avantage [AD] est n&eacute;cessaire pour activer l'attribut. Il peut &ecirc;tre d&eacute;clench&eacute; plusieurs fois au cours de la m&ecirc;me attaque, ce qui peut permettre de briser un objet en un unique coup.</p>",
+                "active": true,
+                "rank": 1
+              }
+            }
+          ],
+          "adjusteditemmodifer": [],
+          "itemattachment": [],
+          "type": "all",
+          "enrichedDescription": "<p>Les cristaux kyber gisant dans les profondeurs des cavernes d'lium étaient très prisés des Jedi, qui les employaient dans la construction de leurs sabres laser. La planète glacée revêtait une importance particulière dans la tradition de l'Ordre, et les jeunes Padawans s'y rendaient dans le cadre de leur entrainement. Là, ils communialent avec la Force et tentaient d'en saisir la volonté afin de découvrir le cristal qui irait se loger dans leur premier sabre laser.</p>\n<p>Un cristal d'Ilum est un cristal de sabre laser.</p>\n<p><strong>Modèles typiques :</strong> aucun</p>\n<p><strong>Mods possibles : </strong></p>\n<ul>\n<li>[ ][ ] Attribut d'arme (<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC\" data-id=\"e4L8BCSkWoLfs6mC\" data-type=\"Item\" data-pack=\"star-wars-compendium-fr.qualites\" data-tooltip=\"Modificateur d'équipement Item\"><i class=\"fas fa-suitcase\"></i>Sanguinaire</a> + 1)</li>\n<li>[ ][ ][ ][ ] Dégâts + 1</li>\n<li>[ ] Réduire le niveau de critique de 1 (pour un minimum de 1)</li>\n</ul>"
+        },
+        "effects": [],
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.ameliorations_armes.Item.RqTaHMdv67YmdLdS",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747663185966,
+          "modifiedTime": 1747744000280,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "BiY9VR8ynT2F35BA"
+      }
+    ],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Lightsaber",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 6
+    },
+    "crit": {
+      "value": 0,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 2
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747662361567,
+    "modifiedTime": 1769241203882,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!jR5tDIfMAff0Gh6i"
+}

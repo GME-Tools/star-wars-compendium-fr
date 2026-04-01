@@ -1,0 +1,317 @@
+{
+  "folder": "4cUA7NgRkkf5FgT6",
+  "name": "Vibroépée",
+  "type": "weapon",
+  "_id": "85vIuVxKryWeEiAa",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/vibrosword.png",
+  "system": {
+    "description": "<p>Alors que la plupart des cultures galactiques ont abandonn&eacute; l'usage des &eacute;p&eacute;es, certaines jugent que l'escrime et le go&ucirc;t pour les longues lames cisel&eacute;es font partie de leur h&eacute;ritage martial. Pour elles, et pour quiconque appr&eacute;cie la valeur d'une arme solide et finement ouvrag&eacute;e,&nbsp;la vibro&eacute;p&eacute;e constitue un bon choix. Cette arme m&ecirc;le judicieusement &eacute;l&eacute;gance et efficacit&eacute;, combinant l'allonge d'une &eacute;p&eacute;e traditionnelle avec la technologie dont sont pourvues les vibrohaches et les vibrolames. Les vibro&eacute;p&eacute;es sont produites dans des styles tr&egrave;s diff&eacute;rents qui correspondent aux gouts et aux capacit&eacute;s martiales de leurs utilisateurs. Elles vont de l'arme bon march&eacute; produite en masse aux &oelig;uvres d'art richement d&eacute;cor&eacute;es valant une ann&eacute;e de salaire. Bien que n'&eacute;tant pas aussi puissante que&nbsp;le l&eacute;gendaire sabre laser, la vibro&eacute;p&eacute;e est une arme incroyablement efficace qui peut transpercer la plupart des mat&eacute;riaux et qui pr&eacute;sente l'avantage de pouvoir etre utilis&eacute;e m&ecirc;me si l'on n'est pas un ma&icirc;tre Jedi aguerri.</p>\n<p><strong>Mod&egrave;les typiques :</strong> &Eacute;p&eacute;e de duel Merr-Sonn Damask-4, &Eacute;p&eacute;e courte vibrante &laquo; Glaive SoroSuub &raquo;</p>",
+    "attributes": {
+      "attr1747662263613": {
+        "modtype": "Weapon Stat",
+        "value": 2,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 175"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 3,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 3
+    },
+    "price": {
+      "value": 750,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 5,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 3,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Parade",
+        "type": "itemmodifier",
+        "_id": "z7r6JieW8OZk6W5J",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les armes munies de cet attribut permettent de se d&eacute;fendre plus efficacement au corps &agrave; corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points &eacute;gal au niveau d'attribut de l'arme.</p>",
+          "attributes": {
+            "attr1747549276207": {
+              "modtype": "Stat",
+              "value": 1,
+              "mod": "Defence-Melee"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 1,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Les armes munies de cet attribut permettent de se défendre plus efficacement au corps à corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points égal au niveau d'attribut de l'arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549240013,
+          "modifiedTime": 1747641715444,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "DunqLigZ6C9IuWKo"
+      },
+      {
+        "name": "Perforant",
+        "type": "itemmodifier",
+        "_id": "XbOJpT26dqVZiBtX",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est sup&eacute;rieur au niveau d'encaissement de sa cible, elle l'ignore enti&egrave;rement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert &agrave; rien.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est supérieur au niveau d'encaissement de sa cible, elle l'ignore entièrement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert à rien.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549292133,
+          "modifiedTime": 1747549339000,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "jLZ46XtXfcbBtwPT"
+      },
+      {
+        "name": "Sanguinaire",
+        "type": "itemmodifier",
+        "_id": "e4L8BCSkWoLfs6mC",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Lorsque les armes poss&eacute;dant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au r&eacute;sultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 &agrave; son jet de blessure&nbsp;critique.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747550077870,
+          "modifiedTime": 1747550114055,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "oYkwK9bsAiRo3amd"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Melee",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 2,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 2
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747662263613",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "2"
+        }
+      ],
+      "_id": "Nmd81h1H7BrzqEz1",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1769240674570,
+        "modifiedTime": 1769240674570,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!85vIuVxKryWeEiAa.Nmd81h1H7BrzqEz1"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747662089704,
+    "modifiedTime": 1769240673533,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!85vIuVxKryWeEiAa"
+}

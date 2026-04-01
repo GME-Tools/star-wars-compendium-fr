@@ -1,0 +1,172 @@
+{
+  "folder": "ntJgc6eNnSwPrwj6",
+  "name": "Gants à Décharge",
+  "type": "weapon",
+  "_id": "Ur0wveredNm9cZqT",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/shock_gloves.png",
+  "system": {
+    "description": "<p>Il en existe de nombreux styles, des mod&egrave;les &eacute;l&eacute;gants en cuir qui ne d&eacute;tonnent pas en soci&eacute;t&eacute; jusqu'aux gantelets rigides et blind&eacute;s destin&eacute;s &agrave; compl&eacute;ter une armure de combat. Les gants &agrave; d&eacute;charges s'adaptent parfaitement aux mains. Ils sont aliment&eacute;s par de minuscules gen&eacute;rateurs kin&eacute;tiques qui lib&egrave;rent de puissants chocs &eacute;lectriques. Lorsque le porteur des gants frappe son ennemi, ils lib&egrave;rent l'&eacute;nergie stock&eacute;e et provoquent une d&eacute;charge qui peut assommer les plus robustes adversaires en une fraction de seconde.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Gants d'autod&eacute;fense X-21 Corellien, Gants &laquo; Silhouette &raquo; de Kamperdine</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 171"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 300,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Etourdissement",
+        "type": "itemmodifier",
+        "_id": "8x4DJwdVDJbRmORi",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes infligent du stress &agrave; leur cible. Lorsque l'attribut est d&eacute;clench&eacute;, la victime de l'attaque subit un nombre de points de stress &eacute;gal au niveau d'attribut Etourdissement de l'arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Certaines armes infligent du stress à leur cible. Lorsque l'attribut est déclenché, la victime de l'attaque subit un nombre de points de stress égal au niveau d'attribut Etourdissement de l'arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547948425,
+          "modifiedTime": 1747548231775,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "RZDyUuF0apxYLzqU"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Brawl",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 5,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 5
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747640387044,
+    "modifiedTime": 1769240931720,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Ur0wveredNm9cZqT"
+}

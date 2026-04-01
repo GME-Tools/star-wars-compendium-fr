@@ -1,0 +1,22 @@
+{
+  "name": "Armes à Percussion",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "ni5IZq35SWxS3ZZc",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747568360953,
+    "modifiedTime": 1747568360953,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!ni5IZq35SWxS3ZZc"
+}
