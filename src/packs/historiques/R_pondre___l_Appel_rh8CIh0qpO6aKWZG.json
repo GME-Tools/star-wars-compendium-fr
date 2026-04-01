@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "7VjvlExd4zlJkn6l",
+  "name": "Répondre à l'Appel",
+  "color": null,
+  "sorting": "a",
+  "_id": "rh8CIh0qpO6aKWZG",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!rh8CIh0qpO6aKWZG"
+}

@@ -1,0 +1,69 @@
+{
+  "folder": "4d8Chidj4zdlT2aV",
+  "name": "L'insurgé volontaire",
+  "type": "background",
+  "_id": "uPssOsSGD92PzMI6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une fois qu’ils ont pris la décision de s’opposer à la terreur et aux atrocités imposées par l’Empire, nombreux sont ceux qui cherchent à entrer en contact avec la Rébellion. Pourtant, bien que l’Alliance ait grandement besoin d’effectifs, il n’est pas facile de trouver des représentants qui pourraient vous enrôler. Les forces et les moyens largement supérieurs de l’Empire ont de quoi dissuader quiconque de soutenir ouvertement l’Alliance, comme l’ont découvert de nombreuses planètes et individus à la suite de la Déclaration formelle de Rébellion. Les Renseignements impériaux et autres agences affiliées (sans parler d’innombrables chasseurs de primes) traquent sans cesse tous ceux qui pourraient être liés à la Rébellion, pour laquelle le secret est donc vital.</p><p data-start=\"782\" data-end=\"1543\">Trouver le moyen de se joindre à la lutte de l’Alliance contre l’Empire peut donc constituer une quête à part entière. Il pourrait même s’agir du début d’une campagne de <strong style=\"font-variant:small-caps\">L'Ère de la Rébellion</strong>. Les prétendants vont devoir multiplier les recherches, les enquêtes et les furtivités pour accumuler des indices tout en évitant de susciter l’attention des agents impériaux. Mais ils doivent aussi se montrer compétents et dignes de confiance aux yeux de ceux qui pourraient les rapprocher de l’Alliance. Cette entreprise sera dès le départ très délicate, un véritable jeu du chat et de la souris. Les personnages seront peut-être même observés et évalués par l’Alliance à leur insu, alors que leurs prospections ne leur ont pas encore montré la moindre ouverture.</p><p data-start=\"1545\" data-end=\"1995\">Parmi ceux qui cherchent à rejoindre la Rébellion, beaucoup font dans le spectaculaire. Ils s’en prennent directement aux forces ou aux biens de l’Empire. Ces actes sont souvent imprudents et stupides, mais ils s’avèrent aussi parfois pleins d’audace et d’ingéniosité. Si les Rebelles en puissance parviennent à s’en sortir et se montrent efficaces, ils pourraient bien éveiller l’attention d’agents de l’Alliance prêts à leur faire des propositions.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 44"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "hook"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770736814747,
+    "modifiedTime": 1770738975703,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!uPssOsSGD92PzMI6"
+}

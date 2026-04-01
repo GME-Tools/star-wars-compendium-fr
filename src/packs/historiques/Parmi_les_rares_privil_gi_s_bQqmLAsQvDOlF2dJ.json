@@ -1,0 +1,69 @@
+{
+  "name": "Parmi les rares privilégiés",
+  "type": "background",
+  "_id": "bQqmLAsQvDOlF2dJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Même sur les mondes riches, certains sont privilégiés. Quant aux planètes où les besoins de base sont difficiles à assurer, on y trouve toujours des gens qui ne manquent de rien. Pour les enfants, une vie privilégiée est généralement un accident de naissance. Leur famille a souvent mérité, d'une manière ou d'une autre, son rang et son style de vie, mais eux ont eu la chance de naître au bon endroit, et en bénéficient immensément.</p><p>Les personnages dotés de cet historique ont eu accès à des opportunités inaccessibles à la majorité. Il s'agit généralement d'une éducation poussée, à laquelle s'ajoute parfois la possibilité de voyager et d'interagir avec d'autres cultures. Cet historique colore l'attitude du personnage envers l'argent et les biens matériels. Certains choisissent de les abandonner et regardent de haut ceux qui s'y cramponnent.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 45"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "folder": "knT43WidTyhTaOAA",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770712351433,
+    "modifiedTime": 1770738943620,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!bQqmLAsQvDOlF2dJ"
+}

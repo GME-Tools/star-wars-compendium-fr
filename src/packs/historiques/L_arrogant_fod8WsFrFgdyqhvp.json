@@ -1,0 +1,69 @@
+{
+  "folder": "czYGLnwyW4JBhffy",
+  "name": "L'arrogant",
+  "type": "background",
+  "_id": "fod8WsFrFgdyqhvp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Comme le dit le proverbe : plus ils sont grands, plus ils tombent de haut. Même les personnages issus d’un statut social élevé, d’une famille nantie ou ayant mené une existence très confortable peuvent être victimes des caprices du destin et changer de vie du jour au lendemain. Cette disgrâce peut prendre de nombreuses formes : scandale, mauvaises décisions commerciales, guerre et révolution, ou vengeance d’ennemis. Quoi qu’il lui soit arrivé, le personnage a été irrémédiablement chassé de son monde et a disparu dans les ombres des confins de l’Empire.</p><p data-start=\"4088\" data-end=\"4633\">Les personnages issus de ce type d’historique incluent l’aristocratie terrienne, les riches entrepreneurs, les médecins, les politiciens et autres métiers ou études offrant de l’argent, du pouvoir ou un statut hors du commun. Mais depuis les événements qui les ont mis sur la touche, ces personnages jadis privilégiés trouvent la vie dure. L’intéressé fuit peut-être son ancienne vie avec juste ses vêtements (sans doute très élégants) sur le dos, mais aussi ses capacités, ses compétences et sa volonté de survivre dans une galaxie impitoyable.</p><p data-start=\"4635\" data-end=\"5100\">Les Obligations d’un personnage issu de cet historique sont généralement liées à sa chute. Peut-être a-t-il accumulé une énorme dette de jeu, à moins qu’un ennemi de sa famille ne le fasse chanter ou que la honte qu’il a infligée à son clan n’ait provoqué son exil. Comme les nantis et les puissants restent généralement entre eux, il y a fort à parier que les ennemis ou « détenteurs » de l’Obligation du personnage soient eux aussi riches, puissants et influents.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 37"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741545171,
+    "modifiedTime": 1770741566978,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!fod8WsFrFgdyqhvp"
+}

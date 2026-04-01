@@ -1,0 +1,69 @@
+{
+  "folder": "PfPwvu9IU1vWq614",
+  "name": "Le Vengeur",
+  "type": "background",
+  "_id": "5afaYZCKOiYKUeE3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>L’Alliance pour la Restauration de la République a été fondée pour rattraper la gigantesque erreur qui a consisté à laisser Palpatine prendre le pouvoir, mais la véritable main d’œuvre de la Rébellion, ce sont avant tout ceux qui cherchent à renverser l’Empire à cause des atrocités qu’il a perpétrées d’un bout à l’autre de la galaxie. Des millions d’individus (voire des milliards) ont déjà péri ou souffert atrocement sous cette autorité impitoyable. Une énorme proportion des troupes de l’Alliance est ainsi issue de familles, planètes et systèmes accablés par l’Empereur.</p><p data-start=\"2702\" data-end=\"3420\">La philosophie « pro-humaine » de l’Empire reste probablement l’un des meilleurs arguments de l’Alliance. Des espèces qui ont été respectées et admirées durant des millénaires pour leur contribution à la civilisation galactique sont désormais marginalisées. Leurs membres sont dans le meilleur des cas perçus comme des citoyens de seconde zone, et bien souvent traités comme des esclaves. Les gouvernements qui représentent ces espèces sont de plus en plus nombreux à basculer du côté de l’Alliance. Ces êtres apportent à la lutte contre la politique anthropocentriste de l’Empereur leurs talents, leurs compétences, leurs ressources et leur désir profond de vivre en paix avec tous les êtres conscients de la galaxie.</p><p data-start=\"3422\" data-end=\"4137\">La machine de guerre de l’Empire est vorace. Ceux qui la nourrissent n’ont aucun intérêt à se priver de l’esclavage de masse qui facilite l’accumulation de ressources et la construction des innombrables engins qu’exige ce monstre. Des planètes et civilisations entières ont connu le même sort que Kashyyyk et sa population indigène, les Wookies. L’Empire réduit tout le monde en esclavage et le labeur commence. Les quelques individus qui échappent à la capture ou qui sont secourus par d’autres se joignent souvent aux Rebelles pour répliquer, certains espérant pouvoir un jour libérer les leurs. On comprend que l’Alliance s’empresse de prêter main-forte à ce type de personne chaque fois qu’elle en a l’occasion.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 44"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770736226376,
+    "modifiedTime": 1770738926853,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!5afaYZCKOiYKUeE3"
+}

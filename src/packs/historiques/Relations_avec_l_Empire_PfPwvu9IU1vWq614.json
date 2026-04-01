@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "czYGLnwyW4JBhffy",
+  "name": "Relations avec l'Empire",
+  "color": null,
+  "sorting": "a",
+  "_id": "PfPwvu9IU1vWq614",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!PfPwvu9IU1vWq614"
+}

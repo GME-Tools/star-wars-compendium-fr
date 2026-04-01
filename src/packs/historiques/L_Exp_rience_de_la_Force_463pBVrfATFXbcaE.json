@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "L'Expérience de la Force",
+  "color": null,
+  "sorting": "a",
+  "_id": "463pBVrfATFXbcaE",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770713265868,
+    "modifiedTime": 1770713265868,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!463pBVrfATFXbcaE"
+}

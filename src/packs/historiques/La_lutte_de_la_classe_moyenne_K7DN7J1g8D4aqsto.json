@@ -1,0 +1,69 @@
+{
+  "folder": "czYGLnwyW4JBhffy",
+  "name": "La lutte de la classe moyenne",
+  "type": "background",
+  "_id": "K7DN7J1g8D4aqsto",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Il arrive qu’un personnage issu d’un milieu modeste ait eu des conditions de vie relativement confortables malgré tout avant de se tourner vers l’aventure. Le personnage et sa famille n’ont jamais été riches et savent qu’il faut travailler dur pour gagner sa croûte. Cet historique de « classe moyenne » peut être le plus dur à laisser derrière soi, car le personnage menait une existence correcte et partir à l’aventure n’est pas si facile que cela.</p><p data-start=\"2972\" data-end=\"3506\">Cette catégorie inclut des métiers comme technicien qualifié, officiel politique mineur, soldat professionnel et autres styles de vie nécessitant habituellement beaucoup de travail (avec une paye qui en vaut quand même la peine). Le personnage menait une vie confortable, mais travaillait énormément pour joindre les deux bouts. Le labeur ne lui fait pas peur et il a été témoin de nombreuses injustices, mais il a sans doute été préservé des aspects les plus sombres de la galaxie : le crime, la corruption, l’esclavage et la guerre.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 37"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741462919,
+    "modifiedTime": 1770741507863,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!K7DN7J1g8D4aqsto"
+}

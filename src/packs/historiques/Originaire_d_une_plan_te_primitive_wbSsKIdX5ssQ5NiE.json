@@ -1,0 +1,69 @@
+{
+  "name": "Originaire d'une planète primitive",
+  "type": "background",
+  "_id": "wbSsKIdX5ssQ5NiE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Des mondes et des civilisations isolées subsistent dans la Bordure Extérieure et les Régions Inconnues. Même lorsque leurs habitants connaissent l'existence d'autres planètes, ils n'ont pour la plupart qu'un accès limité à la technologie. Certaines cultures, où qu'elles se trouvent dans la galaxie, décident d'éviter la technologie ou les interactions avec d'autres mondes. Leurs membres éprouvent souvent une profonde révérence pour la nature. D'autres estiment simplement qu'il est néfaste de dépendre d'une technologie trop avancée, jugée corruptrice au-delà des outils les plus rudimentaires.</p><p>Un personnage issu d'un monde primitif manque souvent d'une compréhension complète des capacités de la technologie. Certains s'attendent à ce que n'importe quel objet soit capable de n'importe quoi. D'autres rejettent l'utilité des outils et préfèrent accomplir certaines tâches manuellement. L'attitude du personnage envers le matériel est souvent fonction de sa loyauté envers la civilisation de son monde natal. S'il la vénère, il sera peut-être réticent à apprendre les techniques d'une autre société ou à employer ses outils.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 45"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "folder": "knT43WidTyhTaOAA",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770712195698,
+    "modifiedTime": 1770738946382,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!wbSsKIdX5ssQ5NiE"
+}

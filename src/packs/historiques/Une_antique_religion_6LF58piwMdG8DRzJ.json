@@ -1,0 +1,69 @@
+{
+  "folder": "463pBVrfATFXbcaE",
+  "name": "Une antique religion",
+  "type": "background",
+  "_id": "6LF58piwMdG8DRzJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Il y a plus de vingt ans, le Chancelier suprême Palpatine a éradiqué l'Ordre Jedi. Avant cet événement, les Chevaliers Jedi étaient des figures dont tout le monde avait entendu parler, mais que peu de gens côtoyaient un jour. Pour la majorité des habitants de la galaxie, ils étaient un minuscule groupe de pacificateurs et de guerriers séparés de la société, pas des individus abordables que l'on croise tous les jours.</p><p>Après la purge, les rares personnes qui avaient eu l'occasion de travailler avec les Jedi, les membres du gouvernement de la galaxie, se sont ralliés au responsable de leur liquidation. Certains ont accepté l'idée que l'Ordre était un culte dangereux qui avait failli renverser les autorités. D'autres ont décidé que le meilleur moyen de survivre au sein d'un Empire Galactique expansionniste était d'oublier que les Jedi avaient existé. Ceux qui ont refusé de suivre l'une ou l'autre de ces voies ont disparu dans le silence lorsqu'ils ont attiré l'attention du Bureau de la Sécurité Impériale. Hors de la capitale, bien des créatures n'avaient jamais vu un Jedi ni assisté à l'utilisation de la Force. Pour eux, se convaincre que la Force était un canular était facile, et les membres de l'Ordre n'étaient plus là pour les détromper.</p><p>De nos jours, l'Empire Galactique s'efforce inlassablement d'anéantir les dernières rumeurs et les dernières légendes concernant l'existence des Jedi. Bien des sujets de l'Empereur s'imaginent que la Force est une fable obsolète. Les citoyens qui ont la capacité de l'utiliser ne reconnaissent presque jamais leurs talents innés pour ce qu'ils sont. Les manifestations de leurs capacités sont perçues comme de la chance, la faveur des esprits ou des dons naturels. La plupart nient vigoureusement tout lien avec la Force et soutiennent qu'elle n'influence en rien leurs compétences et leurs capacités. Apprendre à s'ouvrir à elle et à employer ses dons de manière volontaire sera sans doute une étape centrale du développement initial du personnage.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 46"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "force"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770713300156,
+    "modifiedTime": 1770738918194,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!6LF58piwMdG8DRzJ"
+}

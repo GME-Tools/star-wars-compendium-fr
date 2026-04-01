@@ -1,0 +1,69 @@
+{
+  "folder": "czYGLnwyW4JBhffy",
+  "name": "Le Démuni",
+  "type": "background",
+  "_id": "S4VGf9fEJNOiDbZt",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le joueur peut décider que son personnage est issu d’un milieu modeste, voire pauvre. Peut-être a-t-il été prospecteur d’eau sur un monde désertique, à moins qu’il n’ait été au service des Hutts ou abandonné dans les bas-fonds de Coruscant à un très jeune âge. Ce personnage sait que la vie est dure, brutale et courte. Sans doute a-t-il vu plus que son lot d’horreurs. Il a peut-être vu des amis et des proches mourir de malnutrition, de maladie ou des suites de violences. Il a sans doute été témoin des injustices dont sont communément victimes les gens faibles et vulnérables.</p><p data-start=\"1876\" data-end=\"2191\">Malgré (ou à cause de) cette vision de l’univers, les personnages de ce type d’historique s’efforcent d’améliorer leur condition et font tout pour y échapper. Le personnage n’a de cesse de s’entraîner, d’accumuler un maximum de connaissances, ou est tout simplement assez costaud ou ingénieux pour s’en sortir seul.</p><p data-start=\"2193\" data-end=\"2479\">Néanmoins, quitter cette vie mouvementée n’est pas aussi simple qu’il y paraît. Le personnage a peut-être laissé de la famille dans la misère, d’anciens camarades qui voient d’un mauvais œil qu’il les ait abandonnés, ou d’anciens « employeurs » désireux qu’il respecte leur « contrat ».</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 36"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770740628497,
+    "modifiedTime": 1770741533650,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!S4VGf9fEJNOiDbZt"
+}

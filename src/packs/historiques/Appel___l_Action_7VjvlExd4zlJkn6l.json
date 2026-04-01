@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Appel à l'Action",
+  "color": null,
+  "sorting": "a",
+  "_id": "7VjvlExd4zlJkn6l",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770714754897,
+    "modifiedTime": 1770736339569,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!7VjvlExd4zlJkn6l"
+}
