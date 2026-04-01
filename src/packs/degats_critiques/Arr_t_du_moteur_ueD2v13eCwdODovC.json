@@ -1,0 +1,46 @@
+{
+  "name": "Arrêt du moteur",
+  "type": "criticaldamage",
+  "_id": "ueD2v13eCwdODovC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">La vitesse maximale du vaisseau ou du v&eacute;hicule est r&eacute;duite &agrave; 0 jusqu&rsquo;&agrave; ce qu&rsquo;il soit r&eacute;par&eacute; : l&rsquo;appareil poursuit sa trajectoire en raison de l&rsquo;inertie. De plus, le vaisseau ne peut plus effectuer la moindre man&oelig;uvre</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.250"
+      ]
+    },
+    "min": 190,
+    "max": 117,
+    "severity": "3"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766157305637,
+    "modifiedTime": 1766157321431,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!ueD2v13eCwdODovC"
+}

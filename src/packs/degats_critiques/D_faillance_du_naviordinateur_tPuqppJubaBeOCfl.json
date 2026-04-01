@@ -1,0 +1,46 @@
+{
+  "name": "Défaillance du naviordinateur",
+  "type": "criticaldamage",
+  "_id": "tPuqppJubaBeOCfl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">Le naviordinateur de l&rsquo;appareil (ou le dro&iuml;de R2 le cas &eacute;ch&eacute;ant) cesse de fonctionner, ce qui rend impossible tout saut dans l&rsquo;hyperespace tant qu&rsquo;il n&rsquo;est pas r&eacute;par&eacute;. Si le vaisseau ou le v&eacute;hicule ne dispose pas d&rsquo;un hyperdrive, ce sont les syst&egrave;mes de navigation qui d&eacute;faillent, et il doit donc voler ou rouler en aveugle</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.250"
+      ]
+    },
+    "min": 64,
+    "max": 72,
+    "severity": "2"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766157100041,
+    "modifiedTime": 1766157120130,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!tPuqppJubaBeOCfl"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Composant touché",
+  "type": "criticaldamage",
+  "_id": "AFyf8daJwBVEpeHY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">Un composant, choisi par l&rsquo;attaquant, est d&eacute;sactiv&eacute; et inutilisable jusqu&rsquo;&agrave; la fin du prochain round. En fonction du gabarit de l&rsquo;appareil, vous pouvez consulter la <strong>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.1np94ZtEEvHLtz2g.JournalEntryPage.Ou2kuza4tFBofgak]{Table 7-10}</strong> ou la <strong>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.1np94ZtEEvHLtz2g.JournalEntryPage.voMFArOV2upGQvV9]{Table 7-11}</strong> pour obtenir une liste de composants</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.250"
+      ]
+    },
+    "min": 46,
+    "max": 54,
+    "severity": "1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766156762960,
+    "modifiedTime": 1766156984772,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!AFyf8daJwBVEpeHY"
+}

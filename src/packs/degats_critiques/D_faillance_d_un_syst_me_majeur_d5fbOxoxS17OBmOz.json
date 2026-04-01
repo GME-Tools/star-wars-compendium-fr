@@ -1,0 +1,46 @@
+{
+  "name": "Défaillance d'un système majeur",
+  "type": "criticaldamage",
+  "_id": "d5fbOxoxS17OBmOz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">Un composant choisi par l&rsquo;attaquant subit des dommages importants. Il ne fonctionne plus jusqu&rsquo;&agrave; ce que le vaisseau soit r&eacute;par&eacute;. Vous pouvez consulter la Table <strong>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.1np94ZtEEvHLtz2g.JournalEntryPage.Ou2kuza4tFBofgak]{Table 7-10}</strong> ou la <strong>@UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.1np94ZtEEvHLtz2g.JournalEntryPage.voMFArOV2upGQvV9]{Table 7-11}</strong>&nbsp;pour obtenir une liste de composants, en fonction du gabarit de l&rsquo;appareil</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.250"
+      ]
+    },
+    "min": 118,
+    "max": 126,
+    "severity": "3"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766157342902,
+    "modifiedTime": 1766157392078,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!d5fbOxoxS17OBmOz"
+}
