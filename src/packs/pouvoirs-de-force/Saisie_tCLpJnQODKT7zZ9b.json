@@ -1,0 +1,338 @@
+{
+  "name": "Saisie",
+  "type": "forcepower",
+  "_id": "tCLpJnQODKT7zZ9b",
+  "img": "modules/star-wars-compendium-fr/packs/pouvoirs-de-force/images/bind.png",
+  "system": {
+    "description": "<p>Vous immobilisez une cible, l'emp&ecirc;chant d'agir.</p>\n<p>D&eacute;pensez [FP] pour immobiliser une cible &agrave; courte port&eacute;e jusqu'&agrave; la fin de votre prochain tour. Si vous avez utilis&eacute; [DA] pour g&eacute;n&eacute;rer [FP] lors du test, la victime subit 1 point de blessure par [FP] d&eacute;pens&eacute; (ignorez l'encaissement).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.302"
+      ]
+    },
+    "upgrades": {
+      "upgrade0": {
+        "islearned": false,
+        "name": "Portée",
+        "size": "single",
+        "visible": true,
+        "cost": "10",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP] pour augmenter la port&eacute;e du pouvoir d'autant de niveaux de port&eacute;e que le nombre d'am&eacute;liorations de Port&eacute;e acquises.</p>"
+      },
+      "upgrade1": {
+        "islearned": false,
+        "name": "Amplitude",
+        "size": "single",
+        "visible": true,
+        "cost": "15",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP][FP] pour affecter 1 cible additionnelle par am&eacute;lioration d'Amplitude acquise.</p>"
+      },
+      "upgrade2": {
+        "islearned": false,
+        "name": "Puissance",
+        "size": "single",
+        "visible": true,
+        "cost": "5",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP] pour d&eacute;sorienter la cible pendant un nombre de rounds &eacute;gal au nombre d'am&eacute;liorations de Puissance acquises.</p>"
+      },
+      "upgrade3": {
+        "islearned": false,
+        "name": "Contrôle",
+        "size": "single",
+        "visible": true,
+        "cost": "10",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP]. Lorsqu'une cible affect&eacute;e par Saisie entreprend une action, elle encaisse un nombre de points de stress &eacute;gal &agrave; votre Volont&eacute;.</p>"
+      },
+      "upgrade4": {
+        "islearned": false,
+        "name": "Portée",
+        "size": "single",
+        "visible": true,
+        "cost": "15",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP] pour augmenter la port&eacute;e du pouvoir d'autant de niveaux de port&eacute;e que le nombre d'am&eacute;liorations de Port&eacute;e acquises.</p>"
+      },
+      "upgrade5": {
+        "islearned": false,
+        "name": "Amplitude",
+        "size": "single",
+        "visible": true,
+        "cost": "20",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP][FP] pour affecter 1 cible additionnelle par am&eacute;lioration d'Amplitude acquise.</p>"
+      },
+      "upgrade6": {
+        "islearned": false,
+        "name": "Puissance",
+        "size": "single",
+        "visible": true,
+        "cost": "10",
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>D&eacute;pensez [FP] pour d&eacute;sorienter la cible pendant un nombre de rounds &eacute;gal au nombre d'am&eacute;liorations de Puissance acquises.</p>"
+      },
+      "upgrade7": {
+        "islearned": false,
+        "name": "Durée",
+        "size": "single",
+        "visible": true,
+        "cost": "15",
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Engagez [FO][FO][FO] pour maintenir l'effet du pouvoir sur chaque cible affect&eacute;e.</p>"
+      },
+      "upgrade8": {
+        "islearned": false,
+        "name": "Contrôle",
+        "size": "single",
+        "visible": true,
+        "cost": "10",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP] pour d&eacute;placer la cible d'un niveau de port&eacute;e, la rapprochant ou l'&eacute;loignant de vous.</p>"
+      },
+      "upgrade9": {
+        "islearned": false,
+        "name": "Amplitude",
+        "size": "single",
+        "visible": true,
+        "cost": "25",
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>D&eacute;pensez [FP][FP] pour affecter 1 cible additionnelle par am&eacute;lioration d'Amplitude acquise.</p>"
+      },
+      "upgrade10": {
+        "islearned": false,
+        "name": "Puissance",
+        "size": "double",
+        "visible": true,
+        "cost": "15",
+        "links-top-1": false,
+        "links-right": false,
+        "links-top-2": true,
+        "description": "<p>D&eacute;pensez [FP] pour d&eacute;sorienter la cible pendant un nombre de rounds &eacute;gal au nombre d'am&eacute;liorations de Puissance acquises.</p>"
+      },
+      "upgrade11": {
+        "islearned": false,
+        "name": "",
+        "size": "single",
+        "visible": false,
+        "cost": "",
+        "links-top-1": false,
+        "links-right": false
+      },
+      "upgrade12": {
+        "islearned": false,
+        "name": "Portée",
+        "size": "single",
+        "visible": true,
+        "cost": "20",
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>D&eacute;pensez [FP] pour augmenter la port&eacute;e du pouvoir d'autant de niveaux de port&eacute;e que le nombre d'am&eacute;liorations de Port&eacute;e acquises.</p>"
+      },
+      "upgrade13": {
+        "islearned": false,
+        "name": "Maîtrise",
+        "size": "triple",
+        "visible": true,
+        "cost": "25",
+        "links-top-1": true,
+        "links-right": false,
+        "links-top-2": false,
+        "links-top-3": true,
+        "description": "<p>Lorsque vous effectuez un test de pouvoir de Saisie, si le test n'&eacute;tait pas d&eacute;j&agrave; oppos&eacute;, vous pouvez y adjoindre un <strong>test oppos&eacute; de Sang-froid contre Sang-froid</strong> contre l'une des cibles du pouvoir. Si le test est r&eacute;ussi et qu'aucun [DA] n'a &eacute;t&eacute; utilis&eacute; pour g&eacute;n&eacute;rer [FP], vous &eacute;tourdissez la cible jusqu'&agrave; la fin de son prochain tour. Si le test est un succ&egrave;s et que vous avez utilis&eacute; [DA] pour g&eacute;n&eacute;rer des [FP], la cible souffre imm&eacute;diatement d'une Blessure critique avec un +10 au jet par [FP] d&eacute;pens&eacute; lors du test de pouvoir.</p>"
+      },
+      "upgrade14": {
+        "islearned": false,
+        "name": "",
+        "size": "single",
+        "visible": false,
+        "cost": "",
+        "links-top-1": false,
+        "links-right": false
+      },
+      "upgrade15": {
+        "islearned": false,
+        "name": "",
+        "size": "single",
+        "visible": false,
+        "cost": "",
+        "links-top-1": false,
+        "links-right": false
+      }
+    },
+    "required_force_rating": "2",
+    "base_cost": "15",
+    "collection": {
+      "upgrade0": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade1": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade2": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade3": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "upgrade4": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade5": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade6": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade7": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "upgrade8": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade9": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade10": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade11": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "upgrade12": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade13": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade14": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "upgrade15": {
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767367909815,
+    "modifiedTime": 1767368817857,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!tCLpJnQODKT7zZ9b"
+}
