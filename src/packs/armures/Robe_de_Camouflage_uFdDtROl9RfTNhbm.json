@@ -1,0 +1,98 @@
+{
+  "name": "Robe de Camouflage",
+  "type": "armour",
+  "_id": "uFdDtROl9RfTNhbm",
+  "img": "modules/star-wars-compendium-fr/packs/armures/images/concealing_robes.png",
+  "system": {
+    "description": "<p>Les anciens Chevaliers Jedi appr&eacute;cialent les robes de camouflage, car elles garantissaient leur anonymat. Aujourd'hui, les utilisateurs de la Force continuent &agrave; en porter pour &eacute;viter d'attirer l'attention. Elles existent dans diff&eacute;rentes coupes et mat&eacute;riaux, mais toutes descendent jusqu'au sol et comportent une capuche afin de dissimuler la silhouette et le visage du porteur dans les ombres et les replis de tissu.</p>\n<p>Une telle robe inflige [SE] aux tests effectu&eacute;s par un individu qui essaie de remarquer ou de reconna&icirc;tre son porteur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.179"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 1
+    },
+    "price": {
+      "value": 150,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "defence": {
+      "value": 0,
+      "type": "Number",
+      "label": "Defence",
+      "abrev": "Def",
+      "adjusted": 0
+    },
+    "soak": {
+      "value": 1,
+      "type": "Number",
+      "label": "Soak",
+      "adjusted": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747759240099,
+    "modifiedTime": 1747759391874,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!uFdDtROl9RfTNhbm"
+}

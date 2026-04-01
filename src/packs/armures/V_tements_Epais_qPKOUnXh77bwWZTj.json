@@ -1,0 +1,98 @@
+{
+  "name": "Vêtements Epais",
+  "type": "armour",
+  "_id": "qPKOUnXh77bwWZTj",
+  "img": "modules/star-wars-compendium-fr/packs/armures/images/heavy_clothing.png",
+  "system": {
+    "description": "<p>Les v&ecirc;tements &eacute;pais, comme leur nom l'indique, sont des v&ecirc;tements solides, fabriqu&eacute;s avec soin et pr&eacute;vus pour supporter les rigueurs de la vie &agrave; travers la galaxie.&nbsp;Bien qu'une veste &eacute;paisse, une combinaison de m&eacute;canicien renforc&eacute;e ou une cape de laine n'offrent pas beaucoup de protection contre un blaster, c'est certainement mieux que rien.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Tenue de travail . Hard Wear &raquo; d'Ayelixe Fabrico, Tenue d'aventurier &laquo; Tough Suit &raquo; des v&ecirc;tements sp&eacute;cialis&eacute;s Kamperdine</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.179"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 1
+    },
+    "price": {
+      "value": 50,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "defence": {
+      "value": 0,
+      "type": "Number",
+      "label": "Defence",
+      "abrev": "Def",
+      "adjusted": 0
+    },
+    "soak": {
+      "value": 1,
+      "type": "Number",
+      "label": "Soak",
+      "adjusted": 1
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747759412073,
+    "modifiedTime": 1747759513847,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!qPKOUnXh77bwWZTj"
+}

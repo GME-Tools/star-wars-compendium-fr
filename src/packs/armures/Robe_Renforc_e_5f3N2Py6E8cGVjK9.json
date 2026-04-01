@@ -1,0 +1,98 @@
+{
+  "name": "Robe Renforcée",
+  "type": "armour",
+  "_id": "5f3N2Py6E8cGVjK9",
+  "img": "modules/star-wars-compendium-fr/packs/armures/images/armored_robes.png",
+  "system": {
+    "description": "<p>Parfois port&eacute;es au combat par les Jedi durant la Guerre des Clones, les robes renforc&eacute;es procurent une impressionnante protection, comparable &agrave; celle offerte par une armure de combat lourde. Cependant, elles sont particuli&egrave;rement reconnaissables et il vaut mieux &eacute;viter d'en exhiber une dans l'espace imprial, o&ugrave; leur possession est prohib&eacute;e. Solides et robustes, on les passe g&eacute;n&eacute;ralement par-dessus une tunique et un pantalon Jedi classique, eux-m&ecirc;mes renforc&eacute;s au moyen de plaques de plastacier.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.179"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 5,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 5
+    },
+    "price": {
+      "value": 4500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 8,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 2,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "defence": {
+      "value": 1,
+      "type": "Number",
+      "label": "Defence",
+      "abrev": "Def",
+      "adjusted": 1
+    },
+    "soak": {
+      "value": 2,
+      "type": "Number",
+      "label": "Soak",
+      "adjusted": 2
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747759173770,
+    "modifiedTime": 1747759223847,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!5f3N2Py6E8cGVjK9"
+}
