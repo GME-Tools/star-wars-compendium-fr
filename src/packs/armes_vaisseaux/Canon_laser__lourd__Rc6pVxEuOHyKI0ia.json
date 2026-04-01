@@ -1,0 +1,121 @@
+{
+  "name": "Canon laser (lourd)",
+  "type": "shipweapon",
+  "_id": "Rc6pVxEuOHyKI0ia",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 6,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 6
+    },
+    "crit": {
+      "value": 3,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 3
+    },
+    "range": {
+      "value": "Short",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Short"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Gunnery"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766086608574,
+    "modifiedTime": 1766086626038,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Rc6pVxEuOHyKI0ia"
+}

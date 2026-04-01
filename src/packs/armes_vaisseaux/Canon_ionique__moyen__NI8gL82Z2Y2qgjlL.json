@@ -1,0 +1,168 @@
+{
+  "name": "Canon ionique (moyen)",
+  "type": "shipweapon",
+  "_id": "NI8gL82Z2Y2qgjlL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les armes de cette cat&eacute;gorie servent &agrave; paralyser les vaisseaux et les v&eacute;hicules plut&ocirc;t qu&rsquo;&agrave; les d&eacute;truire. Elles emploient des turbines ioniques pour g&eacute;n&eacute;rer des masses de particules n&eacute;gatives, qui sont ensuite combin&eacute;es &agrave; du plasma et lib&eacute;r&eacute;es sous la forme d&rsquo;une d&eacute;charge ou d&rsquo;une impulsion. Les ions perturbent les composants &eacute;lectroniques de la cible, induisent des courts-circuits, corrompent les ordinateurs et forcent les syst&egrave;mes &agrave; l&rsquo;arr&ecirc;t, ce qui permet de la ma&icirc;triser ou de la d&eacute;truire plus facilement &agrave; l&rsquo;aide d&rsquo;armes conventionnelles. Bien que ces armes soient con&ccedil;ues pour causer le moins de dommages structurels possible, elles provoquent n&eacute;anmoins de violentes surtensions qui peuvent infliger des d&eacute;g&acirc;ts secondaires sous la forme de circuits grill&eacute;s, de joints soud&eacute;s ou de d&eacute;parts de feu.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Ionique",
+        "type": "itemmodifier",
+        "_id": "cAzpA9spYSeXHEMf",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747548436878,
+          "modifiedTime": 1747548487057,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "VEVUo8QiCGQX5hFD"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 6,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 6
+    },
+    "crit": {
+      "value": 4,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 4
+    },
+    "range": {
+      "value": "Short",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Short"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Gunnery"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766086227090,
+    "modifiedTime": 1766086255432,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!NI8gL82Z2Y2qgjlL"
+}

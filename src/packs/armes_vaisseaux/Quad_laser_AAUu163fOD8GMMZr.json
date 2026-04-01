@@ -1,0 +1,223 @@
+{
+  "name": "Quad-laser",
+  "type": "shipweapon",
+  "_id": "AAUu163fOD8GMMZr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le quad-laser est une arme sp&eacute;cialement con&ccedil;ue pour lutter contre les chasseurs. Il se compose de quatre canons laser de petit calibre, qui sont actionn&eacute;s au moyen d&rsquo;un seul m&eacute;canisme de mise &agrave; feu et contr&ocirc;l&eacute;s par un ordinateur de vis&eacute;e sophistiqu&eacute;. Chaque pression sur la g&acirc;chette d&eacute;clenche quatre tirs, dont la puissance est suffisamment importante pour d&eacute;truire les chasseurs et les patrouilleurs les plus robustes.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Jumelé",
+        "type": "itemmodifier",
+        "_id": "zdGQ5m2mD8K6Y04A",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Certaines armes, comme celles qui sont montées sur les X-wing, sont conçues pour tirer de concert sur une même cible. En pratique, cela augmente les chances de toucher et le montant de dégâts infligés. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups supplémentaires en dépensant deux avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span> par tir additionnel. Le nombre de coups maximal est égal au niveau d'attribut de l'arme. Les coups supplémentaires des armes jumelées ne peuvent frapper que la cible initiale. Ils infligent tous les dégats de base de l'arme modifiée en y ajoutant le nombre de succès <span class=\"dietype starwars success\">s</span> obtenus au test.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747548500271,
+          "modifiedTime": 1747641671025,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "fIV08SsWT1TnkNCL"
+      },
+      {
+        "name": "Précis",
+        "type": "itemmodifier",
+        "_id": "u6nACQgFuMjoVPuV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Du fait de leur conception et de leur technologie avanc&eacute;e, les armes pr&eacute;cises sont faciles &agrave; manier et am&eacute;liorent la vis&eacute;e. Les personnages qui les utilisent ajoutent un d&eacute; de fortune [BO] &agrave; leur jet d'attaque par niveau d'attribut.</p>",
+          "attributes": {
+            "attr1747549369097": {
+              "modtype": "Roll Modifiers",
+              "value": 1,
+              "mod": "Add Boost"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1,
+          "rank_current": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549347446,
+          "modifiedTime": 1747549390978,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "yo6kmdABGhAvG5dq"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 5,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 5
+    },
+    "crit": {
+      "value": 3,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 3
+    },
+    "range": {
+      "value": "Close",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Close"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Gunnery"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766086678629,
+    "modifiedTime": 1766086721280,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!AAUu163fOD8GMMZr"
+}

@@ -1,0 +1,264 @@
+{
+  "name": "Canon Ionique (navire de guerre)",
+  "type": "shipweapon",
+  "_id": "Y668klGRCs0F5ymL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les armes de cette cat&eacute;gorie servent &agrave; paralyser les vaisseaux et les v&eacute;hicules plut&ocirc;t qu&rsquo;&agrave; les d&eacute;truire. Elles emploient des turbines ioniques pour g&eacute;n&eacute;rer des masses de particules n&eacute;gatives, qui sont ensuite combin&eacute;es &agrave; du plasma et lib&eacute;r&eacute;es sous la forme d&rsquo;une d&eacute;charge ou d&rsquo;une impulsion. Les ions perturbent les composants &eacute;lectroniques de la cible, induisent des courts-circuits, corrompent les ordinateurs et forcent les syst&egrave;mes &agrave; l&rsquo;arr&ecirc;t, ce qui permet de la ma&icirc;triser ou de la d&eacute;truire plus facilement &agrave; l&rsquo;aide d&rsquo;armes conventionnelles. Bien que ces armes soient con&ccedil;ues pour causer le moins de dommages structurels possible, elles provoquent n&eacute;anmoins de violentes surtensions qui peuvent infliger des d&eacute;g&acirc;ts secondaires sous la forme de circuits grill&eacute;s, de joints soud&eacute;s ou de d&eacute;parts de feu.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Brèche",
+        "type": "itemmodifier",
+        "_id": "JFyZPdNrXSG7x2vV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544853824,
+          "modifiedTime": 1747544910802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "fgDewyW4PnWSxICy"
+      },
+      {
+        "name": "Cadence Lente",
+        "type": "itemmodifier",
+        "_id": "0XhIS7TR7xdt5Qwy",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de défense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou être rechargées entre chaque tir. C'est ce laps de temps en rounds que détermine l'attribut Cadence Lente. Par exemple, après avoir attaqué avec un turboblaster doté de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747545048625,
+          "modifiedTime": 1747545133447,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "Q9zQOrBzryzWdVa4"
+      },
+      {
+        "name": "Ionique",
+        "type": "itemmodifier",
+        "_id": "cAzpA9spYSeXHEMf",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747548436878,
+          "modifiedTime": 1747548487057,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "LDh0OrIk0AB87Um4"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 9,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 9
+    },
+    "crit": {
+      "value": 4,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 4
+    },
+    "range": {
+      "value": "Medium",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Medium"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Astrogation"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766086320984,
+    "modifiedTime": 1766086363710,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Y668klGRCs0F5ymL"
+}

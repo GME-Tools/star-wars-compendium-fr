@@ -1,0 +1,218 @@
+{
+  "name": "Turbolaser (lourd)",
+  "type": "shipweapon",
+  "_id": "TJBYZuQn75i47v8H",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ces immenses armes de gros calibre, incroyablement gourmandes en &eacute;nergie, sont les plus imposantes dont un vaisseau puisse &ecirc;tre dot&eacute;. Les turbolasers peuvent transpercer d&rsquo;un coup les boucliers, le blindage et la coque d&rsquo;un appareil : les variantes l&eacute;g&egrave;res suffisent &agrave; d&eacute;truire les petits vaisseaux, tandis que les plus lourdes peuvent mettre &agrave; mal les d&eacute;fenses des croiseurs les plus imposants. Ces armes ne sont cependant pas sans inconv&eacute;nient : elles consomment notamment des quantit&eacute;s ph&eacute;nom&eacute;nales d&rsquo;&eacute;nergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal &agrave; suivre et &agrave; atteindre les petites cibles rapides comme les chasseurs.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Brèche",
+        "type": "itemmodifier",
+        "_id": "JFyZPdNrXSG7x2vV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 4,
+          "rank_current": 4,
+          "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544853824,
+          "modifiedTime": 1747544910802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "oaBu3uFLRyxjUWeO"
+      },
+      {
+        "name": "Cadence Lente",
+        "type": "itemmodifier",
+        "_id": "0XhIS7TR7xdt5Qwy",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de défense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou être rechargées entre chaque tir. C'est ce laps de temps en rounds que détermine l'attribut Cadence Lente. Par exemple, après avoir attaqué avec un turboblaster doté de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747545048625,
+          "modifiedTime": 1747545133447,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "ikyVe600Y5TgAJRM"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 11,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 11
+    },
+    "crit": {
+      "value": 3,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 3
+    },
+    "range": {
+      "value": "Long",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Long"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Gunnery"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766086893849,
+    "modifiedTime": 1766086923260,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!TJBYZuQn75i47v8H"
+}
