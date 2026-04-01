@@ -114,6 +114,7 @@
   font-family: 'ITCSymbolStd';
   font-weight: 400;
   font-style: italic;
+  margin-bottom: 50px;
 }
 
 /* Side blocks */
@@ -608,4 +609,13 @@ h4 .despair {
   position: absolute;
   bottom: 30%;
   left: 18%;
+}
+
+/* Specific : Tweaks for beginner kit images */
+.journal-page-content .image-with-margin {
+  margin-top: 30px;
+}
+
+.journal-page-content .image-with-bottom-margin {
+  margin-bottom: 30px;
 }

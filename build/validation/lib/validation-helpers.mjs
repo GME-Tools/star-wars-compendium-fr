@@ -13,7 +13,41 @@ export const FORBIDDEN_ATTRIBUTE_KEY_RE = /^attr\d+$/;
 export const IMAGE_BASENAME_RE = /^[a-z0-9_]+\.png$/;
 export const INLINE_STYLE_RE = /\sstyle\s*=/i;
 export const DIR_ATTR_RE = /\sdir\s*=/i;
-export const EMPTY_PARAGRAPH_RE = /<p\b[^>]*>(?:\s|&nbsp;|<br\s*\/?>)*<\/p>/i;
+export const EMPTY_PARAGRAPH_RE = /<p\b[^>]*>(?:\s|&nbsp;|<br\s*\/?>)*<\/p>/gi;
+export const EMPTY_P_IN_TD_RE = /<td[^>]*>\s*<p>\s*<\/p>\s*<\/td>/gi;
+export const UUID_TAG_RE = /@UUID\[([^[\]]+)\](?:\{([^}]*)\})?/g;
+export const SRC_ATTR_RE = /\ssrc\s*=\s*"([^"]+)"/gi;
+export const HEADING_RE = /<h([1-6])\b([^>]*)>([\s\S]*?)<\/h\1>/gi;
+export const ID_ATTR_RE = /\sid\s*=\s*"([^"]+)"/i;
+
+const SYMBOL_MAP = {
+  "[TR]": "x",
+  "[DE]": "y",
+  "[AD]": "a",
+  "[TH]": "t"
+};
+
+export const ALL_CAPS_ALLOWED_LINES = new Set([
+  "41-VEX",
+  "TCL-TT"
+]);
+
+export const IGNORED_PACKS_FOR_UUID = new Set([
+  "pnj",
+  "armes",
+  "ameliorations_armes",
+  "vaisseaux",
+  "armes_vaisseaux",
+  "qualites",
+  "especes",
+  "historiques",
+  "pouvoirs-de-force",
+  "equipement",
+  "obligations",
+  "armures",
+  "critiques",
+  "degats_critiques"
+]);
 
 const htmlvalidate = new HtmlValidate({
   extends: ["html-validate:recommended"],
@@ -346,14 +380,20 @@ export function stripHtml(html) {
     .trim();
 }
 
+function stripBracketCodes(text) {
+  return text.replace(/\[[^\]]*\]/g, "");
+}
+
 export function looksLikeAllCapsLine(line) {
   if (typeof line !== "string") return false;
 
-  const trimmed = line.trim();
+  const cleaned = stripBracketCodes(line);
+  const trimmed = cleaned.trim();
   if (!trimmed) return false;
 
   // Ignore les lignes trop courtes
-  if (trimmed.length < 4) return false;
+  //if (trimmed.length < 4) return false;
+  if (ALL_CAPS_ALLOWED_LINES.has(trimmed)) return false;
 
   // Garde seulement les lettres latines accentuées de base pour l'analyse
   const letters = trimmed.match(/[A-Za-zÀ-ÖØ-öø-ÿ]/g);
@@ -370,7 +410,13 @@ export function looksLikeAllCapsLine(line) {
   return joined === upper;
 }
 
+export function shouldCheckAllCaps() {
+  return process.argv.includes("--check-all-caps");
+}
+
 export function warnOnAllCapsTextLines(html, fieldPath, filePath, warn) {
+  if (!shouldCheckAllCaps()) return;
+
   if (typeof html !== "string" || html.trim().length === 0) return;
 
   const text = stripHtml(html);
@@ -457,8 +503,7 @@ export async function validateCommonHtmlTextField({
   fail,
   warn
 }) {
-  const isOk = validateHtmlField(value, fieldPath, filePath, fail);
-  if (!isOk) return;
+  validateHtmlField(value, fieldPath, filePath, fail);
   await validateHtmlSyntax(value, fieldPath, filePath, fail);
   warnOnAllCapsTextLines(value, fieldPath, filePath, warn);
 }
@@ -468,7 +513,24 @@ export function hasDirAttribute(value) {
 }
 
 export function hasEmptyParagraph(value) {
-  return typeof value === "string" && EMPTY_PARAGRAPH_RE.test(value);
+  if (typeof value !== "string") return false;
+
+  const allowed = new Set();
+  for (const match of value.matchAll(EMPTY_P_IN_TD_RE)) {
+    const inner = match[0];
+    const pMatch = inner.match(/<p>\s*<\/p>/i);
+    if (pMatch) {
+      allowed.add(pMatch.index + match.index);
+    }
+  }
+
+  for (const match of value.matchAll(EMPTY_PARAGRAPH_RE)) {
+    const globalIndex = match.index;
+    if (allowed.has(globalIndex)) continue;
+    return true;
+  }
+
+  return false;
 }
 
 export function warnOnDirAttribute(value, fieldPath, filePath, warn) {
@@ -480,5 +542,279 @@ export function warnOnDirAttribute(value, fieldPath, filePath, warn) {
 export function warnOnEmptyParagraphs(value, fieldPath, filePath, warn) {
   if (hasEmptyParagraph(value)) {
     warn(`${filePath}: ${fieldPath} contient au moins un paragraphe vide`);
+  }
+}
+
+export function decodeHtmlEntities(text) {
+  return String(text ?? "")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'");
+}
+
+function replaceGameSymbols(text) {
+  if (!text) return text;
+  let result = text;
+  for (const [symbol, replacement] of Object.entries(SYMBOL_MAP)) {
+    const re = new RegExp(symbol.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "g");
+    result = result.replace(re, replacement);
+  }
+  return result;
+}
+
+export function slugifyHeadingAnchor(text) {
+  return replaceGameSymbols(
+    decodeHtmlEntities(stripHtml(text))
+  )
+    .replace(/œ/g, "oe")
+    .replace(/Œ/g, "oe")
+    .replace(/æ/g, "ae")
+    .replace(/Æ/g, "ae")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[’'`]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+export function extractHeadingAnchorsFromHtml(html) {
+  const anchors = new Set();
+  const counts = new Map();
+
+  if (typeof html !== "string" || !html.trim()) return anchors;
+
+  for (const match of html.matchAll(HEADING_RE)) {
+    const attrs = match[2] ?? "";
+    const innerHtml = match[3] ?? "";
+
+    const explicitId = attrs.match(ID_ATTR_RE)?.[1];
+    if (explicitId) {
+      anchors.add(explicitId);
+      continue;
+    }
+
+    const base = slugifyHeadingAnchor(innerHtml);
+    if (!base) continue;
+
+    const count = counts.get(base) ?? 0;
+    if (count === 0) {
+      anchors.add(base);
+    }
+    else {
+      anchors.add(`${base}$${count}`);
+    }
+
+    counts.set(base, count + 1);
+  }
+
+  return anchors;
+}
+
+export function extractUuidReferences(html) {
+  const refs = [];
+  if (typeof html !== "string" || !html.trim()) return refs;
+
+  for (const match of html.matchAll(UUID_TAG_RE)) {
+    const rawTarget = match[1];
+    const label = match[2] ?? null;
+
+    const [targetWithoutAnchor, anchor] = rawTarget.split("#");
+    refs.push({
+      raw: match[0],
+      target: rawTarget,
+      targetWithoutAnchor,
+      anchor: anchor ?? null,
+      label
+    });
+  }
+
+  return refs;
+}
+
+export function extractHtmlSrcs(html) {
+  const srcs = [];
+  if (typeof html !== "string" || !html.trim()) return srcs;
+
+  for (const match of html.matchAll(SRC_ATTR_RE)) {
+    srcs.push(match[1]);
+  }
+
+  return srcs;
+}
+
+export function buildModuleReferenceIndex({ packsDir, moduleId, fail }) {
+  const index = {
+    exactTargets: new Set(),
+    pageAnchorsByPageId: new Map(),
+    journalByPageId: new Map(),
+    journalNamesById: new Map()
+  };
+
+  if (!fs.existsSync(packsDir)) {
+    fail?.(`Répertoire des packs introuvable: ${packsDir}`);
+    return index;
+  }
+
+  const packDirs = fs.readdirSync(packsDir, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => entry.name)
+    .sort();
+
+  for (const packName of packDirs) {
+    const packPath = path.join(packsDir, packName);
+    const files = fs.readdirSync(packPath)
+      .filter((file) => file.endsWith(".json"))
+      .sort();
+
+    for (const file of files) {
+      const absolutePath = path.join(packPath, file);
+      let doc;
+      try {
+        doc = JSON.parse(fs.readFileSync(absolutePath, "utf8"));
+      } catch {
+        continue;
+      }
+
+      if (!doc || typeof doc !== "object") continue;
+
+      // Folders ignorés
+      if (typeof doc._key === "string" && doc._key.startsWith("!folders!")) {
+        continue;
+      }
+
+      // JournalEntry
+      if (Array.isArray(doc.pages)) {
+        if (typeof doc._id === "string") {
+          index.exactTargets.add(
+            `Compendium.${moduleId}.${packName}.JournalEntry.${doc._id}`
+          );
+          index.journalNamesById.set(doc._id, doc.name ?? doc._id);
+        }
+
+        for (const page of doc.pages) {
+          if (!page || typeof page !== "object") continue;
+          if (typeof page._id !== "string") continue;
+
+          index.exactTargets.add(
+            `Compendium.${moduleId}.${packName}.JournalEntry.${doc._id}.JournalEntryPage.${page._id}`
+          );
+
+          index.journalByPageId.set(page._id, {
+            journalId: doc._id,
+            journalName: doc.name ?? doc._id,
+            packName
+          });
+
+          if (page.type === "text" && typeof page?.text?.content === "string") {
+            index.pageAnchorsByPageId.set(
+              page._id,
+              extractHeadingAnchorsFromHtml(page.text.content)
+            );
+          } else {
+            index.pageAnchorsByPageId.set(page._id, new Set());
+          }
+        }
+
+        continue;
+      }
+
+      // Items
+      if (typeof doc._id === "string") {
+        index.exactTargets.add(
+          `Compendium.${moduleId}.${packName}.Item.${doc._id}`
+        );
+      }
+    }
+  }
+
+  return index;
+}
+
+function isRelativePageUuid(targetWithoutAnchor) {
+  return /^\.[A-Za-z0-9]+$/.test(targetWithoutAnchor);
+}
+
+function isCompendiumUuid(targetWithoutAnchor) {
+  return /^Compendium\.[^.]+\.[^.]+\.[A-Za-z]+\.[A-Za-z0-9]+(?:\.[A-Za-z]+\.[A-Za-z0-9]+)?$/.test(
+    targetWithoutAnchor
+  );
+}
+
+export function validateHtmlReferences(html, fieldPath, filePath, fail, context = {}) {
+  if (typeof html !== "string" || !html.trim()) return;
+
+  const {
+    moduleId = MODULE_ID,
+    rootDir = ROOT,
+    referenceIndex = null,
+    currentDocument = null
+  } = context;
+
+  // @UUID
+  for (const ref of extractUuidReferences(html)) {
+    const { targetWithoutAnchor, anchor, raw } = ref;
+
+    let resolvedTarget = targetWithoutAnchor;
+    let anchorSet = null;
+
+    if (isRelativePageUuid(targetWithoutAnchor)) {
+      const pageId = targetWithoutAnchor.slice(1);
+
+      if (!referenceIndex?.journalByPageId?.has(pageId)) {
+        fail(`${filePath}: ${fieldPath} contient un @UUID relatif vers une page inconnue (${raw})`);
+        continue;
+      }
+
+      anchorSet = referenceIndex.pageAnchorsByPageId.get(pageId) ?? new Set();
+    } else if (isCompendiumUuid(targetWithoutAnchor)) {
+      if (!referenceIndex?.exactTargets?.has(targetWithoutAnchor)) {
+        const packMatch = targetWithoutAnchor.match(/^Compendium\.[^.]+\.([^.]+)\./);
+        const packName = packMatch?.[1];
+        if (IGNORED_PACKS_FOR_UUID.has(packName)) {
+          return; // skip silencieux
+        }
+        fail(`${filePath}: ${fieldPath} contient un @UUID vers une cible inexistante (${raw})`);
+        continue;
+      }
+
+      const pageMatch = targetWithoutAnchor.match(/\.JournalEntryPage\.([A-Za-z0-9]+)$/);
+      if (pageMatch) {
+        const pageId = pageMatch[1];
+        anchorSet = referenceIndex.pageAnchorsByPageId.get(pageId) ?? new Set();
+      }
+    } else {
+      fail(`${filePath}: ${fieldPath} contient un @UUID de syntaxe invalide (${raw})`);
+      continue;
+    }
+
+    if (anchor) {
+      if (!anchorSet || !anchorSet.has(anchor)) {
+        fail(`${filePath}: ${fieldPath} contient un @UUID avec ancre introuvable "${anchor}" (${raw})`);
+      }
+    }
+  }
+
+  // src
+  for (const src of extractHtmlSrcs(html)) {
+    if (src.startsWith(`modules/${moduleId}/`)) {
+      const relativeModulePath = src.slice(`modules/${moduleId}/`.length);
+      const absolutePath = path.join(rootDir, relativeModulePath);
+
+      if (!fs.existsSync(absolutePath)) {
+        fail(`${filePath}: ${fieldPath} contient un src introuvable (${src})`);
+      }
+      continue;
+    }
+
+    if (src.startsWith("icons/") || src.startsWith("systems/") || src.startsWith("data:") || src.startsWith("http://") || src.startsWith("https://")) {
+      continue;
+    }
+
+    fail(`${filePath}: ${fieldPath} contient un src non supporté (${src})`);
   }
 }

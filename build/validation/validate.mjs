@@ -2,7 +2,8 @@ import { spawnSync } from "node:child_process";
 
 const steps = [
   { name: "carrières", script: "build/validation/careers.mjs" },
-  { name: "talents", script: "build/validation/talents.mjs" }
+  { name: "talents", script: "build/validation/talents.mjs" },
+  { name: "livres", script: "build/validation/livres.mjs" },
 ];
 
 let hasError = false;

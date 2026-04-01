@@ -11,7 +11,8 @@ import {
   warnOnAllCapsTextLines,
   warnOnDirAttribute,
   warnOnEmptyParagraphs,
-  isNonEmptyArray
+  isNonEmptyArray,
+  validateHtmlReferences
 } from "./validation-helpers.mjs";
 
 // Validation of base properties shared by all documents
@@ -46,12 +47,17 @@ export async function validateCommonHtmlTextField({
   fieldPath,
   filePath,
   fail,
-  warn
+  warn,
+  referenceContext = null
 }) {
-  const isOk = validateHtmlField(value, fieldPath, filePath, fail);
-  if (!isOk) return;
+  validateHtmlField(value, fieldPath, filePath, fail);
   await validateHtmlSyntax(value, fieldPath, filePath, fail);
+  warnOnDirAttribute(value, fieldPath, filePath, warn);
+  warnOnEmptyParagraphs(value, fieldPath, filePath, warn);
   warnOnAllCapsTextLines(value, fieldPath, filePath, warn);
+  if (referenceContext) {
+    validateHtmlReferences(value, fieldPath, filePath, fail, referenceContext);
+  }
 }
 
 // Validate that the sources array is valid
@@ -293,20 +299,8 @@ export function validateJournalEntryDocumentBasic({
   return true;
 }
 
-// Validate a journal page HTML content
-export async function validateJournalPageHtml(page, pageLabel, fail, warn) {
-  const value = page?.text?.content;
-  const fieldPath = "text.content";
-
-  validateHtmlField(value, fieldPath, pageLabel, fail);
-  await validateHtmlSyntax(value, fieldPath, pageLabel, fail);
-  warnOnAllCapsTextLines(value, fieldPath, pageLabel, warn);
-  warnOnDirAttribute(value, fieldPath, pageLabel, warn);
-  warnOnEmptyParagraphs(value, fieldPath, pageLabel, warn);
-}
-
 // Validate all pages of a JournalEntry
-export async function validateJournalEntryPagesHtml(doc, filePath, fail, warn) {
+export async function validateJournalEntryPagesHtml(doc, filePath, fail, warn, referenceContext=null) {
   const pages = doc?.pages;
 
   if (!isNonEmptyArray(pages)) {
@@ -319,6 +313,8 @@ export async function validateJournalEntryPagesHtml(doc, filePath, fail, warn) {
     if (!isPlainObject(page)) continue;
     if (page.type !== "text") continue;
 
-    await validateJournalPageHtml(page, pageLabel, fail, warn);
+    const value = page?.text?.content;
+    const fieldPath = "text.content";
+    await validateCommonHtmlTextField({value, fieldPath, filePath:pageLabel, fail, warn, referenceContext});
   }
 }

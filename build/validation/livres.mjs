@@ -1,8 +1,10 @@
 import path from "node:path";
 import {
   ROOT,
+  MODULE_ID,
   loadJson,
-  listJsonFiles
+  listJsonFiles,
+  buildModuleReferenceIndex
 } from "./lib/validation-helpers.mjs";
 import { runValidationSuite } from "./lib/validation-core.mjs";
 import {
@@ -57,7 +59,12 @@ function requiresBookThumbnail(doc) {
   return true;
 }
 
+const PACKS_DIR = path.join(ROOT, "src", "packs");
 const folderNamesById = buildBooksFolderIndex(BOOKS_DIR);
+const referenceIndex = buildModuleReferenceIndex({
+  packsDir: PACKS_DIR,
+  moduleId: MODULE_ID
+});
 
 await runValidationSuite({
   label: "des livres",
@@ -87,7 +94,14 @@ await runValidationSuite({
       if (!ok) return;
 
       validateJournalEntryPagesBasic(doc, filePath, fail);
-      await validateJournalEntryPagesHtml(doc, filePath, fail, warn);
+
+      const referenceContext = {
+        moduleId: MODULE_ID,
+        rootDir: ROOT,
+        referenceIndex,
+        currentDocument: doc
+      };
+      await validateJournalEntryPagesHtml(doc, filePath, fail, warn, referenceContext);
 
       if (requiresBookThumbnail(doc)) {
         validatePngImageField({
