@@ -1,0 +1,237 @@
+{
+  "folder": "IuYhYcoMWWLNDzAQ",
+  "name": "Camion speeder léger Dray A-A3",
+  "type": "vehicle",
+  "_id": "7C5AkQGSRkMq5gkq",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/dray-a-a3.png",
+  "system": {
+    "biography": "<p data-start=\"1985\" data-end=\"2666\">Plus petit et plus l&eacute;ger que le camion speeder lourd A-A5, l&rsquo;A-A3 Dray de Trast Heavy Transports se retrouve dans toute la galaxie. Vendu en priorit&eacute; aux artisans et aux transporteurs, cet utilitaire l&eacute;ger poss&egrave;de une cabine ferm&eacute;e capable d&rsquo;abriter trois personnes en file indienne, ainsi qu&rsquo;un long plateau ouvert pour le transport de marchandises ou de passagers. De nombreux accessoires sont disponibles, comme des b&acirc;ches ou des plaques de couverture pour le plateau, des syst&egrave;mes de manutention de la cargaison et des renforts de structure. Aussi facile &agrave; r&eacute;parer qu&rsquo;&agrave; modifier, le Dray est une b&ecirc;te de labour fiable&hellip; ainsi qu&rsquo;un v&eacute;hicule d&rsquo;exploration ou de balade populaire.</p>\n<p data-start=\"2668\" data-end=\"2999\"><strong>Type de v&eacute;hicule/Mod&egrave;le</strong> : camion speeder/A-A3<br data-start=\"2713\" data-end=\"2716\"><strong>Constructeur</strong> : Trast Heavy Transports<br data-start=\"2784\" data-end=\"2787\"><strong>&Eacute;quipage</strong> : un pilote<br data-start=\"2807\" data-end=\"2810\"><strong>Charge utile</strong> : 135 (sans passagers sur le plateau)<br data-start=\"2860\" data-end=\"2863\"><strong>Passagers</strong> : 2 dans la cabine, jusqu&rsquo;&agrave; 8 sur le plateau<br data-start=\"2917\" data-end=\"2920\"><strong>Co&ucirc;t/raret&eacute;</strong> : 7 000 cr&eacute;dits/2</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 3,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 1,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": 0,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 8,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 8,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 0,
+        "port": null,
+        "starboard": null,
+        "aft": 0,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 0,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Close",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 2,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 135,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 3,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": null,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": null,
+        "duration": "",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": false,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": false,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/AA3DRAY.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.255"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Camion speeder léger Dray A-A3",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767032210745,
+    "modifiedTime": 1767035754334,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!7C5AkQGSRkMq5gkq"
+}

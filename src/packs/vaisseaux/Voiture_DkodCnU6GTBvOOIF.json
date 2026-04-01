@@ -1,0 +1,237 @@
+{
+  "folder": "UHoF70YoN6BiKJOU",
+  "name": "Voiture",
+  "type": "vehicle",
+  "_id": "DkodCnU6GTBvOOIF",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/ImperialGroundVehicle.JPG.jpg",
+  "system": {
+    "biography": "<p data-start=\"1715\" data-end=\"2043\" data-pm-slice=\"1 1 []\">Elles ont beau &ecirc;tre primitives, les voitures sont omnipr&eacute;sentes sur les mondes pauvres ou r&eacute;cemment colonis&eacute;s. Au lieu d&rsquo;avoir recours &agrave; des r&eacute;pulseurs ou m&ecirc;me &agrave; des chenilles, elles se contentent de quatre roues motrices. Lentes et facilement handicap&eacute;es par le terrain, elles sont cependant bon march&eacute; et faciles &agrave; entretenir.</p>\n<p data-start=\"2045\" data-end=\"2281\"><strong>Type de v&eacute;hicule/Mod&egrave;le</strong> : voiture/divers<br data-start=\"2085\" data-end=\"2088\"><strong>Constructeur</strong> : divers<br data-start=\"2140\" data-end=\"2143\"><strong>&Eacute;quipage</strong> : un pilote<br data-start=\"2199\" data-end=\"2202\"><strong>Co&ucirc;t/raret&eacute;</strong> : 1 500 cr&eacute;dits/2</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 2,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 2,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -1,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 5,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 3,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 0,
+        "port": null,
+        "starboard": null,
+        "aft": 0,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 0,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "None",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 3,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 20,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 2,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": null,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": null,
+        "duration": "",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": false,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": false,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/GROUNDCAR.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.256"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Voiture",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767079134017,
+    "modifiedTime": 1767105538990,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!DkodCnU6GTBvOOIF"
+}

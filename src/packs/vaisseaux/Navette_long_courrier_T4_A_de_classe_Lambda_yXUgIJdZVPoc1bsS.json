@@ -1,0 +1,958 @@
+{
+  "folder": "5XOJhRQvqGcZeVrf",
+  "name": "Navette long-courrier T4-A de classe Lambda",
+  "type": "vehicle",
+  "_id": "yXUgIJdZVPoc1bsS",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/LambdaShuttle-Fathead.webp",
+  "system": {
+    "biography": "<p data-start=\"12195\" data-end=\"13072\" data-pm-slice=\"1 1 []\">Produites par les Syst&egrave;mes de Flotte Sienar et employ&eacute;es par la Marine Imp&eacute;riale, les navettes utilitaires de classe <em>Lambda </em>sont un spectacle fr&eacute;quent dans les installations militaires. Lentes et solides, ces navettes sont con&ccedil;ues pour transporter cargaisons ou passagers. Elles peuvent &ecirc;tre configur&eacute;es pour servir de transports de troupes ou de cargos lourds, voire de navettes VIP pour les hauts personnages de l'Empire, officiers ou dignitaires. La coque de la navette de classe <em>Lambda </em>est carr&eacute;e et lourdement blind&eacute;e, et termin&eacute;e par une section de pont avant qui ressemble vaguement au cockpit du chasseur Y-wing de Koensayr. Le vaisseau est &eacute;galement dot&eacute; d'un grand stabilisateur arri&egrave;re vertical mont&eacute; sur le dos de la coque principale, ainsi que d'une paire de longues ailes pliables. Lorsqu'elles sont d&eacute;ploy&eacute;es, la navette vue de face ressemble &agrave; un &laquo; Y &raquo; invers&eacute;.</p>\n<p data-start=\"13074\" data-end=\"13777\">Les navettes de classe <em>Lambda </em>sont propuls&eacute;es par deux moteurs ioniques SFS-204. Leur hyperdrive SFS S/ig-37 leur permet des vols &agrave; longue distance. Bien arm&eacute;e pour un vaisseau de cette classe, la Lambda est dot&eacute;e de lasers et de blasters sur ses attaches avant et arri&egrave;re, armes qui lui donnent une excellente couverture d&eacute;fensive. En cas d'urgence, au lieu des nacelles d'&eacute;vacuation standard, toute la section avant peut se d&eacute;tacher de la coque et servir de capsule de sauvetage. Extr&ecirc;mement utile et remarquablement adaptable pour des appareils militaires, ces vaisseaux sont souvent la cible des voleurs et des pirates. Les rares exemplaires qui arrivent sur le march&eacute; noir se revendent une fortune.</p>\n<p data-start=\"13779\" data-end=\"14629\"><strong>Type de coque/Classe</strong> : navette/Lambda<br data-start=\"13816\" data-end=\"13819\"><strong>Constructeur</strong> : Syst&egrave;mes de Flotte Sienar et Cygnus Astronautique<br data-start=\"13996\" data-end=\"13999\"><strong>&Eacute;quipage</strong> : un pilote, un copilote, un navigateur, un artilleur, un op&eacute;rateur com, un ing&eacute;nieur<br data-start=\"14093\" data-end=\"14096\"><strong>Charge utile</strong> : 200 (sans passagers)<br data-start=\"14173\" data-end=\"14176\"><strong>Co&ucirc;t/raret&eacute;</strong> : 140 000 cr&eacute;dits (1)/6</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 4,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 3,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": 0,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 25,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 15,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 2,
+        "port": null,
+        "starboard": null,
+        "aft": 1,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 4,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Short",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 20,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 200,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 2,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 1,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": 10
+      },
+      "consumables": {
+        "value": 2,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": true,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/T4A.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.260"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Navette long-courrier T4-A de classe Lambda",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "KFtzoYxnmRwLOQ0T",
+      "name": "Deux canons blaster légers jumelés montés à l'avant",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les canons blasters (ou &laquo; canon flash &raquo; comme ils sont parfois surnomm&eacute;s) sont des versions lourdes du blaster personnel commun dont l&rsquo;utilisation n&eacute;cessite une &eacute;quipe de tir. Bien que moins d&eacute;vastateurs que les canons laser, ils demeurent redoutablement efficaces contre l&rsquo;infanterie et les v&eacute;hicules l&eacute;gers. Ils sont souvent install&eacute;s sur les v&eacute;hicules atmosph&eacute;riques ou les petits vaisseaux spatiaux, et il est possible d&rsquo;en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "zMuymngk5qJ5jJhK"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 4,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 4
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "zMuymngk5qJ5jJhK"
+          }
+        ],
+        "enrichedDescription": "<p>Les canons blasters (ou « canon flash » comme ils sont parfois surnommés) sont des versions lourdes du blaster personnel commun dont l’utilisation nécessite une équipe de tir. Bien que moins dévastateurs que les canons laser, ils demeurent redoutablement efficaces contre l’infanterie et les véhicules légers. Ils sont souvent installés sur les véhicules atmosphériques ou les petits vaisseaux spatiaux, et il est possible d’en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "zkZLpJa6AqY4lj3d"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.u8Grz4qDPXBYSFvj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767093970565,
+        "modifiedTime": 1767093970565,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!yXUgIJdZVPoc1bsS.KFtzoYxnmRwLOQ0T"
+    },
+    {
+      "_id": "Q0JZ0p7pGDGscJLD",
+      "name": "Deux canons laser légers jumelés montés à l'avant",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "MAEtPqZjAWXLCBKi"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 5,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 5
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "MAEtPqZjAWXLCBKi"
+          }
+        ],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "NHtLzpRbtGj3sbFX"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.foHZZLYrFiayAb4s",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767184843716,
+        "modifiedTime": 1767184843716,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!yXUgIJdZVPoc1bsS.Q0JZ0p7pGDGscJLD"
+    },
+    {
+      "_id": "HMaYvHytdEpLuY0G",
+      "name": "Canons blaster légers jumelés montés à l'arrière",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les canons blasters (ou &laquo; canon flash &raquo; comme ils sont parfois surnomm&eacute;s) sont des versions lourdes du blaster personnel commun dont l&rsquo;utilisation n&eacute;cessite une &eacute;quipe de tir. Bien que moins d&eacute;vastateurs que les canons laser, ils demeurent redoutablement efficaces contre l&rsquo;infanterie et les v&eacute;hicules l&eacute;gers. Ils sont souvent install&eacute;s sur les v&eacute;hicules atmosph&eacute;riques ou les petits vaisseaux spatiaux, et il est possible d&rsquo;en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "gwOWUroi3J8Vqjz4"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": false,
+          "aft": false,
+          "port": false,
+          "starboard": true,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 4,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 4
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "gwOWUroi3J8Vqjz4"
+          }
+        ],
+        "enrichedDescription": "<p>Les canons blasters (ou « canon flash » comme ils sont parfois surnommés) sont des versions lourdes du blaster personnel commun dont l’utilisation nécessite une équipe de tir. Bien que moins dévastateurs que les canons laser, ils demeurent redoutablement efficaces contre l’infanterie et les véhicules légers. Ils sont souvent installés sur les véhicules atmosphériques ou les petits vaisseaux spatiaux, et il est possible d’en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "lmZLEaTw88V2HJn0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.u8Grz4qDPXBYSFvj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767184874740,
+        "modifiedTime": 1767184874740,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!yXUgIJdZVPoc1bsS.HMaYvHytdEpLuY0G"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767093560278,
+    "modifiedTime": 1767103824994,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!yXUgIJdZVPoc1bsS"
+}

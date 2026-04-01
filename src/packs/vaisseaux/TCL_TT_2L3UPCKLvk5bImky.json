@@ -1,0 +1,237 @@
+{
+  "folder": "g5MxlP2CQuP45Dpw",
+  "name": "TCL-TT",
+  "type": "vehicle",
+  "_id": "2L3UPCKLvk5bImky",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/ATHCT.webp",
+  "system": {
+    "biography": "<p data-start=\"3142\" data-end=\"3730\" data-pm-slice=\"1 1 []\">D&eacute;riv&eacute; du populaire TER-TT, le transport civil lourd tout-terrain produit par l&rsquo;entreprise d&rsquo;Ing&eacute;nierie Lourde de Rothana r&eacute;pond aux besoins des colonies isol&eacute;es depuis des d&eacute;cennies. Con&ccedil;u pour &ecirc;tre simple et adaptable, le TCL-TT ressemble &agrave; une b&ecirc;te de somme &agrave; huit pattes. Un pilote contr&ocirc;le le v&eacute;hicule depuis un si&egrave;ge install&eacute; sur une &laquo; selle &raquo; &agrave; l&rsquo;avant. Derri&egrave;re lui, le reste du v&eacute;hicule est un plateau ouvert. Le TCL-TT n&rsquo;est ni rapide, ni impressionnant, ni utile en combat, mais il est costaud et r&eacute;sistant, et peut transporter une cargaison imposante sur de longues distances.</p>\n<p data-start=\"3732\" data-end=\"3993\"><strong>Type de v&eacute;hicule/Mod&egrave;le</strong> : marcheur/TCL-TT<br data-start=\"3773\" data-end=\"3776\"><strong>Constructeur</strong> : Ing&eacute;nierie Lourde de Rothana<br data-start=\"3851\" data-end=\"3854\"><strong>&Eacute;quipage</strong> : un pilote<br data-start=\"3911\" data-end=\"3914\"><strong>Co&ucirc;t/raret&eacute;</strong> : 3 000 cr&eacute;dits/3</p>\n<p>&nbsp;</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 3,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 1,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -1,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 15,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 15,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 0,
+        "port": null,
+        "starboard": null,
+        "aft": 0,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 0,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Medium",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 6,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 200,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 2,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": null,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": null,
+        "duration": "",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": false,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": false,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/ATHCT.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.256"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "TCL-TT",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767079927098,
+    "modifiedTime": 1767105541595,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!2L3UPCKLvk5bImky"
+}

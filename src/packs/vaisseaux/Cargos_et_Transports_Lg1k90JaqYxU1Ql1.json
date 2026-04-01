@@ -1,0 +1,22 @@
+{
+  "name": "Cargos et Transports",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "Lg1k90JaqYxU1Ql1",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748851275096,
+    "modifiedTime": 1748851275096,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!Lg1k90JaqYxU1Ql1"
+}

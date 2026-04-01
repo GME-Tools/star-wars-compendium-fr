@@ -1,0 +1,494 @@
+{
+  "folder": "Lg1k90JaqYxU1Ql1",
+  "name": "Cargo Moyen HT-2200",
+  "type": "vehicle",
+  "_id": "1m7gOipBlZpBdBFM",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/ht2200.png",
+  "system": {
+    "biography": "<p data-start=\"6166\" data-end=\"7182\" data-pm-slice=\"1 1 []\">Solidement construit, bourr&eacute; d&rsquo;avionique et de syst&egrave;mes de gestion de cargaison de pointe, le cargo moyen HT-2200 est un vaisseau relativement r&eacute;cent. Produit par la Corporation Technique Corellienne (CTC), cet appareil massif et plat a la forme d&rsquo;un diapason ou d&rsquo;un Y-wing invers&eacute;. L&rsquo;&eacute;quipage, les armes et la section ing&eacute;nierie se trouvent dans sa coque centrale. Quatre cales &eacute;tanches sont dispos&eacute;es dans les fl&egrave;ches babord et tribord, projet&eacute;es &agrave; l&rsquo;avant du vaisseau. Le cockpit conique caract&eacute;ristique de la CTC est plac&eacute; au milieu du navire, entre les fl&egrave;ches, ce qui donne au pilote et au copilote une vue &agrave; pr&egrave;s de 180 degr&eacute;s. Chacune des quatre cales est blind&eacute;e et prot&eacute;g&eacute;e par un bouclier. Toutes contiennent des &eacute;l&eacute;ments modulaires qui leur permettent d&rsquo;&ecirc;tre configur&eacute;es pour diff&eacute;rents types de cargaisons. De plus, chaque cale dispose de ses propres syst&egrave;mes environnementaux, gr&acirc;ce auxquels l&rsquo;&eacute;quipage peut ajuster s&eacute;par&eacute;ment leur temp&eacute;rature, la composition de leur atmosph&egrave;re, et m&ecirc;me leur gravit&eacute;.</p>\n<p data-start=\"7184\" data-end=\"8142\">&Agrave; sa sortie, les critiques furent positives et suivies de commandes r&eacute;guli&egrave;res venues des grandes soci&eacute;t&eacute;s de fret des Bordures M&eacute;diane et Ext&eacute;rieure. Toutefois, au fur et &agrave; mesure que pilotes et &eacute;quipages se familiarisaient avec leur vaisseau, de nombreuses faiblesses sont apparues. Le g&eacute;n&eacute;rateur principal n&rsquo;&eacute;tait pas &agrave; la hauteur des besoins du cargo. Les mesures de compression des co&ucirc;ts prises par le constructeur impactaient la plupart des syst&egrave;mes. Entre autres probl&egrave;mes, le HT-2200 est truff&eacute; de coupleurs de puissance bon march&eacute;, qui causent des baisses de tension et des courts-circuits. Ajout&eacute;s &agrave; un armement limit&eacute; &agrave; deux canons laser mont&eacute;s sur tourelles, ces points faibles rendent ces nouveaux cargos tr&egrave;s vuln&eacute;rables aux pillards et aux pirates. En d&eacute;pit de ses d&eacute;fauts structurels, gr&acirc;ce &agrave; ses syst&egrave;mes de gestion de cargaison, &agrave; sa solidit&eacute; et &agrave; sa facilit&eacute; de modification, le HT-2200 reste en production, m&ecirc;me si ses ventes ont diminu&eacute;.</p>\n<p data-start=\"8144\" data-end=\"8681\"><strong>Type de coque/Classe</strong> : cargo/HT-2200<br data-start=\"8180\" data-end=\"8183\"><strong>Constructeur</strong> : Corporation Technique Corellienne<br data-start=\"8231\" data-end=\"8234\"><strong>&Eacute;quipage</strong> : un pilote, un copilote, un ing&eacute;nieur et un manutentionnaire<br data-start=\"8417\" data-end=\"8420\"><strong>Co&ucirc;t/raret&eacute;</strong> : 140 000 cr&eacute;dits/5</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 5,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 2,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -2,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 35,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 14,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 1,
+        "port": 1,
+        "starboard": 1,
+        "aft": 0,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 5,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Short",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 8,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 800,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 5,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 3,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": 15
+      },
+      "consumables": {
+        "value": 3,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": true,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/HT2200.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.264"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Cargo Moyen HT-2200",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "pN0LZ0aS4v4D2d4I",
+      "name": "Canon laser moyen dorsal monté sur tourelle",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": true,
+          "ventral": false
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": []
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "g3OoJKT1eNovc7Op"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767105346668,
+        "modifiedTime": 1767105346668,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!1m7gOipBlZpBdBFM.pN0LZ0aS4v4D2d4I"
+    },
+    {
+      "_id": "vWfoHh4rVwwYgqF4",
+      "name": "Canon laser moyen ventral monté sur tourelle",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": false,
+          "ventral": true
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "DF05uWz8gQAspcWk"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": "Item.g3OoJKT1eNovc7Op",
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767105347918,
+        "modifiedTime": 1767105347918,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!1m7gOipBlZpBdBFM.vWfoHh4rVwwYgqF4"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767104841848,
+    "modifiedTime": 1767184995896,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!1m7gOipBlZpBdBFM"
+}

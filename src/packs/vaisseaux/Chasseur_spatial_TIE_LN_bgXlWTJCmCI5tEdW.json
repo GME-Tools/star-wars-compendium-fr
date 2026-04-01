@@ -1,0 +1,478 @@
+{
+  "folder": "5XOJhRQvqGcZeVrf",
+  "name": "Chasseur spatial TIE/LN",
+  "type": "vehicle",
+  "_id": "bgXlWTJCmCI5tEdW",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/TIE_Fighter_DICE.webp",
+  "system": {
+    "biography": "<p data-start=\"19266\" data-end=\"19938\" data-pm-slice=\"1 1 []\">Le principal chasseur de sup&eacute;riorit&eacute; spatiale de la Marine Imp&eacute;riale est le c&eacute;l&egrave;bre TIE, acronyme de Twin Ion Engine (moteurs ioniques jumel&eacute;s). Petit et fragile, il compte d&eacute;j&agrave; des ann&eacute;es de service. L&eacute;ger, rapide et agile, le TIE est un chasseur basique, sans fioriture. D&eacute;ploy&eacute; en nombre suffisant, il repr&eacute;sente une menace pour n'importe quel vaisseau ou installation. Il consiste en un module de pilotage sph&eacute;rique, l&eacute;g&egrave;rement blind&eacute; et dot&eacute; d'une vaste baie en transparacier sur sa face avant, auquel est attach&eacute;e une paire d'ailes hexagonales couvertes de panneaux solaires. Le chasseur TIE ne poss&egrave;de pratiquement aucune des options dont disposent ses concurrents. Dans une qu&ecirc;te obsessionnelle pour r&eacute;duire son poids, les ing&eacute;nieurs en ont retir&eacute; pratiquement tous les syst&egrave;mes courants sur les autres chasseurs de la galaxie. Il ne poss&egrave;de pas de boucliers, pas de train d'atterrissage, pas d'hyperdrive et peu d'informatique embarqu&eacute;e. Plus choquant, il est d&eacute;pourvu de syst&egrave;mes de survie, ce qui contraint les pilotes &agrave; porter un scaphandre en vol. Il est fabriqu&eacute; dans des alliages ultral&eacute;gers, et m&ecirc;me les pilotes sont choisis pour leur petite taille. Le moindre atome inutile a &eacute;t&eacute; retir&eacute; des plans initiaux. Le r&eacute;sultat est un chasseur hautement dangereux, follement rapide, incroyablement agile&hellip; avec un taux de pertes consid&eacute;rable.</p>\n<p data-start=\"20618\" data-end=\"21317\">En plus d'&ecirc;tre tr&egrave;s l&eacute;ger, le TIE est d'une grande simplicit&eacute;, avec peu d'&eacute;l&eacute;ments mobiles et une construction modulaire, ce qui lui permet d'&ecirc;tre assembl&eacute; et entretenu sans effort par des techniciens peu exp&eacute;riment&eacute;s. Il est aliment&eacute; par une version miniature du r&eacute;acteur &agrave; ionisation solaire I-a2b des Syst&egrave;mes de Flotte Sienar, qui collecte l'&eacute;nergie solaire des panneaux des ailes. Ce g&eacute;n&eacute;rateur alimente les deux moteurs ioniques SFS P-s4 jumel&eacute;s &agrave; haut rendement, ainsi que les canons laser jumel&eacute;s qui repr&eacute;sentent la totalit&eacute; de l'armement du chasseur. En raison de l'absence d'hyperdrive et de syst&egrave;mes de survie, les TIE sont, par la force des choses, des vaisseaux &agrave; court rayon d'action.</p>\n<p data-start=\"21319\" data-end=\"21757\" data-is-last-node=\"\" data-is-only-node=\"\"><strong>Type de coque/Classe</strong> : chasseur spatial/s&eacute;rie TIE<br data-start=\"21368\" data-end=\"21371\"><strong>Constructeur</strong> : Syst&egrave;mes de Flotte Sienar<br data-start=\"21411\" data-end=\"21414\"><strong>&Eacute;quipage</strong> : un pilote<br data-start=\"21507\" data-end=\"21510\"><strong>Co&ucirc;t/raret&eacute;</strong> : 50 000 cr&eacute;dits (1)/4</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 3,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 5,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": 3,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 6,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 8,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 0,
+        "port": null,
+        "starboard": null,
+        "aft": 0,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 2,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Close",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 0,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 4,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 0,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": null,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": 2,
+        "duration": "jours",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": false,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/TIELN.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.261"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Chasseur spatial TIE/LN",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "YevH7Ph2q4EAM5Rh",
+      "name": "Canons laser moyens montés à l'avant",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "UMdvhTcwQk0H4tvU"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "UMdvhTcwQk0H4tvU"
+          }
+        ],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "1hx7yoGmz7iBOV2V"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767102588609,
+        "modifiedTime": 1767102588609,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!bgXlWTJCmCI5tEdW.YevH7Ph2q4EAM5Rh"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767102369168,
+    "modifiedTime": 1767105551661,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!bgXlWTJCmCI5tEdW"
+}

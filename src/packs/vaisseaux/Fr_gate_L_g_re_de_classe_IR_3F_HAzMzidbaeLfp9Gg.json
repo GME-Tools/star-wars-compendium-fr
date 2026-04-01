@@ -1,0 +1,1626 @@
+{
+  "folder": "z020UJhSN9eezas8",
+  "name": "Frégate Légère de classe IR-3F",
+  "type": "vehicle",
+  "_id": "HAzMzidbaeLfp9Gg",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/Ir-3f.webp",
+  "system": {
+    "biography": "<p data-start=\"5299\" data-end=\"6107\" data-pm-slice=\"1 1 []\">Ce vieux patrouilleur a &eacute;t&eacute; le pr&eacute;d&eacute;cesseur de la corvette de classe <em>IPV-1</em> de Syst&egrave;mes Sienar R&eacute;publicains. Aujourd&rsquo;hui d&eacute;pass&eacute;e, l&rsquo;<em>IR-3F</em> a connu son heure de gloire au cours des derni&egrave;res ann&eacute;es de la R&eacute;publique. Longue et mince, cette fr&eacute;gate a &eacute;t&eacute; con&ccedil;ue pour les missions de surveillance et de douane au sein d&rsquo;un syst&egrave;me solaire donn&eacute;. &Agrave; sa sortie d&rsquo;usine, elle est livr&eacute;e avec de puissants g&eacute;n&eacute;rateurs et des moteurs subluminiques qui conviendraient mieux &agrave; un vaisseau beaucoup plus gros, par exemple un croiseur. Ils la rendent excessivement rapide et tr&egrave;s maniable pour sa taille. De plus, elle dispose de capacit&eacute;s atmosph&eacute;riques limit&eacute;es. Cette combinaison donne aux <em>IR-3F</em> la r&eacute;putation bien m&eacute;rit&eacute;e d&rsquo;&ecirc;tre des vaisseaux dangereux et difficiles &agrave; &eacute;viter, surtout aux mains d&rsquo;un &eacute;quipage comp&eacute;tent.</p>\n<p data-start=\"6109\" data-end=\"6447\">Un large &eacute;ventail d&rsquo;armes puissantes s&rsquo;ajoute &agrave; sa vitesse et &agrave; sa man&oelig;uvrabilit&eacute;. Arm&eacute;es d&rsquo;une combinaison de canons laser moyens et de batteries de turbolasers l&eacute;gers, les <em>IR-3F</em> boxent au-dessus de leur cat&eacute;gorie, ce qui leur permet d&rsquo;engager et de vaincre des adversaires consid&eacute;r&eacute;s comme inaccessibles &agrave; des vaisseaux de cette taille.</p>\n<p data-start=\"6449\" data-end=\"7022\">Comme il fallait bien faire des compromis pour rendre cette fr&eacute;gate plus rapide, son blindage est l&eacute;ger, mais ses solides boucliers Novaldex compensent ce point faible. Son d&eacute;faut majeur est d&rsquo;avoir &eacute;t&eacute; pens&eacute;e comme un vaisseau &agrave; court rayon d&rsquo;action, et donc d&rsquo;&ecirc;tre d&eacute;pourvue d&rsquo;hyperdrive ou de naviordinateur. De plus, ses syst&egrave;mes &eacute;nerg&eacute;tiques et informatiques sont extr&ecirc;mement difficiles &agrave; mettre &agrave; jour. En d&eacute;pit de leur &acirc;ge avanc&eacute;, du manque de pi&egrave;ces d&eacute;tach&eacute;es et de leur absence de capacit&eacute;s hyperspatiales, de nombreuses <em>IR-3F</em> servent encore dans toute la galaxie.</p>\n<p data-start=\"7024\" data-end=\"7442\"><strong data-start=\"7024\" data-end=\"7050\">Type de coque/Classe :</strong> fr&eacute;gate / classe IR-3F<br data-start=\"7073\" data-end=\"7076\"><strong data-start=\"7076\" data-end=\"7094\">Constructeur :</strong> Syst&egrave;mes Sienar R&eacute;publicains<br data-start=\"7214\" data-end=\"7217\"><strong data-start=\"7217\" data-end=\"7231\">&Eacute;quipage :</strong> 20 officiers et matelots<br data-start=\"7256\" data-end=\"7259\"><strong data-start=\"7259\" data-end=\"7274\">Chasseurs :</strong> aucun<br data-start=\"7307\" data-end=\"7310\"><strong data-start=\"7310\" data-end=\"7325\">Passagers :</strong> 10 soldats<br data-start=\"7363\" data-end=\"7366\"><strong data-start=\"7366\" data-end=\"7383\">Co&ucirc;t/raret&eacute; :</strong> 1 000 000 cr&eacute;dits / 6</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 5,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 4,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -1,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 40,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 35,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 2,
+        "port": 2,
+        "starboard": 2,
+        "aft": 2,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 3,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Extreme",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 10,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 1800,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 2,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": null,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": 1,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": false,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/IR3FFRIG.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.267"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Frégate Légère de classe IR-3F",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "UQPToGw4YO265K7r",
+      "name": "Une batterie de turbolasers légers jumelés montée sur une tourelle ventrale",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Ces immenses armes de gros calibre, incroyablement gourmandes en &eacute;nergie, sont les plus imposantes dont un vaisseau puisse &ecirc;tre dot&eacute;. Les turbolasers peuvent transpercer d&rsquo;un coup les boucliers, le blindage et la coque d&rsquo;un appareil : les variantes l&eacute;g&egrave;res suffisent &agrave; d&eacute;truire les petits vaisseaux, tandis que les plus lourdes peuvent mettre &agrave; mal les d&eacute;fenses des croiseurs les plus imposants. Ces armes ne sont cependant pas sans inconv&eacute;nient : elles consomment notamment des quantit&eacute;s ph&eacute;nom&eacute;nales d&rsquo;&eacute;nergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal &agrave; suivre et &agrave; atteindre les petites cibles rapides comme les chasseurs.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Brèche",
+            "type": "itemmodifier",
+            "_id": "JFyZPdNrXSG7x2vV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747544853824,
+              "modifiedTime": 1747544910802,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "V7CC94aXwYBWEUkf"
+          },
+          {
+            "name": "Cadence Lente",
+            "type": "itemmodifier",
+            "_id": "0XhIS7TR7xdt5Qwy",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747545048625,
+              "modifiedTime": 1747545133447,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "1pSGNLmFpf3o0arr"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "2VdECDoNvPovdB9A"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": true
+        },
+        "damage": {
+          "value": 9,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 9
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Medium",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeMedium",
+          "adjusted": "Medium"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Brèche",
+            "type": "itemmodifier",
+            "_id": "JFyZPdNrXSG7x2vV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747544853824,
+              "modifiedTime": 1747544910802,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "V7CC94aXwYBWEUkf"
+          },
+          {
+            "name": "Cadence Lente",
+            "type": "itemmodifier",
+            "_id": "0XhIS7TR7xdt5Qwy",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747545048625,
+              "modifiedTime": 1747545133447,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "1pSGNLmFpf3o0arr"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "2VdECDoNvPovdB9A"
+          }
+        ],
+        "enrichedDescription": "<p>Ces immenses armes de gros calibre, incroyablement gourmandes en énergie, sont les plus imposantes dont un vaisseau puisse être doté. Les turbolasers peuvent transpercer d’un coup les boucliers, le blindage et la coque d’un appareil : les variantes légères suffisent à détruire les petits vaisseaux, tandis que les plus lourdes peuvent mettre à mal les défenses des croiseurs les plus imposants. Ces armes ne sont cependant pas sans inconvénient : elles consomment notamment des quantités phénoménales d’énergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal à suivre et à atteindre les petites cibles rapides comme les chasseurs.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Brèche",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "itemIndex": 0,
+              "totalRanks": 2,
+              "modId": "JFyZPdNrXSG7x2vV",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 2
+              }
+            },
+            {
+              "name": "Cadence Lente",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "itemIndex": 1,
+              "totalRanks": 1,
+              "modId": "0XhIS7TR7xdt5Qwy",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            },
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 2,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "MeLcqLvvvRimhl7r"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.kJB1rmQt26HyhAZ2",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767166993963,
+        "modifiedTime": 1767166993963,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!HAzMzidbaeLfp9Gg.UQPToGw4YO265K7r"
+    },
+    {
+      "_id": "1JxPFjM3wEpsVKwZ",
+      "name": "Une batterie de turbolasers légers jumelés montée sur une tourelle dorsale",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Ces immenses armes de gros calibre, incroyablement gourmandes en &eacute;nergie, sont les plus imposantes dont un vaisseau puisse &ecirc;tre dot&eacute;. Les turbolasers peuvent transpercer d&rsquo;un coup les boucliers, le blindage et la coque d&rsquo;un appareil : les variantes l&eacute;g&egrave;res suffisent &agrave; d&eacute;truire les petits vaisseaux, tandis que les plus lourdes peuvent mettre &agrave; mal les d&eacute;fenses des croiseurs les plus imposants. Ces armes ne sont cependant pas sans inconv&eacute;nient : elles consomment notamment des quantit&eacute;s ph&eacute;nom&eacute;nales d&rsquo;&eacute;nergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal &agrave; suivre et &agrave; atteindre les petites cibles rapides comme les chasseurs.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Brèche",
+            "type": "itemmodifier",
+            "_id": "JFyZPdNrXSG7x2vV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747544853824,
+              "modifiedTime": 1747544910802,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "V7CC94aXwYBWEUkf"
+          },
+          {
+            "name": "Cadence Lente",
+            "type": "itemmodifier",
+            "_id": "0XhIS7TR7xdt5Qwy",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747545048625,
+              "modifiedTime": 1747545133447,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "1pSGNLmFpf3o0arr"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "AfTl9iQ6npz29JNJ"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": true,
+          "ventral": false
+        },
+        "damage": {
+          "value": 9,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 9
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Medium",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeMedium",
+          "adjusted": "Medium"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Brèche",
+            "type": "itemmodifier",
+            "_id": "JFyZPdNrXSG7x2vV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747544853824,
+              "modifiedTime": 1747544910802,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "V7CC94aXwYBWEUkf"
+          },
+          {
+            "name": "Cadence Lente",
+            "type": "itemmodifier",
+            "_id": "0XhIS7TR7xdt5Qwy",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747545048625,
+              "modifiedTime": 1747545133447,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "1pSGNLmFpf3o0arr"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "AfTl9iQ6npz29JNJ"
+          }
+        ],
+        "enrichedDescription": "<p>Ces immenses armes de gros calibre, incroyablement gourmandes en énergie, sont les plus imposantes dont un vaisseau puisse être doté. Les turbolasers peuvent transpercer d’un coup les boucliers, le blindage et la coque d’un appareil : les variantes légères suffisent à détruire les petits vaisseaux, tandis que les plus lourdes peuvent mettre à mal les défenses des croiseurs les plus imposants. Ces armes ne sont cependant pas sans inconvénient : elles consomment notamment des quantités phénoménales d’énergie et demandent beaucoup de temps pour se recharger. Enfin, elles ont beaucoup de mal à suivre et à atteindre les petites cibles rapides comme les chasseurs.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Brèche",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "itemIndex": 0,
+              "totalRanks": 2,
+              "modId": "JFyZPdNrXSG7x2vV",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 2
+              }
+            },
+            {
+              "name": "Cadence Lente",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "itemIndex": 1,
+              "totalRanks": 1,
+              "modId": "0XhIS7TR7xdt5Qwy",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            },
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 2,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "CH3DcZcGmcRmRct9"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.kJB1rmQt26HyhAZ2",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767167036518,
+        "modifiedTime": 1767167036518,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!HAzMzidbaeLfp9Gg.1JxPFjM3wEpsVKwZ"
+    },
+    {
+      "_id": "nyQJ3L9PCEjfcqt3",
+      "name": "Canons laser moyens jumelés montés sur une tourelle bâbord",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "pk3Zxd4jaGzR2Gc8"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": false,
+          "aft": true,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "pk3Zxd4jaGzR2Gc8"
+          }
+        ],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "HPF5eLkuYVQWOGTk"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767186339185,
+        "modifiedTime": 1767186339185,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!HAzMzidbaeLfp9Gg.nyQJ3L9PCEjfcqt3"
+    },
+    {
+      "_id": "ny7sX0TL3XwZ958d",
+      "name": "Canons laser moyens jumelés montés sur une tourelle tribord",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "pk3Zxd4jaGzR2Gc8"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": false,
+          "aft": false,
+          "port": true,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "pk3Zxd4jaGzR2Gc8"
+          }
+        ],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "t6juSi3d2h9hQCQC"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": "Item.HPF5eLkuYVQWOGTk",
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767186340860,
+        "modifiedTime": 1767186340860,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!HAzMzidbaeLfp9Gg.ny7sX0TL3XwZ958d"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767166567431,
+    "modifiedTime": 1767185903764,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!HAzMzidbaeLfp9Gg"
+}

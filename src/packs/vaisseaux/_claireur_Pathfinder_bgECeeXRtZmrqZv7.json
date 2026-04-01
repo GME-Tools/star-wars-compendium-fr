@@ -1,0 +1,369 @@
+{
+  "folder": "5XOJhRQvqGcZeVrf",
+  "name": "Éclaireur Pathfinder",
+  "type": "vehicle",
+  "_id": "bgECeeXRtZmrqZv7",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/PathfinderScoutShip-FDCR.webp",
+  "system": {
+    "biography": "<p data-start=\"14656\" data-end=\"15271\" data-pm-slice=\"1 1 []\">Lors de leur lancement durant les derni&egrave;res ann&eacute;es de l'Ancienne R&eacute;publique, les navires &eacute;claireurs de classe <em>Pathfinder </em>de Vangaard Industries &eacute;taient consid&eacute;r&eacute;s comme le summum de la technologie spatiale. Ce long vaisseau &eacute;troit, dot&eacute; d'une proue pointue, de stabilisateurs arri&egrave;re aux angles aigus et d'une silhouette en fl&egrave;che, &eacute;tait con&ccedil;u pour servir de courrier ou d'&eacute;claireur &agrave; longue distance. Il doit sa r&eacute;putation de haute technologie &agrave; ses syst&egrave;mes de senseurs sophistiqu&eacute;s, et surtout au fait qu'il &eacute;tait l'un des premiers appareils produits en s&eacute;rie de sa taille &agrave; disposer de capacit&eacute;s hyperspatiales. Un <em>Pathfinder </em>est, en gros, un chasseur surdimensionn&eacute;, capable de transporter deux individus install&eacute;s l'un derri&egrave;re l'autre dans un cockpit &eacute;troit et encombr&eacute;, mais bien con&ccedil;u. Une petite section dot&eacute;e d'un rafra&icirc;chisseur, d'une couchette et d'une r&eacute;serve dans laquelle sont stock&eacute;s les rations et le mat&eacute;riel d'urgence se trouve derri&egrave;re le cockpit. Derri&egrave;re elle, tout l'espace disponible est d&eacute;volu &agrave; des senseurs &agrave; longue port&eacute;e perfectionn&eacute;s, &agrave; des g&eacute;n&eacute;rateurs de boucliers et &agrave; une paire de puissants moteurs.</p>\n<p data-start=\"15792\" data-end=\"16491\">L&eacute;g&egrave;rement arm&eacute;s et blind&eacute;s, les <em>Pathfinders </em>disposent d'un armement d&eacute;fensif compos&eacute; d'un canon laser l&eacute;ger mont&eacute; sur tourelle, plac&eacute; sur le dos de l'appareil, juste derri&egrave;re le cockpit. Les g&eacute;n&eacute;rateurs de boucliers sont uniques pour cette classe de vaisseaux. En revanche, son blindage est typique d'un &eacute;claireur l&eacute;ger. De l'avis g&eacute;n&eacute;ral, au moment de leur mise en service, les <em>Pathfinders </em>faisaient partie des &eacute;claireurs les plus rapides du march&eacute;, entre autres qualit&eacute;s. Leur vitesse, leur maniabilit&eacute; et leurs senseurs puissants leur assurent une popularit&eacute; qui ne se d&eacute;ment pas, m&ecirc;me si leurs atouts sont plus r&eacute;pandus de nos jours. Trente ans apr&egrave;s leur lancement, ils se vendent encore bien.</p>\n<p data-start=\"16493\" data-end=\"16965\"><strong>Type de coque/Classe</strong> : &eacute;claireur/Pathfinder<br data-start=\"16536\" data-end=\"16539\"><strong>Constructeur</strong> : Vangaard Industries<br data-start=\"16573\" data-end=\"16576\"><strong>&Eacute;quipage</strong> : un pilote, un copilote<br data-start=\"16723\" data-end=\"16726\"><strong>Co&ucirc;t/raret&eacute;</strong> : 45 000 cr&eacute;dits/6</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 4,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 4,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": 1,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 16,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 10,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 1,
+        "port": null,
+        "starboard": null,
+        "aft": 1,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 2,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Extreme",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 2,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 45,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 2,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 3,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": 15
+      },
+      "consumables": {
+        "value": 3,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": true,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/PATHSCOUTCIV.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.260"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Éclaireur Pathfinder",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "RBcNikPxQgTFsfwa",
+      "name": "Canon laser léger monté sur tourelle dorsale",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": true,
+          "ventral": false
+        },
+        "damage": {
+          "value": 5,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 5
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "E9HdudQWMTdJ2RIF"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.foHZZLYrFiayAb4s",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767094361017,
+        "modifiedTime": 1767094361017,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!bgECeeXRtZmrqZv7.RBcNikPxQgTFsfwa"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767094065920,
+    "modifiedTime": 1767103730219,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!bgECeeXRtZmrqZv7"
+}
