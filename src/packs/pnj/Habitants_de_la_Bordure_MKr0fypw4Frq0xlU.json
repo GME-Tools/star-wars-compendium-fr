@@ -1,0 +1,22 @@
+{
+  "name": "Habitants de la Bordure",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "MKr0fypw4Frq0xlU",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767609744909,
+    "modifiedTime": 1767609744909,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!MKr0fypw4Frq0xlU"
+}
