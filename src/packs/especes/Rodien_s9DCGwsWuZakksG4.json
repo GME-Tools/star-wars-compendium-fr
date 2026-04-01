@@ -1,0 +1,241 @@
+{
+  "name": "Rodien",
+  "type": "species",
+  "_id": "s9DCGwsWuZakksG4",
+  "img": "modules/star-wars-compendium-fr/packs/especes/images/rodian.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\">\n<p data-start=\"26816\" data-end=\"27079\">Les Rodiens sont des chasseurs-n&eacute;s, issus d'un monde hostile qui engendre des instincts de tueur. Tous ceux dont la t&ecirc;te est mise &agrave; prix ont du souci &agrave; se faire quand ils aper&ccedil;oivent le long museau vert d'un Rodien ou sentent son odeur putride si caract&eacute;ristique.</p>\n<p data-start=\"27081\" data-end=\"27526\"><strong>Physiologie </strong>: les Rodiens descendent de l&eacute;zards grimpeurs et ont conserv&eacute; certains traits de leurs anc&ecirc;tres, notamment leurs grands yeux et les ventouses pr&eacute;sentes &agrave; leurs doigts et orteils. Aujourd'hui, ces organes ne permettent cependant pas &agrave; un adulte de 1,60 m&egrave;tre de rester accroch&eacute; tr&egrave;s longtemps &agrave; un rocher ou &agrave; un arbre, mais ils ont &eacute;vit&eacute; &agrave; de nombreux Rodiens des chutes qui auraient &eacute;t&eacute; fatales &agrave; des repr&eacute;sentants d'autres esp&egrave;ces.</p>\n<p data-start=\"27528\" data-end=\"28072\"><strong>Soci&eacute;t&eacute; </strong>: l'histoire de Rodia est &eacute;maill&eacute;e de nombreuses violences. Il y a bien longtemps, cette plan&egrave;te tropicale grouillait de pr&eacute;dateurs dangereux, si bien que les anc&ecirc;tres sans d&eacute;fense des Rodiens n'eurent d'autre choix que de s'adapter. Ce qu'ils firent, en se cachant dans les branches des arbres ou en grimpant jusqu'aux hautes cavernes des montagnes, o&ugrave; ils fabriqu&egrave;rent des outils et &eacute;labor&egrave;rent des plans pour se d&eacute;barrasser des pr&eacute;dateurs. Rapidement, ils devinrent de bons chasseurs et la chasse se retrouva au c&oelig;ur de leur soci&eacute;t&eacute;.</p>\n<p data-start=\"28074\" data-end=\"28390\">Les Rodiens devinrent si habiles dans ce domaine qu'ils provoqu&egrave;rent progressivement l'extinction des autres pr&eacute;dateurs de la plan&egrave;te. N'ayant plus rien &agrave; chasser, ils commenc&egrave;rent &agrave; s'entretuer. Les combats de gladiateurs entre champions se mu&egrave;rent en escarmouches, qui prirent bient&ocirc;t la forme de guerres tribales.</p>\n<p data-start=\"28392\" data-end=\"28864\">Quand elle fut d&eacute;couverte par des &eacute;claireurs de l'Ancienne R&eacute;publique, Rodia fut quasiment mise sous blocus &agrave; cause de la culture belliqueuse des habitants. N&eacute;anmoins, les autorit&eacute;s rodiennes parvinrent &agrave; r&eacute;primer les tendances violentes de leur civilisation le temps d'entrer en contact avec le reste de la galaxie. Aujourd'hui, des milliers d'ann&eacute;es plus tard, le pic de violence de la culture rodienne est derri&egrave;re elle, mais la chasse est encore une tradition v&eacute;n&eacute;r&eacute;e.</p>\n<p data-start=\"28866\" data-end=\"29161\"><strong>Monde d'origine</strong> : Rodia, la plan&egrave;te natale des Rodiens, se situe dans la Bordure m&eacute;diane. On y trouve des milieux urbains et industriels qui c&ocirc;toient des for&ecirc;ts pluviales encore vierges, offrant aux jeunes et courageux Rodiens l'environnement n&eacute;cessaire pour &eacute;prouver leurs talents de chasseurs.</p>\n<p data-start=\"29163\" data-end=\"29374\"><strong>Langue </strong>: en raison de la morphologie de leur bouche, les Rodiens ont bien du mal &agrave; parler le basic et certains ne s'y essaient d'ailleurs m&ecirc;me pas, se contentant de s'exprimer dans leur langue natale, le rodois.</p>\n<p data-start=\"29376\" data-end=\"29659\"><strong>La vie dans la Bordure</strong> : l'h&eacute;ritage culturel de &laquo; la chasse &raquo; pousse les Rodiens vers les m&eacute;tiers de chasseur de prime ou de porte-flingue. Les Rodiens rel&egrave;vent souvent des d&eacute;fis un peu trop gros pour eux, r&ecirc;vant des troph&eacute;es qu'ils recevront sur Rodia pour avoir attrap&eacute; leur proie.</p>\n<h3 data-start=\"29661\" data-end=\"30022\">Capacit&eacute;s sp&eacute;ciales</h3>\n<p data-start=\"29661\" data-end=\"30022\"><strong>Capacit&eacute; sp&eacute;ciale</strong> : les Rodiens commencent le jeu avec 1 rang en Survie. Ils ne peuvent cependant pas d&eacute;passer le rang 2 dans cette comp&eacute;tence &agrave; la cr&eacute;ation de personnage. Les Rodiens commencent aussi le jeu avec 1 rang dans le talent @UUID[Compendium.star-wars-compendium-fr.talents.Item.g7IhalK4n8Hin4Ej]{Pisteur Chevronn&eacute;}.</p>\n<div class=\"journal-side-block\">\n<h5>L'ART DRAMATIQUE RODIEN</h5>\n<p data-start=\"30049\" data-end=\"30956\"><span class=\"first-letter\">Q</span>uelques si&egrave;cles avant que les &eacute;claireurs de la R&eacute;publique n'arrivent sur Rodia, les Rodiens &eacute;taient en voie d'extinction &agrave; cause de leurs querelles internes. Pour sauver son peuple, le grand protecteur Harido Kavila &eacute;crivit la premi&egrave;re pi&egrave;ce rodienne, en affirmant qu'il &eacute;tait inspir&eacute; par les dieux. L'&oelig;uvre en question &eacute;tait une repr&eacute;sentation simple, violente et sanguinaire de la chasse. N&eacute;anmoins, elle amusa tant les Rodiens qu'ils mirent de c&ocirc;t&eacute; leurs chasses l&eacute;gendaires pour un temps. Petit &agrave; petit, d'autres auteurs se mirent &agrave; d&eacute;passer la simple repr&eacute;sentation de la violence. Ils abord&egrave;rent le fond de leurs personnages, les peurs et attentes d'un chasseur confront&eacute; &agrave; sa m&eacute;lancolie et &agrave; ses passions. L'art dramatique aborda ses th&egrave;mes si visc&eacute;ralement et &eacute;motionnellement que peu de temps apr&egrave;s l'entr&eacute;e des Rodiens dans la communaut&eacute; galactique, leurs pi&egrave;ces connurent un succ&egrave;s retentissant.</p>\n</div>\n</div>",
+    "attributes": {
+      "Brawn": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Brawn"
+      },
+      "Agility": {
+        "value": 3,
+        "modtype": "Characteristic",
+        "mod": "Agility"
+      },
+      "Intellect": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Intellect"
+      },
+      "Cunning": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Cunning"
+      },
+      "Willpower": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Willpower"
+      },
+      "Presence": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Presence"
+      },
+      "Wounds": {
+        "value": 10,
+        "modtype": "Stat",
+        "mod": "Wounds"
+      },
+      "Strain": {
+        "value": 10,
+        "modtype": "Stat",
+        "mod": "Strain"
+      },
+      "attr1767888595293": {
+        "modtype": "Skill Rank",
+        "mod": "Survival",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 48"
+      ]
+    },
+    "talents": {
+      "g7IhalK4n8Hin4Ej": {
+        "name": "Pisteur Chevronné",
+        "source": "Compendium.star-wars-compendium-fr.talents.Item.g7IhalK4n8Hin4Ej",
+        "id": "g7IhalK4n8Hin4Ej"
+      }
+    },
+    "abilities": {},
+    "species": {},
+    "startingXP": 100
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.characteristics.Brawn.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.encumbrance.max",
+          "value": "7",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.soak.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Agility.value",
+          "value": "3",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Intellect.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Cunning.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Willpower.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Presence.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.wounds.max",
+          "value": "12",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.strain.max",
+          "value": "11",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "bV5kXaLSuKwo91Qt",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767884000891,
+        "modifiedTime": 1773157556451,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!s9DCGwsWuZakksG4.bV5kXaLSuKwo91Qt"
+    },
+    {
+      "name": "attr1767888595293",
+      "changes": [
+        {
+          "key": "system.skills.Survival.rank",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "b6kcwHtVLD5pQoji",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767888598336,
+        "modifiedTime": 1770806711582,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!s9DCGwsWuZakksG4.b6kcwHtVLD5pQoji"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767884000878,
+    "modifiedTime": 1770806707895,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!s9DCGwsWuZakksG4"
+}

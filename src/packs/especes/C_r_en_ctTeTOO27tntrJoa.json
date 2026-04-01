@@ -1,0 +1,480 @@
+{
+  "name": "Céréen",
+  "type": "species",
+  "_id": "ctTeTOO27tntrJoa",
+  "img": "modules/star-wars-compendium-fr/packs/especes/images/cereen.jpg",
+  "system": {
+    "description": "<div class=\"journal-page-content\">\n<p>Les C&eacute;r&eacute;ens sont une esp&egrave;ce bien reconnaissable. Ils ressemblent aux humains, mais leur bo&icirc;te cranienne tr&egrave;s allong&eacute;e, presque conique, est caract&eacute;ristique. Elle abrite un grand cerveau binaire (deux cerveaux &eacute;troitement reli&eacute;s). En raison de cette particularit&eacute;, les C&eacute;r&eacute;ens sont capables de suivre plusieurs trains de pens&eacute;es &agrave; la fois, et jouissent de capacit&eacute;s mentales extraordinaires. En tant qu'esp&egrave;ce, ils sont &eacute;galement connus pour l'attention qu'ils portent aux d&eacute;tails et pour une tendance culturelle &agrave; la contemplation.</p>\n<p><strong>Physiologie :</strong> les C&eacute;r&eacute;ens sont des mammif&egrave;res &agrave; l'anatomie proche de celle des humains. Les diff&eacute;rences les plus notables sont la pr&eacute;sence d'un cr&acirc;ne allong&eacute; et conique pour loger leur structure c&eacute;r&eacute;brale binaire, ainsi qu'une paire de coeurs qui am&eacute;liore leur circulation. Ils disposent en revanche d'une coordination motrice l&eacute;g&egrave;rement moins efficace que celle des humains.</p>\n<p>Les C&eacute;r&eacute;ens manifestent un dimorphisme sexuel inhabituel. Il na&icirc;t vingt fois plus de femmes que d'hommes. De plus, ces derniers vieillissent plus rapidement. En cons&eacute;quence, les C&eacute;r&eacute;ennes sont de loin les plus nombreuses sur leur monde.</p>\n<p><strong>Soci&eacute;t&eacute; :</strong> la culture c&eacute;r&eacute;enne est bas&eacute;e sur la pr&eacute;servation des r&eacute;gions sauvages de leur monde natal et sur une vie en harmonie avec la nature. La m&eacute;ditation joue un r&ocirc;le central dans l'existence des C&eacute;r&eacute;ens, souvent en conjonction avec les cristaux kasha. Ces pierres les aident &agrave; se calmer et &agrave; purifier leur esprit, et ceux qui s'en servent exploitent mieux leurs &eacute;nergies naturelles.</p>\n<p>Sans doute en raison du d&eacute;s&eacute;quilibre entre les sexes, la soci&eacute;t&eacute; c&eacute;r&eacute;enne est essentiellement matriarcale. Le gouvernement est dirig&eacute; par un pr&eacute;sident qui travaille avec un Conseil des Anciennes. Les d&eacute;cisions sont prises apr&egrave;s de longues discussions au cours desquelles les probl&egrave;mes sont diss&eacute;qu&eacute;s sous diff&eacute;rents angles, avec un effort concert&eacute; pour tendre vers l'objectivit&eacute;. Une fois que le conseil a pris sa d&eacute;cision, elle est d&eacute;finitive, sans aucune possibilit&eacute; d'appel. Les C&eacute;r&eacute;ens, profondement convaincus de leur infaillibilit&eacute;, consid&egrave;rent que le Conseil a toujours raison. Il reste n&eacute;anmoins possible de r&eacute;viser une d&eacute;cision si les circonstances changent ou si des faits nouveaux apparaissent.</p>\n<p>La tradition joue un grand r&ocirc;le dans la vie des Cer&eacute;ens, en commen&ccedil;ant par leur nom. Ternaire, il d&eacute;rive de ceux de leurs parents et grands-parents. Leur style vestimentaire, &eacute;tabli au fil des si&egrave;cles, est &eacute;galement tr&egrave;s traditionnel. Nombreux sont ceux qui apprennent &agrave; manier le shyarn, une antique &eacute;p&eacute;e courbe. Les duellistes se concentrent souvent sur un style de combat tr&egrave;s artistique et stylis&eacute; qui leur sert &agrave; lib&eacute;rer leur agressivit&eacute;. Certains affirment que cette catharsis joue un r&ocirc;le cl&eacute; dans la pr&eacute;servation d'une soci&eacute;t&eacute; paisible.</p>\n<p><strong>Monde d'origine :</strong> C&eacute;r&eacute;a est un monde de la Bordure M&eacute;diane aux fortes tendances isolationnistes. Historiquement, c'&eacute;tait un paradis verdoyant. Lors de la Guerre des Clones, C&eacute;r&eacute;a a opt&eacute; pour la neutralit&eacute;. En revanche, la plan&egrave;te a accueilli de nombreux r&eacute;fugi&eacute;s, les installant dans des enclaves, ce qui cr&eacute;a de fortes pressions d&eacute;mographiques et d&eacute;clencha des chocs culturels. Depuis la guerre, C&eacute;r&eacute;a s'efforce de rester isol&eacute;e du reste de la galaxie.</p>\n<p><strong>Langue :</strong> tous les C&eacute;r&eacute;ens apprennent le basic en plus de leur propre langue. Le c&eacute;r&eacute;en utilise des arr&ecirc;ts glottaux et comporte de nombreux mots compos&eacute;s, qui peuvent etre tr&egrave;s longs.</p>\n<p><strong>Perception de la Force :</strong> les C&eacute;r&eacute;ens manifestent une pr&eacute;disposition culturelle pour la m&eacute;diation et la contemplation, ce qui a certainement jou&eacute; un r&ocirc;le dans leur tendance &agrave; se lier &agrave; la Force. Leur talent pour l'analyse leur conf&egrave;re &eacute;galement un degr&eacute; d'intuition qui ressemble &agrave; la pr&eacute;cognition ma&icirc;tris&eacute;e par certains utilisateurs de la Force. Les l&eacute;gendes sugg&egrave;rent que certains Jedi c&eacute;r&eacute;ens particuli&egrave;rement accomplis se sont montr&eacute;s capables d'utiliser leur cerveau binaire pour explorer simultan&eacute;ment les c&ocirc;t&eacute;s lumineux et obscur de l'&eacute;nergie mystique.</p>\n<h3>Capacit&eacute;s sp&eacute;ciales</h3>\n<p><strong>Capacit&eacute; sp&eacute;ciale&nbsp;</strong>: les C&eacute;r&eacute;ens commencent le jeu avec 1 rang en Vigilance. Ils ne peuvent cependant pas d&eacute;passer le rang 2 dans cette comp&eacute;tence &agrave; la cr&eacute;ation de personnage.</p>\n<p><strong>@UUID[Compendium.star-wars-compendium-fr.capacites.Item.jeVilC0Z6JvPQODL]{Traitement binaire} :&nbsp;</strong>les C&eacute;r&eacute;ens consid&egrave;rent toutes les comp&eacute;tences de Connaissance comme des comp&eacute;tences de carri&egrave;re.</p>\n<div class=\"journal-side-block\">\n<h5>Les Citadelles des &eacute;trangers</h5>\n<p dir=\"auto\"><span class=\"first-letter\">A</span>pr&egrave;s la bataille de C&eacute;r&eacute;a et la mise &agrave; mort du Ma&icirc;tre Jedi c&eacute;r&eacute;en Ki-Adi-Mundi, abattu par ses propres troupes au cours des purges Jedi, la plan&egrave;te s'est repli&eacute;e sur elle-m&ecirc;me afin de soigner ses blessures. Historiquement, les C&eacute;r&eacute;ens ont tendance &agrave; se m&eacute;fier des &eacute;trangers.</p>\n<p dir=\"auto\">Les repr&eacute;sentants de ce peuple ont toujours tent&eacute; de pr&eacute;server l'harmonie, &agrave; la fois avec leur environnement et entre eux. En cons&eacute;quence, ils limitent la quantit&eacute; de technologie &agrave; laquelle ils ont recours dans leur vie quotidienne, surtout si elle peut nuire &agrave; l'&eacute;cologie de leur plan&egrave;te. Les C&eacute;r&eacute;ens font &eacute;galement l'impossible pour limiter l'impact des &eacute;trangers sur leur monde. Les immigrants sont donc dirig&eacute;s vers les Citadelles des &Eacute;trangers. Ces vastes structures dominent le paysage avoisinant. &Agrave; l'int&eacute;rieur de leurs quartiers &eacute;troits et encombr&eacute;s, les non-C&eacute;r&eacute;ens sont libres de vivre sans respecter les r&egrave;gles strictes de leurs h&ocirc;tes concernant la technologie d'outre-ciel et la pollution. Il va de soi que cette attitude a permis aux Citadelles de devenir des paradis du vice et du crime.</p>\n</div>\n</div>",
+    "attributes": {
+      "Brawn": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Brawn"
+      },
+      "Agility": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Agility"
+      },
+      "Intellect": {
+        "value": 3,
+        "modtype": "Characteristic",
+        "mod": "Intellect"
+      },
+      "Cunning": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Cunning"
+      },
+      "Willpower": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Willpower"
+      },
+      "Presence": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Presence"
+      },
+      "Wounds": {
+        "value": 10,
+        "modtype": "Stat",
+        "mod": "Wounds"
+      },
+      "Strain": {
+        "value": 13,
+        "modtype": "Stat",
+        "mod": "Strain"
+      },
+      "attr1746537614185": {
+        "modtype": "Skill Rank",
+        "value": 1,
+        "mod": "Vigilance"
+      },
+      "attr1746537649203": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Core Worlds"
+      },
+      "attr1746537702204": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Education"
+      },
+      "attr1746537812684": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Lore"
+      },
+      "attr1746537818336": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Outer Rim"
+      },
+      "attr1746537827715": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Underworld"
+      },
+      "attr1746537838184": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Warfare"
+      },
+      "attr1746537844702": {
+        "modtype": "Career Skill",
+        "value": 1,
+        "mod": "Knowledge: Xenology"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 54"
+      ]
+    },
+    "talents": {},
+    "abilities": {
+      "jeVilC0Z6JvPQODL": {
+        "name": "Traitement binaire",
+        "system": {
+          "description": "<p>Les C&eacute;r&eacute;ens consid&egrave;rent toutes les comp&eacute;tences de Connaissance comme des comp&eacute;tences de carri&egrave;re.</p>"
+        }
+      }
+    },
+    "species": {},
+    "startingXP": 90
+  },
+  "effects": [
+    {
+      "name": "attr1746537614185",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.rank",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "9lJtBZmSZCwrty4d",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365259,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.9lJtBZmSZCwrty4d"
+    },
+    {
+      "name": "attr1746537649203",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Core Worlds.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "EQkwWJyKTZZGoRlH",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365264,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.EQkwWJyKTZZGoRlH"
+    },
+    {
+      "name": "attr1746537702204",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Education.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "O65vzVpFN0jC4FLy",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365270,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.O65vzVpFN0jC4FLy"
+    },
+    {
+      "name": "attr1746537812684",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "dvw5mjveb3PZ7haz",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365273,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.dvw5mjveb3PZ7haz"
+    },
+    {
+      "name": "attr1746537818336",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Outer Rim.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "RW9mCfUY3EJThbBK",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365279,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.RW9mCfUY3EJThbBK"
+    },
+    {
+      "name": "attr1746537827715",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Underworld.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "Xktz08py2YCeDFb4",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365282,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.Xktz08py2YCeDFb4"
+    },
+    {
+      "name": "attr1746537838184",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Warfare.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "UIXCYNTWzbt2yydx",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365285,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.UIXCYNTWzbt2yydx"
+    },
+    {
+      "name": "attr1746537844702",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Xenology.careerskill",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "OjsXBzXJH0LPGuuQ",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883948612,
+        "modifiedTime": 1770807365291,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!ctTeTOO27tntrJoa.OjsXBzXJH0LPGuuQ"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1746536352155,
+    "modifiedTime": 1773149751094,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!ctTeTOO27tntrJoa"
+}
