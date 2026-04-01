@@ -1,0 +1,71 @@
+{
+  "folder": "TGOnBKxNSJGSIjob",
+  "name": "Peur",
+  "type": "obligation",
+  "_id": "sHr0wAVj8tkUVMmL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>La ligne qui sépare la prudence de la peur est mince. Parfois, le personnage passe tellement de temps à évaluer les risques qu'il en oublie d'agir. À d'autres moments, la prudence le pousse à fuir avant que le danger ne se présente, alors qu'une action plus déterminée aurait été récompensée.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Weakness"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770743710757,
+    "modifiedTime": 1770743729182,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!sHr0wAVj8tkUVMmL"
+}

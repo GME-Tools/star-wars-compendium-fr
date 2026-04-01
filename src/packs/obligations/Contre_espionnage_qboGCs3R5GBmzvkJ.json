@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Contre-espionnage",
+  "type": "obligation",
+  "_id": "qboGCs3R5GBmzvkJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le PJ sait que la survie de l’Alliance dépend de son aptitude à se soustraire au regard de l’Empire afin d’éviter d’être annihilée par la supériorité militaire de son ennemi. C’est dans cette perspective qu’il traque et élimine les menaces et agents impériaux, qu’il fournit des renseignements erronés aux réseaux de l’Empire et qu’il s’emploie à camoufler les agissements de l’Alliance.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770738998396,
+    "modifiedTime": 1770739024295,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!qboGCs3R5GBmzvkJ"
+}

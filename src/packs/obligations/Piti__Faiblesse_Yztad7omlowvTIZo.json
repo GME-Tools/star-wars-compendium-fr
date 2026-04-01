@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "N0mNvC8HyVY8OCYK",
+  "name": "Pitié/Faiblesse",
+  "color": null,
+  "sorting": "a",
+  "_id": "Yztad7omlowvTIZo",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!Yztad7omlowvTIZo"
+}

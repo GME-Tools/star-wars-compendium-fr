@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "N0mNvC8HyVY8OCYK",
+  "name": "Compassion/Haine",
+  "color": null,
+  "sorting": "a",
+  "_id": "5R8qyKiSst5G5vLD",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!5R8qyKiSst5G5vLD"
+}

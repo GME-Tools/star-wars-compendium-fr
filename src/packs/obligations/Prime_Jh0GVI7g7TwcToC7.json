@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Prime",
+  "type": "obligation",
+  "_id": "Jh0GVI7g7TwcToC7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Pour une raison ou une autre, la tête du personnage est mise à prix. Il peut s’agir d’un mandat d’arrêt officiel ou d’un contrat lancé par des criminels, une agence de renseignement, ou même quelqu’un qui a le sentiment qu’on a bafoué son honneur.</p><p>Ce que le PJ a fait exactement dépend de son histoire, et la gravité de ses actes peut être basée sur l’importance de son Obligation.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770742039673,
+    "modifiedTime": 1770742081348,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!Jh0GVI7g7TwcToC7"
+}

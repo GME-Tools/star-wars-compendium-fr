@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Obtention de ressources",
+  "type": "obligation",
+  "_id": "EoR7P77WjAH5u8Xc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>On n’a jamais assez de moyens pour épauler ceux qui affrontent le mastodonte impérial, ce que le PJ comprend mieux que quiconque. Il se consacre à la recherche de nouvelles sources de matières premières, de nourriture, de vêtements, d’armes, d’armures et d’équipement en tout genre. Une caisse égarée de médipacks peut sauver de nombreuses vies, tandis qu’une poignée de comlinks peut éviter l’échec cuisant d’une mission. Le PJ est prêt à négocier, quémander, emprunter et voler n’importe quoi, si c’est pour servir la cause.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770739242454,
+    "modifiedTime": 1770739263637,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!EoR7P77WjAH5u8Xc"
+}

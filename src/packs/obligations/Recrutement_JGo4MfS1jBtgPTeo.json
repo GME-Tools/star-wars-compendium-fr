@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Recrutement",
+  "type": "obligation",
+  "_id": "JGo4MfS1jBtgPTeo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>L’affrontement contre l’Empire est en définitive une guerre d’usure, type de conflit que la Rébellion ne peut espérer remporter. Il n’en reste pas moins que des effectifs importants sont nécessaires. L’armée a besoin de soldats et de pilotes, certes, mais aussi de techniciens, d’ingénieurs, de mécaniciens, de scientifiques, de médecins, de slicers, d’innombrables autres domaines d’expertise. Ce personnage joueur est conscient des risques inhérents au recrutement, mais aussi de sa nécessité. Il est constamment à l’affût d’alliés potentiels, d’individus talentueux et dignes de confiance.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770739204666,
+    "modifiedTime": 1770739227195,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!JGo4MfS1jBtgPTeo"
+}

@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Supériorité spatiale",
+  "type": "obligation",
+  "_id": "bi3LD5xRyGkhX2X9",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>À l’image du PJ aguillonné par les victoires terrestres et les affrontements entre soldats, ce personnage joueur est stimulé par les conflits navals. À ses yeux, la guerre se gagnera parmi les étoiles et l’Alliance compense ses effectifs réduits par la qualité et la ténacité de ses pilotes. Chaque bataille spatiale est une occasion de montrer au reste de la galaxie que l’Alliance peut non seulement remporter la guerre, mais que tel est son destin.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770739312581,
+    "modifiedTime": 1770739336110,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!bi3LD5xRyGkhX2X9"
+}

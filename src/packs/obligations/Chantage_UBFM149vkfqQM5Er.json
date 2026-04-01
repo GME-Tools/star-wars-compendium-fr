@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Chantage",
+  "type": "obligation",
+  "_id": "UBFM149vkfqQM5Er",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quelqu’un a découvert un des pires secrets du PJ et s’en sert pour en tirer quelque chose. Pire encore, le maître chanteur dispose de preuves qui pourraient fuiter : une holovidéo, une banque de données, une arme utilisée lors d’un crime, etc.</p><p>Pour protéger son secret, le personnage doit faire ce qu’on lui dit, mais le maître chanteur est assez malin pour se limiter à des exigences relativement simples, afin de pouvoir profiter de l’extorsion le plus longtemps possible, en demandant généralement de l’argent ou des faveurs.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741994534,
+    "modifiedTime": 1770742025838,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!UBFM149vkfqQM5Er"
+}

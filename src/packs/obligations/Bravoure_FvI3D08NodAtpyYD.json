@@ -1,0 +1,71 @@
+{
+  "folder": "f6K6BZl8m2G41U4U",
+  "name": "Bravoure",
+  "type": "obligation",
+  "_id": "FvI3D08NodAtpyYD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>La bravoure du personnage est remarquable. Qu'il charge un rancor en furie ou qu'il s'engouffre dans un immeuble en flammes pour sauver des innocents, il est toujours prêt à prendre des risques pour sauver autrui.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Strength"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770743426495,
+    "modifiedTime": 1770743487393,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!FvI3D08NodAtpyYD"
+}

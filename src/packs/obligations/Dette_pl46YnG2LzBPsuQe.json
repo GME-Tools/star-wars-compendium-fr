@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Dette",
+  "type": "obligation",
+  "_id": "pl46YnG2LzBPsuQe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le PJ doit quelque chose à quelqu’un, qu’il s’agisse d’argent ou d’autre chose. Peut-être a-t-il contracté une énorme dette de jeu auprès d’un Hutt, ou n’a-t-il pas payé son vaisseau à la Corporation Czerka.</p><p>Pour ne rien arranger, en fonction de son débiteur, rembourser ne suffira peut-être pas à se tirer d’affaire (après tout, s’il a réussi à réunir l’argent une fois, il peut sans doute le refaire).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770742144595,
+    "modifiedTime": 1770742188175,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!pl46YnG2LzBPsuQe"
+}

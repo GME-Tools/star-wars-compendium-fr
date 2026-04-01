@@ -1,0 +1,71 @@
+{
+  "folder": "1s9ralXeX8OFqrbI",
+  "name": "Témérité",
+  "type": "obligation",
+  "_id": "PG9ZHQ7Wq8orDciY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Bien sûr, parfois, cinq minutes de réflexion vous évitent de commettre une grosse erreur. Le personnage a eu l'occasion de s'en apercevoir dans la douleur. À force d'être téméraire, il s'est retrouvé dans des situations dangereuses ou à la merci d'individus plus calculateurs.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Weakness"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770743827367,
+    "modifiedTime": 1770743842288,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!PG9ZHQ7Wq8orDciY"
+}

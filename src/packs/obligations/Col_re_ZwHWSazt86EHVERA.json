@@ -1,0 +1,71 @@
+{
+  "folder": "f6K6BZl8m2G41U4U",
+  "name": "Colère",
+  "type": "obligation",
+  "_id": "ZwHWSazt86EHVERA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Il n'est pas toujours bon d'avoir le sang chaud. Le personnage est prompt à se fâcher, et quand il ne peut pas résoudre un problème de manière directe, la frustration peut le rendre fou de rage.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Weakness"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770743498640,
+    "modifiedTime": 1770743531282,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!ZwHWSazt86EHVERA"
+}

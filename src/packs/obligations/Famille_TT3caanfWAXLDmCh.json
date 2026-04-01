@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Famille",
+  "type": "obligation",
+  "_id": "TT3caanfWAXLDmCh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le PJ entretient des liens étroits avec sa famille, ce qui nécessite beaucoup de temps et d’attention.</p><p>Il veille sur une fratrie ou des parents, gère un héritage, une fondation ou une affaire familiale, ou sert simplement de médiateur entre des proches en bisbille.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770742295880,
+    "modifiedTime": 1770742505949,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!TT3caanfWAXLDmCh"
+}

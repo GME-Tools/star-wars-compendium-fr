@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Victoire militaire",
+  "type": "obligation",
+  "_id": "C7XIk7sZ3gAVGlNy",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le personnage joueur est déterminé à prouver que l’Alliance est capable de tenir tête aux forces impériales dans un conflit armé terrestre. Il cherche à se retrouver face aux meilleures troupes de l’Empire afin d’accumuler les victoires pour le compte de l’Alliance et de montrer à toute la galaxie qu’elle pourra remporter la guerre. Cela passe par des assauts audacieux, une tactique irréprochable et une puissance de feu optimale.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770738512336,
+    "modifiedTime": 1770738593665,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!C7XIk7sZ3gAVGlNy"
+}

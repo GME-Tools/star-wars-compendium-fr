@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": null,
+  "name": "Obligation",
+  "color": null,
+  "sorting": "a",
+  "_id": "ufB27YkOUycb0QPn",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770738454699,
+    "modifiedTime": 1770738461956,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!ufB27YkOUycb0QPn"
+}
