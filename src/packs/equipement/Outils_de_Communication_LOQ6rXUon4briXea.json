@@ -1,0 +1,22 @@
+{
+  "name": "Outils de Communication",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "LOQ6rXUon4briXea",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747770656238,
+    "modifiedTime": 1747770656238,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!LOQ6rXUon4briXea"
+}

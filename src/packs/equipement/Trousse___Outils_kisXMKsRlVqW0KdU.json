@@ -1,0 +1,73 @@
+{
+  "folder": "fVW9Urt5T17frIrk",
+  "name": "Trousse à Outils",
+  "type": "gear",
+  "_id": "kisXMKsRlVqW0KdU",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/tools.png",
+  "system": {
+    "description": "<p>La trousse &agrave; outils reste une pi&egrave;ce d'&eacute;quipement essentielle d&egrave;s que l'on &agrave; besoin de travailler sur des syst&egrave;mes m&eacute;caniques. Avec les bons outils sous la main, il y a peu de t&acirc;ches de r&eacute;paration ou de&nbsp; construction qu'un technicien ne puisse accomplir, &agrave; condition qu'on lui en donne le temps.</p>\n<p>Les trousses &agrave; outils permettent de tenter des tests de M&eacute;canique afin de r&eacute;parer du mat&eacute;riel endommag&eacute; et m&ecirc;me de &laquo; soigner &raquo; des droīdes.</p>\n<p><strong>Mod&egrave;les typiques : </strong>Trousse &agrave; outils 20 pi&egrave;ces du m&eacute;canicien de l'espace, de Regalis Engineering</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.190"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 4,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 350,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748181677265,
+    "modifiedTime": 1748182319433,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!kisXMKsRlVqW0KdU"
+}

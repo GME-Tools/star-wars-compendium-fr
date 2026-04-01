@@ -1,0 +1,84 @@
+{
+  "folder": "ZdbWLZXNFBBCNOY6",
+  "name": "Yeux Cybernétiques",
+  "type": "gear",
+  "_id": "RM6SvkkKnIocO2lg",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/dillon-punko-untitled-7.jpg",
+  "system": {
+    "description": "<p>Les yeux cybern&eacute;tiques ont &eacute;t&eacute; con&ccedil;us pour rendre la vue aux aveugles. Bien qu'ils solent visiblement artificiels, ces organes cybern&eacute;tiques offrent &agrave; ceux qui les poss&egrave;dent une acuit&eacute; visuelle sans pareille.</p>\n<p>Les personnages &eacute;quip&eacute;s d'yeux cybern&eacute;tiques gagnent + 1 et Vigilance et + 1 en Perception.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Yeux cybern&eacute;tiques SharpEyes de Athakam MedTech</p>",
+    "attributes": {
+      "attr1747986017758": {
+        "modtype": "Skill Rank",
+        "value": 1,
+        "mod": "Vigilance"
+      },
+      "attr1747986018068": {
+        "modtype": "Skill Rank",
+        "value": 1,
+        "mod": "Perception"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.184"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 7500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747985625553,
+    "modifiedTime": 1747989368229,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!RM6SvkkKnIocO2lg"
+}

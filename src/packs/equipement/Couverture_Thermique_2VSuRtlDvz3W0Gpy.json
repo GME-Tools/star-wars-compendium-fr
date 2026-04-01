@@ -1,0 +1,73 @@
+{
+  "folder": "QVxR8HywBdXmtsAz",
+  "name": "Couverture Thermique",
+  "type": "gear",
+  "_id": "2VSuRtlDvz3W0Gpy",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/Thermalcape.jpg",
+  "system": {
+    "description": "<p>Indispensables pour les esp&egrave;ces qui craignent les temp&eacute;ratures extr&ecirc;mes (froid glacial ou chaleur torride), les couvertures thermiques servent aussi bien de manteau en journ&eacute;e que de couverture la nuit ou m&ecirc;me d'abri.</p>\n<p>Elles permettent d'ignorer jusqu'a deux d&eacute;s d'infortune [SE][SE] impos&eacute;s par des temp&eacute;ratures extr&ecirc;mes.</p>\n<p><strong>Modeles typiques :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.189"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 2,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 200,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748160857195,
+    "modifiedTime": 1748161810856,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!2VSuRtlDvz3W0Gpy"
+}

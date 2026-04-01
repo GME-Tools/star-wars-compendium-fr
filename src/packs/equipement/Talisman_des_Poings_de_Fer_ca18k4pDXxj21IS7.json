@@ -1,0 +1,73 @@
+{
+  "folder": "W8gjzhmVB7lc8S0E",
+  "name": "Talisman des Poings de Fer",
+  "type": "gear",
+  "_id": "ca18k4pDXxj21IS7",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/talisman.png",
+  "system": {
+    "description": "<p>Au fil des si&egrave;cles, de nombreuses traditions guerri&egrave;res ont employ&eacute; le pouvoir de la Force. Les Jedi et les Sith sont les plus connus, mais contrairement &agrave; ces deux ordres qui se servaient de sabres laser, d'autres se sont tourn&eacute;s vers le combat &agrave; mains nues et l'accomplissement de prouesses physiques capables de transformer le corps de leurs adeptes en arme redoutable. Le Talisman des Poings de Fer provient d'une de ces traditions : il canalise l'energie de la Force dans la chair de son porteur, rendant son corps aussi dur que l'acier.</p>\n<p>Si le porteur de ce talisman est sensible &agrave; la Force, il gagne l'attribut Cortosis. Cela signifie que toute armure qu'il porte et toutes les attaques de Pugilat qu'il entreprend b&eacute;n&eacute;ficient de cet attribut. De plus, ses attaques de Pugilat poss&egrave;dent d&eacute;sormais l'attribut Perforant X, o&ugrave; X est &eacute;gal &agrave; sa valeur de Force actuelle.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.190"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 8000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 10,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748188643882,
+    "modifiedTime": 1748188862687,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!ca18k4pDXxj21IS7"
+}

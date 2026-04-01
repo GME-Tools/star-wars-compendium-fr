@@ -1,0 +1,79 @@
+{
+  "folder": "ZdbWLZXNFBBCNOY6",
+  "name": "Jambes Cybernétiques Mod II",
+  "type": "gear",
+  "_id": "HNBrjAopU33zQ6AU",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/cybernetics_leg.png",
+  "system": {
+    "description": "<p>Pour aider les personnes qui ont perdu une jambe &agrave; cause d'une maladie ou lors d'un accident, nombre de compagnies produisent des substituts cybern&eacute;tiques.&nbsp;Contrairement aux bras cybern&eacute;tiques, les jambes cybern&eacute;tiques doivent &ecirc;tre achet&eacute;es et install&eacute;es par paire. La plupart ne sont que de simpies substituts adapt&eacute;s &agrave; la morphologie du patient, mais d'autres, plus &eacute;volu&eacute;es, peuvent accro&icirc;tre la force et l'agilit&ecirc; de la m&ecirc;me mani&egrave;re que les bras cybern&eacute;tiques.</p>\n<p>Les jambes cybernetiques Mod Il conf&egrave;rent +1 en Vigueur et les Mod III +1 en Agilit&eacute;. Les deux jambes doivent &ecirc;tre remplac&eacute;es pour tirer parti de cet avantage.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Jambes cybern&eacute;tiques Mod Il et Mod Ill de BioTech</p>",
+    "attributes": {
+      "attr1747986146491": {
+        "modtype": "Characteristic",
+        "value": 1,
+        "mod": "Brawn"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.184"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 10000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747985549511,
+    "modifiedTime": 1747989306963,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!HNBrjAopU33zQ6AU"
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "WQlYAJzzbCfrVDC0",
+  "name": "Electrojumelles",
+  "type": "gear",
+  "_id": "1kfXDC9g0saVeKik",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/macrobinoculars.png",
+  "system": {
+    "description": "<p>Les &eacute;lectrojumelles sont des macrojumelles pourvues d'un ou plusieurs syst&egrave;mes d'ameliorations optiques, comme un zoom digital &agrave; longue distance, une amplification de lumi&egrave;re passive, une imagerie thermique, une imagerie &agrave; ultrasons, etc. Elles disposent presque toutes de filtres permettant d'ajuster le niveau de lumi&egrave;re ambiante et certaines sont pourvues d'une fonction d'enregistrement et de rediffusion.</p>\n<p>En termes de jeu, les &eacute;lectrojumelles permettent de voir normalement lorsque la lumi&egrave;re est tr&egrave;s faible ou tr&egrave;s intense, et peuvent zoomer sur une dizaine de kilometres. Les personnages qui les utilisent ignorent un [SE]&nbsp;impos&eacute; aux tests de Perception par la distance ou les mauvaises conditions d'&eacute;clairage.</p>\n<p><strong>Mod&egrave;les typiques :</strong> &Eacute;lectrojumelles Neuro-Saav Modele TD2.3 &laquo; Longue-vue &raquo; Fabritech, TaggeCo Mod&egrave;le 3 de l'arm&eacute;e imp&eacute;riale.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.185"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 250,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748007569002,
+    "modifiedTime": 1748007748655,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!1kfXDC9g0saVeKik"
+}

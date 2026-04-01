@@ -1,0 +1,22 @@
+{
+  "name": "Matériel d'Infiltration et de Sécurité",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "zbp2sK5vC6HpiXbK",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748158190586,
+    "modifiedTime": 1748158190586,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!zbp2sK5vC6HpiXbK"
+}

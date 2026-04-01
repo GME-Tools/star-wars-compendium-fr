@@ -1,0 +1,73 @@
+{
+  "folder": "ZdbWLZXNFBBCNOY6",
+  "name": "Prothèse réplique (organe)",
+  "type": "gear",
+  "_id": "zOVPALca78Xo2sSH",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/cybernetics.png",
+  "system": {
+    "description": "<p>Compte tenu de la violence qui r&egrave;gne partout dans la galaxie et de la puissance des armes qu'on y trouve, rares sont ceux qui parviennent &agrave; sortir indemnes d'une rixe ou d'un combat. Perdants comme&nbsp; vainqueurs y laissent souvent des doigts, des jambes, un organe interne et m&ecirc;me parfois la vue. Le clonage et les r&eacute;g&eacute;n&eacute;rateurs de tissus peuvent toujours soigner les blessures, mais ces technologies sont souvent ill&eacute;gales et presque toujours hors de prix. La plupart des mutil&eacute;s finissent par se rabattre sur la cybern&eacute;tique.</p>\n<p>Les proth&egrave;ses r&eacute;pliques sont un choix id&eacute;al pour les individus qui recherchent du haut de gamme, et celles propos&eacute;es par BioTech comptent parmi les plus populaires. Elles sont con&ccedil;ues pour remplacer un membre ou un organe et recouvertes de chair synth&eacute;tique afin de ne rien laisser paraitre de leur v&eacute;ritable nature.</p>\n<p>Les membres et les organes vitaux (y compris les oreilles, les yeux, le c&oelig;ur, le foie et les poumons) peuvent tous &ecirc;tre remplac&eacute;s par leurs &eacute;quivalents synth&eacute;tiques. Ces proth&egrave;ses ne conf&egrave;rent ni bonus ni am&egrave;lioration, mais redonnent aux personnages leurs fonctions physiques et vitales normales. Elles sont divis&eacute;es en deux gammes de prix : une pour les membres de replacement et une pour les organes. Cela dit, le MJ est libre de modifier les tarifs selon les besoins de l'histoire.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Proth&egrave;ses r&eacute;pliques des industries BioTech</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.184"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 4,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747985607418,
+    "modifiedTime": 1747989717344,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!zOVPALca78Xo2sSH"
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "QVxR8HywBdXmtsAz",
+  "name": "Masque Respiratoire et Respirateur",
+  "type": "gear",
+  "_id": "vOQ4A5W7EPzAvDAM",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/breath_mask.png",
+  "system": {
+    "description": "<p>Con&ccedil;us pour permettre aux individus de diff&eacute;rentes esp&egrave;ces de respirer dans une atmosph&egrave;re autrement&nbsp;toxique pour eux, les masques respiratoires sont l'&eacute;quipement de survie le plus fr&eacute;quent. Les plus basiques sont de petits appareils &agrave; enfoncer dans les narines pour filtrer les toxines et les pathog&egrave;nes a&eacute;robies. Les mod&egrave;les plus sophistiqu&eacute;s recouvrent tout ou partie du visage et disposent de r&eacute;glages permettant d'ajuster le m&eacute;lange et la pression des gaz dispens&eacute;s. Certains sont pr&eacute;vus pour le milieu aquatique et poss&egrave;dent soit des branchies synth&eacute;tiques (qui extraient de l'oxyg&egrave;ne respirable), soit des r&eacute;serves de gaz destin&eacute;s &agrave; l'esp&egrave;ce du porteur.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Vagabond-6 de Gandorthral Atmosph&eacute;rique</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.188"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 25,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748160422985,
+    "modifiedTime": 1748161836119,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!vOQ4A5W7EPzAvDAM"
+}

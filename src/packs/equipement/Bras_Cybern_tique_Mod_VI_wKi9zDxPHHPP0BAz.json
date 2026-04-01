@@ -1,0 +1,79 @@
+{
+  "folder": "ZdbWLZXNFBBCNOY6",
+  "name": "Bras Cybernétique Mod VI",
+  "type": "gear",
+  "_id": "wKi9zDxPHHPP0BAz",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/cybernetics_arm.png",
+  "system": {
+    "description": "<p>BioTech est un des plus grands producteurs de mat&eacute;riel cybem&eacute;tique de la galaxie : ses proth&egrave;ses de bras existent pour des centaines d'esp&egrave;ces humanoides. Elles conf&eacute;rent plus de force (dans le cas des Mod V) ou plus de dext&eacute;rit&eacute; (dans le cas des Mod VI), et bien qu'ils soient a l'origine con&ccedil;us &agrave; des fins m&eacute;dicales, ces &eacute;quipements servent aussi &agrave; tous ceux qui souhaitent simplement remplacer leurs membres organiques par des appendices m&eacute;caniques.</p>\n<p>Les bras cybern&eacute;tiques Mod V conf&egrave;rent +1 en Vigueur et les Mod VI +1 en Agilite. Lorsqu'un personnage remplace ses deux bras, il doit utiliser deux fois le m&ecirc;me mod&egrave;ie, car ces appareils sont con&ccedil;us pour fonctionner par paire. Le bonus, lui, ne double pas.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Bras cybern&eacute;tiques Mod V et Mod VI de BioTech</p>",
+    "attributes": {
+      "attr1747985875687": {
+        "modtype": "Characteristic",
+        "value": 1,
+        "mod": "Agility"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.184"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 10000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747985763272,
+    "modifiedTime": 1747989248455,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!wKi9zDxPHHPP0BAz"
+}

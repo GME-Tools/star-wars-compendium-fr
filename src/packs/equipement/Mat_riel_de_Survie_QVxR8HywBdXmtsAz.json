@@ -1,0 +1,22 @@
+{
+  "name": "Matériel de Survie",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "QVxR8HywBdXmtsAz",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748160406475,
+    "modifiedTime": 1748160406475,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!QVxR8HywBdXmtsAz"
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "fVW9Urt5T17frIrk",
+  "name": "Bâton Luisant",
+  "type": "gear",
+  "_id": "hYR4NEK02muDjQef",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/glow_rod.png",
+  "system": {
+    "description": "<p>Tenu a la main, un b&acirc;ton luisant produit un &eacute;clairage directionnel qui sert dans toutes sortes de situations. En effet, ce petit objet projette un faisceau de lumi&egrave;re vive de port&eacute;e tout &agrave; fait respectable.</p>\n<p><strong>Mod&egrave;les typiques :</strong> De tr&egrave;s nombreuses versions.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.190"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 10,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748181628058,
+    "modifiedTime": 1748182265381,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!hYR4NEK02muDjQef"
+}

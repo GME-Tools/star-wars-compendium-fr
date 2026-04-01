@@ -1,0 +1,79 @@
+{
+  "folder": "W8gjzhmVB7lc8S0E",
+  "name": "Masque de Démon",
+  "type": "gear",
+  "_id": "Jku1IHPBx6jIWiNH",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/demon_mask.jpg",
+  "system": {
+    "description": "<p>Chaque culture de la galaxie conna&icirc;t des histoires de monstres effrayants dot&eacute;s de pouvoirs surnaturels. Bien qu'il s'agisse la plupart du temps de simples contes, certains disciples du cot&eacute; obscur ont adopt&eacute; l'imagerie associ&eacute;e &agrave; ces cr&eacute;atures dans le but de r&eacute;pandre la peur dans le c&oelig;ur de leurs ennemis et de renforcer la d&eacute;termination dans celui de leurs suivants. Parfois port&eacute;s par&nbsp;des g&eacute;n&eacute;rations d'adeptes du mal, des masques de d&eacute;mon se sont vus investis d'une parcelle d'&eacute;nergie obscure et procurent depuis certains pouvoirs &agrave; leurs porteurs.</p>\n<p>Un personnage sensible &agrave; la Force qui porte un masque de d&eacute;mon augmente son seuil de blessure de 2 points s'il s'agit d'un utilisateur du cot&eacute; obscur. Les individus qui doivent effectuer un test de Sang-froid pour r&eacute;sister &agrave; la peur caus&eacute;e par le personnage qui arbore le masque souffrent d'un nombre de [SE] &eacute;gal &agrave; sa valeur de Force.</p>",
+    "attributes": {
+      "attr1748188503865": {
+        "modtype": "Stat",
+        "value": 2,
+        "mod": "Wounds"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.190"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 4000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 10,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748188411192,
+    "modifiedTime": 1748188624266,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Jku1IHPBx6jIWiNH"
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "QVxR8HywBdXmtsAz",
+  "name": "Kit de Survie pour Etendues Sauvages",
+  "type": "gear",
+  "_id": "3rvb0iEGEUR7xZqV",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/Survival_pack.jpg",
+  "system": {
+    "description": "<p>Emporter un kit de survie constitue une pr&eacute;caution n&eacute;cessaire pour tous ceux qui voyagent r&eacute;guli&egrave;rement dans les &eacute;tendues sauvages. La plupart incluent le mat&eacute;riel&nbsp;suivant : une couverture thermique, un outil multifonction ou un couteau de combat, une balise de d&eacute;tresse, deux comlinks d'urgence, une bobine de cable, des rations en barres, un m&eacute;dipack, deux respirateurs, un bidon avec filtre, un baton luisant, cinquante m&egrave;tres de ligne microfibre ultrar&eacute;sistante, dix packs de rations et<br>un pistolet de d&eacute;tresse.</p>\n<p><strong>Mod&egrave;les typiques</strong> : Wanderkit de Pretormin Environmental</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.188"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 5,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 350,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1748160704392,
+    "modifiedTime": 1767627515458,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!3rvb0iEGEUR7xZqV"
+}

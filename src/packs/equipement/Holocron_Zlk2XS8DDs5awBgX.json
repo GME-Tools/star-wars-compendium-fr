@@ -1,0 +1,73 @@
+{
+  "folder": "W8gjzhmVB7lc8S0E",
+  "name": "Holocron",
+  "type": "gear",
+  "_id": "Zlk2XS8DDs5awBgX",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/holocron.png",
+  "system": {
+    "description": "<p>Un holocron, ou chronique holographique, est un petit syst&egrave;me d'archivage m&eacute;cano-organique capable d'emmagasiner une quantit&eacute; formidable d'informations. Ces artefacts de la taille d'un poing furent Invent&eacute;s il y a&nbsp;bien longtemps par les Jedi et les Sith afin de stocker leurs connaissances et leur enseignement. Construits a partir de cristaux particuliers enchass&eacute;s dans une structure de m&eacute;tal pr&eacute;cieux ou de polycarbonite, ces appareils utilisent une technologie hologrammatique de pointe pour cartographier et classer les cheminements neuronaux d'un individu. En substance, chaque holocron conserve une empreinte de la m&eacute;moire et des connaissances d'un Jedi ou d'un Seigneur Sith afin qu'on puisse y acc&eacute;der.</p>\n<p>Leur contenu est disponible via un dispositif holographique avanc&eacute;, calqu&eacute; sur la personnalit&eacute; et les traits de l'individu dont l'artefact pr&eacute;serve le savoir. Ce gardien fait office d'interface utilisateur, de moteur de recherche et de syst&egrave;me de s&eacute;curit&eacute;. Une fois activ&eacute;, le petit hologramme est projet&eacute; au-dessus de l'appareil. On peut alors s'adresser au gardien afin qu'il prodigue une le&ccedil;on, r&eacute;ponde &agrave; des questions ou discute simplement. Remarquablement intelligent et observateur, il se sert des &eacute;nergies latentes de la Force pour &laquo; lire &raquo; les motivations et la personnalit&eacute; de son utilisateur. Il peut ainsi adapter son discours a l'exp&eacute;rience, aux&nbsp;comp&eacute;tences et &agrave; l'assurance que manifeste ce dernier. Certains gardiens, en particulier ceux cr&eacute;es par les Sith ou qui ont &eacute;t&eacute; corrompus par le passage des si&egrave;cles, peuvent mentir pour &eacute;garer les na&iuml;fs et ainsi provoquer des dommages irr&ecirc;m&eacute;diables.</p>\n<p>Autrefois, la plupart des holocrons se trouvaient sur Coruscant, au Temple Jedi. H&eacute;las, presque tous furent perdus durant la Grande Purge, lorsque Dark Sidious s'empara des archives et d&eacute;truisit ou confisqua tous&nbsp;ceux sur lesquels il put mettre la main. Cependant, quelques-uns &eacute;taient dispers&eacute;s dans la galaxie et s'y trouvent toujours. Mais entre la proscription qui touche les propri&eacute;taires d'artefacts Jedi et la raret&eacute; des holocrons, bien peu nombreux sont les individus qui en ont d&eacute;j&agrave; entendu parler, et ceux qui savent o&ugrave; les trouver sont encore plus rares.</p>\n<p>Trouver un holocron devrait etre l'objectif d'une qu&ecirc;te ou d'une campagne enti&egrave;re de [B]FORCE ET DESTINEE[b]. II est logique qu'un tel objet ne se trouve pas en &eacute;vidence dans les rayonnages de la boutique du coin ou pos&eacute; au milieu des archives locales. Du fait de son extr&egrave;me raret&eacute; et de sa puissance, le MJ devrait se montrer tr&egrave;s prudent en introduisant un holocron dans le jeu, car en decouvrir un peut bouleverser compl&egrave;tement la physionomie de l'histoire en cours.</p>\n<p>Selon sa nature, un holocron peut accorder de nouveaux pouvoirs de la Force, des talents basiques ou avanc&eacute;s, de nouvelles comp&eacute;tences (ou les am&eacute;liorer). Il est &eacute;galement possible qu'il puisse augmenter les d&eacute;g&acirc;ts<br>d'un type sp&eacute;cifique d'attaque (Corps &agrave; corps, Distance, Artillerie. Sabre laser, etc.) ou procurer n'importe quel bonus que le MJ jugera appropri&eacute;. La premi&egrave;re fois qu'un PJ tente d'employer un holocron donn&eacute;, il doit reussir<br>un [B]test de Connaissances (Culture) Difficile ([DI][DI][DI])[b] pour &eacute;veiller l'artefact et appeler son gardien. Une fois que l'appareil est activ&eacute;, le personnage doit passer un certain temps (d&eacute;termin&eacute; par le MJ) &agrave; &eacute;tudier l'holocron et &agrave; converser avec son gardien avant de pouvoir b&eacute;n&eacute;ficier du moindre bonus en termes de jeu. Le PJ n'a plus besoin d'effectuer de test pour activer l'objet&nbsp;les fois suivantes.</p>\n<p>Sauf mention contraire, chaque holocron accorde un b&eacute;n&eacute;fice permanent &agrave; son utilisateur : deux comp&eacute;tences, d&eacute;termin&eacute;es par le MJ, deviennent des comp&eacute;tences de carri&egrave;re tant que le PJ garde l'objet en sa possession. La nature de ces comp&eacute;tences d&eacute;pend de l'artefact en question (pour des exemples, voir @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.1np94ZtEEvHLtz2g.JournalEntryPage.wvzAIMCcpF86YaMg]{[B]table 2-7 : comp&eacute;tences des holocrons[b]}, page 109). En outre, certains accordent des bonus suppl&eacute;mentaires, parfois permanents, mais le plus souvent &agrave; usage unique. Dans certains cas, l'utilisateur peut continuer de consulter le gardien &agrave; la recherche d'informations, mais les bonus deja accord&eacute;s ne le sont pas une seconde fois.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.191"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 100000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 10,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748188871392,
+    "modifiedTime": 1749549375145,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Zlk2XS8DDs5awBgX"
+}

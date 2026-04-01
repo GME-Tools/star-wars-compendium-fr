@@ -1,0 +1,22 @@
+{
+  "name": "Implants et Améliorations Cybernétiques",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "ZdbWLZXNFBBCNOY6",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747985467378,
+    "modifiedTime": 1747985467378,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!ZdbWLZXNFBBCNOY6"
+}
