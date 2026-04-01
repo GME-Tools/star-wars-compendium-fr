@@ -1,0 +1,46 @@
+{
+  "name": "Blessure de Cauchemar",
+  "type": "criticalinjury",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">Lancez 1 d10 pour d&eacute;signer l'une des caract&eacute;ristiques de la cible : 1-3 pour Vigueur. 4-6 pour Agilit&eacute;, 7 pour Intelligence, 8 pour Ruse, 9 pour Pr&eacute;sence, 10 pour Volont&eacute;. R&eacute;duisez d'un point la caract&eacute;ristique en question, de fa&ccedil;on permanente (jusqu'a un minimum de 1)</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.225"
+      ]
+    },
+    "min": 126,
+    "max": 130,
+    "severity": "4"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766077905997,
+    "modifiedTime": 1766077926600,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_id": "NRtt28CkN8Vs7btx",
+  "sort": 1600000,
+  "_key": "!items!NRtt28CkN8Vs7btx"
+}

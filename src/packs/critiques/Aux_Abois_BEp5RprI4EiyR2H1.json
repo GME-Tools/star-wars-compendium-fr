@@ -1,0 +1,46 @@
+{
+  "name": "Aux Abois",
+  "type": "criticalinjury",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">La cible ouvre sa garde, offrant aussit&ocirc;t &agrave; l'attaquant une attaque gratuite contre elle avec la m&ecirc;me r&eacute;serve de d&eacute;s que l'attaque responsable</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.225"
+      ]
+    },
+    "min": 76,
+    "max": 80,
+    "severity": "2"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766077902132,
+    "modifiedTime": 1766077926600,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_id": "BEp5RprI4EiyR2H1",
+  "sort": 1900000,
+  "_key": "!items!BEp5RprI4EiyR2H1"
+}

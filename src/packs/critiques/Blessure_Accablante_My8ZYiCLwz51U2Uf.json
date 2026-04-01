@@ -1,0 +1,46 @@
+{
+  "name": "Blessure Accablante",
+  "type": "criticalinjury",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Prenez un point de Destin c&ocirc;t&eacute; lumineux et retournez-le c&ocirc;t&eacute; obscur (l'inverse dans le cas d'un PNJ)</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.225"
+      ]
+    },
+    "min": 26,
+    "max": 30,
+    "severity": "1"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766077904398,
+    "modifiedTime": 1766077926600,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_id": "My8ZYiCLwz51U2Uf",
+  "sort": 2000000,
+  "_key": "!items!My8ZYiCLwz51U2Uf"
+}
