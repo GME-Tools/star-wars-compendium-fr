@@ -1,0 +1,43 @@
+{
+  "name": "Vision supérieure",
+  "type": "ability",
+  "_id": "gc4bpJJvBtA9C27H",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p data-start=\"1195\" data-end=\"1411\">Quand ils effectuent un test de combat à distance ou de Perception, les Gran retirent jusqu’à [SE][SE] imposés par l’environnement ou le camouflage (mais pas par la défense de la cible).</p></div>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 57"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773150754247,
+    "modifiedTime": 1773150783512,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!gc4bpJJvBtA9C27H"
+}

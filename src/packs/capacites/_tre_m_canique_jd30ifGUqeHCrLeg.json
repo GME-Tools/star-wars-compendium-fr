@@ -1,0 +1,44 @@
+{
+  "name": "Être mécanique",
+  "type": "ability",
+  "_id": "jd30ifGUqeHCrLeg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les dro&iuml;des ne peuvent pas &ecirc;tre sensibles &agrave; la Force, ni avoir une valeur de Force. Ils ne peuvent pas employer de pouvoirs de la Force, et ne peuvent pas &ecirc;tre affect&eacute;s par les pouvoirs de la Force qui influencent l'esprit.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 46",
+        "L'Ère de la Rébellion - Livre de Règles pg. 54"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767887810756,
+    "modifiedTime": 1773149981504,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!jd30ifGUqeHCrLeg"
+}

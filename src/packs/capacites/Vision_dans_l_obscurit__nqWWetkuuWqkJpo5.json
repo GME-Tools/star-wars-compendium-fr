@@ -1,0 +1,43 @@
+{
+  "name": "Vision dans l'obscurité",
+  "type": "ability",
+  "_id": "nqWWetkuuWqkJpo5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsqu'ils effectuent des tests de comp&eacute;tence, les Kel Dors peuvent retirer jusq'&agrave; [SE][SE] impos&eacute;s par l'obscurit&eacute;.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 58"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1746975678514,
+    "modifiedTime": 1773158837525,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!nqWWetkuuWqkJpo5"
+}

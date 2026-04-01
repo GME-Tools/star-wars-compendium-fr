@@ -1,0 +1,43 @@
+{
+  "name": "Habitants du désert",
+  "type": "ability",
+  "_id": "Bj7TuPUTpKGR5Env",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsqu'ils effectuent des tests de comp&eacute;tence, les Twi'leks peuvent retirer [SE] d&ucirc; &agrave; l'aridit&eacute; ou &agrave; la chaleur.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 62"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1746982701358,
+    "modifiedTime": 1773159176475,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Bj7TuPUTpKGR5Env"
+}

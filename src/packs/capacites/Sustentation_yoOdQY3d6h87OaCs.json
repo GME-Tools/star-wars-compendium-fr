@@ -1,0 +1,41 @@
+{
+  "name": "Sustentation",
+  "type": "ability",
+  "_id": "yoOdQY3d6h87OaCs",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les Toydarians disposent d'ailes leur permettant de rester en suspension au-dessus du sol. Gr&acirc;ce &agrave; ce mode de locomotion, ils n'ont pas besoin de d&eacute;penser de man&oelig;uvre suppl&eacute;mentaire lorsqu'ils se d&eacute;placent en terrain difficile. Pour le reste, ces ailes ne leur accordent aucun autre avantage par rapport &agrave; un personnage terrestre classique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767705802237,
+    "modifiedTime": 1773159484818,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!yoOdQY3d6h87OaCs"
+}

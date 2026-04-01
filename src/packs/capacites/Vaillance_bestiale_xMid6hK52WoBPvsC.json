@@ -1,0 +1,41 @@
+{
+  "name": "Vaillance bestiale",
+  "type": "ability",
+  "_id": "xMid6hK52WoBPvsC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>ajoute [BO][BO] pour r&eacute;sister &agrave; la peur contre des cr&eacute;atures sauvages</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767621739586,
+    "modifiedTime": 1773159469797,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!xMid6hK52WoBPvsC"
+}

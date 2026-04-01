@@ -1,0 +1,43 @@
+{
+  "name": "Navigation Intuitive",
+  "type": "ability",
+  "_id": "za8wi5wTdLzOCWFj",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p data-start=\"5234\" data-end=\"5322\">Les Duros peuvent ajouter [AD] à tous leurs tests d’Astrogation</p></div>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 55"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773150219697,
+    "modifiedTime": 1773150334102,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!za8wi5wTdLzOCWFj"
+}

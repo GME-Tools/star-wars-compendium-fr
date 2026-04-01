@@ -1,0 +1,44 @@
+{
+  "name": "Inorganique",
+  "type": "ability",
+  "_id": "d5eo3xunpiYL20T4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les dro&iuml;des &eacute;tant inorganiques, ils ne tirent aucun avantage des cuves &agrave; bacta, stimpacks et tests de M&eacute;decine. Ils r&eacute;cup&egrave;rent naturellement en se reposant, gr&acirc;ce &agrave; leurs syst&egrave;mes qui tentent de se r&eacute;parer. Autrement, on peut s'occuper d'eux avec des tests de M&eacute;canique, en utilisant les m&ecirc;mes difficult&eacute;s et r&eacute;sultats que les tests de M&eacute;decine pour les &ecirc;tres organiques. Les trousses de r&eacute;paration d'urgence peuvent &ecirc;tre utilis&eacute;es sur eux comme les stimpacks sur les &ecirc;tres organiques. Pour plus de d&eacute;tails sur la r&eacute;paration et les soins des dro&iuml;des, reportez-vous &agrave; la @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.5DvhjtGkPoZjUQC8#recuperer-des-blessures]{R&eacute;cup&eacute;rer des blessures}. Gr&acirc;ce &agrave; leur ch&acirc;ssis m&eacute;tallique r&eacute;sistant, ils commencent le jeu avec le talent @UUID[Compendium.star-wars-compendium-fr.talents.Item.Tt0MgoIEjz7sFFuw]{Endurance}.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 46",
+        "L'Ère de la Rébellion - Livre de Règles pg. 54"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767887650812,
+    "modifiedTime": 1773149974856,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!d5eo3xunpiYL20T4"
+}

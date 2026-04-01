@@ -1,0 +1,43 @@
+{
+  "name": "Régénération",
+  "type": "ability",
+  "_id": "H9A1T5zfo1AqqvoU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand un Trandosien se d&eacute;barrasse d'au moins 1 blessure en se reposant ou en s'immergeant dans une cuve &agrave; bacta, il en &eacute;limine une de plus. Cela ne fonctionne cependant pas quand il re&ccedil;oit les premiers secours, b&eacute;n&eacute;ficie de soins m&eacute;dicaux ou d'un stimpack. Les Trandosiens peuvent &eacute;galement r&eacute;g&eacute;n&eacute;rer leurs membres, mais il faut attendre au moins un mois avant qu'ils soient &agrave; nouveau utilisables.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 51"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767949974826,
+    "modifiedTime": 1773157895708,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!H9A1T5zfo1AqqvoU"
+}

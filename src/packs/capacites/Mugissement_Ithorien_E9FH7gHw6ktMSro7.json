@@ -1,0 +1,43 @@
+{
+  "name": "Mugissement Ithorien",
+  "type": "ability",
+  "_id": "E9FH7gHw6ktMSro7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p data-start=\"4573\" data-end=\"4756\">Grâce à leurs deux bouches et leurs quatre gorges, les ithoriens disposent d’une arme naturelle sur laquelle ils peuvent compter pour se défendre (Résistance ; dégâts 6 ; critique 4 ; portée courte ; @UUID[Compendium.star-wars-compendium-fr.qualites.Item.qE61ATcTRPRp3QvB]{Dégâts étourdissants}, @UUID[Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy]{Cadence lente 2}, @UUID[Compendium.star-wars-compendium-fr.qualites.Item.y3jZ5FmDnc1bHPHQ]{Choc 1}, @UUID[Compendium.star-wars-compendium-fr.qualites.Item.2e2eijS1EK3Pp2iC]{Souffle 3}). Chaque fois que l’Ithorien recourt à cette capacité, il subit 3 points de stress. @UUID[Compendium.star-wars-compendium-fr.armes.Item.s8X2fDYgAjkxYXAT]{Arme : Mugissement Ithorien}</p></div>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 58"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773152786227,
+    "modifiedTime": 1773153230822,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!E9FH7gHw6ktMSro7"
+}
