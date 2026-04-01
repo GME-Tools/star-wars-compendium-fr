@@ -1,0 +1,53 @@
+{
+  "name": "Imprécis",
+  "type": "itemmodifier",
+  "_id": "z7IJ9WLgjV9JxMed",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les armes impr&eacute;cises sont rudimentaires ou mal con&ccedil;ues. Les personnages qui les manient ont plus de mal &agrave; atteindre leur cible. Iis doivent ajouter un d&eacute; d'infortune [SE] &agrave; tous leurs tests d'attaque pour&nbsp; chaque niveau de cet attribut que poss&egrave;de l'arme.</p>",
+    "attributes": {
+      "attr1747548034185": {
+        "modtype": "Roll Modifiers",
+        "value": 1,
+        "mod": "Add Setback"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747548000343,
+    "modifiedTime": 1747548626810,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!z7IJ9WLgjV9JxMed"
+}

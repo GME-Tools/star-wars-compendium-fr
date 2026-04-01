@@ -1,0 +1,47 @@
+{
+  "name": "Cortosis",
+  "type": "itemmodifier",
+  "_id": "PCY5RRUH6koM96ez",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le Cortosis est un minerai tr&egrave;s pr&eacute;cieux que l'on trouve parfois sur les plan&egrave;tes de la Bordure ext&eacute;rieure. A l'origine, il a servi &agrave; combattre les chevaliers Jedi pendant la Guerre des Clones. Il existe deux vari&eacute;t&eacute;s de Cortosis. La plus rare est litt&eacute;ralement capable de court-circuiter la lame d'un sabre laser. La vari&eacute;t&eacute; plus commune reste une vraie merveille : fa&ccedil;onn&eacute;e en plaques d'armures, elle agit &agrave; un niveau mol&eacute;culaire, les rendant extr&ecirc;mement r&eacute;sistantes aux armes &eacute;nerg&eacute;tiques.</p>\n<p>Les armes fondues en Cortosis sont immunis&eacute;es contre l'attribut Briseur. Les armures forg&eacute;es dans ce m&eacute;tal immunisent l'encaissement du porteur contre les attributs Br&ecirc;che et Perforant.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.162"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "all",
+    "rank": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747545224221,
+    "modifiedTime": 1747545319612,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!PCY5RRUH6koM96ez"
+}

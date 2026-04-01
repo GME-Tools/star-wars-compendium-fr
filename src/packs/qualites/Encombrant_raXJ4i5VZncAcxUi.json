@@ -1,0 +1,47 @@
+{
+  "name": "Encombrant",
+  "type": "itemmodifier",
+  "_id": "raXJ4i5VZncAcxUi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une arme encombrante est imposante, difficile &agrave; manipuler, g&ecirc;nante ou tr&egrave;s lourde. Pour manier un tel &eacute;quipement, il faut avoir une Vigueur sup&eacute;rieure ou &eacute;gale &agrave; son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 d&eacute; de difficult&eacute; &agrave; tous les tests effectu&eacute;s pour se servir de cette arme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747547863051,
+    "modifiedTime": 1747548206802,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!raXJ4i5VZncAcxUi"
+}

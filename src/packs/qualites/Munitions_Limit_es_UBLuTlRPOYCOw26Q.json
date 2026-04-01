@@ -1,0 +1,47 @@
+{
+  "name": "Munitions Limitées",
+  "type": "itemmodifier",
+  "_id": "UBLuTlRPOYCOw26Q",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Certaines armes utilisent des munitions complexes, massives ou on&eacute;reuses. D'autres sont tout simplement &agrave; usage unique. Dans les deux cas, elles ne peuvent &ecirc;tre utilis&eacute;es que pour porter un nombre d'attaques &eacute;gal &agrave; leur niveau d'attribut avant de devoir &ecirc;tre recharg&egrave;es au prix d'une man&oelig;uvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois &eacute;puis&eacute;es, doivent &ecirc;tre obtenues avant que l'arme ne puisse &ecirc;tre r&eacute;utilis&eacute;e. Cette m&eacute;canique de jeu s'applique aussi aux grenades et aux autres armes &agrave; &laquo; usage unique &raquo; qui ont l'attribut Munitions limit&eacute;es 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747549163080,
+    "modifiedTime": 1747549219163,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!UBLuTlRPOYCOw26Q"
+}

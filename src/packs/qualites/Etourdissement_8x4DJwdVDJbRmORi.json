@@ -1,0 +1,47 @@
+{
+  "name": "Etourdissement",
+  "type": "itemmodifier",
+  "_id": "8x4DJwdVDJbRmORi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Certaines armes infligent du stress &agrave; leur cible. Lorsque l'attribut est d&eacute;clench&eacute;, la victime de l'attaque subit un nombre de points de stress &eacute;gal au niveau d'attribut Etourdissement de l'arme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747547948425,
+    "modifiedTime": 1747548231775,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!8x4DJwdVDJbRmORi"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Mauvaise Qualité",
+  "type": "itemmodifier",
+  "_id": "QLphiwQwUndh5aTM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les objets de mauvaise qualit&eacute; brillent par leur fabrication douteuse. Les personnages qui les manient ajoutent automatiquement un [TH] au r&eacute;sultat de tous leurs tests d'attaque. Les d&eacute;g&acirc;ts de base des armes et la d&eacute;fense des armures sont &eacute;galement diminu&eacute;s de 1 (ces derni&egrave;res voient leur valeur d'encombrementaugmenter de 1). Si l'armure n'a pas de d&eacute;fense, c'est sa valeur d'encaissement qui diminue de 1 jusqu'&agrave; un minimum de 0.</p>",
+    "attributes": {
+      "attr1747548846883": {
+        "modtype": "Result Modifiers",
+        "value": 1,
+        "mod": "Add Threat"
+      },
+      "attr1747548848243": {
+        "modtype": "Weapon Stat",
+        "value": -1,
+        "mod": "damage"
+      },
+      "attr1747548848458": {
+        "modtype": "Armor Stat",
+        "value": -1,
+        "mod": "defence"
+      },
+      "attr1747548898446": {
+        "modtype": "Armor Stat",
+        "value": 0,
+        "mod": "soak"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "all",
+    "rank": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747548700868,
+    "modifiedTime": 1747548908503,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!QLphiwQwUndh5aTM"
+}

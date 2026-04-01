@@ -1,0 +1,47 @@
+{
+  "name": "Briseur",
+  "type": "itemmodifier",
+  "_id": "iH3rtgxXOzmXCql1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand l'attribut est d&eacute;clench&eacute;, l'assaillant choisit un des objets les plus expos&eacute;s de sa cible (comme une arme, un bouclier ou quelque chose qui pend &agrave; sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact &agrave; endommag&eacute; leg&eacute;rement, d'endommag&eacute; l&eacute;g&egrave;rement&nbsp;&agrave; endommag&eacute; mod&eacute;r&eacute;ment et d'endommag&eacute; mod&eacute;r&eacute;ment &agrave; endommag&eacute; gravement. Un objet endommag&eacute; gravement qui subit une nouvelle fois les effets de l'attribut Briseur est d&eacute;truit.</p>\n<p>Un avantage [AD] est n&eacute;cessaire pour activer l'attribut. Il peut &ecirc;tre d&eacute;clench&eacute; plusieurs fois au cours de la m&ecirc;me attaque, ce qui peut permettre de briser un objet en un unique coup.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.162"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747544936447,
+    "modifiedTime": 1747548588913,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!iH3rtgxXOzmXCql1"
+}

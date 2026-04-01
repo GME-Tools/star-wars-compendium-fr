@@ -1,0 +1,53 @@
+{
+  "name": "Parade",
+  "type": "itemmodifier",
+  "_id": "z7r6JieW8OZk6W5J",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les armes munies de cet attribut permettent de se d&eacute;fendre plus efficacement au corps &agrave; corps. Les personnages qui les utilisent augmentent leur defense contre les attaques au contact d'un nombre de points &eacute;gal au niveau d'attribut de l'arme.</p>",
+    "attributes": {
+      "attr1747549276207": {
+        "modtype": "Stat",
+        "value": 1,
+        "mod": "Defence-Melee"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "all",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747549240013,
+    "modifiedTime": 1747641715444,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!z7r6JieW8OZk6W5J"
+}

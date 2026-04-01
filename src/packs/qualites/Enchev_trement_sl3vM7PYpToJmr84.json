@@ -1,0 +1,47 @@
+{
+  "name": "Enchevêtrement",
+  "type": "itemmodifier",
+  "_id": "sl3vM7PYpToJmr84",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une arme munie de cet attribut est capable d'enchev&ecirc;trer ses victimes et de r&eacute;duire leur mobilit&eacute;. Lorsque l'effet est activ&eacute;, la cible est immobilis&eacute;e (cf. @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.cDQ6hKWkTPTyowae.JournalEntryPage.uzSdAZTDwgxg5cAm#autres-etats]{page 224}) pendant un nombre de rounds &eacute;gal au niveau d'attribut. Un personnage enchev&ecirc;tr&eacute; peut essayer de se lib&eacute;rer quand vient son tour au moyen d'une action. Pour ce faire, il dolt r&eacute;ussir un [B]test d'Athl&eacute;tisme Difficile ([DI][DI][DI])[b]. Une cible immobilis&eacute;e ne peut pas ex&eacute;cuter de man&oelig;uvre,</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747547776529,
+    "modifiedTime": 1767359782100,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!sl3vM7PYpToJmr84"
+}

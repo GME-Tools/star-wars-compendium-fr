@@ -1,0 +1,47 @@
+{
+  "name": "Tracteur",
+  "type": "itemmodifier",
+  "_id": "CYg7Pybyjtl3n1Wz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Certaines armes ne tirent ni laser ni decharges ioniques. Elles projettent plut&ocirc;t des faisceaux d'&eacute;nergie &eacute;lectromagn&eacute;tique. Relativement inoffensifs, ils sont con&ccedil;us pour immobiliser les vaisseaux dans l'espace. Pour utiliser un rayon tracteur, il est n&eacute;cessaire d'effectuer un test d'attaque avec la comp&eacute;tence appropri&eacute;e (le plus souvent d'Artillerie) et d'appliquer tous les modificateurs habituels. Lorsque le tir atteint sa cible, elle est immobilis&eacute;e jusqu'&agrave; ce que son pilote r&egrave;ussisse un test de Pilotage d'une difficult&eacute; &eacute;gale au niveau d'attribut de l'arme. Le niveau d'attribut du rayon tracteur est toujours indiqu&eacute; entre parenth&egrave;ses dans ses statistiques.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747550247841,
+    "modifiedTime": 1747550296388,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!CYg7Pybyjtl3n1Wz"
+}

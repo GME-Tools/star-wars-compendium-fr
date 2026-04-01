@@ -1,0 +1,47 @@
+{
+  "name": "Renversement",
+  "type": "itemmodifier",
+  "_id": "87Tk7TqQ0dtOVLb5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque cet attribut est activ&eacute;, la victime de l'attaque se retrouve &agrave; terre. Pour utiliser l'attribut, et sauf indication contraire, il faut utiliser [AD][AD] plus un avantage [AD] par point de gabarit de la cible au-del&agrave; de 1.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747550026983,
+    "modifiedTime": 1747550069103,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!87Tk7TqQ0dtOVLb5"
+}
