@@ -1,0 +1,128 @@
+{
+  "folder": "ytlg5ajt84xTwYsp",
+  "name": "Lame crantée",
+  "type": "itemattachment",
+  "_id": "yRHTvosNKL9OpgFN",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/360_F_415171847_TLwNNeVy4S4ezqWMOWj4iHMr8e3EYQor.jpg",
+  "system": {
+    "description": "<p>Cette modification est aussi simple que cruelle. Presque n'importe qui est capable de faire des entailles dans une lame et de la rendre ainsi capable de d&eacute;chiqueter la chair et les os. Toutes les armes de corps &agrave; corps tranchantes peuvent recevoir cette am&eacute;lioration.</p>\n<p><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p><strong>Effets :</strong> conf&egrave;re &agrave; l'arme l'attribut Sanguinaire (+1).</p>\n<p><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.194"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 50,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [
+      {
+        "name": "Sanguinaire",
+        "type": "itemmodifier",
+        "_id": "e4L8BCSkWoLfs6mC",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Lorsque les armes poss&eacute;dant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au r&eacute;sultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 &agrave; son jet de blessure&nbsp;critique.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1,
+          "enrichedDescription": "<p>Lorsque les armes possédant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au résultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 à son jet de blessure&nbsp;critique.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747550077870,
+          "modifiedTime": 1747550114055,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "9HW6fYvEk1OiT4K7"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1749624247600,
+    "modifiedTime": 1749624576617,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!yRHTvosNKL9OpgFN"
+}

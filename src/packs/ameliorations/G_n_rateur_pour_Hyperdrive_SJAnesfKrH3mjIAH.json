@@ -1,0 +1,130 @@
+{
+  "folder": "lWVNiyg5TPmHEdUM",
+  "name": "Générateur pour Hyperdrive",
+  "type": "shipattachment",
+  "_id": "SJAnesfKrH3mjIAH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-start=\"5968\" data-end=\"6579\" data-pm-slice=\"1 1 []\">Les g&eacute;n&eacute;rateurs am&eacute;lior&eacute;s pour hyperdrive permettent d&rsquo;accro&icirc;tre la vitesse hyperspatiale d&rsquo;un vaisseau, r&eacute;duisant consid&eacute;rablement la dur&eacute;e des voyages. Ce mat&eacute;riel co&ucirc;teux est g&eacute;n&eacute;ralement associ&eacute; aux courriers officiels, aux agents gouvernementaux et aux contrebandiers.</p>\n<p data-start=\"5968\" data-end=\"6579\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : g&eacute;n&eacute;rateur pour hyperdrive Isu-Sim SSP05, syst&egrave;me hyperdrive SFS S/Lg-30, g&eacute;n&eacute;rateur pour hyperdrive CNK JumpStar<br data-start=\"6391\" data-end=\"6394\"><strong>Effets</strong> : r&eacute;duit la classe de l&rsquo;hyperdrive de 1 (minimum 1)<br data-start=\"6452\" data-end=\"6455\"><strong>Mods possibles</strong> :</p>\n<ul>\n<li data-start=\"5968\" data-end=\"6579\" data-pm-slice=\"1 1 []\">[ ][ ] classe de l&rsquo;hyperdrive r&eacute;duite de 1 (minimum 0.5)</li>\n</ul>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.270"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 6400,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 4,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "label": "Ship Attachment"
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.stats.customizationHardPoints.value",
+          "value": "-1",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "kWcqIRlCOTorTfY8",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767194788680,
+        "modifiedTime": 1767194874313,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!SJAnesfKrH3mjIAH.kWcqIRlCOTorTfY8"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767194788671,
+    "modifiedTime": 1767194885222,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!SJAnesfKrH3mjIAH"
+}

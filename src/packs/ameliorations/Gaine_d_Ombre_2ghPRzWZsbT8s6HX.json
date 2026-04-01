@@ -1,0 +1,80 @@
+{
+  "folder": "ytlg5ajt84xTwYsp",
+  "name": "Gaine d'Ombre",
+  "type": "itemattachment",
+  "_id": "2ghPRzWZsbT8s6HX",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/shadowsheath.png",
+  "system": {
+    "description": "<p>Les chasseurs de primes, les assassins et les criminels ont r&eacute;guli&egrave;rement besoin de cacher une arme sur eux afin de pouvoir approcher un individu lourdement surveill&eacute; sans donner l'alarme. Une gaine d'ombre consiste en un petit projecteur plac&eacute; sur l'arme, capable de la&nbsp;cibler sp&eacute;cifiquement et de la dissimuler (avec son holster) au moyen d'un champ de camouflage optique. Ce kit peut &ecirc;tre install&eacute; uniquement sur une arme d'encombrement 2 ou moins.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Gaine d'ombre WCS de Merr-Sonn</p>\n<p><strong>Effets : </strong>Augmente de deux d&eacute;s la difficult&eacute; de tout test r&eacute;alis&eacute; pour trouver l'arme et sa gaine.</p>\n<p><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.194"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 5,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748204063862,
+    "modifiedTime": 1748204236510,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!2ghPRzWZsbT8s6HX"
+}

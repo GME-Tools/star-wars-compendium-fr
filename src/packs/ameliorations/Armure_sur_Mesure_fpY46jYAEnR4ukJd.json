@@ -1,0 +1,148 @@
+{
+  "folder": "Uv13yOsvwIEWEFMN",
+  "name": "Armure sur Mesure",
+  "type": "itemattachment",
+  "_id": "fpY46jYAEnR4ukJd",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/Sluissi_AA.jpg",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Un artisan peut modifier m&ecirc;me la plus simple des armures, la couvrir de plasto&iuml;de, la renforcer de duracier, r&eacute;duire son poids et diminuer son encombrement. Naturellement, un tel travail d'orf&egrave;vre peut aussi la rendre plus difficile &agrave; modifier par la suite.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> conf&egrave;re l'attribut d'armure @UUID[Compendium.star-wars-compendium-fr.qualites.Item.c4cxbhoPLuJsASta]{Bonne Qualit&eacute;}</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.200"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 5000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [
+      {
+        "name": "Bonne Qualité",
+        "type": "itemmodifier",
+        "_id": "c4cxbhoPLuJsASta",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les objets de bonne qualit&eacute; sont des pi&egrave;ces superbes. Les personnages qui manient une arme de bonne qualit&eacute; rajoutent automatiquement un [AD] &agrave; tous leurs tests d'attaque et les degats de base de l'arme sont augment&eacute;s de 1 point. S'il s'agit d'une armure de bonne qualit&eacute;, sa valeur d'encaissement est augment&eacute;e de 1 et sa valeur d'encombrement est diminu&eacute;e de 1.</p>",
+          "attributes": {
+            "attr1747519193521": {
+              "modtype": "Result Modifiers",
+              "value": 1,
+              "mod": "Add Advantage"
+            },
+            "attr1747519215485": {
+              "modtype": "Weapon Stat",
+              "value": 1,
+              "mod": "damage"
+            },
+            "attr1747519226216": {
+              "modtype": "Armor Stat",
+              "value": 1,
+              "mod": "soak"
+            },
+            "attr1747519241931": {
+              "modtype": "Armor Stat",
+              "value": -1,
+              "mod": "encumbrance"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "all",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.c4cxbhoPLuJsASta",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747519133490,
+          "modifiedTime": 1747519250189,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "X7xSm0KZ8W7uyi9j"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750254459740,
+    "modifiedTime": 1750254561089,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!fpY46jYAEnR4ukJd"
+}

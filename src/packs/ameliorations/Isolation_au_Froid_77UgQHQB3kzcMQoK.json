@@ -1,0 +1,80 @@
+{
+  "folder": "Uv13yOsvwIEWEFMN",
+  "name": "Isolation au Froid",
+  "type": "itemattachment",
+  "_id": "77UgQHQB3kzcMQoK",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/Snowtrooper_Chestplate.jpg",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">&Agrave; l'inverse des boucliers thermiques, les syst&egrave;mes d'isolation au froid permettent de survivre dans les milieux glaciaux. Ils m&ecirc;lent des m&eacute;canismes chauffants int&eacute;gr&eacute;s &agrave; une double couche isolante et peuvent r&eacute;sister &agrave; des temp&eacute;ratures qui descendent plusieurs dizaines de degr&eacute;s en dessous de z&eacute;ro. Le plus c&eacute;l&egrave;bre de tous est sans doute celui qui &eacute;quipe les armures lamin&eacute;es des soldats des neiges de l'Empire. Les syst&egrave;mes d'isolation s'installent sur les armures qui recouvrent le corps entier et qui peuvent &ecirc;tre scell&eacute;es.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> Combinaison DL87 de Atlas Corp, Syst&egrave;me d'isolation au froid Min-Dal mod&egrave;le 00</p>\n<p dir=\"auto\"><strong>Effets : </strong>retire 1 d&eacute; de difficult&eacute; aux tests de R&eacute;sistance au froid extr&ecirc;me. Retire jusqu'&agrave; deux d&eacute;s d'infortune [SE][SE] dus au froid extr&ecirc;me.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.200"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 3,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750254717828,
+    "modifiedTime": 1750254853154,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!77UgQHQB3kzcMQoK"
+}

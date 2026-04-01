@@ -1,0 +1,230 @@
+{
+  "folder": "qkxrbicYJavFbjnL",
+  "name": "Gemme de Dragite",
+  "type": "itemattachment",
+  "_id": "h4NVeeASBseiPcaG",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/Raw_dragite.jpg",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">On trouve les gemmes de dragite dans les cavernes de la cha&icirc;ne des D'olop, sur M'haeli, un agri-monde de la R&eacute;gion d'Expansion. Ces petits cristaux kyber ternes et fragiles produisent un fort tintement quand on les frappe. Les employer dans un sabre laser est compliqu&eacute;, &eacute;tant donn&eacute; qu'ils ont une f&acirc;cheuse tendance &agrave; se fissurer et &agrave; se briser facilement. Les lames que ces pierres cr&eacute;ent palpitent et bourdonnent bruyamment, et quand un sabre qui en est &eacute;quip&eacute; touche une cible solide, il produit un craquement assourdissant et une onde de choc capable de d&eacute;sorienter ou de blesser un individu.</p>\n<p dir=\"auto\">Une gemme de dragite est un cristal de sabre laser.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> installer une gemme de dragite fait passer les d&eacute;g&acirc;ts de base du sabre laser &agrave; 7 et son niveau de critique &agrave; 3. De plus, il gagne les attributs @UUID[Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV]{Br&egrave;che} 1, @UUID[Compendium.star-wars-compendium-fr.qualites.Item.iH3rtgxXOzmXCql1]{Briseur} et @UUID[Compendium.star-wars-compendium-fr.qualites.Item.Nsduo9TYdS9JiH9B]{D&eacute;sorientation} 1. Si le cristal est retir&eacute;, l'arme perd ces attributs et retrouve ses anciennes valeurs de d&eacute;g&acirc;ts de base et de critique.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ][ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.Nsduo9TYdS9JiH9B]{D&eacute;sorientation} +1)</li>\n<li dir=\"auto\">[ ][ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.y3jZ5FmDnc1bHPHQ]{Choc} +1)</li>\n<li dir=\"auto\">[ ] D&eacute;g&acirc;ts +1</li>\n</ul>",
+    "attributes": {
+      "attr1750231801663": {
+        "modtype": "Weapon Stat",
+        "value": 7,
+        "mod": "damage"
+      },
+      "attr1750231813979": {
+        "modtype": "Weapon Stat",
+        "value": 3,
+        "mod": "critical"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.197"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 14000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 2,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [
+      {
+        "name": "Brèche",
+        "type": "itemmodifier",
+        "_id": "JFyZPdNrXSG7x2vV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544853824,
+          "modifiedTime": 1747544910802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "R0aWXaAm6pVNPLWr"
+      },
+      {
+        "name": "Briseur",
+        "type": "itemmodifier",
+        "_id": "iH3rtgxXOzmXCql1",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Quand l'attribut est d&eacute;clench&eacute;, l'assaillant choisit un des objets les plus expos&eacute;s de sa cible (comme une arme, un bouclier ou quelque chose qui pend &agrave; sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact &agrave; endommag&eacute; leg&eacute;rement, d'endommag&eacute; l&eacute;g&egrave;rement&nbsp;&agrave; endommag&eacute; mod&eacute;r&eacute;ment et d'endommag&eacute; mod&eacute;r&eacute;ment &agrave; endommag&eacute; gravement. Un objet endommag&eacute; gravement qui subit une nouvelle fois les effets de l'attribut Briseur est d&eacute;truit.</p>\n<p>Un avantage [AD] est n&eacute;cessaire pour activer l'attribut. Il peut &ecirc;tre d&eacute;clench&eacute; plusieurs fois au cours de la m&ecirc;me attaque, ce qui peut permettre de briser un objet en un unique coup.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.iH3rtgxXOzmXCql1",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544936447,
+          "modifiedTime": 1747548588913,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "Tbd7oU80l8xo73Jk"
+      },
+      {
+        "name": "Désorientation",
+        "type": "itemmodifier",
+        "_id": "Nsduo9TYdS9JiH9B",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Une arme dot&eacute;e de cet attribut peut h&eacute;beter ses victimes. Lorsque l'effet est d&eacute;clench&eacute;, la victime de l'attaque est d&eacute;sorient&eacute;e (cf. page 224) pendant un nombre de rounds &eacute;gal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un d&eacute; d'infortune [SE] &agrave; tous ses tests de comp&eacute;tences.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.Nsduo9TYdS9JiH9B",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547594736,
+          "modifiedTime": 1747548608358,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "xDo6ODIz1BsSp0Q6"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750231390247,
+    "modifiedTime": 1750240019124,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!h4NVeeASBseiPcaG"
+}

@@ -1,0 +1,128 @@
+{
+  "folder": "ytlg5ajt84xTwYsp",
+  "name": "Générateur de Choc",
+  "type": "itemattachment",
+  "_id": "cm9A4xxcRjxHgkr7",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/SWBAR9MINI-HandshotNEW2.jpg",
+  "system": {
+    "description": "<p>Un kit g&eacute;n&eacute;rateur de choc inflige une d&eacute;charge &eacute;lectrique &agrave; une cible en plus des d&eacute;g&acirc;ts normaux de l'arme. G&eacute;n&eacute;ralement install&eacute;e sur une matraque ou un autre armement contondant, cette am&eacute;lioration est souvent employ&eacute;e par les services de s&eacute;curit&eacute; afin de neutraliser un suspect sans le tuer.</p>\n<p>Un g&eacute;n&eacute;rateur de choc peut &ecirc;tre install&eacute; sur toute arme contondante de Corps &agrave; corps ou de Pugilat.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Bobine &agrave; pulsations EV45 de CoroTech, Etourdisseur &laquo; Enforcer &raquo; de SoroSuub</p>\n<p><strong>Effets :</strong> conf&egrave;re a l'arme l'attribut Etourdissement 2</p>\n<p><strong>Mods possibles :</strong></p>\n<ul>\n<li>[ ][ ][ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.8x4DJwdVDJbRmORi]{Etourdissement} + 1)</li>\n</ul>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.194"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 250,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 4,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [
+      {
+        "name": "Etourdissement",
+        "type": "itemmodifier",
+        "_id": "8x4DJwdVDJbRmORi",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes infligent du stress &agrave; leur cible. Lorsque l'attribut est d&eacute;clench&eacute;, la victime de l'attaque subit un nombre de points de stress &eacute;gal au niveau d'attribut Etourdissement de l'arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "enrichedDescription": "<p>Certaines armes infligent du stress à leur cible. Lorsque l'attribut est déclenché, la victime de l'attaque subit un nombre de points de stress égal au niveau d'attribut Etourdissement de l'arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547948425,
+          "modifiedTime": 1747548231775,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "Pa49GdPcpzRVSkxy"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748243832626,
+    "modifiedTime": 1748244144665,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!cm9A4xxcRjxHgkr7"
+}

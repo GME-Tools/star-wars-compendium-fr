@@ -1,0 +1,86 @@
+{
+  "folder": "ytlg5ajt84xTwYsp",
+  "name": "Bipied",
+  "type": "itemattachment",
+  "_id": "9AwiWgh1XxB1y1CT",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/bipod_mount.jpg",
+  "system": {
+    "description": "<p>Les bipieds sont de simples tubes de m&eacute;tal qui se placent sous le canon. Ils permettent de stabiliser les armes lourdes et encombrantes afin d'en am&eacute;liorer le tir. Tr&egrave;s utiles pour mettre les pi&egrave;ces en batterie, ils servent surtout aux &eacute;quipes de support d'infanterie et aux tireurs d'&eacute;lite isol&eacute;s. Ces kits ne peuvent etre install&eacute;s que sur&nbsp;les fusils, les carabines et les blasters a r&eacute;p&eacute;tition l&eacute;gers.</p>\n<p>Il faut d&eacute;penser une man&oelig;uvre pour les d&eacute;ployer.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Bipied classique Galactic Arms XA, Bipied de pr&eacute;cision Czerka AA20</p>\n<p><strong>Effets :</strong> Diminuez le niveau de l'attribut Encombrant de&nbsp;l'arme de 2 lorsque le bipied est d&eacute;ploy&eacute; sur une surface stable (au sol comme sur une position en hauteur).</p>\n<p><strong>Mods possibles :</strong> aucun<br><br></p>",
+    "attributes": {
+      "attr1748203954484": {
+        "modtype": "Weapon Stat",
+        "value": -2,
+        "mod": "encumbrance"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.194"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 100,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748203719755,
+    "modifiedTime": 1748204026224,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!9AwiWgh1XxB1y1CT"
+}
