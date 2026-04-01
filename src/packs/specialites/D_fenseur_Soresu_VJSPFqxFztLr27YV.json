@@ -1,0 +1,1135 @@
+{
+  "name": "Défenseur Soresu",
+  "type": "specialization",
+  "_id": "VJSPFqxFztLr27YV",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/gardien.png",
+  "system": {
+    "description": "<p>Souvent, un Gardien se met delib&eacute;rement en danger pour aider les autres. Les Protecteurs ne connaissent pas de rivaux lorsqu'il faut preserver autrui. Le Defenseur soresu, quant &agrave; lui, maitrise l'art de l'autod&eacute;fense. Sabre laser en main, il peut repousser des hordes d'ennemis ou tenir bon face &agrave; une gr&egrave;le de tirs de blaster, survivant &agrave; tout.</p>\n<p>Un D&eacute;fenseur soresu re&ccedil;oit les comp&eacute;tences de carriere suppl&eacute;mentaires <strong>Connaissance (culture)</strong>, <strong>Sabre laser</strong>, <strong>Sang-froid</strong> et <strong>Vigilance</strong>. S'il s'agit de la premi&egrave;re sp&eacute;cialit&eacute; du personnage, il peut choisir deux d'entre elles, qui gagnent un rang gratult, sans que le joueur ait besoin de d&eacute;penser de points d'exp&eacute;rience. Avec cette combinaison de comp&eacute;tences, le PJ peut rester vigilant en permanence, rep&eacute;rer les menaces et rester r&eacute;solu face au danger.</p>\n<p>Les D&eacute;fenseurs soresu d&eacute;pendent de la Force pour les guider a travers les perils. Leurs techniques reposent presque enti&egrave;rement sur l'utilisation optimale de leurs armes comme outils defensifs, De bien des manieres, ce style se rapproche de la pr&eacute;cognition, car la Force guide ceux qui le pratiquent, les aidant &agrave; renvoyer une attaque ou a s'&eacute;carter du chemin d'un assaut. Ceux qui n'ont pas conscience de leur potentiel dans la Force peuvent s'inspirer de ces techniques pour devenir des experts en arts martiaux, mais les v&eacute;ritables Defenseurs soresus doivent etre sensibles &agrave; cette &eacute;nergie mystique.</p>",
+    "attributes": {
+      "attr1747050432319": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Knowledge: Lore"
+      },
+      "attr1747050432487": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Lightsaber"
+      },
+      "attr1747050432649": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Discipline"
+      },
+      "attr1747050432825": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Vigilance"
+      },
+      "attr1747050433186": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Knowledge: Lore"
+      },
+      "attr1747050433368": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Lightsaber"
+      },
+      "attr1747050433538": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Discipline"
+      },
+      "attr1747050433718": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Vigilance"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.79"
+      ]
+    },
+    "talents": {
+      "talent0": {
+        "islearned": false,
+        "name": "Parer",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Qe6vu1ztTIqvSadM",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque au corps &agrave; corps, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de Parer.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque au corps à corps, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Parer.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent1": {
+        "islearned": false,
+        "name": "Parer",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Qe6vu1ztTIqvSadM",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque au corps &agrave; corps, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de Parer.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque au corps à corps, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Parer.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent2": {
+        "islearned": false,
+        "name": "Endurci",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "GWacujFJeLH0mp4I",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990712680": {
+            "key": "attr1746990712680",
+            "value": 2,
+            "modtype": "Stat",
+            "mod": "Wounds"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent3": {
+        "islearned": false,
+        "name": "Garde Stratégique",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "jLDuK9H8j2y2ChAY",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Une fois par round, vous pouvez effectuer la man&oelig;uvre Garde strat&eacute;gique et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque attaque de corps &agrave; corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas d&eacute;passer votre rang en Garde strat&eacute;gique.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Une fois par round, vous pouvez effectuer la manœuvre Garde stratégique et subir un certain nombre de points de stress pour améliorer autant de dés de difficulté de chaque attaque de corps à corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas dépasser votre rang en Garde stratégique.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent4": {
+        "islearned": false,
+        "name": "Technique Soresu",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "a2cW3uTaLlvlaVrN",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Lorsque vous effectuez un test avec votre comp&eacute;tence Sabre laser, vous pouvez vous servir d&rsquo;Intelligence au<br>lieu de Vigueur.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous effectuez un test avec votre compétence Sabre laser, vous pouvez vous servir d’Intelligence au<br>lieu de Vigueur.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent5": {
+        "islearned": false,
+        "name": "Dévier",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "gajVqrifo9MUAlMT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque &agrave; distance, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de D&eacute;vier.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent6": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent7": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent8": {
+        "islearned": false,
+        "name": "Aplomb",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "wdjBey0OktD4H2rv",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Vous pouvez retirer 1 d&eacute; de difficult&eacute; par rang d'Aplomb aux tests de Sang-froid pour &eacute;viter la peur.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous pouvez retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter la peur.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent9": {
+        "islearned": false,
+        "name": "Parer (Amélioré)",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "lm9JTlV57BpzsYYU",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Lorsque vous parez une attaque qui a g&eacute;n&eacute;r&eacute; [DE] ou [TH][TH][TH], une fois l&rsquo;attaque originale r&eacute;solue, vous pouvez toucher l&rsquo;adversaire une fois avec un sabre laser, une arme de pugilat ou de corps &agrave; corps. L&rsquo;arme inflige les d&eacute;g&acirc;ts de base.</p>"
+      },
+      "talent10": {
+        "islearned": false,
+        "name": "Cercle Défensif",
+        "activation": "Active (Action)",
+        "activationLabel": "SWFFG.TalentActivationsActiveAction",
+        "itemId": "PpMh9zmsJfXA2try",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Entreprenez l'action Cercle d&eacute;fensif. Effectuez un [B]test de Sabre laser Difficile ([DI][DI][DI])[b]. Le personnage, plus un alli&eacute; &agrave; port&eacute;e courte par [SU] gagne X en d&eacute;fense jusqu&rsquo;au d&eacute;but du tour suivant, X &eacute;tant &eacute;gal &agrave; 1 + 1 par [AD][AD].</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Entreprenez la manœuvre Cercle défensif. Effectuez un <span class=\"bold\">test de Sabre laser Difficile (<span class=\"dietype starwars difficulty\">d</span><span class=\"dietype starwars difficulty\">d</span><span class=\"dietype starwars difficulty\">d</span>)</span>. Le personnage, plus un allié à portée courte par <span class=\"dietype starwars success\">s</span> gagne X en défense jusqu’au début du tour suivant, X étant égal à 1 + 1 par 􀃳 <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span>.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent11": {
+        "islearned": false,
+        "name": "Parer",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Qe6vu1ztTIqvSadM",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Quand vous d&eacute;viez un tir qui a g&eacute;n&eacute;r&eacute; [DE] ou [TH][TH][TH], une fois l&rsquo;attaque initiale r&eacute;solue,&nbsp;vous pouvez toucher une cible &agrave; port&eacute;e moyenne, infligeant les m&ecirc;mes d&eacute;g&acirc;ts que le tir initial.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque au corps à corps, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Parer.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent12": {
+        "islearned": false,
+        "name": "Parer",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Qe6vu1ztTIqvSadM",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque au corps à corps, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Parer.</p>",
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque au corps &agrave; corps, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de Parer.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent13": {
+        "islearned": false,
+        "name": "Dévier",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "gajVqrifo9MUAlMT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque &agrave; distance, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de D&eacute;vier.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent14": {
+        "islearned": false,
+        "name": "Dévier",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "gajVqrifo9MUAlMT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque &agrave; distance, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de D&eacute;vier.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent15": {
+        "islearned": false,
+        "name": "Garde Stratégique",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "jLDuK9H8j2y2ChAY",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Une fois par round, vous pouvez effectuer la man&oelig;uvre Garde strat&eacute;gique et subir un certain nombre de points de stress pour am&eacute;liorer autant de d&eacute;s de difficult&eacute; de chaque attaque de corps &agrave; corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas d&eacute;passer votre rang en Garde strat&eacute;gique.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Une fois par round, vous pouvez effectuer la manœuvre Garde stratégique et subir un certain nombre de points de stress pour améliorer autant de dés de difficulté de chaque attaque de corps à corps qui vous vise durant le prochain round. Le stress ainsi subi ne peut pas dépasser votre rang en Garde stratégique.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent16": {
+        "islearned": false,
+        "name": "Parer (Ultime)",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "9PJv4az2HJhYL0MN",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Si vous n&rsquo;avez pas effectu&eacute; de test de combat pendant ce round, vous pouvez subir 1 point de stress pour utiliser Parer.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Si vous n’avez pas effectué de test de combat pendant ce round, vous pouvez subir 1 point de stress pour utiliser Parer.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent17": {
+        "islearned": false,
+        "name": "Entraînement",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "6ihuFGkfx8V5C7tn",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "attributes": {
+          "attr1746991393066": {
+            "key": "attr1746991393066",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Brawn"
+          },
+          "attr1746991395954": {
+            "key": "attr1746991395954",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Agility"
+          },
+          "attr1746991397654": {
+            "key": "attr1746991397654",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Intellect"
+          },
+          "attr1746991401084": {
+            "key": "attr1746991401084",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Cunning"
+          },
+          "attr1746991405602": {
+            "key": "attr1746991405602",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Willpower"
+          },
+          "attr1746991409248": {
+            "key": "attr1746991409248",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Presence"
+          }
+        },
+        "description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous gagnez +1 dans une caractéristique. Cela ne permet pas d'augmenter une caractéristique au-delà de 6.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent18": {
+        "islearned": false,
+        "name": "Dévier (Amélioré)",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "iVM5cHsegFcZv1oq",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Quand vous d&eacute;viez un tir qui a g&eacute;n&eacute;r&eacute; [DE] ou [TH][TH][TH], une fois l&rsquo;attaque initiale r&eacute;solue,&nbsp;vous pouvez toucher une cible &agrave; port&eacute;e moyenne, infligeant les m&ecirc;mes d&eacute;g&acirc;ts que le tir initial.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Quand vous déviez un tir qui a généré <span class=\"dietype starwars despair\">y</span> ou <span class=\"dietype starwars threat\">t</span><span class=\"dietype starwars threat\">t</span><span class=\"dietype starwars threat\">t</span>, une fois l’attaque initiale résolue,&nbsp;vous pouvez toucher une cible à portée moyenne, infligeant les mêmes dégâts que le tir initial.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent19": {
+        "islearned": false,
+        "name": "Traquenard",
+        "activation": "Active (Action)",
+        "activationLabel": "SWFFG.TalentActivationsActiveAction",
+        "itemId": "1BSDMsNDYMWxE81X",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Entreprenez l&rsquo;action Traquenard : Effectuez un [B]test de Sabre laser (Intelligence) Difficile ([DI][DI][DI])[b], en lan&ccedil;ant un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. S&rsquo;il est r&eacute;ussi, 1 cible &agrave; port&eacute;e courte ne peut attaquer que vous pendant un round. D&eacute;pensez [FP] pour &eacute;tendre les effets &agrave; 1 cible suppl&eacute;mentaire pendant 1 round.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Entreprenez l’action Traquenard : Effectuez un <span class=\"bold\">test de Sabre laser (Intelligence) Difficile (<span class=\"dietype starwars difficulty\">d</span><span class=\"dietype starwars difficulty\">d</span><span class=\"dietype starwars difficulty\">d</span>)</span>, en lançant un nombre de <span class=\"dietype starwars force\">C</span> inférieur ou égal à votre valeur de Force. S’il est réussi, 1 cible à portée courte ne peut attaquer que vous pendant un round. Dépensez <span class=\"dietype starwars forcepoint\">Y</span> pour étendre les effets à 1 cible supplémentaire pendant 1 round.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Knowledge: Lore",
+      "careerSkill1": "Lightsaber",
+      "careerSkill2": "Discipline",
+      "careerSkill3": "Vigilance",
+      "careerSkill4": "(none)"
+    },
+    "universal": false,
+    "collection": {
+      "talent0": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent1": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent2": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent3": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent4": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent5": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent6": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent7": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent8": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent9": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent10": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent11": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent12": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent13": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent14": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent15": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent16": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent17": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent18": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent19": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [
+    {
+      "name": "attr1747050432319",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "v2pwGgH59VJzwL06",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541423,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.v2pwGgH59VJzwL06"
+    },
+    {
+      "name": "attr1747050432487",
+      "changes": [
+        {
+          "key": "system.skills.Lightsaber.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "a2Gek1NqhbBy2R7k",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541430,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.a2Gek1NqhbBy2R7k"
+    },
+    {
+      "name": "attr1747050432649",
+      "changes": [
+        {
+          "key": "system.skills.Discipline.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "h5ynsll0PVN6ovzv",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541437,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.h5ynsll0PVN6ovzv"
+    },
+    {
+      "name": "attr1747050432825",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "bQ8LdWwTrwzo8H0y",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541450,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.bQ8LdWwTrwzo8H0y"
+    },
+    {
+      "name": "attr1747050433186",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "WaulZmR879C8hQG4",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541463,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.WaulZmR879C8hQG4"
+    },
+    {
+      "name": "attr1747050433368",
+      "changes": [
+        {
+          "key": "system.skills.Lightsaber.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "LIX2yOadsq4D4F2e",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541471,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.LIX2yOadsq4D4F2e"
+    },
+    {
+      "name": "attr1747050433538",
+      "changes": [
+        {
+          "key": "system.skills.Discipline.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "zilQZKxY1uA871Sy",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541480,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.zilQZKxY1uA871Sy"
+    },
+    {
+      "name": "attr1747050433718",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "q0JY8uqovWRb9kpY",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908656901,
+        "modifiedTime": 1774534541494,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!VJSPFqxFztLr27YV.q0JY8uqovWRb9kpY"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747050228843,
+    "modifiedTime": 1774534540328,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!VJSPFqxFztLr27YV"
+}

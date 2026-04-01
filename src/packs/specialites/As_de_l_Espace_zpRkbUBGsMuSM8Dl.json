@@ -1,0 +1,1170 @@
+{
+  "name": "As de l'Espace",
+  "type": "specialization",
+  "_id": "zpRkbUBGsMuSM8Dl",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/guerrier.png",
+  "system": {
+    "description": "<p>Les pilotes de chasseurs spatiaux participent avec enthousiasme &agrave; l'une des formes de combat les plus dangereuses qui soient. Ils attaquent des vaisseaux capitaux &agrave; bord d'appareils dont les boucliers et les blindages - lorsqu'ils en ont - n'offrent pratiquement aucune r&eacute;sistance contre les tirs de leurs adversaires. A defaut, ils comptent sur la Force pour les prot&eacute;ger. Les individus sensibles &agrave; cette energie mystique et qui savourent les p&eacute;rils du combat spatial finissent par adopter la sp&eacute;cialite As de l'espace.</p>\n<p>Un As de l'espace recoit <strong>Astrogation</strong>, <strong>Artillerie</strong>,&nbsp;<strong>M&eacute;canique </strong>et <strong>Pilotage (espace)</strong> comme comp&eacute;tences de carri&egrave;re suppl&eacute;mentaires. S'il s'agit de la premi&egrave;re sp&eacute;cialit&eacute; du personnage, le joueur peut en choisir deux et leur attribuer un rang gratuit sans depenser de points d'exp&eacute;rience. Ces comp&eacute;tences lul apportent les bases n&eacute;cessaires au pilotage d'un chasseur spatial en combat.&nbsp;Les adeptes de la Force qui les acqui&egrave;rent s'int&eacute;ressent g&eacute;n&eacute;ralement aux vaisseaux monoplaces, dans lesquels ils officient &agrave; la fois comme pilote et canonnier.</p>\n<p>Ces batailles ont beau se livrer &agrave; bord d'un v&eacute;hicule, elles s'av&egrave;rent physiquement &eacute;puisantes. En d&eacute;pit de toutes les am&eacute;liorations technologiques imaginables, pour rester efficaces, les pilotes doivent encaisser des changements brutaux de direction ou de terribles acc&eacute;l&eacute;rations. Ils doivent aussi se tenir pr&ecirc;ts &agrave; porter un coup fatal au bon moment, et ce, en endurant des conditions physiques extr&ecirc;mes.</p>",
+    "attributes": {
+      "attr1747128823468": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Astrogation"
+      },
+      "attr1747128823633": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Gunnery"
+      },
+      "attr1747128823792": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Mechanics"
+      },
+      "attr1747128823954": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Piloting: Space"
+      },
+      "attr1747128824338": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Astrogation"
+      },
+      "attr1747128824504": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Gunnery"
+      },
+      "attr1747128824669": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Mechanics"
+      },
+      "attr1747128824846": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Piloting: Space"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.85"
+      ]
+    },
+    "talents": {
+      "talent0": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent1": {
+        "islearned": false,
+        "name": "Pilote Chevronné",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "BAQpNlQXzxE6TEHj",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1747135752365": {
+            "key": "attr1747135752365",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Piloting: Planetary"
+          },
+          "attr1747135752507": {
+            "key": "attr1747135752507",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Piloting: Space"
+          }
+        },
+        "description": "<p>Retirez [SE] par rang de Pilote chevronn&eacute; &agrave; tous vos tests de Pilotage (plan&eacute;taire) et de Pilotage (espace).</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Retirez <span class=\"dietype starwars setback\">b</span> par rang de Pilote chevronné à tous vos tests de Pilotage (planétaire) et de Pilotage (espace).</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent2": {
+        "islearned": false,
+        "name": "Réaction Eclair",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Dr8H5Iiu3BNIowTp",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Vous pouvez subir des points de stress pour ajouter autant de [SU] aux tests d&rsquo;Initiative. Leur nombre ne peut pas d&eacute;passer votre rang en R&eacute;action &eacute;clair.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous pouvez subir des points de stress pour ajouter autant de <span class=\"dietype starwars success\">s</span> aux tests d’Initiative. Leur nombre ne peut pas dépasser votre rang en Réaction éclair.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent3": {
+        "islearned": false,
+        "name": "Réparations Solides",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "l2mzSuhREjbNitnc",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Quand vous r&eacute;parez un v&eacute;hicule ou un vaisseau spatial, vous restaurez 1 point de d&eacute;g&acirc;t de coque suppl&eacute;mentaire par rang de&nbsp; R&eacute;parations solides.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Quand vous réparez un véhicule ou un vaisseau spatial, vous restaurez 1 point de dégât de coque supplémentaire par rang de&nbsp; Réparations solides.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent4": {
+        "islearned": false,
+        "name": "Esquive Intuitive",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "Fw1yUClxxWEQrRdK",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Accomplissez la man&oelig;uvre Esquive intuitive. Subissez 1 point de stress et engagez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; vos rangs d&rsquo;Esquive&nbsp;intuitive. Am&eacute;liorez autant de d&eacute;s de difficult&eacute; des tests de combat visant le vaisseau ou le v&eacute;hicule. Subissez 1 point de stress par round o&ugrave; un [FO] reste engag&eacute;.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Accomplissez la manœuvre Esquive intuitive. Subissez 1 point de stress et engagez un nombre de <span class=\"dietype starwars force\">C</span> inférieur ou égal à vos rangs d’Esquive&nbsp;intuitive. Améliorez autant de dés de difficulté des tests de combat visant le vaisseau ou le véhicule. Subissez 1 point de stress par round où un <span class=\"dietype starwars force\">C</span> reste engagé.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent5": {
+        "islearned": false,
+        "name": "Aplomb",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "wdjBey0OktD4H2rv",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Vous pouvez retirer 1 d&eacute; de difficult&eacute; par rang d'Aplomb aux tests de Sang-froid pour &eacute;viter la peur.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous pouvez retirer 1 dé de difficulté par rang d'Aplomb aux tests de Sang-froid pour éviter la peur.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent6": {
+        "islearned": false,
+        "name": "Réparations Solides",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "l2mzSuhREjbNitnc",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Quand vous r&eacute;parez un v&eacute;hicule ou un vaisseau spatial, vous restaurez 1 point de d&eacute;g&acirc;t de coque suppl&eacute;mentaire par rang de&nbsp; R&eacute;parations solides.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Quand vous réparez un véhicule ou un vaisseau spatial, vous restaurez 1 point de dégât de coque supplémentaire par rang de&nbsp; Réparations solides.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent7": {
+        "islearned": false,
+        "name": "Cartographie de la Galaxie",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "FwSGl40wIbN7crzL",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1747136053481": {
+            "key": "attr1747136053481",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Astrogation"
+          }
+        },
+        "description": "<p>Retirez [SE] par rang de Cartographie de la galaxie aux tests d&rsquo;Astrogation. Les tests d&rsquo;Astrogation demandent moiti&eacute; moins de temps.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Retirez <span class=\"dietype starwars setback\">b</span> par rang de Cartographie de la galaxie aux tests d’Astrogation. Les tests d’Astrogation demandent moitié moins de temps.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent8": {
+        "islearned": false,
+        "name": "Pleins Gaz",
+        "activation": "Active (Action)",
+        "activationLabel": "SWFFG.TalentActivationsActiveAction",
+        "itemId": "FqKY00iSYzftjX1T",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Entreprenez une action de Pleins gaz : effectuez un [B]test de Pilotage Difficile ([DI][DI][DI])[b] pour augmenter de 1 la vitesse maximale d&rsquo;un vaisseau pendant un nombre de tours &eacute;gal &agrave; votre Ruse.</p>"
+      },
+      "talent9": {
+        "islearned": false,
+        "name": "Réaction Eclair",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Dr8H5Iiu3BNIowTp",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Vous pouvez subir des points de stress pour ajouter autant de [SU] aux tests d&rsquo;Initiative. Leur nombre ne peut pas d&eacute;passer votre rang en R&eacute;action &eacute;clair.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous pouvez subir des points de stress pour ajouter autant de <span class=\"dietype starwars success\">s</span> aux tests d’Initiative. Leur nombre ne peut pas dépasser votre rang en Réaction éclair.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent10": {
+        "islearned": false,
+        "name": "Bouche d'Entrée",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "vLIu1ookB3JoB82q",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Avant d&rsquo;attaquer un vaisseau ou un v&eacute;hicule, vous pouvez d&eacute;penser 1 point de Destin pour ignorer les effets de la r&egrave;gle Massif.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Avant d’attaquer un vaisseau ou un véhicule, vous pouvez dépenser 1 point de Destin pour ignorer les effets de la règle Massif.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent11": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent12": {
+        "islearned": false,
+        "name": "Frappe Intuitive",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "keJvygwARX1dqnpH",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Lorsque vous effectuez un test de combat avec une arme &agrave; l&rsquo;&eacute;chelle plan&eacute;taire, ajoutez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; votre valeur de Force. D&eacute;pensez [FP][FP] pour ajouter [SU] ou [AD].</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous effectuez un test de combat avec une arme à l’échelle planétaire, ajoutez un nombre de <span class=\"dietype starwars force\">C</span> inférieur ou égal à votre valeur de Force. Dépensez <span class=\"dietype starwars forcepoint\">Y</span><span class=\"dietype starwars forcepoint\">Y</span> pour ajouter <span class=\"dietype starwars success\">s</span> ou <span class=\"dietype starwars advantage\">a</span>.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent13": {
+        "islearned": false,
+        "name": "Coup de Pouce du Destin",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "i7abKkyT6tQhFAXS",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Une fois par partie, ajoutez [BO][BO]&nbsp;&agrave; n&rsquo;importe quel test.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Une fois par partie, ajoutez <span class=\"dietype starwars boost\">b</span><span class=\"dietype starwars boost\">b</span>&nbsp;à n’importe quel test.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent14": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent15": {
+        "islearned": false,
+        "name": "Pilote Chevronné",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "BAQpNlQXzxE6TEHj",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1747135752365": {
+            "key": "attr1747135752365",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Piloting: Planetary"
+          },
+          "attr1747135752507": {
+            "key": "attr1747135752507",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Piloting: Space"
+          }
+        },
+        "description": "<p>Retirez [SE] par rang de Pilote chevronn&eacute; &agrave; tous vos tests de Pilotage (plan&eacute;taire) et de Pilotage (espace).</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Retirez <span class=\"dietype starwars setback\">b</span> par rang de Pilote chevronné à tous vos tests de Pilotage (planétaire) et de Pilotage (espace).</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent16": {
+        "islearned": false,
+        "name": "Valeur de Force",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "ucowaRAjbkJCXoxF",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1746991875324": {
+            "key": "attr1746991875324",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "ForcePool"
+          }
+        },
+        "description": "<p>+1 &agrave; la valeur de Force</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>+1 à la valeur de Force</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent17": {
+        "islearned": false,
+        "name": "Difficile à Viser",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "4vhsEO89mYaGy8o8",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Le v&eacute;hicule ou le vaisseau que vous pilotez est consid&eacute;r&eacute; comme ayant 1 point de gabarit de moins quand il est attaqu&eacute;.</p>"
+      },
+      "talent18": {
+        "islearned": false,
+        "name": "Entraînement",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "6ihuFGkfx8V5C7tn",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1746991393066": {
+            "key": "attr1746991393066",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Brawn"
+          },
+          "attr1746991395954": {
+            "key": "attr1746991395954",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Agility"
+          },
+          "attr1746991397654": {
+            "key": "attr1746991397654",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Intellect"
+          },
+          "attr1746991401084": {
+            "key": "attr1746991401084",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Cunning"
+          },
+          "attr1746991405602": {
+            "key": "attr1746991405602",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Willpower"
+          },
+          "attr1746991409248": {
+            "key": "attr1746991409248",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Presence"
+          }
+        },
+        "description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous gagnez +1 dans une caractéristique. Cela ne permet pas d'augmenter une caractéristique au-delà de 6.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent19": {
+        "islearned": false,
+        "name": "Esquive Intuitive",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "Fw1yUClxxWEQrRdK",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Accomplissez la man&oelig;uvre Esquive intuitive. Subissez 1 point de stress et engagez un nombre de [FO] inf&eacute;rieur ou &eacute;gal &agrave; vos rangs d&rsquo;Esquive&nbsp;intuitive. Am&eacute;liorez autant de d&eacute;s de difficult&eacute; des tests de combat visant le vaisseau ou le v&eacute;hicule. Subissez 1 point de stress par round o&ugrave; un [FO] reste engag&eacute;.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Accomplissez la manœuvre Esquive intuitive. Subissez 1 point de stress et engagez un nombre de <span class=\"dietype starwars force\">C</span> inférieur ou égal à vos rangs d’Esquive&nbsp;intuitive. Améliorez autant de dés de difficulté des tests de combat visant le vaisseau ou le véhicule. Subissez 1 point de stress par round où un <span class=\"dietype starwars force\">C</span> reste engagé.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Astrogation",
+      "careerSkill1": "Gunnery",
+      "careerSkill2": "Mechanics",
+      "careerSkill3": "Piloting: Space",
+      "careerSkill4": "(none)"
+    },
+    "universal": false,
+    "collection": {
+      "talent0": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent1": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent2": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent3": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent4": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent5": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent6": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent7": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent8": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent9": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent10": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent11": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent12": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent13": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent14": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent15": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent16": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent17": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent18": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent19": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [
+    {
+      "name": "attr1747128823468",
+      "changes": [
+        {
+          "key": "system.skills.Astrogation.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "K8ZkuIjX2YXfbknm",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512437,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.K8ZkuIjX2YXfbknm"
+    },
+    {
+      "name": "attr1747128823633",
+      "changes": [
+        {
+          "key": "system.skills.Gunnery.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "k8hnoqrFkZcU12eP",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512451,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.k8hnoqrFkZcU12eP"
+    },
+    {
+      "name": "attr1747128823792",
+      "changes": [
+        {
+          "key": "system.skills.Mechanics.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "yZr3LJaXLBEE0kWG",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512458,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.yZr3LJaXLBEE0kWG"
+    },
+    {
+      "name": "attr1747128823954",
+      "changes": [
+        {
+          "key": "system.skills.Piloting: Space.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "0kxQbLWokrnzktXq",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512471,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.0kxQbLWokrnzktXq"
+    },
+    {
+      "name": "attr1747128824338",
+      "changes": [
+        {
+          "key": "system.skills.Astrogation.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "EsW65hm2wVomB9VC",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512478,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.EsW65hm2wVomB9VC"
+    },
+    {
+      "name": "attr1747128824504",
+      "changes": [
+        {
+          "key": "system.skills.Gunnery.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "TBb4Xiwsh1wfjEKZ",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512484,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.TBb4Xiwsh1wfjEKZ"
+    },
+    {
+      "name": "attr1747128824669",
+      "changes": [
+        {
+          "key": "system.skills.Mechanics.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "aGZ5N9jgZc92VCq1",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512491,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.aGZ5N9jgZc92VCq1"
+    },
+    {
+      "name": "attr1747128824846",
+      "changes": [
+        {
+          "key": "system.skills.Piloting: Space.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "vcFGBsdalDmFo4jN",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908551948,
+        "modifiedTime": 1774535512500,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!zpRkbUBGsMuSM8Dl.vcFGBsdalDmFo4jN"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747128678703,
+    "modifiedTime": 1774535511228,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!zpRkbUBGsMuSM8Dl"
+}

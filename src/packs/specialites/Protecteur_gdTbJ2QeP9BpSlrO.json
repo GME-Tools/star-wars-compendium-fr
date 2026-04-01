@@ -1,0 +1,1142 @@
+{
+  "name": "Protecteur",
+  "type": "specialization",
+  "_id": "gdTbJ2QeP9BpSlrO",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/gardien.png",
+  "system": {
+    "description": "<p>La compassion pousse souvent les Gardiens &agrave; prot&eacute;ger ceux qui ne peuvent pas s'aider eux-memes. Les Protecteurs veillent &agrave; ce que ces innocents ne souffrent jamais.&nbsp;Peu d'ennemis s'av&egrave;rent plus r&eacute;sistants qu'un Protecteur, et encore plus rares sont ceux qui parviennent &agrave; franchir sa garde pour attaquer ceux qu'il d&eacute;fend. M&ecirc;me si ses prot&eacute;g&eacute;s sont touch&eacute;s, il poss&egrave;de des connaissances m&eacute;dicales de base pour les soigner.</p>\n<p>Un Protecteur re&ccedil;oit <strong>Athl&eacute;tisme</strong>, <strong>Distance (armes l&eacute;g&egrave;res)</strong>, <strong>M&eacute;decine </strong>et <strong>R&eacute;sistance</strong> comme comp&eacute;tences de carri&egrave;re suppl&eacute;mentaires, et si c'est la premi&egrave;re sp&eacute;cialit&eacute; du PJ, il re&ccedil;oit un rang dans deux d'entre elles sans avoir &agrave; d&eacute;penser d'exp&eacute;rience. Cette combinaison de comp&eacute;tences permet au PJ d'aider ceux qui en ont besoin pendant une crise. Elles se marient aux talents du Protecteur de mani&egrave;re &agrave; ce qu'il reste capable de pr&eacute;server ses prot&eacute;g&eacute;s sans cesser d'&ecirc;tre efficace.</p>\n<p>Les Protecteurs pourraient &ecirc;tre consid&eacute;r&eacute;s comme des gardes du corps, mais leurs efforts se limitent rarement &agrave; un seul individu. De fait, lls ont plut&ocirc;t tendance &agrave; d&eacute;fendre les faibles &agrave; grande &eacute;chelle. Souvent, ils servent d'urgentistes, employant leurs connaissances m&eacute;dicales pour stabiliser les bless&eacute;s sur le champ de bataille. Dans d'autres occasions, Ils prot&egrave;gent des r&eacute;fugi&eacute;s ou d'autres victimes fuyant des situations terribles, et tiennent bon jusqu'&agrave; ce que ces innocents retrouvent la s&eacute;curit&eacute;. Lorsqu'un Protecteur d&eacute;fend une personne seule, c'est sans doute parce qu'elle est gravement menac&eacute;e, peut-etre par un autre utilisateur de la Force.</p>\n<p>Certains Protecteurs apprennent &agrave; maitriser leurs capacit&eacute;s alors qu'ils servent dans l'arm&eacute;e ou dans les forces de l'ordre. Les techniques de la Force sont susceptibles de se manifester spontan&eacute;ment alors qu'ils s'efforcent de mettre leurs compagnons &agrave; l'abri. C'est particulierement vrai pour ceux qui ne reconnaissent pas leur lien avec la Force. Grace &agrave; elle, ils parviennent soudain &agrave; sauver un alli&eacute; d'une mani&egrave;re apparemment inexplicable. Toutefois, lorsque ces individus r&eacute;alisent qu'ils disposent d'un pouvoir, ils doivent faire un choix : vont-ils poursuivre leur carri&egrave;re et garder le secret, ou plutot renoncer a leur ancienne vie pour explorer leurs nouvelles capacit&eacute;s ?</p>",
+    "attributes": {
+      "attr1747082393653": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Athletics"
+      },
+      "attr1747082393830": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Ranged: Light"
+      },
+      "attr1747082394010": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Medicine"
+      },
+      "attr1747082394204": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Resilience"
+      },
+      "attr1747082394610": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Athletics"
+      },
+      "attr1747082394814": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Ranged: Light"
+      },
+      "attr1747082394996": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Medicine"
+      },
+      "attr1747082395178": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Resilience"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.79"
+      ]
+    },
+    "talents": {
+      "talent0": {
+        "islearned": false,
+        "name": "Endurci",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "GWacujFJeLH0mp4I",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990712680": {
+            "key": "attr1746990712680",
+            "value": 2,
+            "modtype": "Stat",
+            "mod": "Wounds"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent1": {
+        "islearned": false,
+        "name": "Garde du Corps",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "gxdp4XeEVWr0o6a3",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Une fois par round, entreprenez la man&oelig;uvre Garde du corps pour prot&eacute;ger un personnage au contact. Vous subissez un nombre de points de stress inf&eacute;rieur ou &eacute;gal &agrave; votre rang de Garde du corps. Jusqu&rsquo;au d&eacute;but de votre tour suivant, am&eacute;liorez autant de d&eacute;s de difficult&eacute; des tests de combat visant le personnage prot&eacute;g&eacute;.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Une fois par round, entreprenez la manœuvre Garde du corps pour protéger un personnage au contact. Vous subissez un nombre de points de stress inférieur ou égal à votre rang de Garde du corps. Jusqu’au début de votre tour suivant, améliorez autant de dés de difficulté des tests de combat visant le personnage protégé.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent2": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent3": {
+        "islearned": false,
+        "name": "Endurci",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "GWacujFJeLH0mp4I",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990712680": {
+            "key": "attr1746990712680",
+            "value": 2,
+            "modtype": "Stat",
+            "mod": "Wounds"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent4": {
+        "islearned": false,
+        "name": "Parer",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Qe6vu1ztTIqvSadM",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque au corps &agrave; corps, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de Parer.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque au corps à corps, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Parer.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent5": {
+        "islearned": false,
+        "name": "Thérapeute",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "0c1bUSVkSC7UiCMR",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Quand vous effectuez un test de M&eacute;decine pour aider un personnage &agrave; soigner ses blessures, celui-ci &eacute;limine 1 point de stress suppl&eacute;mentaire par rang de Th&eacute;rapeute.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Quand vous effectuez un test de Médecine pour aider un personnage à soigner ses blessures, celui-ci élimine 1 point de stress supplémentaire par rang de Thérapeute.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent6": {
+        "islearned": false,
+        "name": "Secrets Infirmiers",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "okpeVeI3AtL1Zmse",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Les stimpacks soignent 1 point de blessure de plus par rang de Secrets infirmiers.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Les stimpacks soignent 1 point de blessure de plus par rang de Secrets infirmiers.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent7": {
+        "islearned": false,
+        "name": "Protection de la Force",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "zdgbELeJTiqkOHBl",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Entreprenez la manoeuvre Protection de la Force : subissez 1 point de stress et engagez un nombre de [FO]&nbsp;inf&eacute;rieur ou &eacute;gal &agrave; vos rangs de Protection de la Force. Augmentez votre encaissement du nombre de [FO] engag&eacute;s jusqu&rsquo;au d&eacute;but du tour suivant. Subissez 1 point de stress par tour o&ugrave; un [FO] reste engag&eacute;.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Entreprenez la manoeuvre Protection de la Force : subissez 1 point de stress et engagez un nombre de <span class=\"dietype starwars force\">C</span>&nbsp;inférieur ou égal à vos rangs de Protection de la Force. Augmentez votre encaissement du nombre de <span class=\"dietype starwars force\">C</span> engagés jusqu’au début du tour suivant. Subissez 1 point de stress par tour où un <span class=\"dietype starwars force\">C</span> reste engagé.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent8": {
+        "islearned": false,
+        "name": "Dévier",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "gajVqrifo9MUAlMT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Lorsque vous &ecirc;tes touch&eacute; par une attaque &agrave; distance, subissez 3 points de stress pour r&eacute;duire les d&eacute;g&acirc;ts de 2 + vos rangs de D&eacute;vier.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsque vous êtes touché par une attaque à distance, subissez 3 points de stress pour réduire les dégâts de 2 + vos rangs de Dévier.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent9": {
+        "islearned": false,
+        "name": "Secrets Infirmiers",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "okpeVeI3AtL1Zmse",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Les stimpacks soignent 1 point de blessure de plus par rang de Secrets infirmiers.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Les stimpacks soignent 1 point de blessure de plus par rang de Secrets infirmiers.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent10": {
+        "islearned": false,
+        "name": "Vigilance Accrue",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "caW1iCoVQS3wnvlC",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Les alli&eacute;s &agrave; port&eacute;e courte ajoutent [BO] &agrave; leurs tests de Perception et de Vigilance. Les alli&eacute;s au contact ajoutent quant &agrave; eux [BO][BO].</p>"
+      },
+      "talent11": {
+        "islearned": false,
+        "name": "Recentrement",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "RL9O5UbM5FAOXHu1",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Effectuez la man&oelig;uvre Recentrement. Jusqu'au d&eacute;but&nbsp;du tour suivant, le niveau de critique des attaques qui vous prennent pour cible augmente de 1 par rang de Recentrement.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Effectuez la manœuvre Recentrement. Jusqu'au début&nbsp;du tour suivant, le niveau de critique des attaques qui vous prennent pour cible augmente de 1 par rang de Recentrement.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent12": {
+        "islearned": false,
+        "name": "Cercle de Protection",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "hr5b9KJhDyTR8uR5",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Lorsqu&rsquo;un alli&eacute; au contact est touch&eacute;, vous pouvez employer Parer ou D&eacute;vier comme une broutille pour contrer ce coup.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Lorsqu’un allié au contact est touché, vous pouvez employer Parer ou Dévier comme une broutille pour contrer ce coup.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent13": {
+        "islearned": false,
+        "name": "Protection de la Force",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "zdgbELeJTiqkOHBl",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Entreprenez la manoeuvre Protection de la Force : subissez 1 point de stress et engagez un nombre de [FO]&nbsp;inf&eacute;rieur ou &eacute;gal &agrave; vos rangs de Protection de la Force. Augmentez votre encaissement du nombre de [FO] engag&eacute;s jusqu&rsquo;au d&eacute;but du tour suivant. Subissez 1 point de stress par tour o&ugrave; un [FO] reste engag&eacute;.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Entreprenez la manoeuvre Protection de la Force : subissez 1 point de stress et engagez un nombre de <span class=\"dietype starwars force\">C</span>&nbsp;inférieur ou égal à vos rangs de Protection de la Force. Augmentez votre encaissement du nombre de <span class=\"dietype starwars force\">C</span> engagés jusqu’au début du tour suivant. Subissez 1 point de stress par tour où un <span class=\"dietype starwars force\">C</span> reste engagé.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent14": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent15": {
+        "islearned": false,
+        "name": "Garde du Corps",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "gxdp4XeEVWr0o6a3",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Une fois par round, entreprenez la man&oelig;uvre Garde du corps pour prot&eacute;ger un personnage au contact. Vous subissez un nombre de points de stress inf&eacute;rieur ou &eacute;gal &agrave; votre rang de Garde du corps. Jusqu&rsquo;au d&eacute;but de votre tour suivant, am&eacute;liorez autant de d&eacute;s de difficult&eacute; des tests de combat visant le personnage prot&eacute;g&eacute;.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Une fois par round, entreprenez la manœuvre Garde du corps pour protéger un personnage au contact. Vous subissez un nombre de points de stress inférieur ou égal à votre rang de Garde du corps. Jusqu’au début de votre tour suivant, améliorez autant de dés de difficulté des tests de combat visant le personnage protégé.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent16": {
+        "islearned": false,
+        "name": "Recentrement",
+        "activation": "Active (Maneuver)",
+        "activationLabel": "SWFFG.TalentActivationsActiveManeuver",
+        "itemId": "RL9O5UbM5FAOXHu1",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Effectuez la man&oelig;uvre Recentrement. Jusqu'au d&eacute;but&nbsp;du tour suivant, le niveau de critique des attaques qui vous prennent pour cible augmente de 1 par rang de Recentrement.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Effectuez la manœuvre Recentrement. Jusqu'au début&nbsp;du tour suivant, le niveau de critique des attaques qui vous prennent pour cible augmente de 1 par rang de Recentrement.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent17": {
+        "islearned": false,
+        "name": "Valeur de Force",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "ucowaRAjbkJCXoxF",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1746991875324": {
+            "key": "attr1746991875324",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "ForcePool"
+          }
+        },
+        "description": "<p>+1 &agrave; la valeur de Force</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>+1 à la valeur de Force</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent18": {
+        "islearned": false,
+        "name": "Entraînement",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "6ihuFGkfx8V5C7tn",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1746991393066": {
+            "key": "attr1746991393066",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Brawn"
+          },
+          "attr1746991395954": {
+            "key": "attr1746991395954",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Agility"
+          },
+          "attr1746991397654": {
+            "key": "attr1746991397654",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Intellect"
+          },
+          "attr1746991401084": {
+            "key": "attr1746991401084",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Cunning"
+          },
+          "attr1746991405602": {
+            "key": "attr1746991405602",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Willpower"
+          },
+          "attr1746991409248": {
+            "key": "attr1746991409248",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Presence"
+          }
+        },
+        "description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous gagnez +1 dans une caractéristique. Cela ne permet pas d'augmenter une caractéristique au-delà de 6.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent19": {
+        "islearned": false,
+        "name": "Garde du Corps (Amélioré)",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "ioi7fT4zvMdaQrBm",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Une fois par partie, lorsqu&rsquo;un alli&eacute; prot&eacute;g&eacute; par la man&oelig;uvre Garde du corps est touch&eacute;, vous &ecirc;tes touch&eacute;&nbsp;&agrave; sa place.</p>"
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Athletics",
+      "careerSkill1": "Ranged: Light",
+      "careerSkill2": "Medicine",
+      "careerSkill3": "Resilience",
+      "careerSkill4": "(none)"
+    },
+    "universal": false,
+    "collection": {
+      "talent0": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent1": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent2": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent3": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent4": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent5": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent6": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent7": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent8": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent9": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent10": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent11": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent12": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent13": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent14": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent15": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent16": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent17": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent18": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent19": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [
+    {
+      "name": "attr1747082393653",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "WHEM1np88QYkzPon",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562465,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.WHEM1np88QYkzPon"
+    },
+    {
+      "name": "attr1747082393830",
+      "changes": [
+        {
+          "key": "system.skills.Ranged: Light.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "MU1F2nILum1c9KYq",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562485,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.MU1F2nILum1c9KYq"
+    },
+    {
+      "name": "attr1747082394010",
+      "changes": [
+        {
+          "key": "system.skills.Medicine.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "dVBreQUiYMh0wwS8",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562503,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.dVBreQUiYMh0wwS8"
+    },
+    {
+      "name": "attr1747082394204",
+      "changes": [
+        {
+          "key": "system.skills.Resilience.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "ndCzIl137ysuAyXm",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562509,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.ndCzIl137ysuAyXm"
+    },
+    {
+      "name": "attr1747082394610",
+      "changes": [
+        {
+          "key": "system.skills.Athletics.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "uwIJfgWYgoA0cLG2",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562522,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.uwIJfgWYgoA0cLG2"
+    },
+    {
+      "name": "attr1747082394814",
+      "changes": [
+        {
+          "key": "system.skills.Ranged: Light.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "56oelGCleg9LD4Bk",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562541,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.56oelGCleg9LD4Bk"
+    },
+    {
+      "name": "attr1747082394996",
+      "changes": [
+        {
+          "key": "system.skills.Medicine.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "YOq5CjtNX0PVWYaL",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562562,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.YOq5CjtNX0PVWYaL"
+    },
+    {
+      "name": "attr1747082395178",
+      "changes": [
+        {
+          "key": "system.skills.Resilience.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "r6kNaeQuvDUTHsU3",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908823877,
+        "modifiedTime": 1774534562569,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!gdTbJ2QeP9BpSlrO.r6kNaeQuvDUTHsU3"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747082179080,
+    "modifiedTime": 1774534561639,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!gdTbJ2QeP9BpSlrO"
+}
