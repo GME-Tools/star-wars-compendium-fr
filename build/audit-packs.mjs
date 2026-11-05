@@ -15,7 +15,8 @@ const exists = p => fs.existsSync(p);
 const traverse = (dir) => exists(dir) ? fs.readdirSync(dir, { withFileTypes: true }).flatMap(e => e.isDirectory() ? traverse(path.join(dir, e.name)) : e.name.endsWith(".json") ? [path.join(dir, e.name)] : []) : [];
 for (const pack of PACKS) {
   const src = path.join(ROOT, "src", "packs", pack);
-  const bin = path.join(ROOT, "packs", pack);
+  const manifestPack = MANIFEST.packs.find(p => p.name === pack);
+  const bin = path.join(ROOT, manifestPack.path);
   const output = path.join(EXTRACTED, pack);
   const sourceFiles = traverse(src);
   if (sourceFiles.length) {
