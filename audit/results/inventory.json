@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T13:18:34.761Z",
-  "sourceCommit": "f562ed1e603159a0857e8c69209ae259c1bdb88c",
+  "generatedAt": "2026-11-05T13:19:37.947Z",
+  "sourceCommit": "febf63f384a522e2cb7662a36e17d70d4d867732",
   "manifestVersion": "0.0.35",
   "extraction": {
     "livres": {
@@ -109,9 +109,10 @@
       "error": null
     },
     "obligations": {
-      "origin": "missing",
+      "origin": "LevelDB",
       "success": false,
-      "error": "no pack directory"
+      "files": 0,
+      "error": "ModuleError: Iterator is not open: cannot call next() after close()\n    at Iterator._next (/home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/lib/deferred-iterator.js:56:31)\n    at /home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/lib/deferred-iterator.js:54:32\n    at [undefer] (/home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/abstract-level.js:755:7)\n    at /home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/abstract-level.js:163:25 {\n  code: 'LEVEL_ITERATOR_NOT_OPEN'\n}\n"
     },
     "armes_vaisseaux": {
       "origin": "LevelDB",
@@ -1039,6 +1040,6 @@
     "foreign": 0
   },
   "errors": [
-    "obligations: pack directory missing"
+    "obligations: ModuleError: Iterator is not open: cannot call next() after close()\n    at Iterator._next (/home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/lib/deferred-iterator.js:56:31)\n    at /home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/lib/deferred-iterator.js:54:32\n    at [undefer] (/home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/abstract-level.js:755:7)\n    at /home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/abstract-level.js:163:25 {\n  code: 'LEVEL_ITERATOR_NOT_OPEN'\n}\n"
   ]
 }

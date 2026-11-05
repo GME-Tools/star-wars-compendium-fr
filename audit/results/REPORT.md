@@ -1,6 +1,6 @@
 # Inventaire automatisé — Star Wars Compendium FR
 
-Source: `f562ed1e603159a0857e8c69209ae259c1bdb88c` · Module 0.0.35
+Source: `febf63f384a522e2cb7662a36e17d70d4d867732` · Module 0.0.35
 
 ## Packs
 
@@ -24,7 +24,7 @@ Source: `f562ed1e603159a0857e8c69209ae259c1bdb88c` · Module 0.0.35
 | critiques | LevelDB | OK | 28 | 0 | 0 | 0 | 0 | 0 |
 | historiques | LevelDB | OK | 27 | 8 | 0 | 0 | 0 | 0 |
 | motivations | LevelDB | OK | 0 | 0 | 0 | 0 | 0 | 0 |
-| obligations | missing | FAIL | 0 | 0 | 0 | 0 | 0 | 0 |
+| obligations | LevelDB | FAIL | 0 | 0 | 0 | 0 | 0 | 0 |
 | armes_vaisseaux | LevelDB | OK | 19 | 0 | 0 | 0 | 0 | 0 |
 | degats_critiques | LevelDB | OK | 18 | 0 | 0 | 0 | 0 | 0 |
 | capacites_emblematiques | LevelDB | OK | 38 | 0 | 0 | 0 | 0 | 0 |
@@ -40,7 +40,7 @@ Les références sont contrôlées par expression régulière; liens sans UUID e
 
 ## Extraction
 
-- obligations: pack directory missing
+- obligations: ModuleError: Iterator is not open: cannot call next() after close()     at Iterator._next (/home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/lib/deferred-iterator.js:56:31)     at /home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/lib/deferred-iterator.js:54:32     at [undefer] (/home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/abstract-level.js:755:7)     at /home/runner/work/star-wars-compendium-fr/star-wars-compendium-fr/node_modules/abstract-level/abstract-level.js:163:25 {   code: 'LEVEL_ITERATOR_NOT_OPEN' } 
 
 ## Limites
 
