@@ -1,0 +1,65 @@
+name: Canonical data inventory (audit branch)
+on:
+  push:
+    branches:
+      - audit/canonical-data-inventory
+    paths:
+      - build/audit-packs.mjs
+      - .github/workflows/audit-inventory.yml
+      - module.json
+      - src/packs/**
+      - packs/**
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Configure Foundry data directory
+        run: |
+          mkdir -p "$RUNNER_TEMP/foundry-root/Data/modules"
+          ln -s "$GITHUB_WORKSPACE" "$RUNNER_TEMP/foundry-root/Data/modules/star-wars-compendium-fr"
+          npx fvtt configure set dataPath "$RUNNER_TEMP/foundry-root"
+          npx fvtt package workon star-wars-compendium-fr --type Module
+      - name: Extract and inventory all packs
+        id: audit
+        continue-on-error: true
+        run: node build/audit-packs.mjs
+      - name: Upload full inventory and extracted source documents
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: starwarsffg-inventory
+          path: |
+            audit/results/
+            audit/extracted/
+          retention-days: 30
+      - name: Save summary inventory to branch
+        if: always()
+        run: |
+          if [ ! -f audit/results/REPORT.md ]; then
+            echo 'Audit did not produce a report.'
+            exit 1
+          fi
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add audit/results/inventory.json audit/results/REPORT.md
+          if ! git diff --cached --quiet; then
+            git commit -m "audit: record extracted pack inventory"
+            git push
+          fi
+      - name: Require successful extraction
+        if: steps.audit.outcome == 'failure'
+        run: exit 1
