@@ -1,0 +1,1044 @@
+{
+  "generatedAt": "2026-11-05T13:18:34.761Z",
+  "sourceCommit": "f562ed1e603159a0857e8c69209ae259c1bdb88c",
+  "manifestVersion": "0.0.35",
+  "extraction": {
+    "livres": {
+      "origin": "src/packs",
+      "success": true,
+      "files": 65
+    },
+    "aventures": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 1,
+      "error": null
+    },
+    "especes": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 19,
+      "error": null
+    },
+    "carrieres": {
+      "origin": "src/packs",
+      "success": true,
+      "files": 20
+    },
+    "specialites": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 114,
+      "error": null
+    },
+    "talents": {
+      "origin": "src/packs",
+      "success": true,
+      "files": 233
+    },
+    "capacites": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 22,
+      "error": null
+    },
+    "pouvoirs-de-force": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 11,
+      "error": null
+    },
+    "armes": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 44,
+      "error": null
+    },
+    "ameliorations": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 45,
+      "error": null
+    },
+    "qualites": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 30,
+      "error": null
+    },
+    "armures": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 6,
+      "error": null
+    },
+    "equipement": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 57,
+      "error": null
+    },
+    "vaisseaux": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 33,
+      "error": null
+    },
+    "pnj": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 16,
+      "error": null
+    },
+    "critiques": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 28,
+      "error": null
+    },
+    "historiques": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 35,
+      "error": null
+    },
+    "motivations": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 0,
+      "error": null
+    },
+    "obligations": {
+      "origin": "missing",
+      "success": false,
+      "error": "no pack directory"
+    },
+    "armes_vaisseaux": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 19,
+      "error": null
+    },
+    "degats_critiques": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 18,
+      "error": null
+    },
+    "capacites_emblematiques": {
+      "origin": "LevelDB",
+      "success": true,
+      "files": 38,
+      "error": null
+    }
+  },
+  "documents": {
+    "livres": {
+      "files": 65,
+      "documentTypes": {
+        "JournalEntry": 59
+      },
+      "documents": 59,
+      "folders": 6,
+      "journalPages": 249,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 0,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "aventures": {
+      "files": 1,
+      "documentTypes": {
+        "unspecified": 1
+      },
+      "documents": 1,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 0,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "especes": {
+      "files": 19,
+      "documentTypes": {
+        "species": 19
+      },
+      "documents": 19,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 78,
+      "effectChanges": 177,
+      "sourceReferences": 24,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "carrieres": {
+      "files": 20,
+      "documentTypes": {
+        "career": 20
+      },
+      "documents": 20,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 27,
+      "effectChanges": 167,
+      "sourceReferences": 20,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "specialites": {
+      "files": 114,
+      "documentTypes": {
+        "specialization": 114
+      },
+      "documents": 114,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 281,
+      "effectChanges": 668,
+      "sourceReferences": 27,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [
+        "Éclaireur"
+      ],
+      "errors": []
+    },
+    "talents": {
+      "files": 233,
+      "documentTypes": {
+        "talent": 233
+      },
+      "documents": 233,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 42,
+      "effectChanges": 42,
+      "sourceReferences": 304,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "capacites": {
+      "files": 22,
+      "documentTypes": {
+        "ability": 22
+      },
+      "documents": 22,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 21,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "pouvoirs-de-force": {
+      "files": 11,
+      "documentTypes": {
+        "forcepower": 11
+      },
+      "documents": 11,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 11,
+      "effectChanges": 11,
+      "sourceReferences": 11,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "armes": {
+      "files": 44,
+      "documentTypes": {
+        "weapon": 37
+      },
+      "documents": 37,
+      "folders": 7,
+      "journalPages": 0,
+      "activeEffects": 14,
+      "effectChanges": 14,
+      "sourceReferences": 36,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "ameliorations": {
+      "files": 45,
+      "documentTypes": {
+        "itemattachment": 31,
+        "shipattachment": 10
+      },
+      "documents": 41,
+      "folders": 4,
+      "journalPages": 0,
+      "activeEffects": 20,
+      "effectChanges": 20,
+      "sourceReferences": 41,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "qualites": {
+      "files": 30,
+      "documentTypes": {
+        "itemmodifier": 30
+      },
+      "documents": 30,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 5,
+      "effectChanges": 5,
+      "sourceReferences": 30,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "armures": {
+      "files": 6,
+      "documentTypes": {
+        "armour": 6
+      },
+      "documents": 6,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 6,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "equipement": {
+      "files": 57,
+      "documentTypes": {
+        "gear": 48
+      },
+      "documents": 48,
+      "folders": 9,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 48,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "vaisseaux": {
+      "files": 33,
+      "documentTypes": {
+        "vehicle": 26
+      },
+      "documents": 26,
+      "folders": 7,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 26,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "pnj": {
+      "files": 16,
+      "documentTypes": {
+        "minion": 5,
+        "nemesis": 2,
+        "rival": 7
+      },
+      "documents": 14,
+      "folders": 2,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 0,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "critiques": {
+      "files": 28,
+      "documentTypes": {
+        "criticalinjury": 28
+      },
+      "documents": 28,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 28,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "historiques": {
+      "files": 35,
+      "documentTypes": {
+        "background": 27
+      },
+      "documents": 27,
+      "folders": 8,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 27,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "motivations": {
+      "files": 0,
+      "documentTypes": {},
+      "documents": 0,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 0,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "obligations": {
+      "files": 0,
+      "documentTypes": {},
+      "documents": 0,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 0,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "armes_vaisseaux": {
+      "files": 19,
+      "documentTypes": {
+        "shipweapon": 19
+      },
+      "documents": 19,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 19,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "degats_critiques": {
+      "files": 18,
+      "documentTypes": {
+        "criticaldamage": 18
+      },
+      "documents": 18,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 18,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    },
+    "capacites_emblematiques": {
+      "files": 38,
+      "documentTypes": {
+        "signatureability": 38
+      },
+      "documents": 38,
+      "folders": 0,
+      "journalPages": 0,
+      "activeEffects": 0,
+      "effectChanges": 0,
+      "sourceReferences": 0,
+      "idsMissing": 0,
+      "duplicatedIds": [],
+      "duplicatedNames": [],
+      "errors": []
+    }
+  },
+  "references": {
+    "total": 1619,
+    "resolved": 1477,
+    "missing": [
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/C7XIk7sZ3gAVGlNy"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/qboGCs3R5GBmzvkJ"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/0ECgaD9m9w7WcU8g"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/lWcdxlybMQ05BWwU"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/u4wl2PhRPAtjFAG1"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/6SwXlBDTzss7al4w"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/JGo4MfS1jBtgPTeo"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/EoR7P77WjAH5u8Xc"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/IB0czpCmdJXdKIRq"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/bi3LD5xRyGkhX2X9"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/uoARyfLNbqUChSWV"
+      },
+      {
+        "from": "livres/VOIpduBojngsb3np",
+        "to": "obligations/Ni18gM6MLPsGBGFA"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/Zz4om8EkeUcvmDYh"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/lJFrxshYLx7jOGcC"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/UBFM149vkfqQM5Er"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/Jh0GVI7g7TwcToC7"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/C643q1wZ03cECeDG"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/pl46YnG2LzBPsuQe"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/EsClM9y9U6PCYUNa"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/TT3caanfWAXLDmCh"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/KKMRbRLzciUuEqHN"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/gfXSpAKPjvRTLp2S"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/pg2Tpa8bqgL61FY6"
+      },
+      {
+        "from": "livres/4hiFYEkAo9lngbLV",
+        "to": "obligations/96mjywFR8HmhzCmn"
+      },
+      {
+        "from": "livres/RpH8G0RHhB8wh6HH",
+        "to": "carrieres/hg3Mq7GmIvtZhuGv"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/FvI3D08NodAtpyYD"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/ZwHWSazt86EHVERA"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/guJgVwJiLO07rXzN"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/nJ6aZ8yAqI3womjC"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/q5tYijfo1LiLz5FL"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/sHr0wAVj8tkUVMmL"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/e1av1VsimK8Gmeay"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/PG9ZHQ7Wq8orDciY"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/f1mxduTcf7B7kBIa"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/OyPIKk0D7E9JBmz0"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/PilMkXsqlQ3SqGvC"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/8LXGftZDuIecjNl6"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/CczRXIRnXPan3fet"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/mZhfCdsS97suhgC1"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/9LSXNu8QUQErdiP6"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/Bsum0p3HEaFd8y68"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/2DoJQQDCIIyc8int"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/r8yLBmB957M3eM80"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/AuGF9aEub9SW7ohK"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/fbPMFJ18PLYKwxIx"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/WQSwo9RCruFPDIqT"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/OqJYm4TMa9rQoSBw"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/R9k6GfpQM4xz0xIt"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "obligations/uuDhzKuUQkYlszN1"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/L5gS4d6hPRqnm5kc"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/9AwiWgh1XxB1y1CT"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/2ghPRzWZsbT8s6HX"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/cm9A4xxcRjxHgkr7"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/yRHTvosNKL9OpgFN"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/pVYp3uexxzJPtp9w"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/W9q86C2tGEjOSfo1"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/NIbzFbeyDpW1UGny"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/QMqlNMifRIVT7rTU"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/Ma1LZ2YybUHUxwYi"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/u5OeKx1yKPNUttEI"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/3nncjDT8bHrn16yT"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/B3C3d2ivuzsecui6"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/RqTaHMdv67YmdLdS"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/49Xz2ZW4l2sRxjHD"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/z9R9EsmXmSXgSny9"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/mcGgumk8xfpLaBwP"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/h4NVeeASBseiPcaG"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/9LE3GZ6pN9npgYBe"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/I3TuH0its6uh3e12"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/qkm8Jk1vrxCSG597"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/nu0hVooCNpqRCGyx"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/e0XmAMUH9xKuDn2J"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/BnxfR1xU4Kk9fb9R"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/K6HAKE8QvsOiqyzM"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/fpY46jYAEnR4ukJd"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/6TGmaSPx5NaHqTZ7"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/77UgQHQB3kzcMQoK"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/RikDl9rsYpGpAjyZ"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/yOtiSZNKBjGkieFC"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/ul5eHSO7IQdQdZZy"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/MtIEhy61GTs8ImhW"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/RHBVWNazmexfb11R"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/UaS8lLtJzkqy0jNv"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/SJAnesfKrH3mjIAH"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/TA86fW9yYFK7Z8ar"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/W3m6W9qNFLqi9mf8"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/8DiZeWJkjW6e3s9R"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/AXW0Q9hGQIIEYKBu"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/5bSgC5cxEnl0xkUV"
+      },
+      {
+        "from": "livres/1np94ZtEEvHLtz2g",
+        "to": "ameliorations_armes/KhnmO7WmiyQ3UM0h"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/L5gS4d6hPRqnm5kc"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/9AwiWgh1XxB1y1CT"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/2ghPRzWZsbT8s6HX"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/cm9A4xxcRjxHgkr7"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/yRHTvosNKL9OpgFN"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/pVYp3uexxzJPtp9w"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/W9q86C2tGEjOSfo1"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/NIbzFbeyDpW1UGny"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/QMqlNMifRIVT7rTU"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/Ma1LZ2YybUHUxwYi"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/u5OeKx1yKPNUttEI"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/3nncjDT8bHrn16yT"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/B3C3d2ivuzsecui6"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/RqTaHMdv67YmdLdS"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/49Xz2ZW4l2sRxjHD"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/z9R9EsmXmSXgSny9"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/mcGgumk8xfpLaBwP"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/h4NVeeASBseiPcaG"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/9LE3GZ6pN9npgYBe"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/I3TuH0its6uh3e12"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/qkm8Jk1vrxCSG597"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/nu0hVooCNpqRCGyx"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/e0XmAMUH9xKuDn2J"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/BnxfR1xU4Kk9fb9R"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/K6HAKE8QvsOiqyzM"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/fpY46jYAEnR4ukJd"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/6TGmaSPx5NaHqTZ7"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/77UgQHQB3kzcMQoK"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/RikDl9rsYpGpAjyZ"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/yOtiSZNKBjGkieFC"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/ul5eHSO7IQdQdZZy"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/MtIEhy61GTs8ImhW"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/RHBVWNazmexfb11R"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/UaS8lLtJzkqy0jNv"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/SJAnesfKrH3mjIAH"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/TA86fW9yYFK7Z8ar"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/W3m6W9qNFLqi9mf8"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/8DiZeWJkjW6e3s9R"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/5bSgC5cxEnl0xkUV"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/AXW0Q9hGQIIEYKBu"
+      },
+      {
+        "from": "livres/cDQ6hKWkTPTyowae",
+        "to": "ameliorations_armes/KhnmO7WmiyQ3UM0h"
+      },
+      {
+        "from": "armes/Ey4QUqex3AZIpxGC",
+        "to": "ameliorations_armes/RqTaHMdv67YmdLdS"
+      },
+      {
+        "from": "armes/3e169Fp84TgBuC7g",
+        "to": "ameliorations_armes/RqTaHMdv67YmdLdS"
+      },
+      {
+        "from": "armes/jR5tDIfMAff0Gh6i",
+        "to": "ameliorations_armes/RqTaHMdv67YmdLdS"
+      },
+      {
+        "from": "armes/q996VHEcvJpLKhK6",
+        "to": "ameliorations_armes/RqTaHMdv67YmdLdS"
+      },
+      {
+        "from": "pnj/vBtCfjCfYenZGw0E",
+        "to": "capacites/X2SvtiGCFc6dmzAA"
+      }
+    ],
+    "foreign": 0
+  },
+  "errors": [
+    "obligations: pack directory missing"
+  ]
+}
