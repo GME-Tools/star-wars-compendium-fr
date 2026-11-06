@@ -2,12 +2,13 @@
 // Deterministic validation of a private full-text + entity bundle. Not a semantic PDF review.
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const p = process.argv[2];
 if (!p) { console.error('Usage: node tools/check-bundle.mjs .swffg-work/books/BOOK/units/UNIT/bundle.json'); process.exit(2); }
 const file = path.resolve(p);
 if (!fs.existsSync(file)) { console.error('Bundle missing: ' + file); process.exit(2); }
-const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const privateRoot = path.join(root, '.swffg-work');
 if (!file.startsWith(privateRoot + path.sep)) { console.error('Bundle must be inside private workspace'); process.exit(2); }
 const b = JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -45,8 +46,8 @@ for (const block of b.blocks || []) {
     for (const id of data.entity_ids || [])
       if (!entityIds.has(id)) errors.push(block.id + ': unknown entity ' + id);
   }
-  if (data.disposition === 'blocked' && !data.reason)
-    errors.push(block.id + ': blocked without reason');
+  if (data.disposition === 'blocked')
+    errors.push(block.id + ': unresolved blocked data (' + (data.reason || 'no reason') + ')');
 }
 for (const e of b.entities || []) {
   if (!e.id || !e.type) errors.push('Entity without id or type');
@@ -59,7 +60,14 @@ for (const e of b.entities || []) {
       errors.push(e.id + ': canonical file missing or outside private workspace');
   }
 }
-const report = { book: b.book_id, unit: b.unit_id, blocks: ids.size, entities: (b.entities || []).length,
+const report = { book: b.book_id, unit: b.unit_id, edition_sha256: b.edition_sha256, blocks: ids.size, entities: (b.entities || []).length,
                  text_artifacts: textFiles.size, pass: !errors.length, errors };
+const destArg = process.argv.indexOf('--out');
+if (destArg >= 0) {
+  const dest = path.resolve(process.argv[destArg + 1] || '');
+  if (!dest.startsWith(privateRoot + path.sep)) { console.error('Report must be inside private workspace'); process.exit(2); }
+  fs.mkdirSync(path.dirname(dest), { recursive: true });
+  fs.writeFileSync(dest, JSON.stringify(report, null, 2) + '\n');
+}
 console.log(JSON.stringify(report, null, 2));
 process.exitCode = report.pass ? 0 : 1;
