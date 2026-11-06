@@ -17,12 +17,25 @@ dependencies: []            # lots/entités réellement nécessaires
 status: planned             # planned|extracted|structured|auto_validated|agent_reviewed|ready_for_human_review|human_approved|blocked
 inputs:
   existing_packs: []
+  oggdude:
+    repository: null           # URL du dépôt effectivement consulté
+    commit: null               # SHA épinglé, jamais « latest »
+    paths: []                  # fichiers XML utilisés
+    license_review: pending    # constat de licence/provenance, pas une autorisation supposée
+reconciliation:
+  report: null                # table de correspondances + écarts
+  status: pending             # pending|completed|blocked
+  matches_verified: 0
+  matches_ambiguous: 0
+  conflicts: 0
 outputs:
   full_text: []
   canonical_data: []
   coverage: null
   reports: []
 checks:
+  external_source_scope: pending
+  reconciliation: pending
   extraction: pending
   block_coverage: pending
   data_schema: pending
@@ -58,3 +71,7 @@ Un bloc `not_applicable` **n'autorise pas** à omettre la transcription du texte
 ## Sorties et confidentialité
 
 Ne jamais archiver dans le GitHub public le PDF source, ses transcriptions complètes, ses images dérivées ou les exports contenant une part substantielle du texte protégé. Le manifeste de travail et les résultats de revue détaillés peuvent aussi contenir des extraits protégés : les garder localement ou dans un espace privé approprié. Pour le dépôt public, publier uniquement des scripts, procédures, schémas et un bilan non substitutif au livre.
+
+## Contrôle du rapprochement
+
+Utiliser `oggdude_key` et `foundry_id` comme identifiants **externes**. Inscrire la décision de correspondance (`exact_verified`, `candidate`, `ambiguous`, `not_found`, `out_of_scope`, `conflict`) dans le rapport de rapprochement. Tout candidat doit être revalidé contre la page PDF de SWE02 avant d'alimenter la base canonique. Les descriptions anglaises ne font pas partie des textes intégraux français.
