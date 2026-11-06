@@ -1,4 +1,6 @@
 import { spawnSync } from "node:child_process";
+import { existsSync } from "node:fs";
+import path from "node:path";
 
 const steps = [
   { name: "ameliorations", command: "npm", args: ["run", "pack:ameliorations"] },
@@ -28,6 +30,13 @@ const steps = [
 let hasError = false;
 
 for (const step of steps) {
+  // Le pack Motivations est historiquement présent, mais ne possède pas encore de
+  // sources JSON. Ne pas remplacer son contenu binaire par un pack vide.
+  if (step.name === "motivations" && !existsSync(path.join("src", "packs", "motivations"))) {
+    console.warn("\n=== Build motivations : ignoré (aucune source JSON ; pack existant préservé) ===");
+    continue;
+  }
+
   console.log(`\n=== Build ${step.name} ===`);
 
   const result = spawnSync(step.command, step.args, {
