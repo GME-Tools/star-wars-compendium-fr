@@ -1,77 +1,34 @@
-# Contrat minimal d'un lot SWE02
+# Unité de travail — contrat valable pour tous les ouvrages
 
-Créer un fichier de suivi local/privé par lot (YAML recommandé pour le suivi). Remplir les propriétés avec les **constats réels**, jamais en supposant une pagination ou un contenu. Ce modèle n'est pas une transcription du livre.
+Ce document est un modèle de **suivi**, pas la limite du système. Le corpus doit couvrir chaque page de chaque ouvrage accessible, avec des unités suffisamment petites pour être inspectables mais suffisamment larges pour avancer efficacement.
 
-```yaml
-lot_id: null                # ex: SWE02-<section>-<sequence>, stable
-book: SWE02
-edition: null               # identification contrôlée du PDF
-source_pdf: null            # chemin local/privé, ne pas committer un PDF protégé
-source_fingerprint: null    # SHA256 du fichier pour vérifier la version
-scope:
-  pdf_pages: []             # pages physiques, index 1-based
-  printed_pages: []         # pages affichées dans l'ouvrage
-  section: null
-  source_blocks: []         # blocs identifiés après extraction
-dependencies: []            # lots/entités réellement nécessaires
-status: planned             # planned|extracted|structured|auto_validated|agent_reviewed|ready_for_human_review|human_approved|blocked
-inputs:
-  existing_packs: []
-  oggdude:
-    repository: null           # URL du dépôt effectivement consulté
-    commit: null               # SHA épinglé, jamais « latest »
-    paths: []                  # fichiers XML utilisés
-    license_review: pending    # constat de licence/provenance, pas une autorisation supposée
-reconciliation:
-  report: null                # table de correspondances + écarts
-  status: pending             # pending|completed|blocked
-  matches_verified: 0
-  matches_ambiguous: 0
-  conflicts: 0
-outputs:
-  full_text: []
-  canonical_data: []
-  coverage: null
-  reports: []
-checks:
-  external_source_scope: pending
-  reconciliation: pending
-  extraction: pending
-  block_coverage: pending
-  data_schema: pending
-  references: pending
-  source_fidelity: pending
-  independent_review: pending
-  human_approval: pending
-issues: []                  # severity, page, block, evidence, suggested_resolution
-human_decision:
-  status: pending
-  date: null
-  notes: null
-```
+Le registre machine est maintenu par tools/corpus.mjs dans .swffg-work/books/BOOK/state.json. Pour chaque unité, renseigner :
+- identité : book_id, unit_id, empreinte PDF, pages physiques et imprimées, titre/section, dépendances ;
+- ingestion : cache et blocs source vérifiés (avec boîtes englobantes si utile) ;
+- texte intégral : sorties, couverture des blocs, mise en forme des tableaux/encadrés/images ;
+- entités : listes des objets et attestations, références, variantes, exceptions ;
+- écarts : OggDude/Foundry/source officielle et conflits ouverts ;
+- QA : preuves des contrôles automatiques, relecture indépendante et acceptation humaine ;
+- statut opérationnel et blocages pour reprise automatique.
 
-## Convention de couverture
+Un bundle JSON par unité (.swffg-work/books/BOOK/units/UNIT/bundle.json) expose la relation entre blocs de source, transcriptions, objets structurés et fichiers privés. Voir corpus/unit-bundle.example.json et node tools/check-bundle.mjs.
 
-Pour chaque bloc délimité dans le PDF (y compris tableaux, notes, encadrés et légendes) relever :
-- `block_id` stable dans le lot ;
-- `pdf_page` et `printed_page` si connue ;
-- `kind` (heading, paragraph, list, table, sidebar, note, figure, caption, etc.) ;
-- `disposition` : `text_only`, `structured_and_text`, `not_applicable`, `blocked` ;
-- chemins de sortie ou raison de non-applicabilité / blocage.
+## Couverture
 
-Un bloc `not_applicable` **n'autorise pas** à omettre la transcription du texte d'une légende ou d'un encadré : il signifie seulement qu'aucune entrée métier spécifique n'est justifiée.
+Chacun des blocs doit avoir :
+1. un identifiant stable, une page et un type ;
+2. un état texte (transcribed, visual_anchor, excluded avec raison) ;
+3. un état métier (entities avec IDs, text_only ou blocked avec raison) ;
+4. des sorties existantes et de provenance inspectable.
 
-## Définition des deux pilotes
+Une page d'illustration ou une page blanche ne doit pas être prise pour une absence mystérieuse : l'inventaire d'ingestion la note et le traitement est explicitement justifié.
 
-- **Simple** : passage effectivement observé dont extraction native et segmentation sont nettes, avec au moins une unité de contenu exploitable.
-- **Complexe** : passage observé comprenant plusieurs éléments structurels (tableau, encadré, renvois, etc.).
-- Choisir les pages **après qualification du PDF**, et non par numéro de page présumé.
-- Produire un rapport comparatif des deux pilotes : exactitude de transcription, erreurs de classification, écarts restant, intervention humaine et efficacité du processus.
+## Avancement
 
-## Sorties et confidentialité
+Étapes : extraction, fulltext, entities, automatic_review, independent_review et human_approval. L'outil empêche de valider la revue indépendante avant le contrôle automatique et réserve l'approbation finale au terminal humain interactif.
 
-Ne jamais archiver dans le GitHub public le PDF source, ses transcriptions complètes, ses images dérivées ou les exports contenant une part substantielle du texte protégé. Le manifeste de travail et les résultats de revue détaillés peuvent aussi contenir des extraits protégés : les garder localement ou dans un espace privé approprié. Pour le dépôt public, publier uniquement des scripts, procédures, schémas et un bilan non substitutif au livre.
+La relecture agentique doit réellement consulter les preuves sources. Aucun statut « done » ne prouve à lui seul la fidélité : le paquet d'évidence doit être inspectable.
 
-## Contrôle du rapprochement
+## Traitement volumineux
 
-Utiliser `oggdude_key` et `foundry_id` comme identifiants **externes**. Inscrire la décision de correspondance (`exact_verified`, `candidate`, `ambiguous`, `not_found`, `out_of_scope`, `conflict`) dans le rapport de rapprochement. Tout candidat doit être revalidé contre la page PDF de SWE02 avant d'alimenter la base canonique. Les descriptions anglaises ne font pas partie des textes intégraux français.
+Commencer chaque nouvelle famille de mise en page par un échantillon, calibrer puis enchaîner **toutes** les unités. Utiliser une revue à risque et des scripts déterministes. Ne pas limiter le chantier à deux exemples, à SWE02 ni à une seule catégorie d'items.
