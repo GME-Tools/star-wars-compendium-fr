@@ -4,6 +4,7 @@ const steps = [
   { name: "carrières", script: "build/validation/careers.mjs" },
   { name: "talents", script: "build/validation/talents.mjs" },
   { name: "livres", script: "build/validation/livres.mjs" },
+  { name: "qualités", script: "build/validation/qualites.mjs" },
 ];
 
 let hasError = false;
