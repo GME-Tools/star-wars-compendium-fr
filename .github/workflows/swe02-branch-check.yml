@@ -1,0 +1,30 @@
+name: SWE02 working branch checks
+on:
+  push:
+    branches:
+      - work/swe02-codex-pipeline
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Install
+        run: npm ci
+      - name: Configure Foundry CLI
+        run: |
+          mkdir -p "$RUNNER_TEMP/foundry-root/Data/modules"
+          ln -s "$GITHUB_WORKSPACE" "$RUNNER_TEMP/foundry-root/Data/modules/star-wars-compendium-fr"
+          npx fvtt configure set dataPath "$RUNNER_TEMP/foundry-root"
+          npx fvtt package workon star-wars-compendium-fr --type Module
+      - name: Validate source documents and build packs
+        run: npm run build
