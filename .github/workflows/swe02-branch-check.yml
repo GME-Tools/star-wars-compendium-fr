@@ -20,6 +20,15 @@ jobs:
           cache: npm
       - name: Install
         run: npm ci
+      - name: Verify corpus tools
+        run: |
+          node --check tools/corpus.mjs
+          node --check tools/check-bundle.mjs
+          node --check tools/foundry_index.mjs
+          python -m py_compile tools/pdf_probe.py tools/oggdude_index.py
+          node --test tools/tests/corpus.test.mjs
+          node tools/corpus.mjs catalog
+          node tools/foundry_index.mjs
       - name: Configure Foundry CLI
         run: |
           mkdir -p "$RUNNER_TEMP/foundry-root/Data/modules"
