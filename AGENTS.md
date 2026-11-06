@@ -1,56 +1,50 @@
-# AGENTS.md — Star Wars FFG: référentiel canonique
+# Star Wars FFG — Corpus intégral et base canonique
 
-## Mission et périmètre
-Créer, à partir du **Livre de règles d'Aux Confins de l'Empire (SWE02)**, un corpus vérifiable composé de **données structurées** ET du **texte intégral structuré**, à destination ultérieure d'un viewer web et d'un adaptateur Foundry VTT v13. Les autres ouvrages et plateformes sont hors périmètre du pilote sauf demande explicite.
+## Mission permanente
+Produire et maintenir **l'ensemble de la gamme Star Wars FFG/Edge** : données de jeu structurées exhaustives et **textes intégraux** fidèles des ouvrages, avec références croisées, provenance, validation et sorties réutilisables (viewer web, Foundry V13, autres adaptateurs ultérieurs). SWE02 est **le premier ouvrage**, jamais une limite de l'architecture. La liste du README est un inventaire initial, ouvert aux ouvrages manquants.
 
-L'objectif immédiat est de **qualifier le PDF et tester le processus sur deux petits lots** (un simple, un complexe), pas de traiter tout le livre ni de concevoir une architecture générale.
+## Contrôle de production
+L'orchestrateur racine est .agents/skills/swffg-orchestrate/SKILL.md. Il délègue par travail à des skills spécialisés, ne se contente pas de proposer un plan et doit continuer à traiter les lots disponibles jusqu'à une vraie limite : source absente, décision humaine requise, budget explicite ou demande de l'utilisateur satisfaite. Ne pas demander l'autorisation entre chaque opération mécanique sûre.
 
-## Source de vérité et réemploi
-1. L'édition de SWE02 fournie/licenciée par l'utilisateur, lorsque son PDF est accessible, fait autorité pour l'exactitude éditoriale. Ne jamais prétendre l'avoir lue sans l'avoir ouverte.
-2. Les **datasets OggDude anglais** sont une source secondaire de découverte et de préremplissage : clés, noms anglais, structures, relations et propriétés candidates. Épingler leur dépôt, commit, fichiers et licence constatée. Ne jamais les considérer comme exhaustifs, officiels ou automatiquement valables pour SWE02.
-3. `src/packs/` est un **patrimoine français à réemployer**, pas une preuve d'exactitude ni une source de vérité. Comparer à SWE02 et consigner les divergences.
-4. Avant de produire une fiche : rapprocher mécaniquement les candidats OggDude et `src/packs`, puis soumettre au PDF les valeurs retenues. Documenter les clés externes séparément de l'identité canonique; aucun nom traduit ne suffit à démontrer une correspondance.
-5. Ne jamais inventer du texte, des coûts, valeurs, noms, pages, exceptions, intitulés ou relations. En cas d'absence du PDF ou de doute, bloquer le lot concerné et rendre une liste précise des pièces nécessaires.
-6. Ne pas transposer automatiquement dans SWE02 du contenu attesté seulement dans un autre ouvrage.
-7. Conserver les identifiants Foundry et autres liens existants comme correspondances de compatibilité; créer des identifiants métiers stables indépendants du nom français. Ne pas changer des UUID déjà publiés sans décision explicite.
+Le registre des ouvrages se trouve dans corpus/books.json. Les commandes déterministes sont dans tools/corpus.mjs. L'espace de travail .swffg-work/ (ignoré par Git) conserve les sources et productions susceptibles de reproduire des œuvres protégées. La documentation d'architecture se trouve dans docs/CORPUS-ARCHITECTURE.md.
 
-Voir `.agents/skills/swffg-orchestrate/references/oggdude-reconciliation.md` pour le protocole de rapprochement. Les descriptions OggDude ne sont jamais une source pour le texte intégral SWE02.
+## Sources, ordre d'autorité et réutilisation
+1. L'édition exacte du livre traité, réellement consultée (PDF, pages rendues, errata associés explicitement), fait autorité pour son **contenu éditorial**. Ne jamais inventer une lecture ni une pagination.
+2. Les JSON déjà présents dans src/packs/ sont de précieux candidats FR : réutilisation ciblée, contrôle de fidélité, conservation des identifiants Foundry.
+3. Les datasets OggDude EN sont des candidats de **couverture, identité, paramètres et relations**. Enregistrer dépôt, commit, source éditoriale, droits connus ; leurs descriptions ne remplacent pas les textes français.
+4. Aucune correspondance sur les seuls noms, aucune fusion silencieuse entre éditions, ouvrages, traductions et errata.
+5. Un élément métier réutilisé d'un livre à l'autre garde une identité canonique stable, avec attestations et variantes **par source** ; ne pas dupliquer arbitrairement, ne pas écraser les versions divergentes.
 
-## Séparation des contenus
-- **Texte intégral** : préserver les mots, ponctuation, titres, ordre, notes, listes, tableaux, encadrés et exemples de SWE02; ne jamais paraphraser la transcription. La mise en forme est reconstruite de manière contrôlée, avec trace des décisions.
-- **Données structurées** : transcrire les propriétés et relations explicitement établies par le livre; ne pas confondre règle métier, description éditoriale et automatisation Foundry.
-- Un même passage peut alimenter les deux sorties sans duplication arbitraire de la vérité; chaque sortie renvoie à la provenance commune.
-- La définition des données canoniques ne doit pas dépendre des champs `system.*` ou des Active Effects de `starwarsffg`.
-- YAML pour les fiches structurées est un **candidat à éprouver** lors du pilote, pas un format irrévocable.
+## Double filière obligatoire
+- **Texte intégral** : ordre des blocs, titres, paragraphes, tableaux, encadrés, notes, exemples, légendes et références aux illustrations. Pas de résumé substitué au texte ; conserver une représentation éditable et un identifiant/provenance par bloc.
+- **Données structurées** : carrières, spécialités/arbres, talents, espèces, caractéristiques, compétences, pouvoirs, équipement, véhicules, PNJ, obligations/devoirs/moralités, motivations, historiques, blessures critiques, planètes, rencontres, règles et tableaux, aventures, etc. Modéliser uniquement les faits attestés et expliciter les champs inconnus.
+- Les deux filières progressent **ensemble pour chaque segment source** et pointent vers les mêmes blocs, tout en possédant des validations indépendantes.
+- Le modèle canonique ne dépend pas de system.* / Active Effects Foundry ; ceux-ci appartiennent aux adaptateurs de sortie.
 
-## Provenance obligatoire
-Chaque unité de sortie référence au minimum : `source: SWE02`, page **imprimée** (et page PDF si différente), identifiant du lot, section/bloc d'origine, statut de vérification. Conserver l'ambiguïté si la correspondance n'est pas sûre. Ne pas écraser la source brute ni la remplacer par une interprétation.
+## Provenance et auditabilité
+Chaque livre possède une identité, une empreinte de l'édition PDF, un mapping page PDF ↔ page imprimée, un sommaire et un registre de couverture. Chaque bloc et donnée dérivée garde l'ouvrage, l'édition, les pages, les IDs de blocs et l'état de preuve. En cas de divergence : noter les deux valeurs et leur preuve ; ne pas résoudre au hasard.
 
-## Procédure et validations
-- Pour toute tâche couvrant extraction, planification de lots, structuration ou relecture SWE02 : suivre `.agents/skills/swffg-orchestrate/SKILL.md`.
-- D'abord détecter la présence et la qualité d'une **couche texte PDF**. Extraction déterministe en priorité; OCR ciblé seulement quand nécessaire. Ne jamais OCRiser aveuglément un livre entier.
-- Traiter de petits **lots paginés**, avec état explicite et artefacts de reprise. Employer seulement les pages et les schémas nécessaires au lot.
-- Validation en trois portes : **contrôles déterministes** (schémas, couverture, liens, valeurs) ; **relecture indépendante avec retour à la source** ; **validation humaine explicite**.
-- Codex peut signaler `ready_for_human_review`, mais **ne peut jamais attribuer lui-même `human_approved`**.
-- Toute erreur ou information incertaine donne lieu à un constat sourcé, non à une correction silencieuse. Un changement après approbation invalide la validation des éléments concernés.
+## Cycle d'un ouvrage
+cataloguer → ingérer PDF → relever structure/sommaire → découper en unités de travail → comparer à l'existant → transcrire intégralement → extraire les objets → valider automatiquement → revue indépendante → approbation humaine par lots → consolider le corpus → tester les sorties. Réviser les unités si la source, le schéma ou le contenu change.
 
-## Économie de contexte
-- Ne pas charger le PDF complet, tous les packs, ni tous les skills pour une petite tâche.
-- Préindexer les candidats OggDude filtrés SWE02 et `src/packs` par scripts; envoyer à l'agent les seules divergences, ambiguïtés et pages pertinentes. Réutiliser l'existant par comparaison ciblée.
-- Faire une seule production du lot puis une relecture indépendante, plutôt que plusieurs reformulations intégrales.
-- Sorties de compte rendu compactes : fichiers modifiés, pages traitées, résultats des validations, écarts bloquants, décisions demandées.
-- Ne pas maximiser les tokens au détriment de la fidélité : escalader les pages ambiguës à une inspection visuelle.
+L'ordre local privilégie **la couverture des pages et chapitres** pour éviter les omissions ; les dépendances entre types d'items guident la résolution des références et la consolidation. Le catalogue permet d'enchaîner plusieurs livres de toutes les gammes, en donnant priorité à SWE02 au départ.
 
-## Protection du dépôt et de la distribution
-- Travailler sur une branche dédiée; ne pas modifier `main`, les packs binaires, `module.json`, le processus de release, ni les traductions déjà validées sans demande explicite.
-- Ne pas déclencher de publication automatisée en travaillant sur des branches de production de données.
-- Les descriptions, images et datasets OggDude peuvent contenir du contenu tiers protégé, même dans un dépôt GitHub accessible. Ne pas présumer d'une licence de republication; utiliser les métadonnées et résultats de comparaison non substitutifs tant que les droits ne sont pas établis.
-- Le PDF, ses images et ses transcriptions complètes sont potentiellement protégés par droits d'auteur. **Ne pas les publier sur un dépôt public**, dans les artefacts CI publics, un viewer public ou une release sans validation des droits. Développer les formats et procédures sans y déposer le contenu protégé.
-- Conserver les sources et transcriptions dans un espace local/privé approprié, ignoré par Git si nécessaire; ne versionner dans ce dépôt public que le code, les schémas, des métadonnées non sensibles et des exemples originaux/fictifs.
-- Foundry V13 est une **cible future de validation fonctionnelle**, non l'autorité éditoriale.
+## Niveaux d'assurance et décision humaine
+- Déterministe : parse, schéma, unicité, relations, source/page/bloc, couverture de blocs et sections, nombres/tables quand comparables, sortie et régression.
+- Relecture agentique indépendante : comparer le **PDF ou son rendu** aux textes et valeurs produits, rechercher omissions, altérations, faux rapprochements et défauts de mise en page.
+- Humain : approuve ou demande des corrections par lot/chapitre/livre. Codex ne peut pas se déclarer approuvé par l'humain. Donner un paquet de revue compréhensible (écarts, aperçus, couverture), sans lui imposer de lire mécaniquement chaque champ.
+- Les éléments à haut risque (nombres, arbres et connexions, listes exhaustives, tableaux, errata, ambiguïtés) exigent une attention renforcée. Toute correction rouvre les contrôles concernés.
 
-## Définition de « terminé »
-Un lot n'est terminé qu'après : provenance vérifiable, couverture de tous ses blocs, données et textes présents ou explicitement justifiés, contrôles automatiques passés, rapport de relecture indépendante, et approbation humaine consignée. Si le PDF n'est pas accessible, on peut préparer les outils et manifestes, pas attester la fidélité des contenus.
+## Coût, progression et autonomie
+- Préférer scripts pour inventaire PDF, extraction native, filtres XML, comparaisons, diff, hashes, tests et tableaux d'avancement. OCR **ciblé** après inspection de la couche texte et du rendu.
+- Contextes bornés à une unité source et aux objets candidats ; cache local des extractions ; aucun rechargement systématique d'un livre ou de tous les datasets.
+- Le travail reprend à partir du registre et des artefacts, sans dépendre du résumé d'un chat. Produire des rapports courts avec résultats, blocages et prochaine unité.
+- Ne pas fabriquer de données pour combler une absence, mais avancer sur les autres unités et livres non bloqués.
 
-## Préservation
-Conserver la logique existante du navigateur Foundry, des scripts `build/`, des conventions d'assets et du README historique tant qu'aucune migration spécifique n'est approuvée. L'objectif de cette étape est seulement de rendre le workflow Codex reproductible.
+## Dépôt public et sorties
+Le dépôt GitHub est **public**. Ne pas y committer les PDF propriétaires, images extraites, textes intégraux ou datasets tiers reproduisant du contenu protégé sans autorisation de publication. Travailler avec ces matériaux dans .swffg-work/ ou un stockage privé. Les manifests et résumés de suivi peuvent être versionnés s'ils ne reproduisent pas l'œuvre. Vérifier les droits avant diffusion publique ; ne pas confondre accès GitHub et licence.
+
+La branche de travail ne doit pas publier la release latest. Ne pas modifier les packs distribués, les UUID existants, le navigateur actuel ou le pipeline de release sans tâche d'adaptateur approuvée. Préserver le fonctionnement Foundry V13.
+
+## Fin de chantier
+Un **livre** n'est complet que lorsque 100 % de ses pages/blocs attendus sont traités ou explicitement exclus avec motif, que tous les objets et liens identifiés sont résolus ou signalés comme exceptions approuvées, que les deux filières ont passé leurs validations et que l'approbation humaine est enregistrée. Une compilation réussie ne vaut pas contrôle de fidélité.
