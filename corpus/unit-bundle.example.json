@@ -1,0 +1,49 @@
+{
+  "notice": "Synthetic example; never use its page numbers as SWE02 evidence.",
+  "schema_version": 1,
+  "book_id": "EXAMPLE",
+  "unit_id": "EXAMPLE-001",
+  "edition_sha256": "0123456789abcdef",
+  "pdf_pages": [
+    1
+  ],
+  "blocks": [
+    {
+      "id": "P0001-B001",
+      "pdf_page": 1,
+      "kind": "paragraph",
+      "fulltext": {
+        "status": "transcribed",
+        "file": "../../fulltext/chapter-01.md"
+      },
+      "data": {
+        "disposition": "entities",
+        "entity_ids": [
+          "talent.synthetic"
+        ]
+      }
+    },
+    {
+      "id": "P0001-B002",
+      "pdf_page": 1,
+      "kind": "caption",
+      "fulltext": {
+        "status": "transcribed",
+        "file": "../../fulltext/chapter-01.md"
+      },
+      "data": {
+        "disposition": "text_only"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "talent.synthetic",
+      "type": "talent",
+      "file": "../../entities/talent.synthetic.yaml",
+      "source_block_ids": [
+        "P0001-B001"
+      ]
+    }
+  ]
+}
