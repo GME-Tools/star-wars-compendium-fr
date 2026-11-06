@@ -1,0 +1,80 @@
+{
+  "folder": "qkxrbicYJavFbjnL",
+  "name": "Poignée Courbe",
+  "type": "itemattachment",
+  "_id": "BnxfR1xU4Kk9fb9R",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/poignee-courbe.png",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Cette poign&eacute;e est populaire parmi les duellistes et les pratiquants de la forme de combat Makashi. Une telle modification permet d'am&eacute;liorer le contr&ocirc;le et la flexibilit&eacute; du maniement de l'arme et d'appliquer plus de force dans les coups port&eacute;s violemment du haut vers le bas.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> permet d'ajouter automatiquement [AD] lors des tests de Sabre laser r&eacute;ussis en combat. Cet effet ne fonctionne que si le personnage est au contact d'un seul adversaire.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.z7r6JieW8OZk6W5J]{Parade} +1)</li>\n</ul>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 200"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750251732848,
+    "modifiedTime": 1750251855282,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!BnxfR1xU4Kk9fb9R"
+}

@@ -1,0 +1,1159 @@
+{
+  "folder": "MKr0fypw4Frq0xlU",
+  "name": "Pilote de module",
+  "type": "rival",
+  "prototypeToken": {
+    "actorLink": false,
+    "disposition": -1,
+    "prependAdjective": false,
+    "name": "Pilote de module",
+    "displayName": 0,
+    "appendNumber": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/rival.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_id": "7DCMh0q9uHIcgOX2",
+  "img": "modules/star-wars-compendium-fr/packs/pnj/images/podracer_pilot.png",
+  "system": {
+    "biography": "<p data-start=\"6439\" data-end=\"6905\" data-pm-slice=\"1 1 []\">Les pilotes de module risquent leur vie d&egrave;s qu'ils se lancent dans une course &agrave; bord de leurs vaisseaux &agrave; r&eacute;action antigravitationnels propuls&eacute;s par deux &eacute;normes moteurs &agrave; turbine. Ces comp&eacute;titions extr&ecirc;mement dangereuses impliquent des appareils qui sillonnent les r&eacute;gions les plus recul&eacute;es &agrave; des vitesses fulgurantes. Interdites par l'Empire, elles sont consid&eacute;r&eacute;es comme une activit&eacute; clandestine, ce qui signifie que chaque participant est assimil&eacute; &agrave; un criminel.</p>\n<p data-start=\"6907\" data-end=\"6986\"><strong data-start=\"6907\" data-end=\"6924\">Comp&eacute;tences :</strong> Calme 3, M&eacute;canique 3, Pilotage (plan&eacute;taire) 4, Syst&egrave;me D 2.</p>\n<p data-start=\"6988\" data-end=\"7277\"><strong data-start=\"6988\" data-end=\"7001\">Talents :</strong> Pilote chevronn&eacute; 1 (retire <span class=\"dietype starwars setback\">b</span> &agrave; tous ses tests de Pilotage [plan&eacute;taire] et de Pilotage [espace]), Pleins gaz (le PNJ entreprend une action de Pleins gaz ; il effectue un <strong>test de Pilotage Difficile (<span class=\"dietype starwars difficulty\">d</span><span class=\"dietype starwars difficulty\">d</span><span class=\"dietype starwars difficulty\">d</span>)</strong> pour augmenter de 1 la vitesse maximale de son engin pendant 3 rounds).</p>\n<p data-start=\"7279\" data-end=\"7465\"><strong data-start=\"7279\" data-end=\"7294\">Capacit&eacute;s :</strong> aucune.<br data-start=\"7302\" data-end=\"7305\"><strong data-start=\"7305\" data-end=\"7321\">&Eacute;quipement :</strong> blaster de poche (Distance [armes l&eacute;g&egrave;res] : d&eacute;g&acirc;ts 5 ; critique 4 ; port&eacute;e courte ; r&eacute;glage &eacute;tourdissant), trousse &agrave; outils, module de course.</p>",
+    "species": {
+      "value": "",
+      "type": "String"
+    },
+    "characteristics": {
+      "Brawn": {
+        "value": 2,
+        "label": "Brawn",
+        "abrev": "Br"
+      },
+      "Agility": {
+        "value": 3,
+        "label": "Agility",
+        "abrev": "Ag"
+      },
+      "Intellect": {
+        "value": 2,
+        "label": "Intellect",
+        "abrev": "Int"
+      },
+      "Cunning": {
+        "value": 3,
+        "label": "Cunning",
+        "abrev": "Cun"
+      },
+      "Willpower": {
+        "value": 2,
+        "label": "Willpower",
+        "abrev": "Will"
+      },
+      "Presence": {
+        "value": 2,
+        "label": "Presence",
+        "abrev": "Pr"
+      }
+    },
+    "skills": {
+      "Brawl": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Gunnery": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Lightsaber": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Melee": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Ranged: Light": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Ranged: Heavy": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Astrogation": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Athletics": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Charm": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Coercion": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Computers": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Cool": {
+        "rank": 3,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Coordination": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Deception": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Discipline": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Leadership": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Mechanics": {
+        "rank": 3,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Medicine": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Negotiation": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Perception": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Piloting: Planetary": {
+        "rank": 4,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Piloting: Space": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Resilience": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Skulduggery": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Stealth": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Streetwise": {
+        "rank": 2,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Survival": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Vigilance": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Knowledge: Core Worlds": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Education": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Lore": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Outer Rim": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Underworld": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Warfare": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Xenology": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      }
+    },
+    "attributes": {},
+    "general": {
+      "features": "<p></p>",
+      "gender": "",
+      "age": "",
+      "height": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "motivation1": {
+        "category": "",
+        "type": "",
+        "description": ""
+      },
+      "motivation2": {
+        "category": "",
+        "type": "",
+        "description": ""
+      }
+    },
+    "stats": {
+      "wounds": {
+        "value": 0,
+        "min": 0,
+        "max": 11,
+        "adjusted": 0
+      },
+      "soak": {
+        "value": 3,
+        "adjusted": 0
+      },
+      "defence": {
+        "ranged": 0,
+        "melee": 0,
+        "adjusted": 0
+      },
+      "encumbrance": {
+        "value": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "forcePool": {
+        "value": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "credits": {
+        "value": 0,
+        "type": "Number",
+        "label": "Credits",
+        "adjusted": 0
+      }
+    }
+  },
+  "items": [
+    {
+      "_id": "9D7bYTDDrm8HdaCB",
+      "name": "Pilote Chevronné",
+      "type": "talent",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Retirez [SE] par rang de Pilote chevronn&eacute; &agrave; tous vos tests de Pilotage (plan&eacute;taire) et de Pilotage (espace).</p>",
+        "attributes": {
+          "attr1747135752365": {
+            "modtype": "Skill Remove Setback",
+            "value": 1,
+            "mod": "Piloting: Planetary"
+          },
+          "attr1747135752507": {
+            "modtype": "Skill Remove Setback",
+            "value": 1,
+            "mod": "Piloting: Space"
+          }
+        },
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.149"
+          ]
+        },
+        "activation": {
+          "value": "Passive",
+          "type": "String",
+          "label": "SWFFG.TalentActivationsPassive"
+        },
+        "ranks": {
+          "ranked": true,
+          "current": 1,
+          "min": 0
+        },
+        "isForceTalent": false,
+        "isConflictTalent": false,
+        "tier": 1,
+        "trees": [],
+        "longDesc": "<p><strong>Arborescences :</strong> As de l'espace</p>\n<p>Le personnage retire [SE] par rang de Pilote Chevronn&eacute; &agrave; tous ses tests de Pilotage (espace) et Pilotage (plan&eacute;taire).</p>",
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.talents.Item.BAQpNlQXzxE6TEHj",
+          "ffgIsOwned": false,
+          "loaded": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.talents.Item.BAQpNlQXzxE6TEHj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767694109767,
+        "modifiedTime": 1767694109767,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!7DCMh0q9uHIcgOX2.9D7bYTDDrm8HdaCB"
+    },
+    {
+      "_id": "Ro0tab2YR6lT8DLF",
+      "name": "Pleins Gaz",
+      "type": "talent",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Entreprenez une action de Pleins gaz : effectuez un [B]test de Pilotage Difficile ([DI][DI][DI])[b] pour augmenter de 1 la vitesse maximale d&rsquo;un vaisseau pendant un nombre de tours &eacute;gal &agrave; votre Ruse.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.150"
+          ]
+        },
+        "activation": {
+          "value": "Active (Action)",
+          "type": "String",
+          "label": "SWFFG.TalentActivationsActiveAction"
+        },
+        "ranks": {
+          "ranked": false,
+          "current": 1,
+          "min": 0
+        },
+        "isForceTalent": false,
+        "isConflictTalent": false,
+        "tier": 1,
+        "trees": [],
+        "longDesc": "<p><strong>Arborescences :</strong> As de l'espace</p>\n<p>L'action de Pleins gaz permet &agrave; un personnage de pousser un vaisseau ou un v&eacute;hicule au-del&agrave; de sa vitesse maximale. Le personnage effectue pour cela un [B]test de Pilotage Difficile ([DI][DI][DI])[b]. En cas de r&eacute;ussite, la vitesse maximale du vaisseau augmente de 1 pendant un nombre de rounds egal &agrave; la Ruse du personnage. L'appareil ne peut cependant pas entreprendre d'actions ou ex&eacute;cuter de man&oelig;uvres qui lui sont refus&eacute;es en temps normal (par exemple, celles qui n&eacute;cessitent une certaine vitesse).</p>",
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.talents.Item.FqKY00iSYzftjX1T",
+          "ffgIsOwned": false,
+          "loaded": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.talents.Item.FqKY00iSYzftjX1T",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767694689197,
+        "modifiedTime": 1767694689197,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!7DCMh0q9uHIcgOX2.Ro0tab2YR6lT8DLF"
+    },
+    {
+      "_id": "VYPZPoQaUUyjBOTU",
+      "name": "Pistolet Blaster de Poche",
+      "type": "weapon",
+      "img": "modules/star-wars-compendium-fr/packs/armes/images/Holdout-Blaster.jpg",
+      "system": {
+        "description": "<p>Les blasters de poche sont des armes de poing l&eacute;g&egrave;res, de petit gabarit, con&ccedil;ues pour une prise en main facile et une dissimulation ais&eacute;e. Ces armes sont particuli&egrave;rement populaires aupr&egrave;s des civils, des espions, des politiciens et de tous ceux qui ont besoin d'avoir une arme sur eux, mais qui pr&eacute;f&egrave;rent qu'elle reste discr&egrave;te. Meme s'ils sont presque aussi dangereux que les modeles plus massifs,&nbsp;les blasters de poche souffrent d'une port&eacute;e r&eacute;duite. Leur puissance est &eacute;galement moindre, &agrave; cause de la quantit&eacute; et de la charge de gaz, plus faibles. Les blasters de poche sont difficiles &agrave; trouver lorsqu'ils sont bien dissimul&eacute;s, m&ecirc;me lors d'une fouille corporelle.</p>\n<p>Quand un personnage en fouille un autre &agrave; la recherche d'un blaster de poche, ajoutez [SE] &agrave; son test de Perception.</p>\n<p><strong>Mod&egrave;les typiques :</strong> BlasTech HSB-200, Mod&egrave;le sp&eacute;cial 22T4 ISB (fabriqu&eacute; par Munitions Imp&eacute;riales), Gee-Tech &laquo; Defenseur &raquo; N&deg;12 Jetable</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.167"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Réglage Etourdissant",
+            "type": "itemmodifier",
+            "_id": "vFmE9mqn3EDDxQxB",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747547537712,
+              "modifiedTime": 1747547544827,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "nKZB62fUdIyxkD7W"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "skill": {
+          "value": "Ranged: Light",
+          "type": "String",
+          "label": "Skill"
+        },
+        "damage": {
+          "value": 5,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 5
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Short",
+          "type": "String",
+          "label": "SWFFG.WeaponRangeShort",
+          "adjusted": "Short"
+        },
+        "special": {
+          "value": "<p>Quand un personnage en fouille un autre &agrave; la recherche d'un blaster de poche, ajoutez [SE] &agrave; son test de Perception.</p>",
+          "type": "String",
+          "label": "Special"
+        },
+        "ammo": {
+          "max": 0,
+          "value": 0
+        },
+        "status": "None",
+        "characteristic": {
+          "value": ""
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Réglage Etourdissant",
+            "type": "itemmodifier",
+            "_id": "vFmE9mqn3EDDxQxB",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747547537712,
+              "modifiedTime": 1747547544827,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "nKZB62fUdIyxkD7W"
+          }
+        ],
+        "enrichedDescription": "<p>Les blasters de poche sont des armes de poing légères, de petit gabarit, conçues pour une prise en main facile et une dissimulation aisée. Ces armes sont particulièrement populaires auprès des civils, des espions, des politiciens et de tous ceux qui ont besoin d'avoir une arme sur eux, mais qui préfèrent qu'elle reste discrète. Meme s'ils sont presque aussi dangereux que les modeles plus massifs,&nbsp;les blasters de poche souffrent d'une portée réduite. Leur puissance est également moindre, à cause de la quantité et de la charge de gaz, plus faibles. Les blasters de poche sont difficiles à trouver lorsqu'ils sont bien dissimulés, même lors d'une fouille corporelle.</p>\n<p>Quand un personnage en fouille un autre à la recherche d'un blaster de poche, ajoutez <span class=\"dietype starwars setback\">b</span> à son test de Perception.</p>\n<p><strong>Modèles typiques :</strong> BlasTech HSB-200, Modèle spécial 22T4 ISB (fabriqué par Munitions Impériales), Gee-Tech « Defenseur » N°12 Jetable</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "<p>Quand un personnage en fouille un autre à la recherche d'un blaster de poche, ajoutez <span class=\"dietype starwars setback\">b</span> à son test de Perception.</p>",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Réglage Etourdissant",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "vFmE9mqn3EDDxQxB",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [
+        {
+          "_id": "enHXoi7B99uet5yK",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/armes/images/Holdout-Blaster.jpg",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": 1767695012773,
+            "lastModifiedBy": "Vps3UPsdK7k7lekv",
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!7DCMh0q9uHIcgOX2.VYPZPoQaUUyjBOTU.enHXoi7B99uet5yK"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "CLtrfGpAKY4TvibX"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes.Item.KGANSkyfPjeF5dC4",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767695010204,
+        "modifiedTime": 1767695012770,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!7DCMh0q9uHIcgOX2.VYPZPoQaUUyjBOTU"
+    },
+    {
+      "_id": "qnFSBpFFuvz4XGor",
+      "name": "Trousse à Outils",
+      "type": "gear",
+      "img": "modules/star-wars-compendium-fr/packs/equipement/images/tools.png",
+      "system": {
+        "description": "<p>La trousse &agrave; outils reste une pi&egrave;ce d'&eacute;quipement essentielle d&egrave;s que l'on &agrave; besoin de travailler sur des syst&egrave;mes m&eacute;caniques. Avec les bons outils sous la main, il y a peu de t&acirc;ches de r&eacute;paration ou de&nbsp; construction qu'un technicien ne puisse accomplir, &agrave; condition qu'on lui en donne le temps.</p>\n<p>Les trousses &agrave; outils permettent de tenter des tests de M&eacute;canique afin de r&eacute;parer du mat&eacute;riel endommag&eacute; et m&ecirc;me de &laquo; soigner &raquo; des droīdes.</p>\n<p><strong>Mod&egrave;les typiques : </strong>Trousse &agrave; outils 20 pi&egrave;ces du m&eacute;canicien de l'espace, de Regalis Engineering</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.190"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "renderedDesc": {}
+      },
+      "effects": [
+        {
+          "_id": "cVQjRsIOfXyIvRxj",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/equipement/images/tools.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": true,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!7DCMh0q9uHIcgOX2.qnFSBpFFuvz4XGor.cVQjRsIOfXyIvRxj"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "wblvrvj04BxgVAwa"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.equipement.Item.kisXMKsRlVqW0KdU",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767695021684,
+        "modifiedTime": 1767695021684,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!7DCMh0q9uHIcgOX2.qnFSBpFFuvz4XGor"
+    },
+    {
+      "_id": "O4UfZFOZqD0L7d3j",
+      "name": "Module de course",
+      "type": "gear",
+      "img": "modules/star-wars-compendium-fr/packs/pnj/images/pod.png",
+      "system": {
+        "description": "",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": []
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "renderedDesc": {}
+      },
+      "effects": [
+        {
+          "_id": "cGrGW0cWo1QSPr7O",
+          "name": "(inherent)",
+          "img": "systems/starwarsffg/images/defaults/items/gear.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": true,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!7DCMh0q9uHIcgOX2.O4UfZFOZqD0L7d3j.cGrGW0cWo1QSPr7O"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "STJLs4bfsijQjSho"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.STJLs4bfsijQjSho",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767695023964,
+        "modifiedTime": 1767695023964,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!7DCMh0q9uHIcgOX2.O4UfZFOZqD0L7d3j"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableAutoSoakCalculation": true,
+        "enableForcePool": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767693930722,
+    "modifiedTime": 1767695451138,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!7DCMh0q9uHIcgOX2"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Déflexion",
+  "type": "itemmodifier",
+  "_id": "PyPESTp4UiJQHTxr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les objets munis de cet attribut sont tr&egrave;s efficaces contre les projectiles. Les personnages qui les utilisent augmentent leur d&eacute;fense contre les attaques &agrave; distance d'un nombre de points &eacute;gal au niveau d'attribut de l'objet.</p>",
+    "attributes": {
+      "attr1747545385143": {
+        "modtype": "Stat",
+        "value": 1,
+        "mod": "Defence-Ranged"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 162"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "all",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747545352503,
+    "modifiedTime": 1747545393268,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!PyPESTp4UiJQHTxr"
+}

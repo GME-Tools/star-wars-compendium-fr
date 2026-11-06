@@ -1,0 +1,1668 @@
+{
+  "folder": "MKr0fypw4Frq0xlU",
+  "name": "Chasseur de Gros Gibier",
+  "type": "nemesis",
+  "prototypeToken": {
+    "actorLink": true,
+    "disposition": -1,
+    "name": "Chasseur de Gros Gibier",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/nemesis.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_id": "aOqPxxhA5p2uUKuz",
+  "img": "modules/star-wars-compendium-fr/packs/pnj/images/big_game_hunter.png",
+  "system": {
+    "biography": "<p data-start=\"1047\" data-end=\"2084\" data-pm-slice=\"1 1 []\">La Bordure Ext&eacute;rieure regorge de mondes dangereux, peupl&eacute;s d'innombrables cr&eacute;atures effrayantes. Les chasseurs de gros gibier s'attaquent aux plus imposantes et mena&ccedil;antes d'entre elles. Habitu&eacute;s &agrave; op&eacute;rer aux confins de la civilisation, ils explorent les jungles les plus denses, les d&eacute;serts les plus arides, et s'aventurent m&ecirc;me dans les profondeurs des mondes aquatiques pour traquer puis tuer ou capturer les b&ecirc;tes les plus f&eacute;roces de la galaxie. Certains sont employ&eacute;s par des colonies ou des propri&eacute;taires terriens pour &eacute;liminer de dangereux pr&eacute;dateurs. D'autres fournissent une quantit&eacute; in&eacute;puisable de cr&eacute;atures dangereuses et exotiques destin&eacute;es &agrave; combattre dans les fosses de combats et les ar&egrave;nes de gladiateurs. Enfin, certains chassent pour le sport en savourant la d&eacute;charge d'adr&eacute;naline qui les parcourt chaque fois qu'ils tuent. Les chasseurs de gros gibier sont des adversaires redoutables, surtout quand les circonstances les poussent &agrave; traquer les proies les plus dangereuses : les autres cr&eacute;atures dot&eacute;es d'intelligence.</p>\n<p data-start=\"2086\" data-end=\"2250\"><strong data-start=\"2086\" data-end=\"2103\">Comp&eacute;tences :</strong> Calme 3, Connaissance (X&eacute;nologie) 2, Corps &agrave; corps 3, Discr&eacute;tion 3, Distance (armes lourdes) 4, Perception 3, Pilotage (plan&eacute;taire) 2, Survie 4.</p>\n<p data-start=\"2252\" data-end=\"2745\"><strong data-start=\"2252\" data-end=\"2265\">Talents :</strong> Adversit&eacute; 2 (am&eacute;liore 2 d&eacute;s de difficult&eacute; de tous les tests de combat contre cette cible), Chasseur-n&eacute; (une fois par partie, le PNJ peut relancer 1 test de Perception ou de Vigilance). Proie du chasseur (le chasseur de gros gibier peut entreprendre une action de Proie du chasseur pour effectuer un <strong>test de Survie Difficile ([DI][DI][DI])</strong> ; en cas de succ&egrave;s, il am&eacute;liore un d&eacute; d'aptitude de toutes ses attaques effectu&eacute;es contre une cible &agrave; port&eacute;e longue jusqu'&agrave; la fin de son prochain tour).</p>\n<p data-start=\"2747\" data-end=\"2933\"><strong data-start=\"2747\" data-end=\"2762\">Capacit&eacute;s :</strong> Ma&icirc;tre de la faune (am&eacute;liore 1 d&eacute; d'aptitude des tests de combat effectu&eacute;s contre les animaux sauvages). Vaillance bestiale (ajoute [BO][BO] pour r&eacute;sister &agrave; la peur contre des cr&eacute;atures sauvages).</p>\n<p data-start=\"2935\" data-end=\"3339\"><strong data-start=\"2935\" data-end=\"2951\">&Eacute;quipement :</strong> fusil blaster &agrave; lunette longue port&eacute;e (Distance [armes lourdes] : d&eacute;g&acirc;ts 9 ; critique 3 ; port&eacute;e extr&ecirc;me ; r&eacute;duit de 1 la difficult&eacute; des tests de combat &agrave; port&eacute;e longue ou extr&ecirc;me), couteau de combat surdimensionn&eacute; (Corps &agrave; corps : d&eacute;g&acirc;ts 5 ; critique 3 ; port&eacute;e au contact), v&ecirc;tements renforc&eacute;s (d&eacute;fense +1, encaissement +1), ceinture multi-usages, chargeurs de rechange, kit de survie.</p>",
+    "species": {
+      "value": "",
+      "type": "String"
+    },
+    "stats": {
+      "wounds": {
+        "value": 0,
+        "min": 0,
+        "max": 18,
+        "adjusted": 0
+      },
+      "strain": {
+        "value": 0,
+        "min": 0,
+        "max": 14,
+        "adjusted": 0
+      },
+      "soak": {
+        "value": 5,
+        "adjusted": 0
+      },
+      "defence": {
+        "ranged": 1,
+        "melee": 1,
+        "adjusted": 0
+      },
+      "encumbrance": {
+        "value": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "forcePool": {
+        "value": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "credits": {
+        "value": 0,
+        "type": "Number",
+        "label": "Credits",
+        "adjusted": 0
+      }
+    },
+    "characteristics": {
+      "Brawn": {
+        "value": 3,
+        "label": "Brawn",
+        "abrev": "Br"
+      },
+      "Agility": {
+        "value": 3,
+        "label": "Agility",
+        "abrev": "Ag"
+      },
+      "Intellect": {
+        "value": 2,
+        "label": "Intellect",
+        "abrev": "Int"
+      },
+      "Cunning": {
+        "value": 3,
+        "label": "Cunning",
+        "abrev": "Cun"
+      },
+      "Willpower": {
+        "value": 2,
+        "label": "Willpower",
+        "abrev": "Will"
+      },
+      "Presence": {
+        "value": 2,
+        "label": "Presence",
+        "abrev": "Pr"
+      }
+    },
+    "skills": {
+      "Brawl": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Gunnery": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Lightsaber": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Melee": {
+        "rank": 3,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Ranged: Light": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Ranged: Heavy": {
+        "rank": 4,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Astrogation": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Athletics": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Charm": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Coercion": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Computers": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Cool": {
+        "rank": 3,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Coordination": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Deception": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Discipline": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Leadership": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Mechanics": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Medicine": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Negotiation": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Perception": {
+        "rank": 3,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Piloting: Planetary": {
+        "rank": 2,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Piloting: Space": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Resilience": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Skulduggery": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Stealth": {
+        "rank": 3,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Streetwise": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Survival": {
+        "rank": 4,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Vigilance": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Knowledge: Core Worlds": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Education": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Lore": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Outer Rim": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Underworld": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Warfare": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Xenology": {
+        "rank": 2,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      }
+    },
+    "attributes": {},
+    "general": {
+      "features": "<p></p>",
+      "gender": "",
+      "age": "",
+      "height": "",
+      "build": "",
+      "hair": "",
+      "eyes": "",
+      "motivation1": {
+        "category": "",
+        "type": "",
+        "description": ""
+      },
+      "motivation2": {
+        "category": "",
+        "type": "",
+        "description": ""
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": []
+    }
+  },
+  "items": [
+    {
+      "_id": "ESOWbIvkza3XUaNP",
+      "name": "Adversité",
+      "type": "talent",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de combat visant ce personnage par rang d'Adversit&eacute;.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.137"
+          ]
+        },
+        "activation": {
+          "value": "Passive",
+          "type": "String",
+          "label": "SWFFG.TalentActivationsPassive"
+        },
+        "ranks": {
+          "ranked": true,
+          "current": 1,
+          "min": 0
+        },
+        "isForceTalent": false,
+        "isConflictTalent": false,
+        "tier": 1,
+        "trees": [],
+        "longDesc": "<p><strong>Arborescences</strong> : PNJ uniquement.</p>\n<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de combat visant ce personnage par rang d'Adversit&eacute;.</p>",
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.talents.Item.WR9m77zPgc60pTvb",
+          "ffgIsOwned": false,
+          "loaded": false
+        },
+        "clickfromparent": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.talents.Item.WR9m77zPgc60pTvb",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767610222699,
+        "modifiedTime": 1767610222699,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.ESOWbIvkza3XUaNP"
+    },
+    {
+      "_id": "qJCQUiNr3tLwbQY4",
+      "name": "Adversité",
+      "type": "talent",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de combat visant ce personnage par rang d'Adversit&eacute;.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.137"
+          ]
+        },
+        "activation": {
+          "value": "Passive",
+          "type": "String",
+          "label": "SWFFG.TalentActivationsPassive"
+        },
+        "ranks": {
+          "ranked": true,
+          "current": 1,
+          "min": 0
+        },
+        "isForceTalent": false,
+        "isConflictTalent": false,
+        "tier": 1,
+        "trees": [],
+        "longDesc": "<p><strong>Arborescences</strong> : PNJ uniquement.</p>\n<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de combat visant ce personnage par rang d'Adversit&eacute;.</p>",
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.talents.Item.WR9m77zPgc60pTvb",
+          "ffgIsOwned": false,
+          "loaded": false
+        },
+        "clickfromparent": {}
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.talents.Item.WR9m77zPgc60pTvb",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767610243365,
+        "modifiedTime": 1767610243365,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.qJCQUiNr3tLwbQY4"
+    },
+    {
+      "_id": "lE9so0BSj0KrWL9H",
+      "name": "Chasseur-Né",
+      "type": "talent",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Une fois par partie, vous pouvez relancer 1 test de Perception ou de Vigilance.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.141"
+          ]
+        },
+        "activation": {
+          "value": "Active (Incidental)",
+          "type": "String",
+          "label": "SWFFG.TalentActivationsActiveIncidental"
+        },
+        "ranks": {
+          "ranked": false,
+          "current": 1,
+          "min": 0
+        },
+        "isForceTalent": false,
+        "isConflictTalent": false,
+        "tier": 1,
+        "trees": [
+          "Fgyxn5M9sJgOdPby"
+        ],
+        "longDesc": "<p><strong>Arborescences :</strong> Chasseur</p>\n<p>Une fois par session de jeu, le personnage peut relancer un test de Perception ou de Vigilance.</p>",
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 2900000,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.talents.Item.z5tVE8ZmSAhKZegS",
+          "ffgIsOwned": false,
+          "loaded": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.talents.Item.z5tVE8ZmSAhKZegS",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767610252845,
+        "modifiedTime": 1767610252845,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.lE9so0BSj0KrWL9H"
+    },
+    {
+      "_id": "D3fBouXJR2ecQC40",
+      "name": "Proie du Chasseur",
+      "type": "talent",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Vous pouvez entreprendre une action de Proie du chasseur pour effectuer un <strong>test de Survie Diffcile ([DI][DI][DI])</strong> ; en cas de succ&egrave;s, vous am&eacute;liorez un d&eacute; d&rsquo;aptitude &agrave; toutes vos attaques effectu&eacute;es contre une cible &agrave; port&eacute;e longue jusqu&rsquo;&agrave; la fin de votre tour suivant.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Au cœur de l'inconnu, p.30"
+          ]
+        },
+        "activation": {
+          "value": "Active (Action)",
+          "type": "String",
+          "label": "SWFFG.TalentActivationsActiveAction"
+        },
+        "ranks": {
+          "ranked": false,
+          "current": 1,
+          "min": 0
+        },
+        "isForceTalent": false,
+        "isConflictTalent": false,
+        "tier": 1,
+        "trees": [],
+        "longDesc": "<p><strong>Arborescences :&nbsp;</strong></p>\n<p>Le personnage peut entreprendre un action de Proie du chasseur contre un adversaire &agrave; port&eacute;e longue pour effectuer un <strong>test de Survie Difficile ([DI][DI][DI])</strong> ; en cas de succ&egrave;s, il am&eacute;liore un d&eacute; d'aptitude &agrave; toutes ses attaques effectu&eacute;es contre la cible jusqu'&agrave; la fin de son tour suivant.</p>",
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.talents.Item.bkwIHQ3jPo84Kj21",
+          "ffgIsOwned": false,
+          "loaded": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.talents.Item.bkwIHQ3jPo84Kj21",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767619471429,
+        "modifiedTime": 1767619471429,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.D3fBouXJR2ecQC40"
+    },
+    {
+      "_id": "Q6XMqWUaVy8g8pCm",
+      "name": "Fusil blaster à lunette longue portée",
+      "type": "weapon",
+      "img": "modules/star-wars-compendium-fr/packs/armes/images/sporting_rifle.png",
+      "system": {
+        "description": "<p>R&eacute;duit de 1 la difficult&eacute; des tests de combat &agrave; port&eacute;e longue ou extr&ecirc;me</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": []
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "skill": {
+          "value": "Ranged: Heavy",
+          "type": "String",
+          "label": "Skill"
+        },
+        "damage": {
+          "value": 9,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 9
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Extreme",
+          "type": "String",
+          "label": "SWFFG.WeaponRangeExtreme",
+          "adjusted": "Extreme"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "ammo": {
+          "max": 0,
+          "value": 0
+        },
+        "status": "None",
+        "characteristic": {
+          "value": ""
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": []
+      },
+      "effects": [
+        {
+          "_id": "i6NTxUdhISjQtYrh",
+          "name": "(inherent)",
+          "img": "systems/starwarsffg/images/defaults/items/weapon.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": 1767626002848,
+            "lastModifiedBy": "Vps3UPsdK7k7lekv",
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!aOqPxxhA5p2uUKuz.Q6XMqWUaVy8g8pCm.i6NTxUdhISjQtYrh"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "jBzTR0C2rR4lCif0"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.jBzTR0C2rR4lCif0",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767626001032,
+        "modifiedTime": 1767626002843,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.Q6XMqWUaVy8g8pCm"
+    },
+    {
+      "_id": "bXAud4zTlz6GW6hz",
+      "name": "Couteau de combat surdimensionné",
+      "type": "weapon",
+      "img": "modules/star-wars-compendium-fr/packs/armes/images/combat_knife.png",
+      "system": {
+        "description": "",
+        "attributes": {
+          "attr1767626364022": {
+            "modtype": "Weapon Stat",
+            "mod": "damage",
+            "value": 2
+          }
+        },
+        "metadata": {
+          "tags": [],
+          "sources": []
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "skill": {
+          "value": "Melee",
+          "type": "String",
+          "label": "Skill"
+        },
+        "damage": {
+          "value": 0,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 0
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Short",
+          "type": "String",
+          "label": "SWFFG.WeaponRangeShort",
+          "adjusted": "Short"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "ammo": {
+          "max": 0,
+          "value": 0
+        },
+        "status": "None",
+        "characteristic": {
+          "value": "Brawn"
+        },
+        "hasLongDesc": false,
+        "renderedDesc": {},
+        "adjusteditemmodifier": [],
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [
+        {
+          "_id": "AEEX8m1VGGdTP06h",
+          "name": "(inherent)",
+          "img": "systems/starwarsffg/images/defaults/items/weapon.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": 1767626376432,
+            "lastModifiedBy": "Vps3UPsdK7k7lekv",
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!aOqPxxhA5p2uUKuz.bXAud4zTlz6GW6hz.AEEX8m1VGGdTP06h"
+        },
+        {
+          "_id": "y9Ho9Sgq2MdcB7CP",
+          "name": "attr1767626364022",
+          "img": null,
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "",
+              "value": "2",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!aOqPxxhA5p2uUKuz.bXAud4zTlz6GW6hz.y9Ho9Sgq2MdcB7CP"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "7rr8vhOsLMP23lBj"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Item.7rr8vhOsLMP23lBj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767626374980,
+        "modifiedTime": 1767626376428,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.bXAud4zTlz6GW6hz"
+    },
+    {
+      "_id": "x7wIrqcvClAgJz4q",
+      "name": "Vêtements Renforcés",
+      "type": "armour",
+      "img": "modules/star-wars-compendium-fr/packs/armures/images/armored_clothing.png",
+      "system": {
+        "description": "<p>Disponibles dans une vari&eacute;t&eacute; de styles impressionnants, de la tenue de travail de tous les jours aux coupes les plus &agrave; la mode, les v&ecirc;tements renforc&eacute;s repr&eacute;sentent une excellente alternative pour ceux qui cherchent une protection l&eacute;g&egrave;re et flexible. Ils int&egrave;grent g&eacute;n&eacute;ralement des couches de tissu capables de disperser l'&eacute;nergie de certains coups.&nbsp;Les mod&egrave;les les plus &eacute;volu&eacute;s offrent des protections suppl&eacute;mentaires comme des plaques des plasto&iuml;de ou de c&eacute;ramique cousues &agrave; des endroits strat&eacute;giques.</p>\n<p>Il faut reussir un [B]test de Perception Moyen ([DI][DI])[b] pour remarquer que les v&eacute;tements d'un personnage sont renforc&eacute;s.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Armure tiss&eacute;e Ayelixe par Fabrico, Ensemble de saut AKT Tuff1</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.179"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 3,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 3
+        },
+        "price": {
+          "value": 1000,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 1000
+        },
+        "rarity": {
+          "value": 6,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 6,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 1,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 1,
+          "current": 1
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "defence": {
+          "value": 1,
+          "type": "Number",
+          "label": "Defence",
+          "abrev": "Def",
+          "adjusted": 1
+        },
+        "soak": {
+          "value": 1,
+          "type": "Number",
+          "label": "Soak",
+          "adjusted": 1
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": []
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.armures.Item.bc6rRNiAa0B3onAq",
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {}
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armures.Item.bc6rRNiAa0B3onAq",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767627366521,
+        "modifiedTime": 1767627371031,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.x7wIrqcvClAgJz4q"
+    },
+    {
+      "_id": "inRIg9VNlPtZADPj",
+      "name": "Ceinture Multi-usage",
+      "type": "gear",
+      "img": "modules/star-wars-compendium-fr/packs/equipement/images/belt.png",
+      "system": {
+        "description": "<p>Cet &eacute;quipement permet d'acc&egrave;der rapidement &agrave; l'objet dont on a besoin. Son contenu, comme les configurations possibles, d&eacute;pend du propri&eacute;taire et de la mission qu'il doit remplir. Cet &eacute;quipement comporte souvent des &eacute;tuis pour les armes et les chargeurs.</p>\n<p>Une ceinture multi-usages augmente de 1 point le seuil d'encombrement d'un PJ.</p>\n<p><strong>Mod&egrave;les typiques :</strong> De tr&egrave;s nombreuses versions.</p>",
+        "attributes": {
+          "attr1748182281016": {
+            "modtype": "Stat",
+            "value": 1,
+            "mod": "Encumbrance"
+          }
+        },
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.190"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 25,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "renderedDesc": {}
+      },
+      "effects": [],
+      "folder": "fVW9Urt5T17frIrk",
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.equipement.Item.gOuBOail9ShvGEpg",
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {}
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.equipement.Item.gOuBOail9ShvGEpg",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767627399206,
+        "modifiedTime": 1767627399206,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.inRIg9VNlPtZADPj"
+    },
+    {
+      "_id": "iJJoGvHWtiFP3qEq",
+      "name": "Chargeurs de rechange",
+      "type": "gear",
+      "img": "modules/star-wars-compendium-fr/packs/equipement/images/Shell_.45_caliber_bullet.jpg",
+      "system": {
+        "description": "<p>Bien que les blasters disposent g&eacute;n&eacute;ralement de gros chargeurs &eacute;nerg&eacute;tiques, garder quelques cellules de rechange sous le coude peut &ecirc;tre une bonne id&eacute;e.</p>\n<p>Les munitions suppl&eacute;mentaires permettent d'ignorer un r&eacute;sultat [DE] provoquant une p&eacute;nurie de munitions avec une arme &agrave; distance. Il faut cependant d&eacute;penser une man&oelig;uvre pour recharger et pouvoir reprendre le combat.</p>\n<p><strong>Mod&egrave;les typiques :</strong> De tr&egrave;s nombreuses versions.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.190"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 25,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "renderedDesc": {},
+        "enrichedDescription": "<p>Bien que les blasters disposent généralement de gros chargeurs énergétiques, garder quelques cellules de rechange sous le coude peut être une bonne idée.</p>\n<p>Les munitions supplémentaires permettent d'ignorer un résultat <span class=\"dietype starwars despair\">y</span> provoquant une pénurie de munitions avec une arme à distance. Il faut cependant dépenser une manœuvre pour recharger et pouvoir reprendre le combat.</p>\n<p><strong>Modèles typiques :</strong> De très nombreuses versions.</p>",
+        "hasLongDesc": false,
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [
+        {
+          "_id": "eaLkHzDlft9YGqVP",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/equipement/images/Shell_.45_caliber_bullet.jpg",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": true,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!aOqPxxhA5p2uUKuz.iJJoGvHWtiFP3qEq.eaLkHzDlft9YGqVP"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "gEmFcvwcAnC21c8d"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.equipement.Item.Jz9M77QfEYOxunvK",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767627645345,
+        "modifiedTime": 1767627645345,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.iJJoGvHWtiFP3qEq"
+    },
+    {
+      "_id": "gjU51Amdg8gaies0",
+      "name": "Kit de Survie",
+      "type": "gear",
+      "img": "modules/star-wars-compendium-fr/packs/equipement/images/Survival_pack.jpg",
+      "system": {
+        "description": "<p>Emporter un kit de survie constitue une pr&eacute;caution n&eacute;cessaire pour tous ceux qui voyagent r&eacute;guli&egrave;rement dans les &eacute;tendues sauvages. La plupart incluent le mat&eacute;riel&nbsp;suivant : une couverture thermique, un outil multifonction ou un couteau de combat, une balise de d&eacute;tresse, deux comlinks d'urgence, une bobine de cable, des rations en barres, un m&eacute;dipack, deux respirateurs, un bidon avec filtre, un baton luisant, cinquante m&egrave;tres de ligne microfibre ultrar&eacute;sistante, dix packs de rations et<br>un pistolet de d&eacute;tresse.</p>\n<p><strong>Mod&egrave;les typiques</strong> : Wanderkit de Pretormin Environmental</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.188"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 350,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 2,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "renderedDesc": {},
+        "enrichedDescription": "<p>Emporter un kit de survie constitue une précaution nécessaire pour tous ceux qui voyagent régulièrement dans les étendues sauvages. La plupart incluent le matériel&nbsp;suivant : une couverture thermique, un outil multifonction ou un couteau de combat, une balise de détresse, deux comlinks d'urgence, une bobine de cable, des rations en barres, un médipack, deux respirateurs, un bidon avec filtre, un baton luisant, cinquante mètres de ligne microfibre ultrarésistante, dix packs de rations et<br>un pistolet de détresse.</p>\n<p><strong>Modèles typiques</strong> : Wanderkit de Pretormin Environmental</p>",
+        "hasLongDesc": false,
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [
+        {
+          "_id": "GoWKuvDfFcPqrB4L",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/equipement/images/Survival_pack.jpg",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": true,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!aOqPxxhA5p2uUKuz.gjU51Amdg8gaies0.GoWKuvDfFcPqrB4L"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "9t7hyOJWPOsQLEAG"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.equipement.Item.3rvb0iEGEUR7xZqV",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767690373297,
+        "modifiedTime": 1767690373297,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.gjU51Amdg8gaies0"
+    },
+    {
+      "_id": "ahRzE7yxmSXR5XX0",
+      "name": "Maître de la Faune",
+      "type": "ability",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Am&eacute;liore 1 d&eacute; d'aptitude des tests de combats effectu&eacute;s contre les animaux sauvages</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles pg. 401"
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.capacites.Item.SGYD6QR5apnArWYF",
+          "ffgIsOwned": false,
+          "loaded": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.capacites.Item.SGYD6QR5apnArWYF",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773159280257,
+        "modifiedTime": 1773159280257,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.ahRzE7yxmSXR5XX0"
+    },
+    {
+      "_id": "VvcYEHzUIIMXjYOS",
+      "name": "Vaillance bestiale",
+      "type": "ability",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>ajoute [BO][BO] pour r&eacute;sister &agrave; la peur contre des cr&eacute;atures sauvages</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles pg. 401"
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": true,
+          "ffgUuid": "Compendium.star-wars-compendium-fr.capacites.Item.xMid6hK52WoBPvsC",
+          "ffgIsOwned": false,
+          "loaded": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.capacites.Item.xMid6hK52WoBPvsC",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773159298602,
+        "modifiedTime": 1773159298602,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!actors.items!aOqPxxhA5p2uUKuz.VvcYEHzUIIMXjYOS"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableAutoSoakCalculation": true,
+        "enableForcePool": true,
+        "editModeActor": ""
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767609877354,
+    "modifiedTime": 1773159256444,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!aOqPxxhA5p2uUKuz"
+}

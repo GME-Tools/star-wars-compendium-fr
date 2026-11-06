@@ -1,0 +1,49 @@
+{
+  "name": "Projectile Guidé",
+  "type": "itemmodifier",
+  "_id": "9q1wziKNX8vSzGmC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>&Agrave; l'image des missiles guid&eacute;s, certains projectiles sont &eacute;quip&eacute;s de syst&ecirc;mes qui leur permettent de changer de trajectoire en vol. En d&eacute;clenchant cet attribut, un personnage qui a rat&eacute; sa cible peut effectuer un nouveau test d'attaque &agrave; la fin du round. La difficult&eacute; de ce second test va d&eacute;pendre de la diff&eacute;rence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de [AB] est &eacute;gal au rang de Projectile guid&eacute; de l'arme. En cas de succ&egrave;s lors de ce test, le projectile atteint sa cible et inflige ses d&eacute;gats normalement.</p>\n<p>Trois avantages [AD][AD][AD] sont n&eacute;cessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut &ecirc;tre activ&eacute; plusieurs fois, ce qui repr&eacute;sente, par exemple, un missile continuant &agrave; suivre sa cible.</p>\n<p>Les &laquo; leurres &raquo; sont des syst&egrave;mes de contre-mesure con&ccedil;us pour neutraliser ce type de projectile. Leur utilisation augmente directement la d&eacute;fense de la cible contre les armes munies de l'attribut Projectile guid&eacute;.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 158",
+        "L'Ère de la Rébellion - Livre de Règles pg. 171",
+        "Force et Destinée - Livre de Règles pg. 164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747549415907,
+    "modifiedTime": 1747550014162,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!9q1wziKNX8vSzGmC"
+}

@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Technologie",
+  "type": "obligation",
+  "_id": "uoARyfLNbqUChSWV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Il n’est pas d’époque plus prolifique et productive sur le plan technologique qu’une guerre, et celle qui anime actuellement la galaxie ne fait pas exception à la règle. Le personnage joueur considère que le meilleur atout de l’Alliance réside dans ses scientifiques, ses ingénieurs et ses techniciens. Non seulement ceux-ci savent optimiser les performances d’éléments existants, mais ils peuvent concevoir de nouveaux vaisseaux, armes et traitements médicaux — du matériel d’avant-garde, on ne peut plus précieux pour résister à la surpuissance impériale. Aux yeux du PJ, le vol des meilleures avancées de l’Empire n’est qu’un moyen d’équilibrer le combat.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770739349477,
+    "modifiedTime": 1770739373671,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!uoARyfLNbqUChSWV"
+}

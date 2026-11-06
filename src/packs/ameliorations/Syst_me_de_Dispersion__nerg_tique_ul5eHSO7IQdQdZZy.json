@@ -1,0 +1,80 @@
+{
+  "folder": "Uv13yOsvwIEWEFMN",
+  "name": "Système de Dispersion Énergétique",
+  "type": "itemattachment",
+  "_id": "ul5eHSO7IQdQdZZy",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/systeme-dispersion-energetique.png",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Ce fin c&acirc;blage m&eacute;tallique est con&ccedil;u pour envoyer &agrave; la terre l'&eacute;nergie des chocs &eacute;lectriques re&ccedil;us par l'armure. L'efficacit&eacute; des attaques qui y recourent en est fortement r&eacute;duite. Le syst&egrave;me prot&egrave;ge &eacute;galement de l'attribut R&eacute;glage &eacute;tourdissant, mais n'a aucun effet contre les tirs de blasters r&eacute;gl&eacute;s pour tuer. Ce kit peut &ecirc;tre install&eacute; sur n'importe quelle armure.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> Bouclier anti-&eacute;lectrique mod&egrave;le 88 de Atlas Corp, Nanogrille AEGIS de Merr-Sonn</p>\n<p dir=\"auto\"><strong>Effets :</strong> la valeur d'encaissement du personnage portant l'armure augmente de 2 points quand elle est employ&eacute;e pour r&eacute;duire les dommages d'une attaque qui s'en prend &agrave; son seuil de stress.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 201"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 4,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750255290766,
+    "modifiedTime": 1750255447800,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!ul5eHSO7IQdQdZZy"
+}

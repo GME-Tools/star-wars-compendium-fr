@@ -1,0 +1,170 @@
+{
+  "name": "Rayon tracteur (lourd)",
+  "type": "shipweapon",
+  "_id": "uC58eYF05IoxwJAy",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les rayons tracteurs sont des g&eacute;n&eacute;rateurs de boucliers modifi&eacute;s pour projeter un faisceau d&rsquo;&eacute;nergie capable de prendre au pi&egrave;ge les vaisseaux. Ils sont employ&eacute;s par les chantiers orbitaux, les transports plan&eacute;taires, les stations spatiales et divers appareils, le plus souvent pour acheminer les navires en toute s&eacute;curit&eacute; vers les pontons et les d&eacute;barcad&egrave;res ou pour d&eacute;placer les cargaisons. Quand ils sont install&eacute;s sur des b&acirc;timents militaires, ils peuvent &ecirc;tre utilis&eacute;s de fa&ccedil;on offensive pour saisir un vaisseau ennemi et l&rsquo;attirer dans une soute afin de faciliter l&rsquo;abordage.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Tracteur",
+        "type": "itemmodifier",
+        "_id": "CYg7Pybyjtl3n1Wz",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes ne tirent ni laser ni decharges ioniques. Elles projettent plut&ocirc;t des faisceaux d'&eacute;nergie &eacute;lectromagn&eacute;tique. Relativement inoffensifs, ils sont con&ccedil;us pour immobiliser les vaisseaux dans l'espace. Pour utiliser un rayon tracteur, il est n&eacute;cessaire d'effectuer un test d'attaque avec la comp&eacute;tence appropri&eacute;e (le plus souvent d'Artillerie) et d'appliquer tous les modificateurs habituels. Lorsque le tir atteint sa cible, elle est immobilis&eacute;e jusqu'&agrave; ce que son pilote r&egrave;ussisse un test de Pilotage d'une difficult&eacute; &eacute;gale au niveau d'attribut de l'arme. Le niveau d'attribut du rayon tracteur est toujours indiqu&eacute; entre parenth&egrave;ses dans ses statistiques.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 6,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Certaines armes ne tirent ni laser ni decharges ioniques. Elles projettent plutôt des faisceaux d'énergie électromagnétique. Relativement inoffensifs, ils sont conçus pour immobiliser les vaisseaux dans l'espace. Pour utiliser un rayon tracteur, il est nécessaire d'effectuer un test d'attaque avec la compétence appropriée (le plus souvent d'Artillerie) et d'appliquer tous les modificateurs habituels. Lorsque le tir atteint sa cible, elle est immobilisée jusqu'à ce que son pilote rèussisse un test de Pilotage d'une difficulté égale au niveau d'attribut de l'arme. Le niveau d'attribut du rayon tracteur est toujours indiqué entre parenthèses dans ses statistiques.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747550247841,
+          "modifiedTime": 1747550296388,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "CEO0IRklLgr57Fb6"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 0,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 0
+    },
+    "range": {
+      "value": "Short",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Short"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Gunnery"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766087120821,
+    "modifiedTime": 1766087136907,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!uC58eYF05IoxwJAy"
+}

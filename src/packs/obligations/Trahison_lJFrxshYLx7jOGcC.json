@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Trahison",
+  "type": "obligation",
+  "_id": "lJFrxshYLx7jOGcC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cette Obligation fonctionne de deux façons. Le personnage est victime d’une grave trahison personnelle, à moins qu’il ne soit lui-même à l’origine de la trahison.</p><p>Que le problème soit aussi simple qu’une confiance trahie ou une promesse non tenue, ou aussi sérieux qu’une trahison ou une mutinerie, l’Obligation ronge le personnage et joue sur son quotidien. La cible de la trahison peut vouloir des réponses, une compensation ou simplement se venger.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741940433,
+    "modifiedTime": 1770741968594,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!lJFrxshYLx7jOGcC"
+}

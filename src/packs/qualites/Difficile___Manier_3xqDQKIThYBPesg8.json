@@ -1,0 +1,47 @@
+{
+  "name": "Difficile à Manier",
+  "type": "itemmodifier",
+  "_id": "3xqDQKIThYBPesg8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Certaines armes n&eacute;cessitent une impressionnante coordination entre l'&oelig;il et la main ainsi qu'une grande dext&eacute;rit&eacute; pour pouvoir &ecirc;tre mani&eacute;es sans risque.</p>\n<p>Pour employer un tel armement, il faut disposer d'une Agilit&eacute; sup&eacute;rieure ou &eacute;gale &agrave; son niveau d'attribut. Pour chaque point d'Agilit&eacute; manquant, le personnage doit ajouter 1 d&eacute; de difficult&eacute; &agrave; tous les tests effectu&eacute;s pour se servir de cette arme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747547692138,
+    "modifiedTime": 1747548218308,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!3xqDQKIThYBPesg8"
+}

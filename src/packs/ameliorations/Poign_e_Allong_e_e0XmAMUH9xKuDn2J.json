@@ -1,0 +1,86 @@
+{
+  "folder": "qkxrbicYJavFbjnL",
+  "name": "Poignée Allongée",
+  "type": "itemattachment",
+  "_id": "e0XmAMUH9xKuDn2J",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/poignee_allongee.png",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">L'id&eacute;e qui a pr&eacute;sid&eacute; &agrave; la conception de ce type de poign&eacute;e est de d&eacute;multiplier les capacit&eacute;s de frappe et de coupe d'un sabre laser. La longueur suppl&eacute;mentaire autorise une prise &agrave; deux mains et permet au combattant d'appliquer plus de force &agrave; ses attaques. Cette modification est &eacute;galement populaire parmi les duellistes puissamment b&acirc;tis comme moyen de tirer profit de leur gabarit au combat.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> augmente les d&eacute;g&acirc;ts inflig&eacute;s de 1 point.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC]{Sanguinaire} +1)</li>\n</ul>",
+    "attributes": {
+      "attr1750251417450": {
+        "modtype": "Weapon Stat",
+        "value": 1,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 200"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 3800,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750251372963,
+    "modifiedTime": 1750251708585,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!e0XmAMUH9xKuDn2J"
+}

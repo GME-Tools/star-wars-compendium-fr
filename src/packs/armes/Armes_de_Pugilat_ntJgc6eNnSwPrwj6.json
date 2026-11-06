@@ -1,0 +1,22 @@
+{
+  "name": "Armes de Pugilat",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "ntJgc6eNnSwPrwj6",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747639471069,
+    "modifiedTime": 1747639471069,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!ntJgc6eNnSwPrwj6"
+}

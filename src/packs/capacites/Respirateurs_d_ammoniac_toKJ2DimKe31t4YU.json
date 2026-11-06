@@ -1,0 +1,43 @@
+{
+  "name": "Respirateurs d'ammoniac",
+  "type": "ability",
+  "_id": "toKJ2DimKe31t4YU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>La grande diff&eacute;rence entre les deux principales races de Gands, c'est que les uns ont des poumons, les autres non. Ceux qui en sont dot&eacute;s respirent un m&eacute;lange de gaz ammoniac&eacute;s. Ceux qui n'en ont pas ne respirent pas et trouvent toutes les substances m&eacute;taboliques n&eacute;cessaires dans leur nourriture. Quand il joue un Gand, un joueur doit d&eacute;cider si son personnage a des poumons ou non. S'il choisit de jouer un personnage d&eacute;pourvu de tels organes, il est immunis&eacute; contre la suffocation (mais pas contre les blessures que l'on subit dans le vide). S'il pr&eacute;f&egrave;re jouer un personnage avec des poumons, il commence le jeu avec un respirateur d'ammoniac et traite l'oxyg&egrave;ne comme une atmosph&egrave;re dangereuse de niveau 8. En revanche, il gagne +10 XP de d&eacute;part.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 47"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767697443366,
+    "modifiedTime": 1773159393765,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!toKJ2DimKe31t4YU"
+}

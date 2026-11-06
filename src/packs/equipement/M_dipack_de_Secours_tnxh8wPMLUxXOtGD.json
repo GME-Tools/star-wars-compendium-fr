@@ -1,0 +1,73 @@
+{
+  "folder": "EKlv8bGnQqLuCxvZ",
+  "name": "Médipack de Secours",
+  "type": "gear",
+  "_id": "tnxh8wPMLUxXOtGD",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/medipac_secours.png",
+  "system": {
+    "description": "<p>Compactes et facilement transportables sans un sac &agrave; dos ou un petit compartiment, ces trousses de premiers soins fournissent de quoi traiter les blessures leg&egrave;res, mais aussi ce qu'il faut pour stabiliser une personne en &eacute;tat critique le temps de la transporter vers un bloc op&eacute;ratoire. Un m&eacute;dipack de secours standard (tels que ceux pr&eacute;sents sur la plupart des vaisseaux) contient entre autres fournitures des bandages et des pansements, des patchs de bacta, du mat&eacute;riel m&eacute;dical de base comme des scalpels. des seringues et des forceps, ainsi que des coagulants et des applicateurs de chair synth&eacute;tique. Des mod&egrave;les plus avanc&eacute;s incluent un scanner m&eacute;dical limit&eacute; capable de surveiller les signes vitaux d'un patient, ainsl qu'un ordinateur de taille r&eacute;duite pourvu d'une base de dorn&eacute;es m&eacute;dicale, lequel sugg&egrave;rera des traitements en fonction des informations fournies par le scanner.</p>\n<p>Lorsqu'un personnage utilise un m&eacute;dipack de secours, il effectue ses tests de M&eacute;decine sans malus (cf. page 226).</p>\n<p><strong>Modeles typiques : </strong>M&eacute;dipack de secours d'Athakam MedTech, M&eacute;dipack de secours GLiS de Chiewab</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.186"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 100,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748085959761,
+    "modifiedTime": 1748086159358,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!tnxh8wPMLUxXOtGD"
+}

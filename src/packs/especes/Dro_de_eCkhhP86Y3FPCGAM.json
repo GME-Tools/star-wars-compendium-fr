@@ -1,0 +1,257 @@
+{
+  "name": "Droïde",
+  "type": "species",
+  "_id": "eCkhhP86Y3FPCGAM",
+  "img": "modules/star-wars-compendium-fr/packs/especes/images/droid.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><h3 data-start=\"14025\" data-end=\"14648\">Capacités spéciales</h3><p data-start=\"8862\" data-end=\"9041\"><strong>@UUID[Compendium.star-wars-compendium-fr.capacites.Item.Z3ZYMvXHAEWvQLMD]{Capacité spéciale}</strong> : les droïdes ne mangent pas, ne dorment pas, ne respirent pas et ne sont pas affectés par les toxines et les poisons. La limite d'implant des droïdes (cf. @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.iAput103viUVpHJw#implants-et-ameliorations-cybernetiques]{Implants et améliorations cybernétiques}) est égale à 6, et non à leur Vigueur. Par ailleurs, une fois sa carrière choisie, un droïde gagne 1 rang dans six de ses huit compétences de carrière (au lieu des quatre habituelles). Une fois sa première spécialité choisie, il gagne 1 rang dans trois de ses quatre compétences de spécialité (au lieu des deux habituelles).</p><p data-start=\"8862\" data-end=\"9041\"><strong>@UUID[Compendium.star-wars-compendium-fr.capacites.Item.d5eo3xunpiYL20T4]{Inorganique}</strong> : les droïdes étant inorganiques, ils ne tirent aucun avantage des cuves à bacta, stimpacks et tests de Médecine. Ils récupèrent naturellement en se reposant, grâce à leurs systèmes qui tentent de se réparer. Autrement, on peut s'occuper d'eux avec des tests de Mécanique, en utilisant les mêmes difficultés et résultats que les tests de Médecine pour les êtres organiques. Les trousses de réparation d'urgence peuvent être utilisées sur eux comme les stimpacks sur les êtres organiques. Pour plus de détails sur la réparation et les soins des droïdes, reportez-vous à la @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.5DvhjtGkPoZjUQC8#recuperer-des-blessures]{Récupérer des blessures}. Grâce à leur châssis métallique résistant, ils commencent le jeu avec le talent @UUID[Compendium.star-wars-compendium-fr.talents.Item.Tt0MgoIEjz7sFFuw]{Endurance}.</p><p data-start=\"8862\" data-end=\"9041\"><strong>@UUID[Compendium.star-wars-compendium-fr.capacites.Item.jd30ifGUqeHCrLeg]{Être mécanique}</strong> : les droïdes ne peuvent pas être sensibles à la Force, ni avoir une valeur de Force. Ils ne peuvent pas employer de pouvoirs de la Force, et ne peuvent pas être affectés par les pouvoirs de la Force qui influencent l'esprit.</p><div class=\"journal-side-block\"><h5>Classifications des Droïdes</h5><p data-start=\"14679\" data-end=\"14788\"><span class=\"first-letter\">L</span>es constructeurs classent les droïdes en cinq grandes catégories en fonction de leurs principales fonctions.</p><p data-start=\"14790\" data-end=\"14956\"><strong>Classe 1 (1er degré)</strong> : spécialisés en sciences physiques, en mathématiques et en médecine, ces droïdes sont souvent de grands intellos, mais manquent de « bon sens ».</p><p data-start=\"14958\" data-end=\"15234\"><strong>Classe 2 (2e degré)</strong> : les droïdes de classe 2 travaillent dans les domaines techniques et mécaniques, comme les réparations et l'astrogation. Ils sont généralement appréciés en raison de leur intelligence correcte, de leur apparence rassurante et de leur personnalité décalée.</p><p data-start=\"15236\" data-end=\"15513\"><strong>Classe 3 (3e degré)</strong> : ces droïdes ont souvent une apparence humanoïde, car ils sont censés travailler au contact des êtres vivants. Ils sont programmés pour les secteurs du service et du social, comme l'interprétariat, l'enseignement, le protocole et l'assistance diplomatique.</p><p data-start=\"15515\" data-end=\"15705\"><strong>Classe 4 (4e degré)</strong> : les droïdes de classe 4 sont armés et conçus pour les missions de sécurité, d'opérations et de formation militaires, les combats de gladiateurs et même les assassinats.</p><p data-start=\"15707\" data-end=\"15941\"><strong>Classe 5 (5e degré)</strong> : ces droïdes sont de simples unités de travail chargées de toutes sortes de tâches domestiques, du nettoyage à la manutention. Beaucoup n'ont pas assez de cognition pour être considérés comme des êtres conscients.</p></div><h1>Aux Confins de l'Empire</h1><p data-start=\"7309\" data-end=\"7692\">Le bourlingueur moyen a beau se moquer de son droïde, sans lui, il serait fichu. Les droïdes jouent toutes sortes de rôles dans la zone : surveillance et sécurité, médecine et chirurgie, réparations, construction, astrogation et pilotage, sans oublier les tâches manuelles. Bien que beaucoup soient doués d'une intelligence rudimentaire, certains développent une sorte de conscience.</p><h3 data-start=\"7694\" data-end=\"7709\">Jouer un droïde</h3><p data-start=\"7711\" data-end=\"8163\">La création de personnages droïdes est simple. Traitez-les comme une espèce à part, avec des bonus et capacités soulignant leur nature robotique. Les joueurs doivent se montrer créatifs dans leur description, mais aussi dans le fonctionnement de leur équipement. Par exemple, au lieu de porter une armure laminée, le droïde pourrait être couvert de plaques de métal renforcées fixées à son châssis, mais aussi avoir un pistolet blaster intégré au bras.</p><p data-start=\"8165\" data-end=\"8860\">La personnalité du droïde est une affaire un peu plus délicate. Le fait qu'il soit un PJ signifie qu'il est doué de conscience (à moins que le joueur ne veuille jouer un personnage complètement dépendant aux êtres biologiques qui l'entourent). Les joueurs qui souhaitent créer un personnage droïde doivent se souvenir de ses origines et tenter d'intégrer des éléments de leur fonction originelle à leur personnalité, même si le personnage droïde a joué des rôles sans rapport avec sa programmation d'origine. Par exemple, un droïde de contrôle du trafic peut entreprendre une carrière de Mécano, mais grommeler chaque fois que son collègue pilote enfreint les règles locales de trafic ou de vol.</p><p data-start=\"8862\" data-end=\"9041\"><strong>Description physique</strong> : les droïdes sont assemblés de nombreuses façons, qu'il s'agisse de châssis montés sur des membres bipèdes ou quadrupèdes, ou de simples boîtes ou cylindres.</p><div class=\"journal-side-block\"><h5>Les Droïdes et la vie</h5><p data-start=\"9066\" data-end=\"9835\"><span class=\"first-letter\">L</span>es deux facteurs qui définissent les formes de vie intelligentes, la conscience (la connaissance de son environnement) et la sapience (la sagesse qui vient de la conscience de soi), ne sont pas des qualités que l'on attribue communément aux droïdes. En effet, ceux-ci sont conçus pour ne pas ressentir la douleur et les émotions. Néanmoins, ils disposent d'une intelligence élevée, qui surpasse celle de la plupart des esprits biochimiques. Au fil des ans, quand on ne nettoie pas leur mémoire, des traits de personnalité et des réflexes d'autoconservation finissent par surpasser la programmation d'origine. Cela veut-il dire qu'un droïde peut développer une conscience et une sapience avec le temps ? C'est une question à laquelle nous n'avons pas encore de réponse.</p></div><h3 data-start=\"9837\" data-end=\"9863\">Divers modèles individuels</h3><p data-start=\"9865\" data-end=\"10051\">Les droïdes peuvent sortir de leur chaîne d'assemblage avec toutes les spécifications physiques et mécaniques du constructeur, ou être personnalisés selon les goûts de leur propriétaire.</p><ul><li data-start=\"10053\" data-end=\"10434\"><strong>Droïde médical 2-1B (Genetech/Industrial Corporation)</strong> : le droïde médical 2-1B est un penseur flexible et très intelligent, ce qu'on est en droit d'attendre de la part d'un droïde amené à trancher des questions de vie ou de mort. Son châssis plutôt laid dissimule une matrice de circuits comportementaux étonnamment complexes et souple, et il est aussi intelligent que compétent.</li><li data-start=\"10436\" data-end=\"10816\"><strong>Droïdes de protocole 3PO (Cybot Galactica)</strong> : la série de droïdes protocolaires 3PO compte parmi les automates les plus proches des humains jamais créés. Ils sont parfaits dans les rôles d'ambassadeurs, de conseillers politiques, de traducteurs et d'assistants personnels. Toutefois, leur Verbobrain SyntheTech AA1 les pousse parfois à développer des névroses et autres « tics ».</li><li data-start=\"10436\" data-end=\"10816\"><strong>Droïde assassin IG (Holowan Mechanicals)</strong> : se terminant par le terrible modèle IG-88, la série IG compte parmi les pires assassins de la galaxie. Ces droïdes affrontent rarement les adversaires qu'ils ne sont pas en mesure d'éliminer, et fidèles à leur nature macabre, ils suivent les instructions de chaque prime à la lettre.</li><li data-start=\"10436\" data-end=\"10816\"><strong>Droïde de maintien de l'ordre LE-VO (Groupe Droïde Rseikharhl) </strong>: les LE-VO ont connu un tel succès en débarrassant le secteur Rseikharhl du crime que la galaxie les a adoptés pour leur confier des missions de police et de sécurité privée. Leur programmation les oblige à suivre les codes impériaux à la lettre et à n'user de la force qu'en cas d'absolue nécessité. Bien qu'ils soient rarement équipés d'armes mortelles, ils sont parfaitement capables de se servir d'une arme étourdissante.</li><li data-start=\"10436\" data-end=\"10816\"><strong>Droïde de protocole LOM (Industrial Automaton)</strong> : en produisant la série LOM, Industrial Automaton a voulu secouer un marché dominé par Cybot Galactica. IA a tenté de produire un droïde de protocole semblable aux unités 3PO, mais le leur a une tête insectoïde destinée à trouver une niche sur le marché. Néanmoins, une programmation pour le moins ratée fit d'une unité un voleur de bijoux, et la série fut arrêtée. Certains des droïdes LOM encore en fonction développent communément des personnalités intéressantes et inattendues.</li><li data-start=\"10436\" data-end=\"10816\"><strong>Droïdes astromech série R (Industrial Automaton)</strong> : les droïdes de série R, qui ont connu un grand succès commercial, incluent l'encombrant R1, le célèbre R2 et vont jusqu'au R6 sur le point d'être mis sur le marché. Hormis le R1 (qui mesure plus de 2 mètres et travaille à bord des vaisseaux capitaux), tous les astromechs de série R font à peu près 1 mètre et sont conçus pour prendre place à bord des chasseurs pour y assurer les calculs d'astrogation et assurer les sauts dans l'hyperespace. Un large assortiment d'outils en fait aussi de bons droïdes de réparation.</li></ul><p data-start=\"12747\" data-end=\"13202\"><strong>Société</strong> : les contrebandiers entendent parler depuis longtemps de « mondes de droïdes », où des automates et des cyborgs règnent sur leurs propres sociétés. Hormis ces rumeurs, il est impossible de dire que des droïdes ont vraiment une société ; en gros, ils travaillent dans celle de leurs maîtres, qu'ils soient humains ou non. À moins d'avoir vu leurs facultés cognitives reprogrammées, les droïdes sont conçus pour obéir, et c'est bien ce qu'ils font.</p><p data-start=\"13204\" data-end=\"13571\">Toutefois, les droïdes joués par les PJ constituent un cas à part. Au fil des millénaires, il y a eu d'innombrables exemples de droïdes qui ont transcendé leur programmation d'origine et développé une conscience pour devenir indépendants. Certains de ces automates ont « vécu » plusieurs siècles, se réparant et s'améliorant pour rester au maximum de leur efficacité.</p><p data-start=\"13573\" data-end=\"14023\">Certains de ces droïdes sont fiers et heureux de poursuivre le travail pour lequel ils ont été conçus du mieux possible, comme une certaine unité R2 qui s'efforce de devenir un meilleur pilote et astrogateur. D'autres renoncent à leur programmation et se tournent vers de nouveaux horizons. Par exemple, le célèbre 4-LOM a été un droïde de protocole avant de devenir un voleur de bijoux, puis l'un des plus célèbres chasseurs de primes de la galaxie.</p><p data-start=\"14025\" data-end=\"14648\"><strong>La vie dans la Bordure</strong> : des droïdes de toutes classes travaillent aux côtés de contrebandiers et de criminels de la Bordure extérieure, où évoluent ceux qui sont prêts à oublier leur nature mécanique et à respecter un camarade bourlingueur doté de précieuses compétences. Certains affichent leur conception originelle sans jamais la retoucher, tandis que d'autres sont ingénieusement dissimulés dans d'autres corps, comme les séries protocolaires de Cybot Galactica. Il existe même une poignée de droïdes, comme le seigneur pirate ZI-ZO, qui se sont pris en main en réalisant qu'il était préférable de mener que de servir.Droïdes et équipement</p><div class=\"journal-side-block\"><p data-start=\"17517\" data-end=\"18226\"><span class=\"first-letter\">L</span>es droïdes n'enfilent habituellement pas de vêtements, et beaucoup d'éléments d'équipement que les êtres organiques portent le plus souvent séparément font probablement partie de leur corps. C'est pour cette raison qu'ils traitent une partie de leur équipement différemment des autres personnages. Par exemple, si un droïde achète et porte une armure, le joueur peut simplement dire que son personnage a renforcé les plaques blindées de son châssis ou en a posé de nouvelles. De même, il pourra choisir un verbobrain amélioré plutôt qu'un datapad, ou un instrument de communication interne plutôt qu'un comlink (ce qui n'empêche pas nombre de droïdes de porter des objets comme des datapads et des comlinks).</p></div><h1>L'ère de la Rébellion</h1><p>Pour l’Empire, les droïdes ne sont que des outils autonomes, utiles mais facilement remplaçables. L’Alliance a appris quant à elle à tirer profit de leur contribution et de leur implication. Ceux-ci remplissent bien des rôles, notamment de chocs et des combats. L’astrogation, l’ingénierie, la médecine et même le pilotage (quand on manque de spécialistes en chair et en os) sont autant de tâches que les droïdes assurent fidèlement dans le cadre de la lutte contre l’Empire.</p><h3>Jouer un droïde</h3><p data-start=\"637\" data-end=\"1084\">La créativité n’est pas seulement tolérée quand un joueur décide de créer un PJ droïde, elle est vivement encouragée. Les droïdes de <strong style=\"font-variant:small-caps\">L'Ère de la Rébellion</strong> constituent une espèce comme les autres, si ce n’est qu’elle offre au joueur davantage de variables à manipuler. Leurs capacités spéciales évoquent d’emblée leur nature non-organique et l’équipement choisi, comme les armes et les armures, peut directement être intégré au corps du droïde.</p><p data-start=\"1086\" data-end=\"1335\">La personnalité du droïde est une affaire un peu plus délicate. Le fait qu’il soit un PJ signifie qu’il est doté de conscience (à moins que le joueur ne veuille interpréter un personnage complètement dépendant des êtres biologiques qui l’entourent).</p><p data-start=\"1337\" data-end=\"1864\">Les fonctions et la conception propres d’un droïde participent toujours à son identité. Il dispose peut-être de capacités bien supérieures à sa programmation initiale, mais conserve des routines associées à sa vocation de départ. Les droïdes énergétiques peuvent se révéler d’excellents ingénieurs, mais ils restent toujours attentifs aux flux des énergies dans les zones qui leur échoient. Un droïde de protocole peut apprendre à manier des armes pour participer aux combats, mais il favorisera toujours les issues pacifistes.</p><p data-start=\"1866\" data-end=\"2283\"><strong data-start=\"1866\" data-end=\"1892\">Description physique :</strong> les types de droïdes disponibles dans l’univers de <em data-start=\"1944\" data-end=\"1955\">Star Wars</em> sont presque aussi nombreux que les autres espèces, même si on compte certains modèles de base très répandus. Les joueurs peuvent aussi bien opter pour un représentant bipède à l’aspect presque humain que pour un modèle utilitaire beaucoup plus ramassé, un robot inspiré d’un animal ou tout ce qui peut leur passer par la tête.</p><p data-start=\"2285\" data-end=\"2417\">Un PJ droïde ne sera presque toujours unique quant à sa forme, mais on compte quelques modèles standards qui doivent servir de base.</p><h3>DIVERS MODÈLES INDIVIDUELS</h3><ul data-start=\"2450\" data-end=\"2904\"><li data-start=\"2450\" data-end=\"2904\"><p data-start=\"2452\" data-end=\"2904\"><strong data-start=\"2452\" data-end=\"2510\">Droïde médical 2-1B (Genetech/Industrial Automation) :</strong> le droïde médical 2-1B est un penseur flexible et très intelligent, ce qui en est un outil d’attention et un atout d’un droïde amené à résoudre des questions de vie ou de mort. Son châssis plutôt laid dissimule une matrice de circuits comportementaux étonnamment complexe et souple, ce qui en fait un excellent officier médical à bord de nombreux vaisseaux capitaux de la flotte de l’Alliance.</p></li></ul><ul data-start=\"4242\" data-end=\"5597\"><li data-start=\"4242\" data-end=\"4776\"><p data-start=\"4244\" data-end=\"4776\"><strong data-start=\"4244\" data-end=\"4292\">Droïdes de protocole 3PO (Cybot Galactica) :</strong> la série de droïdes protocolaires 3PO compte parmi les automates les plus proches des humains jamais créés. Ils sont parfaits dans les rôles d’ambassadeurs, de conseillers politiques, de traducteurs et d’assistants personnels. Toutefois, leur Verbobrain SynThech AAI les pousse parfois à développer des névroses et autres « tics ». Malgré cela, de nombreux droïdes protocolaires épaulent les agents de l’Alliance, notamment lors des opérations de recrutement et d’alliance politique.</p></li><li data-start=\"4778\" data-end=\"5203\"><p data-start=\"4780\" data-end=\"5203\"><strong data-start=\"4780\" data-end=\"4826\">Droïde assassin IG (Holowan Mechanicals) :</strong> se terminant par le terrible modèle IG-88, la série IG compte parmi les pires assassins de la galaxie. Ces droïdes affrontent rarement les adversaires qu’ils ne sont pas en mesure d’éliminer, mais leur insubordination aux ordres qui ne demandent pas l’élimination d’une cible les rend mal adaptés à nombre d’opérations de l’Alliance. La plupart des IG servent plutôt l’Empire.</p></li><li data-start=\"5205\" data-end=\"5597\"><p data-start=\"5207\" data-end=\"5597\"><strong data-start=\"5207\" data-end=\"5273\">Droïde de maintien de l’ordre LE-VO (Groupe Droïde Reikhahn) :</strong> les LE-VO ont connu un succès en débarrassant le secteur Rseikahn des criminels que la galaxie les a adoptés pour leur sens du maintien de la paix et de sécurité privée. Leur programmation les oblige à suivre les codes impériaux à la lettre et à n’user de la force qu’en cas d’absolue nécessité. Bien qu’ils soient rarement équipés d’armes mortelles, ils maîtrisent parfaitement l’emploi des armes étourdissantes. Les LE-VO ne sont utiles à l’Alliance que lorsque leur loyauté envers l’Empire peut être déprogrammée.</p></li><li data-start=\"5205\" data-end=\"5597\"><p data-start=\"5207\" data-end=\"5597\"><strong data-start=\"360\" data-end=\"413\">Droïde de protocole LOM (Industrial Automation) :</strong> en produisant la série LOM, Industrial Automation a voulu s’attaquer au marché dominé par Cybot Galactica. IA a tenté de produire un droïde de protocole semblable aux unités 3PO, mais qui arborerait une tête insectoïde destinée à conquérir le marché de la communication avec les nombreux insectes intelligents. Néanmoins, une programmation pour le moins ratée fit d’une unité un voleur de bijoux, et la série fut arrêtée. Certains des droïdes LOM encore en fonction développent communément des personnalités intéressantes et inattendues, notamment ceux qui ont décidé que lutter contre l’Empire auprès des Rebelles était gratifiant.</p></li><li data-start=\"5205\" data-end=\"5597\"><p data-start=\"5207\" data-end=\"5597\"><strong data-start=\"1050\" data-end=\"1105\">Droïdes astromech série R (Industrial Automation) :</strong> les droïdes de série R, qui ont connu un grand succès commercial, incluent l’encombrant R1, le célèbre R2 et vont jusqu’au R6 qui sera commercialisé sous peu. Hormis le R1 (qui mesure plus de 2 mètres et travaille à bord des vaisseaux capitaux), tous les astromechs de série R mesurent à peu près 1 mètre et sont conçus pour prendre place à bord des chasseurs afin d’y assurer les calculs d’astrogation et les sauts dans l’hyperespace. Un large assortiment d’outils, et une surprenante tendance à l’inventivité et à l’indépendance quand leur mémoire n’est pas régulièrement effacée, en font aussi de bons droïdes de réparation et parfois d’excellents compagnons.</p></li></ul><p data-start=\"5207\" data-end=\"5597\"><strong data-start=\"1770\" data-end=\"1783\">Société :</strong> dans la plus grande partie de la galaxie (si l’on excepte les folles rumeurs de « planètes des machines »), la plupart des droïdes ne sont que des tâcherons au sein de sociétés qui dépendent largement d’eux et qui n’attendent qu’obéissance de leur part. L’Alliance leur témoigne quant à elle un certain respect. S’il existe encore beaucoup de membres de l’organisation qui adhèrent aux concepts de programmation utilitaire et d’effacement de mémoire (surtout quand les droïdes sont de source impériale ou douteuse), certains dirigeants et chefs militaires ont commencé à laisser des droïdes de confiance développer une forme d’indépendance et de motivation. Cette stratégie s’est avérée payante à plus d’une occasion et va très probablement faire école.</p><p data-start=\"5207\" data-end=\"5597\">C’est ainsi que de nombreux droïdes ont transcendé leurs fonctions et programmation d’origine, et découvert que servir l’Alliance pouvait les combler. Ceux qui proviennent de filières militaires externes restent l’objet d’une grande méfiance, qu’il est souvent impossible d’ignorer. Les techniciens ont pris l’habitude de vérifier entièrement la mémoire et les routines de programmation des droïdes pour s’assurer qu’il ne subsiste aucune commande cachée susceptible de trahir la Rébellion.</p><p data-start=\"5207\" data-end=\"5597\"><strong data-start=\"3031\" data-end=\"3058\">Au sein de l’Alliance :</strong> la plupart des droïdes sont plus adaptés aux fonctions non combattantes. Ils servent dans le domaine du soutien pour permettre aux forces de l’Alliance de lutter plus efficacement. Beaucoup de droïdes techniciens œuvrent à bord de vaisseaux capitaux souvent chargés de tâches normalement assurées par des dizaines d’individus, si bien que le manque de personnel n’est pas si dommageable pour la marine de l’Alliance. Et alors que le nombre de chasseurs X-Wing augmente, les droïdes astromech se font omniprésents.</p><p>Chaque droïde peut servir comme il le souhaite, mais la plupart optent pour des carrières et spécialités en accord avec leur conception de départ. De même, le Devoir choisi est censé correspondre à sa fonction.</p><div class=\"journal-side-block\"><h5 data-start=\"5539\" data-end=\"5563\">DROÏDES ET ÉQUIPEMENT</h5><p data-start=\"5565\" data-end=\"5945\"><span class=\"first-letter\">U</span>n PJ droïde peut déterminer que toute pièce d’équipement normalement portée par un être organique fait partie intégrante de sa structure. Le MJ reste seul juge de ce qui est autorisé en la matière, mais la plupart de ce type de matériel devrait pouvoir s’intégrer, que ce soit à la conception originale du droïde ou sous forme d’amélioration incorporée à l’achat de l’équipement.</p></div></div>",
+    "attributes": {
+      "Brawn": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Brawn"
+      },
+      "Agility": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Agility"
+      },
+      "Intellect": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Intellect"
+      },
+      "Cunning": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Cunning"
+      },
+      "Willpower": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Willpower"
+      },
+      "Presence": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Presence"
+      },
+      "Wounds": {
+        "value": 10,
+        "modtype": "Stat",
+        "mod": "Wounds"
+      },
+      "Strain": {
+        "value": 10,
+        "modtype": "Stat",
+        "mod": "Strain"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 44",
+        "L'Ère de la Rébellion - Livre de Règles pg. 53"
+      ]
+    },
+    "talents": {
+      "Tt0MgoIEjz7sFFuw": {
+        "name": "Endurance",
+        "source": "Compendium.star-wars-compendium-fr.talents.Item.Tt0MgoIEjz7sFFuw",
+        "id": "Tt0MgoIEjz7sFFuw"
+      }
+    },
+    "abilities": {
+      "Z3ZYMvXHAEWvQLMD": {
+        "name": "Droïde",
+        "system": {
+          "description": "<p>Les dro&iuml;des ne mangent pas, ne dorment pas, ne respirent pas et ne sont pas affect&eacute;s par les toxines et les poisons. La limite d'implant des dro&iuml;des (cf. @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.iAput103viUVpHJw#implants-et-ameliorations-cybernetiques]{Implants et am&eacute;liorations cybern&eacute;tiques}) est &eacute;gale &agrave; 6, et non &agrave; leur Vigueur. Par ailleurs, une fois sa carri&egrave;re choisie, un dro&iuml;de gagne 1 rang dans six de ses huit comp&eacute;tences de carri&egrave;re (au lieu des quatre habituelles). Une fois sa premi&egrave;re sp&eacute;cialit&eacute; choisie, il gagne 1 rang dans trois de ses quatre comp&eacute;tences de sp&eacute;cialit&eacute; (au lieu des deux habituelles).</p>"
+        }
+      },
+      "d5eo3xunpiYL20T4": {
+        "name": "Inorganique",
+        "system": {
+          "description": "<p>Les dro&iuml;des &eacute;tant inorganiques, ils ne tirent aucun avantage des cuves &agrave; bacta, stimpacks et tests de M&eacute;decine. Ils r&eacute;cup&egrave;rent naturellement en se reposant, gr&acirc;ce &agrave; leurs syst&egrave;mes qui tentent de se r&eacute;parer. Autrement, on peut s'occuper d'eux avec des tests de M&eacute;canique, en utilisant les m&ecirc;mes difficult&eacute;s et r&eacute;sultats que les tests de M&eacute;decine pour les &ecirc;tres organiques. Les trousses de r&eacute;paration d'urgence peuvent &ecirc;tre utilis&eacute;es sur eux comme les stimpacks sur les &ecirc;tres organiques. Pour plus de d&eacute;tails sur la r&eacute;paration et les soins des dro&iuml;des, reportez-vous &agrave; la @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.5DvhjtGkPoZjUQC8#recuperer-des-blessures]{R&eacute;cup&eacute;rer des blessures}. Gr&acirc;ce &agrave; leur ch&acirc;ssis m&eacute;tallique r&eacute;sistant, ils commencent le jeu avec le talent @UUID[Compendium.star-wars-compendium-fr.talents.Item.Tt0MgoIEjz7sFFuw]{Endurance}.</p>"
+        }
+      },
+      "jd30ifGUqeHCrLeg": {
+        "name": "Être mécanique",
+        "system": {
+          "description": "<p>Les dro&iuml;des ne peuvent pas &ecirc;tre sensibles &agrave; la Force, ni avoir une valeur de Force. Ils ne peuvent pas employer de pouvoirs de la Force, et ne peuvent pas &ecirc;tre affect&eacute;s par les pouvoirs de la Force qui influencent l'esprit.</p>"
+        }
+      }
+    },
+    "species": {},
+    "startingXP": 175
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.characteristics.Brawn.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.encumbrance.max",
+          "value": "6",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.soak.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Agility.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Intellect.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Cunning.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Willpower.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Presence.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.wounds.max",
+          "value": "11",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.strain.max",
+          "value": "11",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "0sfAWQ2GN6RJZS5X",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767883974124,
+        "modifiedTime": 1773158897662,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!eCkhhP86Y3FPCGAM.0sfAWQ2GN6RJZS5X"
+    },
+    {
+      "name": "attr1747033394500",
+      "changes": [
+        {
+          "key": "system.stats.soak.value",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "_id": "j7pkNGThBUgsJC2U",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": true,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773150092433,
+        "modifiedTime": 1773150092433,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!eCkhhP86Y3FPCGAM.j7pkNGThBUgsJC2U"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767883974111,
+    "modifiedTime": 1773158895963,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!eCkhhP86Y3FPCGAM"
+}

@@ -1,0 +1,217 @@
+{
+  "folder": "ntJgc6eNnSwPrwj6",
+  "name": "Coup-de-Poing",
+  "type": "weapon",
+  "_id": "i51a1cRM4Zv8qxWE",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/coup-de-poing.png",
+  "system": {
+    "description": "<p>Cette arme n'est gu&egrave;re plus qu'un assemblage d'anneaux de m&eacute;tal port&eacute;s aux doigts et soud&eacute;s &agrave; une barre maintenue dans la paume de la main. Le coup-de-poing est l'arme de pugilat la plus petite, la plus simple et la plus facile &agrave; dissimuler. Dans les r&eacute;gions civilis&eacute;es de la galaxie, il est consid&eacute;r&eacute; comme l'arme des petites frappes, des chasseurs de prime et autres ind&eacute;sirables. En cons&eacute;quence, sa possession et son utilisation sont drastiquement r&eacute;glement&eacute;es, quand il n'est pas purement et simplement interdit. Grace &agrave; leur petite taille, les coups-de-poing sont facilement dissimulables dans une poche, une petite bourse ou un compartiment facile d'acc&egrave;s. Ajoutez un [SE] au test de Perception d'un personnage lorsqu'il tente de trouver un coup-de-poing sur le corps d'une personne.</p>",
+    "attributes": {
+      "attr1747639725856": {
+        "modtype": "Weapon Stat",
+        "value": 1,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 171"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 1
+    },
+    "price": {
+      "value": 25,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Désorientation",
+        "type": "itemmodifier",
+        "_id": "Nsduo9TYdS9JiH9B",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Une arme dot&eacute;e de cet attribut peut h&eacute;beter ses victimes. Lorsque l'effet est d&eacute;clench&eacute;, la victime de l'attaque est d&eacute;sorient&eacute;e (cf. page 224) pendant un nombre de rounds &eacute;gal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un d&eacute; d'infortune [SE] &agrave; tous ses tests de comp&eacute;tences.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Une arme dotée de cet attribut peut hébeter ses victimes. Lorsque l'effet est déclenché, la victime de l'attaque est désorientée (cf. page 224) pendant un nombre de rounds égal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un dé d'infortune <span class=\"dietype starwars setback\">b</span> à tous ses tests de compétences.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547594736,
+          "modifiedTime": 1747548608358,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "9G960ouVxdoteLHi"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Brawl",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 4,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 4
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "<p>Ajoutez un [SE] au test de Perception d'un personnage lorsqu'il tente de trouver un coup-de-poing sur le corps d'une personne.</p>",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747639725856",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "gD0Zd4MrX0O0g0wA",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1769240914151,
+        "modifiedTime": 1769240914151,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!i51a1cRM4Zv8qxWE.gD0Zd4MrX0O0g0wA"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747639481009,
+    "modifiedTime": 1769240912927,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!i51a1cRM4Zv8qxWE"
+}

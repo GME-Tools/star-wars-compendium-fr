@@ -1,0 +1,553 @@
+{
+  "name": "Exécuteur",
+  "type": "specialization",
+  "_id": "RT9oZfpQOxuswu8D",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/errant.png",
+  "system": {
+    "description": "",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": []
+    },
+    "talents": {
+      "talent0": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent1": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent2": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent3": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent4": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent5": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent6": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent7": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent8": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent9": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent10": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent11": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent12": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent13": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent14": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent15": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent16": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent17": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent18": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      },
+      "talent19": {
+        "islearned": false,
+        "name": "",
+        "activation": "",
+        "activationLabel": "",
+        "itemId": "",
+        "isRanked": false,
+        "pack": "",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "(none)",
+      "careerSkill1": "(none)",
+      "careerSkill2": "(none)",
+      "careerSkill3": "(none)",
+      "careerSkill4": "(none)"
+    },
+    "universal": false,
+    "collection": {
+      "talent0": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent1": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent2": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent3": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent4": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent5": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent6": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent7": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent8": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent9": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent10": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent11": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent12": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent13": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent14": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent15": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent16": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent17": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent18": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent19": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "NmqmJyU5PIgsJCYy",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "2.0.0",
+        "createdTime": 1774518443541,
+        "modifiedTime": 1774518443541,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
+      },
+      "_key": "!items.effects!RT9oZfpQOxuswu8D.NmqmJyU5PIgsJCYy"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "fQraFlTkIqL0YNK4": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "2.0.0",
+    "createdTime": 1774518443519,
+    "modifiedTime": 1774518447702,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!RT9oZfpQOxuswu8D"
+}

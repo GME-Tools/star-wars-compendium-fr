@@ -1,0 +1,46 @@
+{
+  "name": "Etourdissement",
+  "type": "criticalinjury",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>La cible est &eacute;tourdie jusqu'&agrave; la fin de son prochain tour</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.225"
+      ]
+    },
+    "min": 31,
+    "max": 35,
+    "severity": "1"
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766077914793,
+    "modifiedTime": 1766077926600,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_id": "OFVwWA0UcriM22sy",
+  "sort": 1100000,
+  "_key": "!items!OFVwWA0UcriM22sy"
+}

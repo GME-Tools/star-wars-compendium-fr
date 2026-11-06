@@ -1,0 +1,705 @@
+{
+  "name": "Carte de la Galaxie",
+  "img": "modules/star-wars-compendium-fr/assets/images/galaxie.jpg",
+  "caption": "Carte Galactique Interactive",
+  "sort": 0,
+  "description": "<div class=\"journal-page-content\"><p>Cette aventure fournit une <strong data-start=\"352\" data-end=\"379\">holocarte de la Galaxie</strong>, conçue comme une interface visuelle pour naviguer parmi les mondes connus de Star Wars.</p><p data-start=\"470\" data-end=\"709\">La scène incluse représente la galaxie dans son ensemble. Les <strong data-start=\"532\" data-end=\"575\">planètes répertoriées dans les archives</strong> et disposant d’une fiche détaillée dans le compendium sont signalées par des <strong data-start=\"653\" data-end=\"676\">repères interactifs</strong> placés directement sur la carte.</p><p data-start=\"711\" data-end=\"974\">En sélectionnant l’un de ces repères, le Maître du Jeu ou les joueurs accèdent immédiatement aux <strong data-start=\"797\" data-end=\"836\">données planétaires correspondantes</strong>, ouvrant la fiche de la planète telle qu’elle figure dans le compendium : contexte, description, informations de jeu et éléments d'univers.</p><p data-start=\"976\" data-end=\"1012\">Cette holocarte peut être utilisée :</p><ul data-start=\"1013\" data-end=\"1285\"><li data-start=\"1013\" data-end=\"1068\"><p data-start=\"1015\" data-end=\"1068\">comme <strong data-start=\"1021\" data-end=\"1045\">outil de préparation</strong> pour le meneur de jeu,</p></li><li data-start=\"1069\" data-end=\"1150\"><p data-start=\"1071\" data-end=\"1150\">comme <strong data-start=\"1077\" data-end=\"1101\">support de narration</strong> pour situer une aventure à l’échelle galactique,</p></li><li data-start=\"1151\" data-end=\"1285\"><p data-start=\"1153\" data-end=\"1285\">ou comme <strong data-start=\"1162\" data-end=\"1191\">interface de consultation</strong> pour les joueurs, afin de relier les lieux de jeu à leur contexte géopolitique et historique.</p></li></ul><div class=\"journal-side-block\"><h5>Fonctionnement</h5><p><span class=\"first-letter\">L</span>a carte interactive permet un accès rapide aux données des planètes répertoriées. Il est bon de noter que :</p><ul data-start=\"1306\" data-end=\"1636\"><li data-start=\"1306\" data-end=\"1413\"><p data-start=\"1308\" data-end=\"1413\">chaque repère sur la carte correspond à une planète disposant d’une entrée de journal dans le compendium.</p></li><li data-start=\"1414\" data-end=\"1488\"><p data-start=\"1416\" data-end=\"1488\">un clic sur un repère ouvre directement la fiche de la planète associée.</p></li><li data-start=\"1489\" data-end=\"1636\"><p data-start=\"1491\" data-end=\"1636\">les planètes documentées dans le compendium mais <strong data-start=\"1540\" data-end=\"1592\">non représentées sur la carte galactique fournie</strong> ne disposent pas d’annotation sur la scène.</p></li></ul></div><p></p><h4>Sources</h4><ul><li><p>Force et Destinée : Livre de Règles</p></li></ul></div>",
+  "actors": [],
+  "combats": [],
+  "items": [],
+  "journal": [],
+  "scenes": [
+    {
+      "name": "La Galaxie",
+      "_id": "d97shwKhZJidTRuM",
+      "active": true,
+      "navigation": true,
+      "navOrder": 0,
+      "navName": "Galaxie",
+      "background": {
+        "src": "modules/star-wars-compendium-fr/assets/images/galaxie.jpg",
+        "anchorX": 0,
+        "anchorY": 0,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "fill",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0
+      },
+      "foreground": null,
+      "foregroundElevation": 20,
+      "thumb": "worlds/star-wars/assets/scenes/d97shwKhZJidTRuM-thumb.webp",
+      "width": 2400,
+      "height": 1553,
+      "padding": 0.25,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": 0.5
+      },
+      "backgroundColor": "#000000",
+      "grid": {
+        "type": 0,
+        "size": 100,
+        "style": "solidLines",
+        "thickness": 1,
+        "color": "#000000",
+        "alpha": 0.2,
+        "distance": 5,
+        "units": "ft"
+      },
+      "tokenVision": false,
+      "fog": {
+        "exploration": false,
+        "overlay": null,
+        "colors": {
+          "explored": null,
+          "unexplored": null
+        }
+      },
+      "environment": {
+        "darknessLevel": 0,
+        "darknessLock": false,
+        "globalLight": {
+          "enabled": false,
+          "alpha": 0.5,
+          "bright": false,
+          "color": null,
+          "coloration": 1,
+          "luminosity": 0,
+          "saturation": 0,
+          "contrast": 0,
+          "shadows": 0,
+          "darkness": {
+            "min": 0,
+            "max": 1
+          }
+        },
+        "cycle": true,
+        "base": {
+          "hue": 0,
+          "intensity": 0,
+          "luminosity": 0,
+          "saturation": 0,
+          "shadows": 0
+        },
+        "dark": {
+          "hue": 0.7138888888888889,
+          "intensity": 0,
+          "luminosity": -0.25,
+          "saturation": 0,
+          "shadows": 0
+        }
+      },
+      "drawings": [],
+      "tokens": [],
+      "lights": [],
+      "notes": [],
+      "sounds": [],
+      "regions": [],
+      "templates": [],
+      "tiles": [
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 2499,
+          "y": 1443,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "_id": "t66VayCj1hpq167F",
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "uPbdPLLbHHOsWylI",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          }
+        },
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 2737,
+          "y": 1114,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "g5Bh1bIAC24jqsyd",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          },
+          "_id": "UBhkZbq77qYY9sXX"
+        },
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 1955,
+          "y": 1247,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "jK4XNHAXW8MZ5ZhP",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          },
+          "_id": "MUnR6PpaI8ibY3FL"
+        },
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 1800,
+          "y": 1362,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "8H58rUgVFmc72zXX",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          },
+          "_id": "nOUdKWEE0Bywo2mA"
+        },
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 1754,
+          "y": 1585,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "8Bsdy14pzZfvhCyI",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          },
+          "_id": "ychGp8CKWacKcoSB"
+        },
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 1575,
+          "y": 747,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "TYrmvTUklIopJGoC",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          },
+          "_id": "gvYNUUEfQ6NxuZJ6"
+        },
+        {
+          "texture": {
+            "src": "modules/star-wars-compendium-fr/assets/images/pin.png",
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "offsetX": 0,
+            "offsetY": 0,
+            "fit": "fill",
+            "scaleX": 1,
+            "scaleY": 1,
+            "rotation": 0,
+            "tint": "#ffffff",
+            "alphaThreshold": 0.75
+          },
+          "x": 1697,
+          "y": 680,
+          "width": 10,
+          "height": 10,
+          "elevation": 0,
+          "sort": 0,
+          "occlusion": {
+            "mode": 0,
+            "alpha": 0
+          },
+          "rotation": 0,
+          "alpha": 1,
+          "hidden": false,
+          "locked": false,
+          "restrictions": {
+            "light": false,
+            "weather": false
+          },
+          "video": {
+            "loop": true,
+            "autoplay": true,
+            "volume": 0
+          },
+          "flags": {
+            "monks-active-tiles": {
+              "name": "",
+              "active": true,
+              "record": false,
+              "restriction": "all",
+              "controlled": "all",
+              "trigger": [
+                "click"
+              ],
+              "allowpaused": true,
+              "usealpha": false,
+              "pointer": false,
+              "vision": false,
+              "pertoken": false,
+              "minrequired": 0,
+              "cooldown": null,
+              "chance": 100,
+              "fileindex": 0,
+              "actions": [
+                {
+                  "action": "openjournal",
+                  "data": {
+                    "entity": {
+                      "id": "Compendium.star-wars-compendium-fr.livres.JournalEntry.5Md8ccRJ62e7QEnz",
+                      "name": "Planètes"
+                    },
+                    "page": "IaRKnBruSPaK15mf",
+                    "subsection": "",
+                    "showto": "trigger",
+                    "asimage": false,
+                    "permission": "false",
+                    "enhanced": false
+                  },
+                  "id": "F5OLw4n6foQBVNqF"
+                }
+              ],
+              "files": []
+            }
+          },
+          "_id": "dXTjDYSiswXNr0A7"
+        }
+      ],
+      "walls": [],
+      "playlist": null,
+      "playlistSound": null,
+      "journal": null,
+      "journalEntryPage": null,
+      "weather": "",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": "Scene.d97shwKhZJidTRuM",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767565094647,
+        "modifiedTime": 1767565192121,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      }
+    }
+  ],
+  "tables": [],
+  "macros": [],
+  "cards": [],
+  "playlists": [],
+  "folders": [],
+  "_id": "mjoT3oqZ7kpBIA1E",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767558561440,
+    "modifiedTime": 1767565215556,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!adventures!mjoT3oqZ7kpBIA1E"
+}

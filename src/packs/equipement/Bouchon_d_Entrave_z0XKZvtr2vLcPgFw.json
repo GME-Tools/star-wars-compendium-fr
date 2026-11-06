@@ -1,0 +1,73 @@
+{
+  "folder": "zbp2sK5vC6HpiXbK",
+  "name": "Bouchon d'Entrave",
+  "type": "gear",
+  "_id": "z0XKZvtr2vLcPgFw",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/Droid_Restraining_Bolt.png",
+  "system": {
+    "description": "<p>Les bouchons d'entrave sont aux dro&iuml;des ce que les menottes sont aux cr&eacute;atures organiques. Via des crampons magn&eacute;tiques ou des adh&eacute;sifs chimiques, les bouchons d'entraves se fixent au chassis d'un dro&iuml;de afin d'en restreindre les actions, le plus souvent au moyen d'une t&eacute;l&eacute;commande. Les mod&egrave;les les plus simples se contentent d'eteindre leur cible, permettant &agrave; leur utilisateur de tromper la vigilance de gardes ou de t&eacute;moins droides. Des versions plus sophistiqu&eacute;es, quant &agrave; elles, permettent de diriger un dro&iuml;de &agrave; distance si on le souhaite.</p>\n<p>Peu de droides s'av&egrave;rent capables de r&eacute;sister &agrave; la prise de contr&ocirc;le de leurs programmes une fois le bouchon d'entrave fix&eacute;. Toutefois, les PJ dro&iuml;des sont bien s&ucirc;r d'une autre trempe. Ils peuvent donc effectuer [B]un test de Sang-froid Intimidant ([DI][DI][DI][DI])[b] pour ignorer le dispositif et&nbsp;continuer &agrave; agir normalement. En cas d'&eacute;chec, et si le MJ l'autorise, ils peuvent retenter ce test plus tard.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Bouchon d'entrave Maitre d'Industrial Automaton</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.188"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 35,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748158465692,
+    "modifiedTime": 1748158905860,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!z0XKZvtr2vLcPgFw"
+}

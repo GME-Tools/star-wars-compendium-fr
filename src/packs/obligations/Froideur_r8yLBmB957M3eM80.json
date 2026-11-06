@@ -1,0 +1,71 @@
+{
+  "folder": "TNXvVQWLpLL0Hi7K",
+  "name": "Froideur",
+  "type": "obligation",
+  "_id": "r8yLBmB957M3eM80",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Si le personnage n'est pas prudent, son indépendance peut tourner au risque d'isolement. Dans ce cas, il ne désire plus seulement agir par lui-même, il en vient à se désintéresser des autres. S'ils ne peuvent pas s'aider eux-mêmes, pourquoi les aiderait-il ?</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Weakness"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770744319281,
+    "modifiedTime": 1770744340922,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!r8yLBmB957M3eM80"
+}

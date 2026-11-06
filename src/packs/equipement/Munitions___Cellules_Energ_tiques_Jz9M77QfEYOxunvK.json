@@ -1,0 +1,73 @@
+{
+  "folder": "fVW9Urt5T17frIrk",
+  "name": "Munitions / Cellules Energétiques",
+  "type": "gear",
+  "_id": "Jz9M77QfEYOxunvK",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/Shell_.45_caliber_bullet.jpg",
+  "system": {
+    "description": "<p>Bien que les blasters disposent g&eacute;n&eacute;ralement de gros chargeurs &eacute;nerg&eacute;tiques, garder quelques cellules de rechange sous le coude peut &ecirc;tre une bonne id&eacute;e.</p>\n<p>Les munitions suppl&eacute;mentaires permettent d'ignorer un r&eacute;sultat [DE] provoquant une p&eacute;nurie de munitions avec une arme &agrave; distance. Il faut cependant d&eacute;penser une man&oelig;uvre pour recharger et pouvoir reprendre le combat.</p>\n<p><strong>Mod&egrave;les typiques :</strong> De tr&egrave;s nombreuses versions.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.190"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 25,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748181531295,
+    "modifiedTime": 1748182309608,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Jz9M77QfEYOxunvK"
+}

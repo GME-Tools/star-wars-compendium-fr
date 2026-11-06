@@ -1,0 +1,410 @@
+{
+  "folder": "CjifrxkhriYICTII",
+  "name": "Lance-Missiles",
+  "type": "weapon",
+  "_id": "flVfbDssAxLGxHH8",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/missile_tube.png",
+  "system": {
+    "description": "<p>Les lance-missiles sont des lance-roquettes portables utilis&eacute;s &agrave; l'&eacute;paule et capables de tirer plusieurs types d'ogives mortelles. Ils sont &eacute;quip&eacute;s de micro r&eacute;pulseurs et de syst&egrave;mes de vis&eacute;e sophistiqu&eacute;s, et offrent une importante force de frappe sous un format simple d'emploi et facile &agrave; transporter.</p>\n<p>La plupart des mod&egrave;les disposent de trois modes de tir diff&eacute;rents - infrarouge, antigravitationnel et tir direct - en fonction de l'ogive charg&eacute;e. Les ogives infrarouges recherchent la signature thermique du v&eacute;hicule, ce qui les rend particuli&egrave;rement efficaces contre les engins terrestres de tous types. Les ogives antigravitationnelles localisent les ondes des r&eacute;pulseurs des v&eacute;hicules volants, et sont efficaces m&ecirc;me contre les v&eacute;hicules tr&egrave;s rapides. Le mode tir direct est quant a lui utilis&eacute; principalement contre les cibles se d&eacute;pla&ccedil;ant lentement ou les structures fixes comme les batiments, les bunkers ou les fortifications. Les modes infrarouge et antigravitationnel restent vuln&eacute;rables aux leurres (fum&eacute;e, chaleur, etc.) et se servent de l'attribut Projectile Guid&eacute;. Les ogives du dernier type ne se servent pas de cet attribut. Elles ne sont pas affect&eacute;es par d'&eacute;ventuelles contremesures antimissiles. Tous ces lance-missiles, quel que soit leur type, n&eacute;cessitent une man&oelig;uvre de pr&eacute;paration avant utilisation.</p>\n<p>Les munitions pour ce type d'arme co&ucirc;tent 500 cr&eacute;dits (par 6).</p>\n<p><strong>Modeles typiques :</strong> HH-15 de Golan Arms, Merr-Sonn PLX-2M</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 170"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 7,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 7
+    },
+    "price": {
+      "value": 7500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 8,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 4,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Brèche",
+        "type": "itemmodifier",
+        "_id": "JFyZPdNrXSG7x2vV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1,
+          "rank_current": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544853824,
+          "modifiedTime": 1747544910802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "LEkm65x7Lf45xRyH"
+      },
+      {
+        "name": "Déploiement",
+        "type": "itemmodifier",
+        "_id": "OAhqahXngzvziQYd",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Ces armes n&eacute;cessitent du temps pour &ecirc;tre mises en place avant de fonctionner. Les personnages qui les manient doivent effectuer un nombre de man&oelig;uvres de pr&eacute;paration &eacute;gal au niveau d'attribut de l'arme avant de pouvoir tirer avec.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1,
+          "rank_current": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547555834,
+          "modifiedTime": 1747547578925,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "aeLAb6lL7QgbkbKq"
+      },
+      {
+        "name": "Encombrant",
+        "type": "itemmodifier",
+        "_id": "raXJ4i5VZncAcxUi",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Une arme encombrante est imposante, difficile &agrave; manipuler, g&ecirc;nante ou tr&egrave;s lourde. Pour manier un tel &eacute;quipement, il faut avoir une Vigueur sup&eacute;rieure ou &eacute;gale &agrave; son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 d&eacute; de difficult&eacute; &agrave; tous les tests effectu&eacute;s pour se servir de cette arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Une arme encombrante est imposante, difficile à manipuler, gênante ou très lourde. Pour manier un tel équipement, il faut avoir une Vigueur supérieure ou égale à son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 dé de difficulté à tous les tests effectués pour se servir de cette arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547863051,
+          "modifiedTime": 1747548206802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "KjwtOAKQWErJtv9l"
+      },
+      {
+        "name": "Munitions Limitées",
+        "type": "itemmodifier",
+        "_id": "UBLuTlRPOYCOw26Q",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Certaines armes utilisent des munitions complexes, massives ou on&eacute;reuses. D'autres sont tout simplement &agrave; usage unique. Dans les deux cas, elles ne peuvent &ecirc;tre utilis&eacute;es que pour porter un nombre d'attaques &eacute;gal &agrave; leur niveau d'attribut avant de devoir &ecirc;tre recharg&egrave;es au prix d'une man&oelig;uvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois &eacute;puis&eacute;es, doivent &ecirc;tre obtenues avant que l'arme ne puisse &ecirc;tre r&eacute;utilis&eacute;e. Cette m&eacute;canique de jeu s'applique aussi aux grenades et aux autres armes &agrave; &laquo; usage unique &raquo; qui ont l'attribut Munitions limit&eacute;es 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 6,
+          "rank_current": 6,
+          "enrichedDescription": "<p>Certaines armes utilisent des munitions complexes, massives ou onéreuses. D'autres sont tout simplement à usage unique. Dans les deux cas, elles ne peuvent être utilisées que pour porter un nombre d'attaques égal à leur niveau d'attribut avant de devoir être rechargèes au prix d'une manœuvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois épuisées, doivent être obtenues avant que l'arme ne puisse être réutilisée. Cette mécanique de jeu s'applique aussi aux grenades et aux autres armes à « usage unique » qui ont l'attribut Munitions limitées 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549163080,
+          "modifiedTime": 1747549219163,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "EYnHPutTXFUr1Xhn"
+      },
+      {
+        "name": "Projectile Guidé",
+        "type": "itemmodifier",
+        "_id": "9q1wziKNX8vSzGmC",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>&Agrave; l'image des missiles guid&eacute;s, certains projectiles sont &eacute;quip&eacute;s de syst&ecirc;mes qui leur permettent de changer de trajectoire en vol. En d&eacute;clenchant cet attribut, un personnage qui a rat&eacute; sa cible peut effectuer un nouveau test d'attaque &agrave; la fin du round. La difficult&eacute; de ce second test va d&eacute;pendre de la diff&eacute;rence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de [AB] est &eacute;gal au rang de Projectile guid&eacute; de l'arme. En cas de succ&egrave;s lors de ce test, le projectile atteint sa cible et inflige ses d&eacute;gats normalement.</p>\n<p>Trois avantages [AD][AD][AD] sont n&eacute;cessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut &ecirc;tre activ&eacute; plusieurs fois, ce qui repr&eacute;sente, par exemple, un missile continuant &agrave; suivre sa cible.</p>\n<p>Les &laquo; leurres &raquo; sont des syst&egrave;mes de contre-mesure con&ccedil;us pour neutraliser ce type de projectile. Leur utilisation augmente directement la d&eacute;fense de la cible contre les armes munies de l'attribut Projectile guid&eacute;.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>À l'image des missiles guidés, certains projectiles sont équipés de systêmes qui leur permettent de changer de trajectoire en vol. En déclenchant cet attribut, un personnage qui a raté sa cible peut effectuer un nouveau test d'attaque à la fin du round. La difficulté de ce second test va dépendre de la différence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de <span class=\"dietype starwars ability\">d</span> est égal au rang de Projectile guidé de l'arme. En cas de succès lors de ce test, le projectile atteint sa cible et inflige ses dégats normalement.</p>\n<p>Trois avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span> sont nécessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut être activé plusieurs fois, ce qui représente, par exemple, un missile continuant à suivre sa cible.</p>\n<p>Les « leurres » sont des systèmes de contre-mesure conçus pour neutraliser ce type de projectile. Leur utilisation augmente directement la défense de la cible contre les armes munies de l'attribut Projectile guidé.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549415907,
+          "modifiedTime": 1747550014162,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "m4NGLAjOSfxjJXCR"
+      },
+      {
+        "name": "Souffle",
+        "type": "itemmodifier",
+        "_id": "2e2eijS1EK3Pp2iC",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dot&eacute;e de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est r&eacute;ussie et que l'attribut est d&eacute;clench&eacute;, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de d&eacute;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme (plus les d&eacute;g&acirc;ts normaux, &agrave; savoir un point par succ&egrave;s [SU]).</p>\n<p>Si l'endroit est confin&eacute;, le MJ peut d&eacute;cider que tous ceux qui se trouvent dans la pi&egrave;ce sont touch&eacute;s.</p>\n<p>Si l'attribut n'est pas activ&eacute;, l'explosion a lieu, mais seule la cible initiale est touch&eacute;e. Cela peut &ecirc;tre d&ucirc; &agrave; la malchance, &agrave; la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises &agrave; couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de m&ecirc;me d&eacute;clencher l'attribut en d&eacute;pensant trois avantages [AD][AD][AD]. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de d&egrave;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 10,
+          "rank_current": 10,
+          "enrichedDescription": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dotée de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est réussie et que l'attribut est déclenché, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de dégâts égal au niveau de Souffle de l'arme (plus les dégâts normaux, à savoir un point par succès <span class=\"dietype starwars success\">s</span>).</p>\n<p>Si l'endroit est confiné, le MJ peut décider que tous ceux qui se trouvent dans la pièce sont touchés.</p>\n<p>Si l'attribut n'est pas activé, l'explosion a lieu, mais seule la cible initiale est touchée. Cela peut être dû à la malchance, à la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises à couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de même déclencher l'attribut en dépensant trois avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span>. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de dègâts égal au niveau de Souffle de l'arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747550123394,
+          "modifiedTime": 1747550239662,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "JptwwwfJjhixUaEM"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Gunnery",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 20,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 2,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 2
+    },
+    "range": {
+      "value": "Extreme",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Extreme"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747598953298,
+    "modifiedTime": 1769241025575,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!flVfbDssAxLGxHH8"
+}

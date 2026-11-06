@@ -1,0 +1,73 @@
+{
+  "folder": "ZdbWLZXNFBBCNOY6",
+  "name": "Bras Scanner Cybernétique",
+  "type": "gear",
+  "_id": "a6y7JjbJf0kI8Vi6",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/cybernetics_arm.png",
+  "system": {
+    "description": "<p>En plus de remplacer un bras, cette am&eacute;lioration cybern&eacute;tique int&egrave;gre un scanner standard de port&eacute;e moyenne au corps du personnage qu'elle &eacute;quipe. Dot&eacute;s d'un syst&egrave;me d'affichage holographique qui se d&eacute;ploie au-dessus de la paume de la main, les scanners cybern&eacute;tiques sont capables de d&eacute;tecter les formes de vie, les traces de mouvement, les signatures &eacute;nerg&eacute;tiques et autres anomalies. Le bras scanner MOD IV renferme un scanner portable. Contrairement &agrave; la plupart des implants cybern&eacute;tiques, il est enti&egrave;rement dissimul&eacute; sous la chair synth&eacute;tique et rien ne laisse deviner sa pr&eacute;sence.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Bras scanner cybern&eacute;tique NeuroSaav, Bras mod&egrave;le Scanmaster NeuroFabritech</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.184"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 4000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747985510189,
+    "modifiedTime": 1747989253425,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!a6y7JjbJf0kI8Vi6"
+}

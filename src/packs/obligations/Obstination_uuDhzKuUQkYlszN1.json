@@ -1,0 +1,71 @@
+{
+  "folder": "0duNI4ERsNcjnWDo",
+  "name": "Obstination",
+  "type": "obligation",
+  "_id": "uuDhzKuUQkYlszN1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>S'ils ne se méfient pas, les personnages disciplinés risquent de tomber dans le piège de l'obstination. Un obstiné refuse de considérer une autre action que celle qu'il a choisie, et refuse d'admettre que quelqu'un d'autre a peut-être trouvé une meilleure solution.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Weakness"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770744566525,
+    "modifiedTime": 1770744580999,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!uuDhzKuUQkYlszN1"
+}

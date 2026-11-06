@@ -1,0 +1,49 @@
+{
+  "name": "Souffle",
+  "type": "itemmodifier",
+  "_id": "2e2eijS1EK3Pp2iC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dot&eacute;e de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est r&eacute;ussie et que l'attribut est d&eacute;clench&eacute;, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de d&eacute;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme (plus les d&eacute;g&acirc;ts normaux, &agrave; savoir un point par succ&egrave;s [SU]).</p>\n<p>Si l'endroit est confin&eacute;, le MJ peut d&eacute;cider que tous ceux qui se trouvent dans la pi&egrave;ce sont touch&eacute;s.</p>\n<p>Si l'attribut n'est pas activ&eacute;, l'explosion a lieu, mais seule la cible initiale est touch&eacute;e. Cela peut &ecirc;tre d&ucirc; &agrave; la malchance, &agrave; la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises &agrave; couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de m&ecirc;me d&eacute;clencher l'attribut en d&eacute;pensant trois avantages [AD][AD][AD]. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de d&egrave;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 158",
+        "L'Ère de la Rébellion - Livre de Règles pg. 171",
+        "Force et Destinée - Livre de Règles pg. 164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747550123394,
+    "modifiedTime": 1747550239662,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!2e2eijS1EK3Pp2iC"
+}

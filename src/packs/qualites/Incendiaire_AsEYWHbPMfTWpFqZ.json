@@ -1,0 +1,49 @@
+{
+  "name": "Incendiaire",
+  "type": "itemmodifier",
+  "_id": "AsEYWHbPMfTWpFqZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les armes incendiaires blessent sur la dur&eacute;e. Lorsque l'attaque r&eacute;ussit, la cible continue de subir les d&eacute;gats de base pendant 1 round par niveau d'attribut. lis sont inflig&eacute;s juste avant que la cible n'entreprenne ses actions du tour.</p>\n<p>La victime d'une arme incendiaire peut essayer d'&eacute;touffer les flammes en se roulant par terre. Pour ce&nbsp;faire, elle doit d&eacute;penser une action et r&eacute;ussir un test d'Agilit&eacute;. Si le sol est dur, comme celui d'un batiment&nbsp;ou d'un vaisseau, il s'agit d'un [B]test de Coordination Moyen ([DI][DI])[b]. Si le sol est moins rigide, comme de&nbsp;l'herbe, c'est un [B]test de Coordination Facile ([DI])[b]. Sauter dans de l'eau met imm&eacute;diatement un terme aux d&eacute;g&acirc;ts. Dans les cas pr&eacute;sent&eacute;s pr&eacute;c&eacute;demment,&nbsp;on considere que les flammes r&eacute;sultent d'une simple combustion. Elles sont impossibles &agrave; &eacute;touffer si elles s'av&egrave;rent d'origine chimique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 157",
+        "L'Ère de la Rébellion - Livre de Règles pg. 170",
+        "Force et Destinée - Livre de Règles pg. 163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747548253418,
+    "modifiedTime": 1747548364214,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!AsEYWHbPMfTWpFqZ"
+}

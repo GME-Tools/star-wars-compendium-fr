@@ -1,0 +1,80 @@
+{
+  "folder": "Uv13yOsvwIEWEFMN",
+  "name": "Bouclier Thermique",
+  "type": "itemattachment",
+  "_id": "6TGmaSPx5NaHqTZ7",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/BLseriesBattleLegionnaire-NEGTD.png",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Les boucliers thermiques m&ecirc;lent syst&egrave;mes de refroidissement actifs et passifs, combinaison isolante et rev&ecirc;tements sp&eacute;ciaux. Ils permettent de supporter des temp&eacute;ratures extr&ecirc;mement &eacute;lev&eacute;es, prot&egrave;gent contre le minerai et le m&eacute;tal en fusion et arr&ecirc;tent m&ecirc;me certaines radiations. Les boucliers thermiques s'installent uniquement sur les armures lourdes ou moyennes qui recouvrent le corps entier et qui peuvent &ecirc;tre herm&eacute;tiquement scell&eacute;es.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> Mod&egrave;le 451 HeatExchanger d'Atlas Corp, Combinaison volcanique Min-Dal 3100, Bouclier thermique &laquo; Salamandre &raquo; des Armuriers Kaminoan</p>\n<p dir=\"auto\"><strong>Effets :</strong> retire 1 d&eacute; de difficult&eacute; aux tests de R&eacute;sistance effectu&eacute;s pour r&eacute;sister aux chaleurs extr&ecirc;mes et aux effets du feu. Retire jusqu'&agrave; deux d&eacute;s d'infortune [SE][SE] dus aux chaleurs extr&ecirc;mes ou au feu.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.200"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 3,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750254582377,
+    "modifiedTime": 1750254836903,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!6TGmaSPx5NaHqTZ7"
+}

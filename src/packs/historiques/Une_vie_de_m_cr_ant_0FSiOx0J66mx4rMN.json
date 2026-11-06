@@ -1,0 +1,21 @@
+{
+  "type": "Item",
+  "folder": "7VjvlExd4zlJkn6l",
+  "name": "Une vie de mécréant",
+  "color": null,
+  "sorting": "a",
+  "_id": "0FSiOx0J66mx4rMN",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!0FSiOx0J66mx4rMN"
+}

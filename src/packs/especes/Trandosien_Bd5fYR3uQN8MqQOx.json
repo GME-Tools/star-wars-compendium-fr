@@ -1,0 +1,248 @@
+{
+  "name": "Trandosien",
+  "type": "species",
+  "_id": "Bd5fYR3uQN8MqQOx",
+  "img": "modules/star-wars-compendium-fr/packs/especes/images/transdoshan.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><p data-start=\"30975\" data-end=\"31137\">Humanoïdes reptiliens belliqueux, les Trandosiens ne cachent pas leur haine des Wookies. On les trouve partout où l'on a besoin de gros bras ou de gorilles armés.</p><p data-start=\"31139\" data-end=\"31700\"><strong>Physiologie </strong>: un peu plus petits en moyenne que leurs ennemis wookies, ces créatures à sang froid ont des mains à trois doigts dépourvues de pouce qui leur compliquent la vie lorsqu'il leur faut manipuler certaines technologies. Leurs énormes griffes compensent néanmoins cette maladresse. Leur grande acuité visuelle leur permet de distinguer le spectre infrarouge. Quand ils sont jeunes, leurs facultés de cicatrisation leur permettent de régénérer des membres si nécessaire. Leurs écailles vont du vert vif à l'orange et peuvent changer à la saison des mues.</p><p data-start=\"31702\" data-end=\"32186\"><strong>Société </strong>: les Trandosiens, qui s'appellent les « T'doshok » en dose, sont issus d'une société qui accorde une grande valeur à la force, à la chasse, à l'endurance et à l'autonomie. Les couvées de quatre œufs sont élevées par la mère (le père s'implique rarement). Les jeunes Trandosiens marchent et développent des capacités de chasseur instinctives peu après leur naissance. À deux ans, leur mère les fait participer à leur première chasse, et à dix, ils sont parfaitement autonomes.</p><p data-start=\"32188\" data-end=\"32844\">La société trandosienne tourne autour de deux choses : la chasse et le culte d'une déesse appelée la Gardienne des Points. Elle veille sur le peuple trandosien, qu'elle bénit ou châtie en fonction des résultats de leurs chasses. Pour chaque chasse réussie et proie abattue, les Trandosiens reçoivent le jagannath, la « marque divine », qui prouve le statut d'un Trandosien dans la société. Bien évidemment, un Trandosien qui accumule du jagannath a les faveurs de la déesse. Quand un Trandosien meurt, il s'incline devant la Gardienne des Points et lui présente son carquois de jagannath. Ce décompte final détermine la place qu'il occupera dans l'au-delà.</p><p data-start=\"32846\" data-end=\"33459\">Au fur et à mesure que la société trandosienne a évolué dans le contexte de la communauté galactique, le concept de la chasse s'est très nettement élargi à d'autres aspects de la société. Aujourd'hui, un médecin trandosien peut « chasser » un remède contre une maladie virulente menaçant son peuple. De même, un ingénieur peut « chasser » un meilleur vaisseau ou un armement plus puissant. En fait, presque toutes les actions qui améliorent le peuple trandosien sont des « chasses » dignes de ce nom aux yeux de cette culture. Bien évidemment, cela laisse peu de place aux passe-temps « frivoles » comme les arts.</p><p data-start=\"33461\" data-end=\"33762\"><strong>Monde d'origine</strong> : la plupart des Trandosiens appellent leur planète natale Hsskor, mais les étrangers la connaissent sous le nom de Trandosha ou 'Dosha. Trandosha a le même soleil que le monde natal des Wookies de Kashyyyk. À noter que les Trandosiens ont aussi colonisé la lune forestière de Wasskah.</p><p data-start=\"33764\" data-end=\"33990\"><strong>Langue </strong>: le dose, la langue des Trandosiens, évoque aux humains une série de sifflements et de grognements. Les Trandosiens peuvent apprendre et parler le basic, mais la plupart des mots qu'ils prononcent sont alors sifflants.</p><p data-start=\"33992\" data-end=\"34310\"><strong>La vie dans la Bordure</strong> : les Trandosiens rêvent constamment de réussir la chasse et de recevoir la bénédiction de la Gardienne des Points en accumulant du jagannath. Les professions de type militaire, comme les chasseurs de primes et les mercenaires, conviennent parfaitement aux instincts de chasseur des Trandosiens.</p><h3 data-start=\"33992\" data-end=\"34310\">Capacités spéciales</h3><p data-start=\"34312\" data-end=\"35174\"><strong>Capacité spéciale</strong> : les Trandosiens commencent le jeu avec 1 rang en Perception. Ils ne peuvent cependant pas dépasser le rang 2 dans cette compétence à la création de personnage.</p><p data-start=\"34312\" data-end=\"35174\"><strong>@UUID[Compendium.star-wars-compendium-fr.capacites.Item.H9A1T5zfo1AqqvoU]{Régénération}</strong> : quand un Trandosien se débarrasse d'au moins 1 blessure en se reposant ou en s'immergeant dans une cuve à bacta, il en élimine une de plus. Cela ne fonctionne cependant pas quand il reçoit les premiers secours, bénéficie de soins médicaux ou d'un stimpack. Les Trandosiens peuvent également régénérer leurs membres, mais il faut attendre au moins un mois avant qu'ils soient à nouveau utilisables.</p><p data-start=\"34312\" data-end=\"35174\"><strong>@UUID[Compendium.star-wars-compendium-fr.capacites.Item.vYDOFSM6CUHYjCiS]{Griffes}</strong>: quand un Trandosien effectue des tests de Pugilat pour infliger des dégâts à un adversaire, il inflige +1 dégât et a une valeur de critique de 3.</p><div class=\"journal-side-block\"><h5>RANCUNE TENACE</h5><p data-start=\"35191\" data-end=\"36100\"><span class=\"first-letter\">S</span>elon les Trandosiens, la querelle qui les oppose aux Wookies a commencé lorsque ces derniers ont sauvagement massacré une mission de reconnaissance pacifique venue sur Kashyyyk. La sauvagerie des Wookies poussa les Trandosiens à croire que leurs adversaires n'étaient que des barbares dénuées de sapience, et qu'ils n'avaient donc aucun droit sur les ressources de cette planète. Afin de la protéger, les Trandosiens firent escorter la mission suivante par une force militaire bien armée. Néanmoins, durant les années qui avaient séparé les deux missions, les Wookies avaient réussi à déchiffrer l'ingénierie du vaisseau d'exploration trandosien. Après des mois de conflit sanglant durant lesquels les Trandosiens servirent leur déesse avec distinction, les Wookies submergèrent leurs ennemis en s'appuyant sur le nombre. Toutes les autres missions coloniales pacifiques trandosiennes connurent le même sort.</p><p data-start=\"36102\" data-end=\"36552\">Les Trandosiens en appelèrent à l'Ancienne République, mais s'aperçurent que les Wookies avaient déjà rencontré les hors-monde et déblatéraient leurs mensonges au Sénat. Rapidement, ce furent les Wookies qui représentèrent le système Hsskassi au Sénat, y privant les Trandosiens de représentants. Les Trandosiens se sentirent isolés et n'eurent d'autre choix que de faire la guerre. La République finit par envoyer des troupes de maintien de l'ordre.</p><p data-start=\"36554\" data-end=\"37028\">Le chancelier Palpatine entendit finalement les doléances désespérées des Trandosiens. Des dignitaires le convainquirent de leur céder une représentation pour le système Hsskassi au Sénat impérial en échange de leur aide pour mater la rébellion wookie sur Kashyyyk. Par ailleurs, les dignitaires trandosiens promirent de capturer et de livrer des esclaves wookies à l'Empire. Kashyyyk occupée par l'armée impériale, les Trandosiens eurent enfin l'avantage sur leurs voisins.</p><p data-start=\"37030\" data-end=\"37333\">Tous les Trandosiens ne furent pas d'accord avec cette nouvelle approche. Le maître Jedi trandosien Krassk M'ikosh, qui tentait depuis des années de négocier une issue pacifique entre les Wookies et son peuple bien-aimé, perdit la vie en protégeant un enfant wookie contre des esclavagistes trandosiens.</p></div></div>",
+    "attributes": {
+      "Brawn": {
+        "value": 3,
+        "modtype": "Characteristic",
+        "mod": "Brawn"
+      },
+      "Agility": {
+        "value": 1,
+        "modtype": "Characteristic",
+        "mod": "Agility"
+      },
+      "Intellect": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Intellect"
+      },
+      "Cunning": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Cunning"
+      },
+      "Willpower": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Willpower"
+      },
+      "Presence": {
+        "value": 2,
+        "modtype": "Characteristic",
+        "mod": "Presence"
+      },
+      "Wounds": {
+        "value": 12,
+        "modtype": "Stat",
+        "mod": "Wounds"
+      },
+      "Strain": {
+        "value": 9,
+        "modtype": "Stat",
+        "mod": "Strain"
+      },
+      "attr1767950070101": {
+        "modtype": "Skill Rank",
+        "mod": "Perception",
+        "value": 1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 49"
+      ]
+    },
+    "talents": {},
+    "abilities": {
+      "H9A1T5zfo1AqqvoU": {
+        "name": "Régénération",
+        "system": {
+          "description": "<p>Quand un Trandosien se d&eacute;barrasse d'au moins 1 blessure en se reposant ou en s'immergeant dans une cuve &agrave; bacta, il en &eacute;limine une de plus. Cela ne fonctionne cependant pas quand il re&ccedil;oit les premiers secours, b&eacute;n&eacute;ficie de soins m&eacute;dicaux ou d'un stimpack. Les Trandosiens peuvent &eacute;galement r&eacute;g&eacute;n&eacute;rer leurs membres, mais il faut attendre au moins un mois avant qu'ils soient &agrave; nouveau utilisables.</p>"
+        }
+      },
+      "vYDOFSM6CUHYjCiS": {
+        "name": "Griffes",
+        "system": {
+          "description": "<p>Quand un Trandosien effectue des tests de Pugilat pour infliger des dégâts à un adversaire, il inflige +1 dégât et a une valeur de critique de 3.</p><p>@UUID[Compendium.star-wars-compendium-fr.armes.Item.oVu4zJrBq94m3zkW]{Griffes}</p>"
+        }
+      }
+    },
+    "species": {},
+    "startingXP": 90
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.characteristics.Brawn.value",
+          "value": "3",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.encumbrance.max",
+          "value": "8",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.soak.value",
+          "value": "3",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Agility.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Intellect.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Cunning.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Willpower.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.characteristics.Presence.value",
+          "value": "2",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.wounds.max",
+          "value": "15",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "key": "system.stats.strain.max",
+          "value": "11",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "7MtgcIUVOOQrdRw7",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767884012221,
+        "modifiedTime": 1773158218265,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!Bd5fYR3uQN8MqQOx.7MtgcIUVOOQrdRw7"
+    },
+    {
+      "name": "attr1767950070101",
+      "changes": [
+        {
+          "key": "system.skills.Perception.rank",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "u27a5JHfMQ73pphV",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767950071970,
+        "modifiedTime": 1770806748086,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!Bd5fYR3uQN8MqQOx.u27a5JHfMQ73pphV"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767884012209,
+    "modifiedTime": 1773158205411,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Bd5fYR3uQN8MqQOx"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Réglage Etourdissant",
+  "type": "itemmodifier",
+  "_id": "vFmE9mqn3EDDxQxB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le r&eacute;glage &eacute;tourdissant est une variante de l'attribut D&eacute;g&acirc;ts &Eacute;tourdissants. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette derni&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'&agrave; port&eacute;e courte.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747547537712,
+    "modifiedTime": 1747547544827,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!vFmE9mqn3EDDxQxB"
+}

@@ -1,0 +1,1399 @@
+{
+  "folder": "MKr0fypw4Frq0xlU",
+  "name": "Agent de Police provincial",
+  "type": "minion",
+  "prototypeToken": {
+    "actorLink": false,
+    "disposition": -1,
+    "name": "Agent de Police provincial",
+    "displayName": 0,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/minion.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "_id": "oFcW94z1fGAePe9H",
+  "img": "modules/star-wars-compendium-fr/packs/pnj/images/law_enforcment.png",
+  "system": {
+    "biography": "<p data-start=\"7511\" data-end=\"8081\">En général, l'application des lois au quotidien ne revient pas aux stormtroopers. La plupart des régions et des municipalités font appel à de la main-d'œuvre locale pour maintenir la paix, enquêter sur des activités criminelles et protéger les citoyens de toute menace éventuelle. La manière dont ils sont organisés et leur niveau de compétence sont aussi variés que les mondes qu'ils surveillent. En général, les agents provinciaux sont dotés d'armes et d'armures légères ; leur meilleur atout reste le comlink qu'ils portent pour appeler des renforts en cas de besoin.</p><p data-start=\"8083\" data-end=\"8506\"><strong data-start=\"8083\" data-end=\"8123\">Compétences (en groupe uniquement) :</strong> Coercition, Distance (armes légères), Perception, Vigilance.</p><p data-start=\"8083\" data-end=\"8506\"><strong data-start=\"8187\" data-end=\"8200\">Talents :</strong> aucun.</p><p data-start=\"8083\" data-end=\"8506\"><strong data-start=\"8210\" data-end=\"8225\">Capacités :</strong> aucune.</p><p data-start=\"8083\" data-end=\"8506\"><strong data-start=\"8236\" data-end=\"8252\">Équipement :</strong> pistolet blaster (Distance [armes légères] : dégâts 6 ; critique 3 ; portée moyenne ; réglage étourdissant), matraque (Corps à corps : dégâts 5 ; critique 3 ; portée au contact ; Désorientation 2), armure de police (encaissement +1), comlink (de poche).</p>",
+    "stats": {
+      "wounds": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "strain": {
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "soak": {
+        "value": 3,
+        "adjusted": 0
+      },
+      "defence": {
+        "ranged": 0,
+        "melee": 0,
+        "adjusted": 0
+      },
+      "encumbrance": {
+        "value": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "forcePool": {
+        "value": 0,
+        "max": 0,
+        "adjusted": 0
+      },
+      "credits": {
+        "value": 0,
+        "type": "Number",
+        "label": "Credits",
+        "adjusted": 0
+      }
+    },
+    "characteristics": {
+      "Brawn": {
+        "value": 3,
+        "label": "Brawn",
+        "abrev": "Br"
+      },
+      "Agility": {
+        "value": 2,
+        "label": "Agility",
+        "abrev": "Ag"
+      },
+      "Intellect": {
+        "value": 2,
+        "label": "Intellect",
+        "abrev": "Int"
+      },
+      "Cunning": {
+        "value": 2,
+        "label": "Cunning",
+        "abrev": "Cun"
+      },
+      "Willpower": {
+        "value": 2,
+        "label": "Willpower",
+        "abrev": "Will"
+      },
+      "Presence": {
+        "value": 2,
+        "label": "Presence",
+        "abrev": "Pr"
+      }
+    },
+    "skills": {
+      "Brawl": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Gunnery": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Lightsaber": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Melee": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Ranged: Light": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": true,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Ranged: Heavy": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Combat",
+        "max": 6
+      },
+      "Astrogation": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Athletics": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Charm": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Coercion": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": true,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Computers": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Cool": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Coordination": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Deception": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Discipline": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Leadership": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Mechanics": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Medicine": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Negotiation": {
+        "rank": 0,
+        "characteristic": "Presence",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Social",
+        "max": 6
+      },
+      "Perception": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": true,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Piloting: Planetary": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Piloting: Space": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Resilience": {
+        "rank": 0,
+        "characteristic": "Brawn",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Skulduggery": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Stealth": {
+        "rank": 0,
+        "characteristic": "Agility",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Streetwise": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Survival": {
+        "rank": 0,
+        "characteristic": "Cunning",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Vigilance": {
+        "rank": 0,
+        "characteristic": "Willpower",
+        "groupskill": true,
+        "careerskill": false,
+        "type": "General",
+        "max": 6
+      },
+      "Knowledge: Core Worlds": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Education": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Lore": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Outer Rim": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Underworld": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Warfare": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      },
+      "Knowledge: Xenology": {
+        "rank": 0,
+        "characteristic": "Intellect",
+        "groupskill": false,
+        "careerskill": false,
+        "type": "Knowledge",
+        "max": 6
+      }
+    },
+    "attributes": {},
+    "quantity": {
+      "value": 1,
+      "max": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "unit_wounds": {
+      "value": 4,
+      "type": "Number",
+      "label": "Unit Wounds"
+    }
+  },
+  "items": [
+    {
+      "_id": "rqWlJjXt3VST6LPU",
+      "name": "Pistolet Blaster",
+      "type": "weapon",
+      "img": "modules/star-wars-compendium-fr/packs/armes/images/blaster_pistol.png",
+      "system": {
+        "description": "<p>L'omnipr&eacute;sent pistolet blaster est le standard qui sert de r&eacute;f&eacute;rence pour classer les armes de poing &agrave; travers la galaxie. Les pistolets blaster sont declin&eacute;s en un nombre stup&eacute;fiant de mod&egrave;les, des plus petits, &agrave; canon court, utilis&eacute;s par les assassins op&eacute;rant dans les ruelles sombres,&nbsp;jusqu'&agrave; ceux, mortellement impressionnants et tellement efficaces, que manient les officiers de la Marine Imp&eacute;riale. Ils sont fabriqu&eacute;s par nombre de compagnies respect&eacute;es comme BlasTech et Merr-Sonn, et utilis&eacute;s par tout un chacun, du fermier aux vendeurs itin&eacute;rants en passant par les politiciens et les chefs d'entreprise. D'une mani&egrave;re g&eacute;n&eacute;rale, ils ont des port&eacute;es et des puissances plus que respectables, peuvent traverser la plupart des armures, et sont consid&eacute;r&eacute;s comme des armes de d&eacute;fense particuli&egrave;rement fiables.</p>\n<p><strong>Modeles typiques :</strong> BlasTech DH-17, BlasTech SE-14c, Merr-Sonn Modele 434</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.167"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Réglage Etourdissant",
+            "type": "itemmodifier",
+            "_id": "vFmE9mqn3EDDxQxB",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747547537712,
+              "modifiedTime": 1747547544827,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "z9qfivCJLdNnXbDG"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "skill": {
+          "value": "Ranged: Light",
+          "type": "String",
+          "label": "Skill"
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Medium",
+          "type": "String",
+          "label": "SWFFG.WeaponRangeMedium",
+          "adjusted": "Medium"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "ammo": {
+          "max": 0,
+          "value": 0
+        },
+        "status": "None",
+        "characteristic": {
+          "value": ""
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Réglage Etourdissant",
+            "type": "itemmodifier",
+            "_id": "vFmE9mqn3EDDxQxB",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747547537712,
+              "modifiedTime": 1747547544827,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "z9qfivCJLdNnXbDG"
+          }
+        ]
+      },
+      "effects": [
+        {
+          "_id": "otYZwRha6ftqtpp9",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/armes/images/blaster_pistol.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": 1767695806160,
+            "lastModifiedBy": "Vps3UPsdK7k7lekv",
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!oFcW94z1fGAePe9H.rqWlJjXt3VST6LPU.otYZwRha6ftqtpp9"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "CXfGLRNr4lLclQ7u"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes.Item.8CyiCBeVHado7sEb",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767695802884,
+        "modifiedTime": 1767695806156,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!oFcW94z1fGAePe9H.rqWlJjXt3VST6LPU"
+    },
+    {
+      "_id": "WiTbAuoYr4fHOHXP",
+      "name": "Matraque",
+      "type": "weapon",
+      "img": "modules/star-wars-compendium-fr/packs/armes/images/truncheon.png",
+      "system": {
+        "description": "<p>Fabriqu&eacute;es &agrave; base d'alliage m&eacute;tallique, d'os, de polycarbonates ou de tout autre mat&eacute;riau, les matraques comptent parmi les armes contondantes les plus simples utilis&eacute;es par les forces de l'ordre de la galaxie. Ces armes en apparence anodines sont tr&egrave;s r&eacute;pandues dans les lieux civilis&eacute;s o&ugrave; le meurtre d'un simple suspect est s&eacute;v&egrave;rement puni.</p>",
+        "attributes": {
+          "attr1747658824295": {
+            "modtype": "Weapon Stat",
+            "value": 2,
+            "mod": "damage"
+          }
+        },
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.175"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Désorientation",
+            "type": "itemmodifier",
+            "_id": "Nsduo9TYdS9JiH9B",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Une arme dot&eacute;e de cet attribut peut h&eacute;beter ses victimes. Lorsque l'effet est d&eacute;clench&eacute;, la victime de l'attaque est d&eacute;sorient&eacute;e (cf. page 224) pendant un nombre de rounds &eacute;gal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un d&eacute; d'infortune [SE] &agrave; tous ses tests de comp&eacute;tences.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>Une arme dotée de cet attribut peut hébeter ses victimes. Lorsque l'effet est déclenché, la victime de l'attaque est désorientée (cf. page 224) pendant un nombre de rounds égal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un dé d'infortune <span class=\"dietype starwars setback\">b</span> à tous ses tests de compétences.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747547594736,
+              "modifiedTime": 1747548608358,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "yUq4CCNkqg6VR27r"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "skill": {
+          "value": "Melee",
+          "type": "String",
+          "label": "Skill"
+        },
+        "damage": {
+          "value": 0,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 0
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Engaged",
+          "type": "String",
+          "label": "SWFFG.WeaponRangeEngaged",
+          "adjusted": "Engaged"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "ammo": {
+          "max": 0,
+          "value": 0
+        },
+        "status": "None",
+        "characteristic": {
+          "value": "Brawn"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Désorientation",
+            "type": "itemmodifier",
+            "_id": "Nsduo9TYdS9JiH9B",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Une arme dot&eacute;e de cet attribut peut h&eacute;beter ses victimes. Lorsque l'effet est d&eacute;clench&eacute;, la victime de l'attaque est d&eacute;sorient&eacute;e (cf. page 224) pendant un nombre de rounds &eacute;gal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un d&eacute; d'infortune [SE] &agrave; tous ses tests de comp&eacute;tences.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>Une arme dotée de cet attribut peut hébeter ses victimes. Lorsque l'effet est déclenché, la victime de l'attaque est désorientée (cf. page 224) pendant un nombre de rounds égal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un dé d'infortune <span class=\"dietype starwars setback\">b</span> à tous ses tests de compétences.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747547594736,
+              "modifiedTime": 1747548608358,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "yUq4CCNkqg6VR27r"
+          }
+        ],
+        "enrichedDescription": "<p>Fabriquées à base d'alliage métallique, d'os, de polycarbonates ou de tout autre matériau, les matraques comptent parmi les armes contondantes les plus simples utilisées par les forces de l'ordre de la galaxie. Ces armes en apparence anodines sont très répandues dans les lieux civilisés où le meurtre d'un simple suspect est sévèrement puni.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Désorientation",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Une arme dot&eacute;e de cet attribut peut h&eacute;beter ses victimes. Lorsque l'effet est d&eacute;clench&eacute;, la victime de l'attaque est d&eacute;sorient&eacute;e (cf. page 224) pendant un nombre de rounds &eacute;gal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un d&eacute; d'infortune [SE] &agrave; tous ses tests de comp&eacute;tences.</p>",
+              "itemIndex": 0,
+              "totalRanks": 2,
+              "modId": "Nsduo9TYdS9JiH9B",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 2
+              }
+            }
+          ]
+        }
+      },
+      "effects": [
+        {
+          "_id": "j7dgJvYdANJupHYj",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/armes/images/truncheon.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": 1767695923470,
+            "lastModifiedBy": "Vps3UPsdK7k7lekv",
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!oFcW94z1fGAePe9H.WiTbAuoYr4fHOHXP.j7dgJvYdANJupHYj"
+        },
+        {
+          "_id": "gqiuramm0LFp6Eqi",
+          "name": "attr1747658824295",
+          "img": null,
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "",
+              "value": "2",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!oFcW94z1fGAePe9H.WiTbAuoYr4fHOHXP.gqiuramm0LFp6Eqi"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "un8yPORYKJKNkyTR"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes.Item.WHJztQgNYOLHxkRX",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767695922085,
+        "modifiedTime": 1767695923466,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!oFcW94z1fGAePe9H.WiTbAuoYr4fHOHXP"
+    },
+    {
+      "_id": "qCUhLzsnb9HQWXFm",
+      "name": "Armure de police",
+      "type": "armour",
+      "img": "modules/star-wars-compendium-fr/packs/armures/images/heavy_clothing.png",
+      "system": {
+        "description": "<p>Les v&ecirc;tements &eacute;pais, comme leur nom l'indique, sont des v&ecirc;tements solides, fabriqu&eacute;s avec soin et pr&eacute;vus pour supporter les rigueurs de la vie &agrave; travers la galaxie.&nbsp;Bien qu'une veste &eacute;paisse, une combinaison de m&eacute;canicien renforc&eacute;e ou une cape de laine n'offrent pas beaucoup de protection contre un blaster, c'est certainement mieux que rien.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Tenue de travail . Hard Wear &raquo; d'Ayelixe Fabrico, Tenue d'aventurier &laquo; Tough Suit &raquo; des v&ecirc;tements sp&eacute;cialis&eacute;s Kamperdine</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.179"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 50,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 50
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": true
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "defence": {
+          "value": 0,
+          "type": "Number",
+          "label": "Defence",
+          "abrev": "Def",
+          "adjusted": 0
+        },
+        "soak": {
+          "value": 1,
+          "type": "Number",
+          "label": "Soak",
+          "adjusted": 1
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": []
+      },
+      "effects": [
+        {
+          "_id": "0JCclODdu0wynNjo",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/armures/images/heavy_clothing.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            },
+            {
+              "key": "system.stats.defence.melee",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            },
+            {
+              "key": "system.stats.defence.ranged",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            },
+            {
+              "key": "system.stats.soak.value",
+              "value": "1",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": 1767696002916,
+            "lastModifiedBy": "Vps3UPsdK7k7lekv",
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!oFcW94z1fGAePe9H.qCUhLzsnb9HQWXFm.0JCclODdu0wynNjo"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "qxWtXcRVHl2Pr94S"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armures.Item.qPKOUnXh77bwWZTj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767696001417,
+        "modifiedTime": 1767696002912,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!oFcW94z1fGAePe9H.qCUhLzsnb9HQWXFm"
+    },
+    {
+      "_id": "1gtkGl32pfD0ontI",
+      "name": "Comlink (de poche)",
+      "type": "gear",
+      "img": "modules/star-wars-compendium-fr/packs/equipement/images/comlink.png",
+      "system": {
+        "description": "<p>Les comlink sont les instruments de communication les plus r&eacute;pandus dans la galaxie. Petits, pratiques et faciles d&rsquo;utilisation, ils se pr&eacute;sentent sous diverses formes, des ordinateurs de poche complexes et capables de&nbsp;transmettre audio, vid&eacute;o et donn&eacute;es jusqu&rsquo;aux simples casques port&eacute;s par des compagnons proches.</p>\n<p>Nombre de ces instruments permettent de communiquer dans les deux sens avec une unit&eacute; amie situ&eacute;e &agrave; une distance relativement lointaine, voire en orbite basse. Il existe des mod&egrave;les capables de transmettre &agrave; de multiples destinataires en m&ecirc;me temps, voire &agrave; des escadrons entiers r&eacute;gl&eacute;s sur la m&ecirc;me fr&eacute;quence. Les mod&egrave;les plus grands, &agrave; longue port&eacute;e, sont port&eacute;s dans des sacs &agrave; dos et peuvent &eacute;mettre sur une plan&egrave;te enti&egrave;re. La plupart des comlinks, principalement ceux destin&eacute;s aux militaires et aux forces de l&rsquo;ordre, sont souvent crypt&eacute;s et passent par des lignes de communication s&eacute;curis&eacute;es. Bien qu&rsquo;ils soient g&eacute;n&eacute;ralement qualifi&eacute;s d&rsquo;infaillibles, les comlinks peuvent quelquefois &ecirc;tre perturb&eacute;s par le relief du terrain, les changements atmosph&eacute;riques ou un signal de brouillage.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.181"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "renderedDesc": {},
+        "enrichedDescription": "<p>Les comlink sont les instruments de communication les plus répandus dans la galaxie. Petits, pratiques et faciles d’utilisation, ils se présentent sous diverses formes, des ordinateurs de poche complexes et capables de&nbsp;transmettre audio, vidéo et données jusqu’aux simples casques portés par des compagnons proches.</p>\n<p>Nombre de ces instruments permettent de communiquer dans les deux sens avec une unité amie située à une distance relativement lointaine, voire en orbite basse. Il existe des modèles capables de transmettre à de multiples destinataires en même temps, voire à des escadrons entiers réglés sur la même fréquence. Les modèles plus grands, à longue portée, sont portés dans des sacs à dos et peuvent émettre sur une planète entière. La plupart des comlinks, principalement ceux destinés aux militaires et aux forces de l’ordre, sont souvent cryptés et passent par des lignes de communication sécurisées. Bien qu’ils soient généralement qualifiés d’infaillibles, les comlinks peuvent quelquefois être perturbés par le relief du terrain, les changements atmosphériques ou un signal de brouillage.</p>",
+        "hasLongDesc": false,
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [
+        {
+          "_id": "7d7a14bS6tegiBBj",
+          "name": "(inherent)",
+          "img": "modules/star-wars-compendium-fr/packs/equipement/images/comlink.png",
+          "type": "base",
+          "system": {},
+          "changes": [
+            {
+              "key": "system.stats.encumbrance.value",
+              "value": "0",
+              "mode": 2,
+              "priority": null
+            }
+          ],
+          "disabled": true,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "description": "",
+          "origin": null,
+          "tint": "#ffffff",
+          "transfer": true,
+          "statuses": [],
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "coreVersion": "13.351",
+            "systemId": "starwarsffg",
+            "systemVersion": "1.910",
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "exportSource": null
+          },
+          "_key": "!actors.items.effects!oFcW94z1fGAePe9H.1gtkGl32pfD0ontI.7d7a14bS6tegiBBj"
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "config": {},
+          "ffgTempId": "ab8Pb5oM4PiGFVdM"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.equipement.Item.ot9RksfUFSEufLJK",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767696005435,
+        "modifiedTime": 1767696005435,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!oFcW94z1fGAePe9H.1gtkGl32pfD0ontI"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableAutoSoakCalculation": true,
+        "enableCriticalInjuries": false,
+        "talentSorting": "0",
+        "editModeActor": ""
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767695680271,
+    "modifiedTime": 1769177738217,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!oFcW94z1fGAePe9H"
+}

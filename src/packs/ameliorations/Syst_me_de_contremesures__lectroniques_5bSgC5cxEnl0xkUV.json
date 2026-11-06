@@ -1,0 +1,130 @@
+{
+  "folder": "lWVNiyg5TPmHEdUM",
+  "name": "Système de contremesures électroniques",
+  "type": "shipattachment",
+  "_id": "5bSgC5cxEnl0xkUV",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/systeme_de_contremesures_electroniques.png",
+  "system": {
+    "description": "<p data-start=\"9676\" data-end=\"10808\" data-pm-slice=\"1 1 []\">Les syst&egrave;mes de contremesures &eacute;lectroniques sont con&ccedil;us pour aveugler et assourdir l&rsquo;adversaire en &eacute;mettant des plages de bruit blanc ainsi que des donn&eacute;es sans queue ni t&ecirc;te qui surchargent les senseurs et brouillent les communications des vaisseaux &agrave; proximit&eacute;. Ce kit peut &ecirc;tre install&eacute; sur n&rsquo;importe quel vaisseau ou v&eacute;hicule.</p>\n<p data-start=\"9676\" data-end=\"10808\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : syst&egrave;me CME &laquo; Stormcloud &raquo; Fabritech 995, brouilleur de senseurs &agrave; port&eacute;e courte Miradyne 4x-Phantom (chasseurs uniquement), brouilleur tactique de combat CNK 220-SIG (vaisseaux capitaux uniquement)<br data-start=\"10241\" data-end=\"10244\"><strong>Effets</strong> : les senseurs &agrave; port&eacute;e sont bloqu&eacute;s, et le v&eacute;hicule compte comme ayant un gabarit r&eacute;duit de 1 quand on lui tire dessus. De plus, tous les vaisseaux pr&eacute;sents dans le syst&egrave;me, ou tous les v&eacute;hicules situ&eacute;s &agrave; cent kilom&egrave;tres &agrave; la ronde dans le cas d&rsquo;un engin terrestre, sont imm&eacute;diatement avertis de la pr&eacute;sence du vaisseau ou du v&eacute;hicule &eacute;metteur.<br data-start=\"10596\" data-end=\"10599\"><strong>Mods possibles</strong> :</p>\n<ul>\n<li data-start=\"9676\" data-end=\"10808\" data-pm-slice=\"1 1 []\">[ ] Ajouter 1 d&eacute; de difficult&eacute; aux attaques effectu&eacute;es au moyen d&rsquo;une arme dot&eacute;e de l&rsquo;attribut Projectile guid&eacute; apr&egrave;s l&rsquo;activation des CME</li>\n</ul>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 271"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 3000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "label": "Ship Attachment"
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.stats.customizationHardPoints.value",
+          "value": "-1",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "wZb0h9ArkLrTmirU",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767195213879,
+        "modifiedTime": 1767195280498,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!5bSgC5cxEnl0xkUV.wZb0h9ArkLrTmirU"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767195213870,
+    "modifiedTime": 1767195280511,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!5bSgC5cxEnl0xkUV"
+}

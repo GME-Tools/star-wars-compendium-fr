@@ -1,0 +1,49 @@
+{
+  "name": "Sanguinaire",
+  "type": "itemmodifier",
+  "_id": "e4L8BCSkWoLfs6mC",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsque les armes poss&eacute;dant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au r&eacute;sultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 &agrave; son jet de blessure&nbsp;critique.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 158",
+        "L'Ère de la Rébellion - Livre de Règles pg. 171",
+        "Force et Destinée - Livre de Règles pg. 164"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747550077870,
+    "modifiedTime": 1747550114055,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!e4L8BCSkWoLfs6mC"
+}

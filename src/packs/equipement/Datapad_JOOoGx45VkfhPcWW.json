@@ -1,0 +1,73 @@
+{
+  "folder": "fVW9Urt5T17frIrk",
+  "name": "Datapad",
+  "type": "gear",
+  "_id": "JOOoGx45VkfhPcWW",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/datapad.png",
+  "system": {
+    "description": "<p>On trouve des datapads dans toute la galaxie. Combinaisons remarquables d'outil de communication, d'holodisque, d'ordinateur portable et de base de donn&eacute;es personnelle, ces appareils faciles d'utilisation regroupent de mani&egrave;re pratique des fonctionnalit&eacute;s dont on a toujours besoin. La plupart disposent d'&eacute;crans tactiles, tandis que d'autres jouissent d'une interface holographique. Les plus avanc&eacute;s peuvent se connecter a l'HoloNet galactique. Ils peuvent &eacute;galement b&eacute;n&eacute;ficier de syst&egrave;mes de cryptage : de nombreux modeles effacent automatiquement leur m&eacute;moire en cas de perte ou de vol.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Secr&eacute;taire de poche Ultra MX de SoroSuub</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.189"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 75,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748167052358,
+    "modifiedTime": 1748167153359,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!JOOoGx45VkfhPcWW"
+}

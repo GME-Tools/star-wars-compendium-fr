@@ -1,0 +1,1151 @@
+{
+  "name": "Visionnaire",
+  "type": "specialization",
+  "_id": "JnWsrEaKwLPX0wBb",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/mystique.png",
+  "system": {
+    "description": "<p>Certains individus s'av&egrave;rent capables de rester ouverts en permanence &agrave; la pr&eacute;sence de la Force, m&ecirc;me lorsqu'ils sont confront&eacute;s &agrave; la routine de leur existence. Son influence leur apparait dans des d&eacute;tails subtils. Pour eux, sa moindre oscillation revet un sens profond et les avertit d'&eacute;v&eacute;nements critiques dans l'avenir. Toutefois, la quantit&eacute; d'informations qu'ils en retirent peut vite devenir &eacute;crasante, surtout dans des environnements o&ugrave; les &ecirc;tres pensants sont nombreux. De nombreux Visionnaires optent donc pour une vie retir&eacute;e, loin des villes et des m&eacute;tropoles surpeupl&eacute;es.</p>\n<p>Les Visionnaires recoivent <strong>Connaissance (culture)</strong>, <strong>Sang-froid</strong>, <strong>Survie </strong>et <strong>Vigilance </strong>comme comp&eacute;tences de carri&egrave;re suppl&eacute;mentaires. Si c'est la premi&egrave;re sp&eacute;cialisation du personnage, le joueur peut choisir deux d'entre elles et leur attribuer un rang suppl&eacute;mentaire sans d&eacute;penser de points d'exp&eacute;rience. Pour r&eacute;ussir, les Visionnaires doivent &ecirc;tre capables de rester concentr&eacute;s<br>sur leur vie quotidienne sans jamais cesser d'observer la Force. Ils doivent apprendre &agrave; reconnaltre un grand nombre de signes subtils, et accepter de vivre dans un environnement hostile, loin de la civilisation, pour s'&eacute;pargner la surcharge d'informations.</p>\n<p>De tous les individus sensibles &agrave; la Force, les Visionnaires sont sans doute ceux qui se sentent le plus guid&eacute;s par elle. Ils y sont immerg&eacute;s en permanence, ils connaissent ses moindres fremissements et les suivent jusqu'a leur source pour empecher un probl&egrave;me mineur de devenir une crise majeure. Ils sentent un &eacute;v&eacute;nement qui se produit au loin et conseillent ceux qui les entourent afin qu'ils se tiennent pr&ecirc;ts lorsque la crise les rattrapera. Les capacit&eacute;s des Visionnaires leur devoilent souvent des bribes de l'avenir, les guidant vers les lieux et les gens qui auront le plus besoin de leurs conseils et de leur sagesse. Cela leur permet parfois d'&ecirc;tre juste au bon endroit au bon moment pour accomplir un geste crucial.</p>\n<p>Pour de nombreux Visionnaires, conna&icirc;tre le bon moment pour s'aventurer dans les r&eacute;gions civilis&eacute;es repr&eacute;sente un d&eacute;fi de taille. Comme cela perturbe leur sensibilit&eacute;, ils risquent de manquer un signe tr&egrave;s important. En cons&eacute;quence, la plupart pr&eacute;ferent rester autant que possible a l'&eacute;cart de la soci&eacute;t&eacute;, se fiant &agrave; leurs alli&eacute;s pour transmettre leurs messages. Cependant. rares sont ceux qui parviennent &agrave; transmettre un avertissement aussi efficacement que le Visionnaire qui, le premier, a senti un danger.</p>",
+    "attributes": {
+      "attr1747140703522": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Knowledge: Lore"
+      },
+      "attr1747140703697": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Discipline"
+      },
+      "attr1747140703858": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Survival"
+      },
+      "attr1747140704043": {
+        "modtype": "Career Skill",
+        "value": null,
+        "mod": "Vigilance"
+      },
+      "attr1747140704457": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Knowledge: Lore"
+      },
+      "attr1747140704641": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Discipline"
+      },
+      "attr1747140704818": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Survival"
+      },
+      "attr1747140704987": {
+        "modtype": "Skill Rank",
+        "value": 0,
+        "mod": "Vigilance"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.91"
+      ]
+    },
+    "talents": {
+      "talent0": {
+        "islearned": false,
+        "name": "Subsistance",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "dWSD0Nx2LjTCQz1O",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Retirez jusqu&rsquo;&agrave; [SE][SE] &agrave; tous les tests pour trouver de la nourriture, de l&rsquo;eau ou un abri. Ces tests de Survie prennent moiti&eacute; moins de temps que la normale.</p>"
+      },
+      "talent1": {
+        "islearned": false,
+        "name": "Réaction Fulgurante",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "y9bsGrmZ8bdgilxO",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1747047194927": {
+            "key": "attr1747047194927",
+            "value": 1,
+            "modtype": "Skill Boost",
+            "mod": "Vigilance"
+          }
+        },
+        "description": "<p>Ajoutez [BO] par rang de R&eacute;action fulgurante aux tests de Vigilance.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Ajoutez <span class=\"dietype starwars boost\">b</span> par rang de Réaction fulgurante aux tests de Vigilance.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent2": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent3": {
+        "islearned": false,
+        "name": "Pisteur Chevronné",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "g7IhalK4n8Hin4Ej",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Retirez [SE] par rang de Pisteur chevronn&eacute; aux tests effectu&eacute;s pour suivre ou trouver des traces. R&eacute;duisez de moiti&eacute; le temps n&eacute;cessaire pour suivre une cible.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Retirez <span class=\"dietype starwars setback\">b</span> par rang de Pisteur chevronné aux tests effectués pour suivre ou trouver des traces. Réduisez de moitié le temps nécessaire pour suivre une cible.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent4": {
+        "islearned": false,
+        "name": "Réaction Eclair",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Dr8H5Iiu3BNIowTp",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Vous pouvez subir des points de stress pour ajouter autant de [SU] aux tests d&rsquo;Initiative. Leur nombre ne peut pas d&eacute;passer votre rang en R&eacute;action &eacute;clair.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous pouvez subir des points de stress pour ajouter autant de <span class=\"dietype starwars success\">s</span> aux tests d’Initiative. Leur nombre ne peut pas dépasser votre rang en Réaction éclair.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent5": {
+        "islearned": false,
+        "name": "Œil Aiguisé",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "3NuBqpBOHXwgO2fV",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1747032085519": {
+            "key": "attr1747032085519",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Perception"
+          },
+          "attr1747032085920": {
+            "key": "attr1747032085920",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Vigilance"
+          }
+        },
+        "description": "<p>Retirez [SE] par rang en &OElig;il aiguis&eacute; &agrave; tous les tests de Perception ou de Vigilance. Divisez par deux le temps n&eacute;cessaire pour fouiller un lieu.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Retirez <span class=\"dietype starwars setback\">b</span> par rang en Œil aiguisé à tous les tests de Perception ou de Vigilance. Divisez par deux le temps nécessaire pour fouiller un lieu.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent6": {
+        "islearned": false,
+        "name": "Réaction Fulgurante",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "y9bsGrmZ8bdgilxO",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1747047194927": {
+            "key": "attr1747047194927",
+            "value": 1,
+            "modtype": "Skill Boost",
+            "mod": "Vigilance"
+          }
+        },
+        "description": "<p>Ajoutez [BO] par rang de R&eacute;action fulgurante aux tests de Vigilance.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Ajoutez <span class=\"dietype starwars boost\">b</span> par rang de Réaction fulgurante aux tests de Vigilance.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent7": {
+        "islearned": false,
+        "name": "Endurci",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "GWacujFJeLH0mp4I",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1746990712680": {
+            "key": "attr1746990712680",
+            "value": 2,
+            "modtype": "Stat",
+            "mod": "Wounds"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent8": {
+        "islearned": false,
+        "name": "Perception du Danger",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "dBF3ifbjGQw5emwk",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Une fois par partie, retirez [SE][SE] &agrave; n&rsquo;importe quel test.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Une fois par partie, retirez <span class=\"dietype starwars setback\">b</span><span class=\"dietype starwars setback\">b</span> à n’importe quel test.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent9": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1746990275918": {
+            "key": "attr1746990275918",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent10": {
+        "islearned": false,
+        "name": "Avertissement",
+        "activation": "Active (Action)",
+        "activationLabel": "SWFFG.TalentActivationsActiveAction",
+        "itemId": "Q6T68IF0BnRPbu6h",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Effectuez l&rsquo;action Avertissement. Tous les alli&eacute;s &agrave; port&eacute;e moyenne augmentent leur d&eacute;fense de votre valeur de Force jusqu&rsquo;&agrave; ce qu&rsquo;ils agissent pendant la rencontre.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Effectuez l’action Avertissement. Tous les alliés à portée moyenne augmentent leur défense de votre valeur de Force jusqu’à ce qu’ils agissent pendant la rencontre.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent11": {
+        "islearned": false,
+        "name": "Esquive Préventive",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "B0D1zwyJuRFWxVly",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Vous pouvez d&eacute;penser 1 point de Destin pour rompre le contact avec un ennemi en tant que broutille hors tour.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Vous pouvez dépenser 1 point de Destin pour rompre le contact avec un ennemi en tant que broutille hors tour.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent12": {
+        "islearned": false,
+        "name": "Valeur de Force",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "ucowaRAjbkJCXoxF",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "attributes": {
+          "attr1746991875324": {
+            "key": "attr1746991875324",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "ForcePool"
+          }
+        },
+        "description": "<p>+1 &agrave; la valeur de Force</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>+1 à la valeur de Force</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent13": {
+        "islearned": false,
+        "name": "Perception Tactique",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "hbYbVhpo0u2gowQZ",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Une fois par session de jeu, vous pouvez ajouter [SE][SE] au test de comp&eacute;tence d&rsquo;un PNJ.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Une fois par session de jeu, vous pouvez ajouter <span class=\"dietype starwars setback\">b</span><span class=\"dietype starwars setback\">b</span> au test de compétence d’un PNJ.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent14": {
+        "islearned": false,
+        "name": "La Force Est Mon Alliée",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "fwCVbj6rl2pgQHBG",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Une fois par session de jeu, vous pouvez subir 2 points de stress afin d'accomplir une action de pouvoir de la Force en tant que man&oelig;uvre.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Une fois par session de jeu, vous pouvez subir 2 points de stress afin d'accomplir une action de pouvoir de la Force en tant que manœuvre.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent15": {
+        "islearned": false,
+        "name": "Esquive",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "dVRSVFk3JhjjBeM1",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "description": "<p>Quand vous &ecirc;tes la cible d&rsquo;un test de combat, vous pouvez esquiver au prix d&rsquo;une broutille, mais subissez du stress qui ne peut pas d&eacute;passer votre rang d&rsquo;Esquive. Ensuite, am&eacute;liorez autant de d&eacute;s de difficult&eacute; du test que de stress subi.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>Quand vous êtes la cible d’un test de combat, vous pouvez esquiver au prix d’une broutille, mais subissez du stress qui ne peut pas dépasser votre rang d’Esquive. Ensuite, améliorez autant de dés de difficulté du test que de stress subi.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent16": {
+        "islearned": false,
+        "name": "Réaction Eclair",
+        "activation": "Active (Incidental, Out of Turn)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidentalOutofTurn",
+        "itemId": "Dr8H5Iiu3BNIowTp",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Vous pouvez subir des points de stress pour ajouter autant de [SU] aux tests d&rsquo;Initiative. Leur nombre ne peut pas d&eacute;passer votre rang en R&eacute;action &eacute;clair.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Vous pouvez subir des points de stress pour ajouter autant de <span class=\"dietype starwars success\">s</span> aux tests d’Initiative. Leur nombre ne peut pas dépasser votre rang en Réaction éclair.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent17": {
+        "islearned": false,
+        "name": "Endurci",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "GWacujFJeLH0mp4I",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": false,
+        "attributes": {
+          "attr1746990712680": {
+            "key": "attr1746990712680",
+            "value": 2,
+            "modtype": "Stat",
+            "mod": "Wounds"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "isConflictTalent": false,
+        "system": {}
+      },
+      "talent18": {
+        "islearned": false,
+        "name": "Mystique-Né",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "q1CtggoiolzIoq6E",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Une fois par session de jeu, vous pouvez relancer 1 test de pouvoir de la Force.</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true,
+        "enrichedDescription": "<p>Une fois par session de jeu, vous pouvez relancer 1 test de pouvoir de la Force.</p>",
+        "isConflictTalent": false,
+        "attributes": {}
+      },
+      "talent19": {
+        "islearned": false,
+        "name": "Valeur de Force",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "ucowaRAjbkJCXoxF",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": true,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1746991875324": {
+            "key": "attr1746991875324",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "ForcePool"
+          }
+        },
+        "description": "<p>+1 &agrave; la valeur de Force</p>",
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false,
+        "enrichedDescription": "<p>+1 à la valeur de Force</p>",
+        "isConflictTalent": false,
+        "system": {}
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Knowledge: Lore",
+      "careerSkill1": "Discipline",
+      "careerSkill2": "Survival",
+      "careerSkill3": "Vigilance",
+      "careerSkill4": "(none)"
+    },
+    "universal": false,
+    "collection": {
+      "talent0": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent1": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent2": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent3": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent4": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent5": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent6": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent7": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent8": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent9": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent10": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent11": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent12": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent13": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent14": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent15": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent16": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent17": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent18": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent19": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [
+    {
+      "name": "attr1747140703522",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "iAvt6GrBfdKW7xNh",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284308,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.iAvt6GrBfdKW7xNh"
+    },
+    {
+      "name": "attr1747140703697",
+      "changes": [
+        {
+          "key": "system.skills.Discipline.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "bO4iKZz322bYnye5",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284325,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.bO4iKZz322bYnye5"
+    },
+    {
+      "name": "attr1747140703858",
+      "changes": [
+        {
+          "key": "system.skills.Survival.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "hs5bxdE8WwZJhl7K",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284330,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.hs5bxdE8WwZJhl7K"
+    },
+    {
+      "name": "attr1747140704043",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.careerskill",
+          "mode": 2,
+          "value": ""
+        }
+      ],
+      "_id": "RoAwoIeNIiRo2OYx",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284341,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.RoAwoIeNIiRo2OYx"
+    },
+    {
+      "name": "attr1747140704457",
+      "changes": [
+        {
+          "key": "system.skills.Knowledge: Lore.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "ZxRmaQwpUXRdPUGC",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284344,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.ZxRmaQwpUXRdPUGC"
+    },
+    {
+      "name": "attr1747140704641",
+      "changes": [
+        {
+          "key": "system.skills.Discipline.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "6F06hzpbbqSa5LVd",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284354,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.6F06hzpbbqSa5LVd"
+    },
+    {
+      "name": "attr1747140704818",
+      "changes": [
+        {
+          "key": "system.skills.Survival.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "YdWlkTCH4N4NvWb1",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284364,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.YdWlkTCH4N4NvWb1"
+    },
+    {
+      "name": "attr1747140704987",
+      "changes": [
+        {
+          "key": "system.skills.Vigilance.rank",
+          "mode": 2,
+          "value": "0"
+        }
+      ],
+      "_id": "AJEWbL9mdUieQI2U",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1766908855470,
+        "modifiedTime": 1774547284375,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4",
+        "exportSource": null
+      },
+      "_key": "!items.effects!JnWsrEaKwLPX0wBb.AJEWbL9mdUieQI2U"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747140526750,
+    "modifiedTime": 1774547283315,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
+    "exportSource": null
+  },
+  "_key": "!items!JnWsrEaKwLPX0wBb"
+}

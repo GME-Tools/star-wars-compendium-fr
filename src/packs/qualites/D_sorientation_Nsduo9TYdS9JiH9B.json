@@ -1,0 +1,49 @@
+{
+  "name": "Désorientation",
+  "type": "itemmodifier",
+  "_id": "Nsduo9TYdS9JiH9B",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Une arme dot&eacute;e de cet attribut peut h&eacute;beter ses victimes. Lorsque l'effet est d&eacute;clench&eacute;, la victime de l'attaque est d&eacute;sorient&eacute;e (cf. page 224) pendant un nombre de rounds &eacute;gal au niveau de l'attribut de l'arme. Un personnage subissant cet effet ajoute un d&eacute; d'infortune [SE] &agrave; tous ses tests de comp&eacute;tences.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747547594736,
+    "modifiedTime": 1747548608358,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Nsduo9TYdS9JiH9B"
+}

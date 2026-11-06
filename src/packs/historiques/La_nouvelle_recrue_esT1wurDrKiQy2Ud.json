@@ -1,0 +1,69 @@
+{
+  "folder": "4d8Chidj4zdlT2aV",
+  "name": "La nouvelle recrue",
+  "type": "background",
+  "_id": "esT1wurDrKiQy2Ud",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>L’Alliance, guidée par de sages gestionnaires tels que Mon Mothma, a commencé à recruter dès ses débuts. Ceux qui manifestaient un certain talent en matière d’espionnage, de rhétorique ou de repérage ont contribué à élaborer des réseaux ayant pour objectif de dénicher des individus ayant la volonté de s’opposer à l’Empire. À mesure que le conflit s’aggravait, ces organes ont également commencé à étoffer plus militairement les rangs de l’Alliance pour mieux servir ses desseins.</p><p data-start=\"5078\" data-end=\"5568\">Un personnage joueur peut avoir été repéré par un membre de ces réseaux qui a détecté son potentiel et reconnu en lui l’âme de ceux qui sont prêts à en découdre avec le régime imposé par l’Empereur Palpatine. La rencontre ne s’est pas forcément faite avec un spécialiste du recrutement. Il est en effet fréquent que des membres de l’Alliance croisent des recrues potentielles et prennent le risque de les contacter si les compétences qu’elles peuvent apporter à la cause en valent la peine.</p><p data-start=\"5570\" data-end=\"5939\">La nature très compartimentée de la plupart des opérations de l’Alliance limite de toute façon les risques de trahison. Ces recrues sont mises à l’épreuve avant de se retrouver en contact avec des informations ou des projets sensibles. Leur compréhension du réseau auquel elles sont liées reste minimale jusqu’à ce qu’elles aient gagné la confiance de leurs supérieurs.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 44"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "hook"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770736399267,
+    "modifiedTime": 1770738972504,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!esT1wurDrKiQy2Ud"
+}

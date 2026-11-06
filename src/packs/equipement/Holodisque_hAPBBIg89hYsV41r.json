@@ -1,0 +1,73 @@
+{
+  "folder": "LOQ6rXUon4briXea",
+  "name": "Holodisque",
+  "type": "gear",
+  "_id": "hAPBBIg89hYsV41r",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/holodisk.png",
+  "system": {
+    "description": "<p>Ces dispositifs de petite taille, g&eacute;n&eacute;ralement de celle d&rsquo;une main humaine, servent lorsqu&rsquo;on a besoin de personnaliser un message. &Eacute;quip&eacute;s d&rsquo;un petit &eacute;metteur holographique, ils sont principalement con&ccedil;us pour envoyer un seul message enregistr&eacute; en une fois ou pour servir de communicateur holographique pour une transmission pr&eacute;cise. L&rsquo;utilisateur transmet son propre hologramme, qui appara&icirc;t directement sur la main de son correspondant ou &agrave; c&ocirc;t&eacute; (dans la limite d&rsquo;un m&egrave;tre au maximum).&nbsp;Ils peuvent &ecirc;tre facilement dissimul&eacute;s et transport&eacute;s, et sont souvent utilis&eacute;s pour envoyer et recevoir des messages secrets.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.181"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 250,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 4,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747830281958,
+    "modifiedTime": 1747830806737,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!hAPBBIg89hYsV41r"
+}

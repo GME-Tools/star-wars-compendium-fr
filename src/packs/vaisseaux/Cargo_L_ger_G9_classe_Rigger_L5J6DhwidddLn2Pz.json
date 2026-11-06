@@ -1,0 +1,740 @@
+{
+  "folder": "Lg1k90JaqYxU1Ql1",
+  "name": "Cargo Léger G9 classe Rigger",
+  "type": "vehicle",
+  "_id": "L5J6DhwidddLn2Pz",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/Twilight-SWE.webp",
+  "system": {
+    "biography": "<p data-start=\"1746\" data-end=\"2189\" data-pm-slice=\"1 1 []\">D&eacute;j&agrave; consid&eacute;r&eacute; comme une antiquit&eacute; au d&eacute;but de la Guerre des Clones, le cargo l&eacute;ger G9 de classe <em>Rigger</em>, produit par la Corporation Technique Corellienne, se fait rare sur les voies spatiales. Ce petit vaisseau banal dispose d&rsquo;une coque cubique &agrave; deux ponts qui ressemble davantage &agrave; un camion speeder qu&rsquo;&agrave; un vaisseau spatial. Une aile longue et fine sort du c&ocirc;t&eacute; tribord, et un petit stabilisateur pliant est mont&eacute; sur le ventre du vaisseau. Le tiers avant du G9 abrite la passerelle, le pont du m&eacute;canicien et les quartiers de l&rsquo;&eacute;quipage, r&eacute;partis sur deux ponts spartiates. Le reste du vaisseau est d&eacute;volu &agrave; une vaste soute &agrave; laquelle on acc&egrave;de par une rampe de chargement &agrave; l&rsquo;arri&egrave;re.</p>\n<p data-start=\"2437\" data-end=\"3299\">Con&ccedil;u comme caboteur utilitaire &agrave; court ou moyen rayon d&rsquo;action, un <em>Rigger </em>n&rsquo;a pas grand-chose de confortable et ne poss&egrave;de que des d&eacute;fenses &eacute;l&eacute;mentaires. Son armement consiste en auto-blasters dorsaux et en une paire de canons blaster l&eacute;gers. Ses boucliers se limitent &agrave; un simple syst&egrave;me Novaldex &agrave; faible rendement, et son blindage est un alliage basique de carbone et de duracier. Les ing&eacute;nieurs qui l&rsquo;ont imagin&eacute; n&rsquo;ont pas beaucoup r&eacute;fl&eacute;chi &agrave; sa vitesse et &agrave; sa maniabilit&eacute;, et m&ecirc;me si les G9 ne sont pas lents ou patauds au point d&rsquo;en devenir dangereux, ils ne peuvent certainement pas &ecirc;tre d&eacute;crits comme &laquo; performants &raquo;. Toutefois, ce qui leur manque en flamboyance et en confort est amplement rattrap&eacute; en fiabilit&eacute;, solidit&eacute; et facilit&eacute; de r&eacute;paration. De fait, beaucoup fonctionnent encore, et plut&ocirc;t bien, avec l&rsquo;essentiel de leurs composants d&rsquo;origine.</p>\n<p data-start=\"3301\" data-end=\"4029\"><strong>Type de coque/Classe</strong> : cargo l&eacute;ger/classe Rigger<br data-start=\"3349\" data-end=\"3352\"><strong>Constructeur</strong> : Corporation Technique Corellienne<br data-start=\"3400\" data-end=\"3403\"><strong>&Eacute;quipage</strong> : un pilote, un copilote<br data-start=\"3605\" data-end=\"3608\"><strong>Co&ucirc;t/raret&eacute;</strong> : 55 000 cr&eacute;dits/5</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 4,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 2,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -2,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 25,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 15,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 1,
+        "port": null,
+        "starboard": null,
+        "aft": 1,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 2,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Medium",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 6,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 80,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 4,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 3,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": 1,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": true,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/G9RIGGER.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.262"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Cargo Léger G9 classe Rigger",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "modules/star-wars-compendium-fr/packs/vaisseaux/images/Twilight-SWE.webp",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "vIM9L7BovHitZLfh",
+      "name": "Auto-blasters dorsaux",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les autoblasters sont des variantes de canon blaster b&eacute;n&eacute;ficiant d&rsquo;une cadence de tir am&eacute;lior&eacute;e. Gr&acirc;ce &agrave; leur technologie Xciter sophistiqu&eacute;e et &agrave; leurs modules actuateurs hautement sp&eacute;cialis&eacute;s, ces armes peuvent atteindre une impressionnante vitesse de rotation et d&eacute;verser une gr&ecirc;le de d&eacute;charges &eacute;nerg&eacute;tiques d&eacute;vastatrices d&rsquo;une simple pression de la d&eacute;tente.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Automatique",
+            "type": "itemmodifier",
+            "_id": "pXRIFlXQXJ5btbX2",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Une arme automatique peut &ecirc;tre r&eacute;gl&eacute;e pour tirer des fl&eacute;chettes, des balles ou n'importe quel autre type de projectiles, en rafale. L'avantage avec ces tirs de zone, c'est qu'ils ont des chances de toucher plusieurs cibles, ou d'en toucher une a plusieurs reprises.</p>\n<p>En r&egrave;gle g&eacute;n&eacute;rale, les armes automatiques sont assez peu pr&eacute;cises et le personnage qui s'en sert doit donc ajouter un d&eacute; de difficult&eacute; [DI] &agrave; son test d'attaque. Il peut choisir de ne pas tirer en rafale et d'effectuer ainsi une attaque normale. Dans ce cas, il ne pourra pas d&eacute;clencher l'attribut, mais ne subit pas non plus de malus.</p>\n<p>Lorsqu'un personnage touche sa cible avec une arme automatique, il peut d&eacute;penser deux avantages [AD][AD]&nbsp;pour declencher l'attribut (et il peut le faire a plusieurs reprises s'il dispose d'assez d'avantages). Pour chaque d&eacute;clenchement. l'arme inflige un coup suppl&eacute;mentaire dont les d&eacute;gats correspondent aux d&eacute;gats de base plus le nombre de succ&egrave;s [SU] nets obtenus au test.</p>\n<p>Ces coups suppl&eacute;mentaires peuvent toucher plusieurs fois la m&ecirc;me cible, plusieurs cibles, ou plusieurs fois plusieurs cibles dans la limite de la port&eacute;e de l'arme. Si le personnage souhaite tirer en rafale sur plus d'un ennemi, Il doit le d&eacute;clarer avant d'effectuer son test. Dans ce cas,&nbsp;le premier coup devra toujours frapper la cible qui b&eacute;n&eacute;ficie du plus haut niveau de difficult&eacute; pour &ecirc;tre touch&eacute; et de la meilleure d&eacute;fense (quand ce n'est pas le m&ecirc;me ennemi qui poss&egrave;de les deux, le MJ est libre de choisir lequel sert de r&eacute;f&eacute;rence pour le test). Les coups suppl&eacute;mentaires peuvent frapper n'importe quelle(s) cible(s) de la rafale, mais le premier coup, lui, doit toujours viser la cible de r&eacute;f&eacute;rence.</p>\n<p>Les armes automatiques peuvent infliger des blessures critiques &agrave; chaque coup pour le co&ucirc;t normal, mais chaque coup port&eacute; doit &ecirc;tre trait&eacute; s&eacute;par&eacute;ment.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.161"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747518827094,
+              "modifiedTime": 1747519115404,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "SaW5zbV1EB44sw0L"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 3,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 3
+        },
+        "crit": {
+          "value": 5,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 5
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Automatique",
+            "type": "itemmodifier",
+            "_id": "pXRIFlXQXJ5btbX2",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Une arme automatique peut &ecirc;tre r&eacute;gl&eacute;e pour tirer des fl&eacute;chettes, des balles ou n'importe quel autre type de projectiles, en rafale. L'avantage avec ces tirs de zone, c'est qu'ils ont des chances de toucher plusieurs cibles, ou d'en toucher une a plusieurs reprises.</p>\n<p>En r&egrave;gle g&eacute;n&eacute;rale, les armes automatiques sont assez peu pr&eacute;cises et le personnage qui s'en sert doit donc ajouter un d&eacute; de difficult&eacute; [DI] &agrave; son test d'attaque. Il peut choisir de ne pas tirer en rafale et d'effectuer ainsi une attaque normale. Dans ce cas, il ne pourra pas d&eacute;clencher l'attribut, mais ne subit pas non plus de malus.</p>\n<p>Lorsqu'un personnage touche sa cible avec une arme automatique, il peut d&eacute;penser deux avantages [AD][AD]&nbsp;pour declencher l'attribut (et il peut le faire a plusieurs reprises s'il dispose d'assez d'avantages). Pour chaque d&eacute;clenchement. l'arme inflige un coup suppl&eacute;mentaire dont les d&eacute;gats correspondent aux d&eacute;gats de base plus le nombre de succ&egrave;s [SU] nets obtenus au test.</p>\n<p>Ces coups suppl&eacute;mentaires peuvent toucher plusieurs fois la m&ecirc;me cible, plusieurs cibles, ou plusieurs fois plusieurs cibles dans la limite de la port&eacute;e de l'arme. Si le personnage souhaite tirer en rafale sur plus d'un ennemi, Il doit le d&eacute;clarer avant d'effectuer son test. Dans ce cas,&nbsp;le premier coup devra toujours frapper la cible qui b&eacute;n&eacute;ficie du plus haut niveau de difficult&eacute; pour &ecirc;tre touch&eacute; et de la meilleure d&eacute;fense (quand ce n'est pas le m&ecirc;me ennemi qui poss&egrave;de les deux, le MJ est libre de choisir lequel sert de r&eacute;f&eacute;rence pour le test). Les coups suppl&eacute;mentaires peuvent frapper n'importe quelle(s) cible(s) de la rafale, mais le premier coup, lui, doit toujours viser la cible de r&eacute;f&eacute;rence.</p>\n<p>Les armes automatiques peuvent infliger des blessures critiques &agrave; chaque coup pour le co&ucirc;t normal, mais chaque coup port&eacute; doit &ecirc;tre trait&eacute; s&eacute;par&eacute;ment.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.161"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747518827094,
+              "modifiedTime": 1747519115404,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "SaW5zbV1EB44sw0L"
+          }
+        ],
+        "enrichedDescription": "<p>Les autoblasters sont des variantes de canon blaster bénéficiant d’une cadence de tir améliorée. Grâce à leur technologie Xciter sophistiquée et à leurs modules actuateurs hautement spécialisés, ces armes peuvent atteindre une impressionnante vitesse de rotation et déverser une grêle de décharges énergétiques dévastatrices d’une simple pression de la détente.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Automatique",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Une arme automatique peut &ecirc;tre r&eacute;gl&eacute;e pour tirer des fl&eacute;chettes, des balles ou n'importe quel autre type de projectiles, en rafale. L'avantage avec ces tirs de zone, c'est qu'ils ont des chances de toucher plusieurs cibles, ou d'en toucher une a plusieurs reprises.</p>\n<p>En r&egrave;gle g&eacute;n&eacute;rale, les armes automatiques sont assez peu pr&eacute;cises et le personnage qui s'en sert doit donc ajouter un d&eacute; de difficult&eacute; [DI] &agrave; son test d'attaque. Il peut choisir de ne pas tirer en rafale et d'effectuer ainsi une attaque normale. Dans ce cas, il ne pourra pas d&eacute;clencher l'attribut, mais ne subit pas non plus de malus.</p>\n<p>Lorsqu'un personnage touche sa cible avec une arme automatique, il peut d&eacute;penser deux avantages [AD][AD]&nbsp;pour declencher l'attribut (et il peut le faire a plusieurs reprises s'il dispose d'assez d'avantages). Pour chaque d&eacute;clenchement. l'arme inflige un coup suppl&eacute;mentaire dont les d&eacute;gats correspondent aux d&eacute;gats de base plus le nombre de succ&egrave;s [SU] nets obtenus au test.</p>\n<p>Ces coups suppl&eacute;mentaires peuvent toucher plusieurs fois la m&ecirc;me cible, plusieurs cibles, ou plusieurs fois plusieurs cibles dans la limite de la port&eacute;e de l'arme. Si le personnage souhaite tirer en rafale sur plus d'un ennemi, Il doit le d&eacute;clarer avant d'effectuer son test. Dans ce cas,&nbsp;le premier coup devra toujours frapper la cible qui b&eacute;n&eacute;ficie du plus haut niveau de difficult&eacute; pour &ecirc;tre touch&eacute; et de la meilleure d&eacute;fense (quand ce n'est pas le m&ecirc;me ennemi qui poss&egrave;de les deux, le MJ est libre de choisir lequel sert de r&eacute;f&eacute;rence pour le test). Les coups suppl&eacute;mentaires peuvent frapper n'importe quelle(s) cible(s) de la rafale, mais le premier coup, lui, doit toujours viser la cible de r&eacute;f&eacute;rence.</p>\n<p>Les armes automatiques peuvent infliger des blessures critiques &agrave; chaque coup pour le co&ucirc;t normal, mais chaque coup port&eacute; doit &ecirc;tre trait&eacute; s&eacute;par&eacute;ment.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "pXRIFlXQXJ5btbX2",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "T8xO70HWwsDfA0Nv"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.WnF4bSGnOLyhsJps",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767104519005,
+        "modifiedTime": 1767104519005,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!L5J6DhwidddLn2Pz.vIM9L7BovHitZLfh"
+    },
+    {
+      "_id": "Qnv9ojvZB87q4u8I",
+      "name": "Canon blaster léger monté sur une tourelle d'aileron",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les canons blasters (ou &laquo; canon flash &raquo; comme ils sont parfois surnomm&eacute;s) sont des versions lourdes du blaster personnel commun dont l&rsquo;utilisation n&eacute;cessite une &eacute;quipe de tir. Bien que moins d&eacute;vastateurs que les canons laser, ils demeurent redoutablement efficaces contre l&rsquo;infanterie et les v&eacute;hicules l&eacute;gers. Ils sont souvent install&eacute;s sur les v&eacute;hicules atmosph&eacute;riques ou les petits vaisseaux spatiaux, et il est possible d&rsquo;en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": true,
+          "starboard": true,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 4,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 4
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [],
+        "enrichedDescription": "<p>Les canons blasters (ou « canon flash » comme ils sont parfois surnommés) sont des versions lourdes du blaster personnel commun dont l’utilisation nécessite une équipe de tir. Bien que moins dévastateurs que les canons laser, ils demeurent redoutablement efficaces contre l’infanterie et les véhicules légers. Ils sont souvent installés sur les véhicules atmosphériques ou les petits vaisseaux spatiaux, et il est possible d’en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "r8p3zYt6bVANcECx"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.u8Grz4qDPXBYSFvj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767104523799,
+        "modifiedTime": 1767104523799,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!L5J6DhwidddLn2Pz.Qnv9ojvZB87q4u8I"
+    },
+    {
+      "_id": "Ly09SomDeJm6Uf70",
+      "name": "Canon blaster léger monté sur l'aile verticale",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les canons blasters (ou &laquo; canon flash &raquo; comme ils sont parfois surnomm&eacute;s) sont des versions lourdes du blaster personnel commun dont l&rsquo;utilisation n&eacute;cessite une &eacute;quipe de tir. Bien que moins d&eacute;vastateurs que les canons laser, ils demeurent redoutablement efficaces contre l&rsquo;infanterie et les v&eacute;hicules l&eacute;gers. Ils sont souvent install&eacute;s sur les v&eacute;hicules atmosph&eacute;riques ou les petits vaisseaux spatiaux, et il est possible d&rsquo;en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 4,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 4
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [],
+        "enrichedDescription": "<p>Les canons blasters (ou « canon flash » comme ils sont parfois surnommés) sont des versions lourdes du blaster personnel commun dont l’utilisation nécessite une équipe de tir. Bien que moins dévastateurs que les canons laser, ils demeurent redoutablement efficaces contre l’infanterie et les véhicules légers. Ils sont souvent installés sur les véhicules atmosphériques ou les petits vaisseaux spatiaux, et il est possible d’en trouver plusieurs variantes plus ou moins puissantes.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "n4GW633ToLKj4Px3"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.u8Grz4qDPXBYSFvj",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767104525152,
+        "modifiedTime": 1767104525152,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!L5J6DhwidddLn2Pz.Ly09SomDeJm6Uf70"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1748852550467,
+    "modifiedTime": 1767184950843,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!L5J6DhwidddLn2Pz"
+}

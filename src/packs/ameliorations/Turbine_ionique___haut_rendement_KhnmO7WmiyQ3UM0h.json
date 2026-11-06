@@ -1,0 +1,229 @@
+{
+  "folder": "lWVNiyg5TPmHEdUM",
+  "name": "Turbine ionique à haut rendement",
+  "type": "shipattachment",
+  "_id": "KhnmO7WmiyQ3UM0h",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/turbine_ionique.png",
+  "system": {
+    "description": "<p data-start=\"11723\" data-end=\"12259\" data-pm-slice=\"1 1 []\">Bien qu&rsquo;ils p&ecirc;chent quelque peu du point de vue de la fiabilit&eacute;, ces puissants moteurs accroissent la vitesse brute qu&rsquo;un appareil peut atteindre en ligne droite. Cette modification peut &ecirc;tre ajout&eacute;e &agrave; n&rsquo;importe quel vaisseau ou v&eacute;hicule.</p>\n<p data-start=\"11723\" data-end=\"12259\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : turbine ionique &agrave; haut rendement Cirodyne Ter 40, propulseurs ioniques Sienar Fleet System SFS-220, strator&eacute;acteur ionique Koensayr R800<br data-start=\"12134\" data-end=\"12137\"><strong>Effets</strong> : +1 &agrave; la vitesse, &minus;1 au seuil de SM<br data-start=\"12180\" data-end=\"12183\"><strong>Mods possibles</strong> : aucun</p>",
+    "attributes": {
+      "attr1767196296537": {
+        "modtype": "Vehicle Stat",
+        "mod": "Speed",
+        "value": 1
+      },
+      "attr1767196309151": {
+        "modtype": "Vehicle Stat",
+        "mod": "Systemstrain",
+        "value": -1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 271"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 5300,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 5,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "label": "Ship Attachment"
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.stats.customizationHardPoints.value",
+          "value": "-1",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "o8NtsqhtnL4uHcXP",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767196267253,
+        "modifiedTime": 1767196327439,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!KhnmO7WmiyQ3UM0h.o8NtsqhtnL4uHcXP"
+    },
+    {
+      "name": "attr1767196296537",
+      "changes": [
+        {
+          "key": "system.stats.speed.max",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "_id": "xJpWKmQzG3bL48q6",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767196299559,
+        "modifiedTime": 1767196308385,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!KhnmO7WmiyQ3UM0h.xJpWKmQzG3bL48q6"
+    },
+    {
+      "name": "attr1767196309151",
+      "changes": [
+        {
+          "key": "system.stats.systemStrain.max",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        }
+      ],
+      "_id": "gMCKipZRdAiS6L1Q",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767196310565,
+        "modifiedTime": 1767196312943,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!KhnmO7WmiyQ3UM0h.gMCKipZRdAiS6L1Q"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767196267243,
+    "modifiedTime": 1767196327450,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!KhnmO7WmiyQ3UM0h"
+}

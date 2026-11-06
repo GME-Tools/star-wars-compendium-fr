@@ -251,7 +251,7 @@
      {
       "name": "obligations",
       "label": "Obligations/Devoirs/Moralités",
-      "path": "packs/obligationss",
+      "path": "packs/obligations",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",

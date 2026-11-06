@@ -1,0 +1,73 @@
+{
+  "folder": "LOQ6rXUon4briXea",
+  "name": "Comlink (longue portée)",
+  "type": "gear",
+  "_id": "UN45Yu2AH8pfOKQf",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/comlink.png",
+  "system": {
+    "description": "<p>Les comlink sont les instruments de communication les plus r&eacute;pandus dans la galaxie. Petits, pratiques et faciles d&rsquo;utilisation, ils se pr&eacute;sentent sous diverses formes, des ordinateurs de poche complexes et capables de&nbsp;transmettre audio, vid&eacute;o et donn&eacute;es jusqu&rsquo;aux simples casques port&eacute;s par des compagnons proches.</p>\n<p>Nombre de ces instruments permettent de communiquer dans les deux sens avec une unit&eacute; amie situ&eacute;e &agrave; une distance relativement lointaine, voire en orbite basse. Il existe des mod&egrave;les capables de transmettre &agrave; de multiples destinataires en m&ecirc;me temps, voire &agrave; des escadrons entiers r&eacute;gl&eacute;s sur la m&ecirc;me fr&eacute;quence. Les mod&egrave;les plus grands, &agrave; longue port&eacute;e, sont port&eacute;s dans des sacs &agrave; dos et peuvent &eacute;mettre sur une plan&egrave;te enti&egrave;re. La plupart des comlinks, principalement ceux destin&eacute;s aux militaires et aux forces de l&rsquo;ordre, sont souvent crypt&eacute;s et passent par des lignes de communication s&eacute;curis&eacute;es. Bien qu&rsquo;ils soient g&eacute;n&eacute;ralement qualifi&eacute;s d&rsquo;infaillibles, les comlinks peuvent quelquefois &ecirc;tre perturb&eacute;s par le relief du terrain, les changements atmosph&eacute;riques ou un signal de brouillage.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.181"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 2,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 200,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747830229785,
+    "modifiedTime": 1747830261133,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!UN45Yu2AH8pfOKQf"
+}

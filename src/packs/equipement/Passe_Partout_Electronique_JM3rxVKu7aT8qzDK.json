@@ -1,0 +1,73 @@
+{
+  "folder": "zbp2sK5vC6HpiXbK",
+  "name": "Passe-Partout Electronique",
+  "type": "gear",
+  "_id": "JM3rxVKu7aT8qzDK",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/electronic_lock_break.png",
+  "system": {
+    "description": "<p>Quand ils n'ont pas &eacute;t&eacute; perdus &agrave; jamais ou d&eacute;truits, la plupart des artefacts et savoirs relatifs &agrave; la Force se trouvent bien gard&eacute;s derri&egrave;re les portes s&eacute;curis&eacute;es des appartements de l'Empereur ou de Dark Vador. Une grande partie des serrures de la galaxie, y compris celles que l'on trouve sur des mondes arri&eacute;r&eacute;s de la Bordure Ext&eacute;rieure, reposent sur des syst&egrave;mes &eacute;lectroniques complexes plut&ocirc;t que sur un agencement m&eacute;canique. Les passe-partout &eacute;lectroniques sont des terminaux de piratage petits et puissants, quoique d'usage limit&eacute;, con&ccedil;us pour craquer les types les plus fr&eacute;quents de serrures informatis&eacute;es. Il existe une profusion de mod&egrave;les diff&eacute;rents, des variantes de base destin&eacute;es aux habitations et v&eacute;hicules civils, jusqu'aux appareils militaires lourdement modifi&eacute;s et &agrave; m&ecirc;me de donner acc&egrave;s au pont de commandement d'un destroyer stellaire de classe Imp&eacute;rial comme si l'on en poss&eacute;dait les codes de s&eacute;curit&eacute;.</p>\n<p><strong>Mod&egrave;les typiques :</strong> &laquo; Passe-partout &raquo; de serrurier du syndicat Locris S&eacute;curit&eacute;</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.188"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 5,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748158383008,
+    "modifiedTime": 1748158929179,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!JM3rxVKu7aT8qzDK"
+}

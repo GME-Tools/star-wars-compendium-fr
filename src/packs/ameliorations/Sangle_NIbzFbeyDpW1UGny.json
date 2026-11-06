@@ -1,0 +1,86 @@
+{
+  "folder": "ytlg5ajt84xTwYsp",
+  "name": "Sangle",
+  "type": "itemattachment",
+  "_id": "NIbzFbeyDpW1UGny",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/sangle.png",
+  "system": {
+    "description": "<p>Les sangles sont des longueurs de cuir ou de tissu synth&eacute;tique. Elles permettent de transporter plus facilement les armes longues, comme les fusils blaster et les fusils &agrave; percussion. Des mod&egrave;les artisanaux &agrave; peine ajustables aux bretelles en tissu sp&eacute;cialis&eacute;es &agrave; multiples r&eacute;glages, il en existe des milliers. Seules les armes &agrave; distance (armes lourdes) peuvent en &ecirc;tre &eacute;quip&eacute;es.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Sangle artisanale en cuir de Bantha, Sangle 1 point &agrave; d&eacute;crochage rapide.</p>\n<p><strong>Effets :</strong> Diminue la valeur d'encombrement de 1.</p>\n<p><strong>Mods possibles :</strong></p>\n<ul>\n<li>[ ] Talent inn&eacute; (@UUID[Compendium.star-wars-compendium-fr.talents.Item.6upWNNld1nCyyKnv]{Arme en Main})</li>\n</ul>",
+    "attributes": {
+      "attr1750064807225": {
+        "modtype": "Weapon Stat",
+        "value": -1,
+        "mod": "encumbrance"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, pg. 195"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 100,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750064581204,
+    "modifiedTime": 1750065768318,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!NIbzFbeyDpW1UGny"
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "WQlYAJzzbCfrVDC0",
+  "name": "Jumelles Scanner",
+  "type": "gear",
+  "_id": "JCXdjnUjAxX2SXHV",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/macrobinoculars.png",
+  "system": {
+    "description": "<p>Ce sont des versions plus simples des &eacute;lectrojumelles qui embarquent un peu moins d'am&eacute;liorations techniques que leurs grandes cousines. Quel que soit leur mod&egrave;le,&nbsp;les jumelles scanner sont typiquement &eacute;quip&eacute;es d'une amplification passive de lumiere, d'imagerie thermique, de lentilles polaris&eacute;es et d'un nombre cons&eacute;quent de filtres s'adaptant &agrave; beaucoup de conditions d'&eacute;clairage<br>diff&eacute;rentes.</p>\n<p>En termes de jeu, les jumelles scanner permettent de voir dans la p&eacute;nombre.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Jumelles scanner Fabritech X-2000, Torjeka B3, TaggeCo. Luminator</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.185"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 150,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 3,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748008336493,
+    "modifiedTime": 1748008412581,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!JCXdjnUjAxX2SXHV"
+}

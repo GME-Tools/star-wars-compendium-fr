@@ -1,0 +1,49 @@
+{
+  "name": "Déploiement",
+  "type": "itemmodifier",
+  "_id": "OAhqahXngzvziQYd",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ces armes n&eacute;cessitent du temps pour &ecirc;tre mises en place avant de fonctionner. Les personnages qui les manient doivent effectuer un nombre de man&oelig;uvres de pr&eacute;paration &eacute;gal au niveau d'attribut de l'arme avant de pouvoir tirer avec.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 163"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747547555834,
+    "modifiedTime": 1747547578925,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!OAhqahXngzvziQYd"
+}

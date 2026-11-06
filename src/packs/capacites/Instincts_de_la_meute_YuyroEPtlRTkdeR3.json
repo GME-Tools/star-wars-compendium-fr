@@ -1,0 +1,43 @@
+{
+  "name": "Instincts de la meute",
+  "type": "ability",
+  "_id": "YuyroEPtlRTkdeR3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Lorsqu'ils accomplissent la man&oelig;uvre &laquo; assister &raquo;, les Togrutas ajoutent [BO][BO] au lieu de [BO].</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 60"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1746982058742,
+    "modifiedTime": 1773159218487,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!YuyroEPtlRTkdeR3"
+}

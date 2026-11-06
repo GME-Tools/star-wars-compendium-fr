@@ -1,0 +1,313 @@
+{
+  "folder": "4cUA7NgRkkf5FgT6",
+  "name": "Vibrohache",
+  "type": "weapon",
+  "_id": "s4TVwBy8oCdaTLSg",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/vibro-ax.png",
+  "system": {
+    "description": "<p>La vibrohache classique est constitu&eacute;e d'une t&ecirc;te en m&eacute;tal large fix&eacute;e &agrave; un solide manche mesurant entre un et deux m&ecirc;tres de long. La t&ecirc;te de la hache, g&eacute;n&eacute;ralement fabriqu&eacute;e &agrave; partir d'un alliage robuste et r&eacute;sistant aiguis&eacute; comme une lame de rasoir, est &eacute;quip&eacute;e d'un petit g&eacute;n&eacute;rateur de vibrations ultrasoniques qui augmente les performances de l'arme au combat. Son poids, associ&eacute; &agrave; la force de levier procur&eacute;e par son tr&egrave;s long manche, au tranchant de sa lame et &agrave; son g&eacute;n&eacute;rateur de vibration, permet de fendre une t&ecirc;te ou de d&eacute;membrer l'adversaire, m&ecirc;me si celui-ci est lourdement prot&eacute;g&eacute;. Alors que la plupart&nbsp;des citoyens de la galaxie ont tendance a consid&eacute;rer les vibrohaches comme des armes barbares, de nombreux hommes de main appr&eacute;cient leur c&ocirc;t&eacute; intimidant.</p>\n<p>Les vibrohaches s'utilisent &agrave; deux mains.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Vibrohache SoroSuub BD-1 Cutter</p>",
+    "attributes": {
+      "attr1747661880243": {
+        "modtype": "Weapon Stat",
+        "value": 3,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 175"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 4,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 4
+    },
+    "price": {
+      "value": 750,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 5,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 3,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Briseur",
+        "type": "itemmodifier",
+        "_id": "iH3rtgxXOzmXCql1",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Quand l'attribut est d&eacute;clench&eacute;, l'assaillant choisit un des objets les plus expos&eacute;s de sa cible (comme une arme, un bouclier ou quelque chose qui pend &agrave; sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact &agrave; endommag&eacute; leg&eacute;rement, d'endommag&eacute; l&eacute;g&egrave;rement&nbsp;&agrave; endommag&eacute; mod&eacute;r&eacute;ment et d'endommag&eacute; mod&eacute;r&eacute;ment &agrave; endommag&eacute; gravement. Un objet endommag&eacute; gravement qui subit une nouvelle fois les effets de l'attribut Briseur est d&eacute;truit.</p>\n<p>Un avantage [AD] est n&eacute;cessaire pour activer l'attribut. Il peut &ecirc;tre d&eacute;clench&eacute; plusieurs fois au cours de la m&ecirc;me attaque, ce qui peut permettre de briser un objet en un unique coup.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1,
+          "rank_current": 1,
+          "enrichedDescription": "<p>Quand l'attribut est déclenché, l'assaillant choisit un des objets les plus exposés de sa cible (comme une arme, un bouclier ou quelque chose qui pend à sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact à endommagé legérement, d'endommagé légèrement&nbsp;à endommagé modérément et d'endommagé modérément à endommagé gravement. Un objet endommagé gravement qui subit une nouvelle fois les effets de l'attribut Briseur est détruit.</p>\n<p>Un avantage <span class=\"dietype starwars advantage\">a</span> est nécessaire pour activer l'attribut. Il peut être déclenché plusieurs fois au cours de la même attaque, ce qui peut permettre de briser un objet en un unique coup.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544936447,
+          "modifiedTime": 1747548588913,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "PgcyWcQWomroyUcY"
+      },
+      {
+        "name": "Perforant",
+        "type": "itemmodifier",
+        "_id": "XbOJpT26dqVZiBtX",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est sup&eacute;rieur au niveau d'encaissement de sa cible, elle l'ignore enti&egrave;rement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert &agrave; rien.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est supérieur au niveau d'encaissement de sa cible, elle l'ignore entièrement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert à rien.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549292133,
+          "modifiedTime": 1747549339000,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "wbBiEaDKGk1s8nI4"
+      },
+      {
+        "name": "Sanguinaire",
+        "type": "itemmodifier",
+        "_id": "e4L8BCSkWoLfs6mC",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Lorsque les armes poss&eacute;dant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au r&eacute;sultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 &agrave; son jet de blessure&nbsp;critique.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 3,
+          "rank_current": 3,
+          "enrichedDescription": "<p>Lorsque les armes possédant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au résultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 à son jet de blessure&nbsp;critique.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747550077870,
+          "modifiedTime": 1747550114055,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "14BdQjQeNkPl2Lym"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Melee",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 2,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 2
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747661880243",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "3"
+        }
+      ],
+      "_id": "r7SARbPzUKRtNWzi",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1769240682500,
+        "modifiedTime": 1769240682500,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!s4TVwBy8oCdaTLSg.r7SARbPzUKRtNWzi"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747659601209,
+    "modifiedTime": 1769240681263,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!s4TVwBy8oCdaTLSg"
+}

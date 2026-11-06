@@ -1,0 +1,69 @@
+{
+  "name": "À l'aise avec la technologie",
+  "type": "background",
+  "_id": "YuXTH5seaolPV1rs",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>La plupart des mondes de la galaxie bénéficient d'un haut niveau de sophistication technologique. Les droïdes et l'HoloNet sont des outils d'usage quotidien pour une bonne partie des individus. Sur de nombreuses planètes, appareils à répulseurs et vaisseaux spatiaux sont d'une grande banalité, et les personnages se sentent certainement à l'aise avec ces engins fantastiques. La plupart des adultes originaires de ces mondes ont reçu une éducation qui comportait de solides bases en ingénierie et en sciences « dures ». Ce niveau de familiarité avec la technologie est considéré comme la norme dans la galaxie civilisée.</p><p>La plupart des Mondes du Noyau et ceux de la Bordure Extérieure appartiennent à cette catégorie. Même les colonies et les planètes-frontières sont peuplées d'individus familiarisés avec les technologies galactiques standard, et ce, même lorsque ces dernières y sont rares ou indisponibles. Ces planètes font partie de la communauté galactique. Lorsqu'ils veulent éviter la technologie, leurs résidents doivent faire un effort délibéré.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 45"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "folder": "knT43WidTyhTaOAA",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770710872468,
+    "modifiedTime": 1770738952424,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!YuXTH5seaolPV1rs"
+}

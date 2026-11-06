@@ -1,0 +1,73 @@
+{
+  "folder": "QVxR8HywBdXmtsAz",
+  "name": "Combinaison Spatiale",
+  "type": "gear",
+  "_id": "WMhzhsElkVH5urKd",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/spacesuit.png",
+  "system": {
+    "description": "<p>Destin&eacute;es &agrave; isoler les individus du vide spatial, de son froid extr&ecirc;me et de ses radiations, les tenues spatiales sont g&eacute;n&eacute;ralement con&ccedil;ues pour une esp&egrave;ce sp&eacute;cifique. Elles incorporent des syst&egrave;mes de survie ainsi que des biomoniteurs qui surveillent les param&egrave;tres physiques du porteur. Pr&eacute;vues pour des sorties de faible dur&eacute;e, elles ne contiennent de l'eau et des gaz atmosph&eacute;riques que pour deux ou trois heures d'activit&eacute;. De nombreux mod&egrave;les poss&egrave;dent en outre de petits propulseurs multidirectionnels, divers syst&egrave;mes d'&eacute;clairages, des comlinks,&nbsp;des bottes magnetiques, des prises d'alimentation pour les outils, ainsi que toutes sortes d'autres accessoires pratiques. Chaque combinaison spatiale est vendue avec&nbsp;une trousse de reparation d'urgence, laquelle permet de rem&eacute;dier dans l'instant aux dechirures, aux fuites et autres pannes d'&eacute;tanch&eacute;it&eacute;. Notez que certaines sont &eacute;galement dot&eacute;es d'un blindage l&eacute;ger.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Combinaison spatiale TaggeCo standard X.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.188"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 4,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 100,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748160594607,
+    "modifiedTime": 1748161800128,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!WMhzhsElkVH5urKd"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Airspeeders",
+  "sorting": "a",
+  "folder": null,
+  "type": "Actor",
+  "_id": "mODIv9BCYxvQIMyw",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.343",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766161859981,
+    "modifiedTime": 1766161859981,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!mODIv9BCYxvQIMyw"
+}

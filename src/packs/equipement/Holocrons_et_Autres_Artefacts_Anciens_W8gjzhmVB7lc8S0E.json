@@ -1,0 +1,22 @@
+{
+  "name": "Holocrons et Autres Artefacts Anciens",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "W8gjzhmVB7lc8S0E",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748188137182,
+    "modifiedTime": 1748188137182,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!W8gjzhmVB7lc8S0E"
+}

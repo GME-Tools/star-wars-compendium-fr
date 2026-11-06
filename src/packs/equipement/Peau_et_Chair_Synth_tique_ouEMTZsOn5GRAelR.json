@@ -1,0 +1,73 @@
+{
+  "folder": "EKlv8bGnQqLuCxvZ",
+  "name": "Peau et Chair Synthétique",
+  "type": "gear",
+  "_id": "ouEMTZsOn5GRAelR",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/Repli-limb.png",
+  "system": {
+    "description": "<p>La peau et la chair synth&eacute;tiques constituent deux variantes d'une m&ecirc;me substance employ&eacute;e &agrave; la fois en m&eacute;decine et dans la r&eacute;alisation de membres cybern&eacute;tiques. Vendus sous la forme de patchs, de feuilles enti&egrave;res ou d'un gel &eacute;pais, ces deux produits servent &agrave; soigner les contusions, les coupures ainsi que d'autres blessures l&eacute;g&egrave;res. On les utilise aussi pour r&eacute;aliser des greffes de peau ou en chirurgie esth&eacute;tique. C'est la peau synth&eacute;tique dont l'usage s'av&egrave;re le plus fr&eacute;quent, aussi bien sur le terrain que dans les blocs op&eacute;ratoires. La chair synth&eacute;tique, quant a elle, est essentiellement employ&eacute;e pour recouvrir des pi&egrave;ces m&eacute;caniques, comme des proth&egrave;ses cybern&eacute;tiques ou m&ecirc;me des dro&iuml;des entiers, afin de dissimuler leur nature artificielle.</p>\n<p>Les applications de peau synth&eacute;tique sont des objets &agrave; usage unique qui permettent de prodiguer les premiers soins en cas de coupure ou de contusion.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Chair Instantan&eacute;e en patch de BioTech, Peau Instantan&eacute;e en patch de BioTech.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.187"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 10,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748087252577,
+    "modifiedTime": 1748087407875,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!ouEMTZsOn5GRAelR"
+}

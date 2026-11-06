@@ -1,0 +1,73 @@
+{
+  "folder": "WQlYAJzzbCfrVDC0",
+  "name": "Détecteur de Poche",
+  "type": "gear",
+  "_id": "0GkndDlRhrYL7FlA",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/Medical-Scanner_FE.png",
+  "system": {
+    "description": "<p>Le terme &laquo; d&eacute;tecteur de poche &raquo; sert &agrave; d&eacute;signer les plus petits dispositifs, ceux qui sont con&ccedil;us pour un usage tr&egrave;s pr&eacute;cis. Medisenseurs, traceurs de circuit, scanners&nbsp;de microfractures d'un alliage ou de fatigue de m&eacute;taux, d&eacute;tecteurs de certains types de gaz ou de min&eacute;raux,&nbsp;et scanners de fr&eacute;quences de comlinks : tous sont des&nbsp;exemples d'outillages qui entrent dans cette cat&eacute;gorie.</p>\n<p>La plupart des d&eacute;tecteurs de poche peuvent &ecirc;tre reli&eacute;s &agrave; des syst&egrave;mes informatiques plus puissants afin de compiler et d'analyser les donn&eacute;es.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Medisenseur RFX/K de BioTech, Scanner d'int&eacute;grit&eacute; mat&eacute;rielle SoroSuub mod&egrave;le 808</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 185"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 100,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1748008106722,
+    "modifiedTime": 1769188301223,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!0GkndDlRhrYL7FlA"
+}

@@ -1,0 +1,73 @@
+{
+  "folder": "WQlYAJzzbCfrVDC0",
+  "name": "Macrojumelles",
+  "type": "gear",
+  "_id": "j2WKfBPV5g7OWxnz",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/macrobinoculars.png",
+  "system": {
+    "description": "<p>Plus simples, moins ch&egrave;res et souvent plus fiables que leurs cousines les &eacute;lectrojumelles, les macrojumelles sont tr&egrave;s r&eacute;pandues dans la galaxie. Elles sont equip&eacute;es de syst&egrave;mes optiques basiques et disposent de certaines am&eacute;liorations techniques relativement simples, comme un stabilisateur d'image, des filtres de lumi&egrave;re et un syst&egrave;me d'agrandissement d'image qui permettent aux utilisateurs de voir &agrave; de tr&egrave;s longues distances.</p>\n<p><strong>Modeles typiques :</strong> De tr&egrave;s nombreuses versions</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.185"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 75,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748007763332,
+    "modifiedTime": 1748007823747,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!j2WKfBPV5g7OWxnz"
+}

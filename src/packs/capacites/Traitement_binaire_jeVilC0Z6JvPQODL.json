@@ -1,0 +1,43 @@
+{
+  "name": "Traitement binaire",
+  "type": "ability",
+  "_id": "jeVilC0Z6JvPQODL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les C&eacute;r&eacute;ens consid&egrave;rent toutes les comp&eacute;tences de Connaissance comme des comp&eacute;tences de carri&egrave;re.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 55"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767885183289,
+    "modifiedTime": 1773149742430,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!jeVilC0Z6JvPQODL"
+}

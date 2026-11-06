@@ -1,0 +1,69 @@
+{
+  "folder": "PfPwvu9IU1vWq614",
+  "name": "Le Privilégié",
+  "type": "background",
+  "_id": "RuRiImMc7IX1CjVm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>L’ascension au pouvoir du sénateur Palpatine n’avait rien d’un accident. Il a tout orchestré en capitalisant sur les attentes des peuples civilisés en matière d’ordre public, de paix et de sécurité. Les événements ayant mené au mouvement Séparatiste et à la Guerre des Clones ont largement contribué à attiser les envies de retour à l’ordre de la population. Quant à l’image de la République, elle a été ternie par la déchéance apparente des Jedi (sur laquelle l’Empire a lourdement insisté) et par leur impuissance face au chaos ambiant.</p><p>Cette transition n’aurait jamais pu se produire sans le consentement de milliards d’êtres. L’ordre assuré par un gouvernement central fort était synonyme de retour à la normale, de reprise des affaires, de transports sans entrave et surtout de la fin des menaces de violence et de destruction. Pour la majorité des habitants des Mondes du Noyau, ce genre de situation est souhaitable quels que soient l’identité des autorités et les moyens qu’elles emploient pour se faire respecter. Même s’il n’est plus avisé de se plaindre ouvertement des conditions politiques ou sociales, le commun des mortels s’en accommode à condition de manger à sa faim, d’être abreuvé de programmes divertissants par holovid et de vivre dans une paix relative.</p><p data-start=\"2835\" data-end=\"3619\">Nombreux sont les membres de la Rébellion issus de tels environnements. S’ils l’ont rejointe, ce n’est pas pour échapper à une vie marquée par la misère ou la tragédie, mais bien parce qu’ils ont saisi la nature insidieuse des entités au pouvoir. Ils perçoivent mieux que d’autres ce dont on les prive subrepticement jour après jour alors que personne ne semble s’en soucier ou même s’en rendre compte. Ces PJ sont des idéalistes cherchant à réveiller l’esprit de leurs concitoyens avant qu’il ne soit trop tard et que tout disparaisse au profit de la toute-puissance corrompue de Palpatine. Ou alors, il s’agit de mécontents rejetés par leur famille et leurs voisins pour avoir osé évoquer publiquement les injustices subies par d’autres au nom d’une paix et d’une sécurité égoïstes.</p><p data-start=\"3621\" data-end=\"3930\">De tels PJ n’ont peut-être jamais eu l’intention de s’impliquer si directement dans la lutte contre l’Ordre Nouveau. Ils auront alors été précipités contre les forces impériales par quelque enchaînement d’événements malheureux, avant de se retrouver parmi les seuls êtres capables de les aider : les Rebelles.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 43"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770735487832,
+    "modifiedTime": 1770738935304,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!RuRiImMc7IX1CjVm"
+}

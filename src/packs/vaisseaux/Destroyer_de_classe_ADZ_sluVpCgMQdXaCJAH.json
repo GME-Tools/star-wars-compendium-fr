@@ -1,0 +1,838 @@
+{
+  "folder": "z020UJhSN9eezas8",
+  "name": "Destroyer de classe ADZ",
+  "type": "vehicle",
+  "_id": "sluVpCgMQdXaCJAH",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/adz_001.png",
+  "system": {
+    "biography": "<p data-start=\"913\" data-end=\"1893\" data-pm-slice=\"1 1 []\">Les <em>Adz</em>, de relatifs nouveaux venus sur les routes galactiques, figurent parmi les plus petits vaisseaux capitaux d&eacute;ploy&eacute;s par la Marine Imp&eacute;riale. Produits par les Chantiers Navals de Kuat, ces appareils sont con&ccedil;us pour mener des patrouilles &agrave; long rayon d&rsquo;action. Leur meilleure description tient en deux mots : &laquo; grands &raquo; et &laquo; anguleux &raquo;. Leur longue coque &eacute;troite et plate est flanqu&eacute;e par des protub&eacute;rances &agrave; b&acirc;bord et &agrave; tribord. Elles h&eacute;bergent leurs propulseurs principaux et leurs senseurs. Leurs proues sont des pointes aux angles durs, qui s&rsquo;&eacute;l&egrave;vent jusqu&rsquo;&agrave; de hautes superstructures. Celles-ci abritent les puissantes antennes &agrave; ondes soliton, qui peuvent d&eacute;tecter les all&eacute;es et venues des autres vaisseaux dans l&rsquo;hyperespace, ainsi que les syst&egrave;mes de refroidissement d&eacute;di&eacute;s. Gr&acirc;ce &agrave; des circuits asservis avanc&eacute;s, ces vaisseaux n&rsquo;embarquent qu&rsquo;un &eacute;quipage r&eacute;duit et peuvent op&eacute;rer &agrave; cent pour cent d&rsquo;efficacit&eacute; avec seulement quelques officiers et hommes d&rsquo;&eacute;quipage.</p>\n<p data-start=\"1895\" data-end=\"2341\">Les <em>Adz</em> connaissent divers probl&egrave;mes. Leurs senseurs souffrent d&rsquo;&ecirc;tre raccord&eacute;s aux capricieuses antennes soliton, qui exigent de fr&eacute;quentes maintenances. Cela les rend sensibles aux interf&eacute;rences, victimes de baisses de tension et vuln&eacute;rables au piratage. De plus, l&rsquo;antenne soliton consomme &eacute;norm&eacute;ment d&rsquo;&eacute;nergie. En d&eacute;pit de leurs faiblesses, de nombreux destroyers de classe <em>Adz</em> patrouillent dans des secteurs recul&eacute;s de la Bordure Ext&eacute;rieure.</p>\n<p data-start=\"2343\" data-end=\"2803\"><strong data-start=\"2343\" data-end=\"2369\">Type de coque/Classe :</strong> destroyer / classe Adz<br data-start=\"2392\" data-end=\"2395\"><strong data-start=\"2395\" data-end=\"2413\">Constructeur :</strong> Chantiers Navals de Kuat<br data-start=\"2564\" data-end=\"2567\"><strong data-start=\"2567\" data-end=\"2581\">&Eacute;quipage :</strong> 30 officiers, pilotes et hommes du rang<br><strong>Chasseurs</strong> : 6<br><strong data-start=\"2669\" data-end=\"2684\">Passagers :</strong> 8 soldats<br data-start=\"2720\" data-end=\"2723\"><strong data-start=\"2723\" data-end=\"2740\">Co&ucirc;t/raret&eacute; :</strong> 4 450 000 cr&eacute;dits (1) / 7</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 5,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 2,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -2,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 50,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 35,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 2,
+        "port": 2,
+        "starboard": 2,
+        "aft": 1,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 6,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Extreme",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 8,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 250,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 1,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 2,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": 12
+      },
+      "consumables": {
+        "value": 3,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": true,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/ADZDEST.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.266"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Destroyer de classe ADZ",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "UE1Roz80IVfdVEd3",
+      "name": "Tourelles dorsales quad-laser (deux montées à l'avant et une à l'arrière)",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Le quad-laser est une arme sp&eacute;cialement con&ccedil;ue pour lutter contre les chasseurs. Il se compose de quatre canons laser de petit calibre, qui sont actionn&eacute;s au moyen d&rsquo;un seul m&eacute;canisme de mise &agrave; feu et contr&ocirc;l&eacute;s par un ordinateur de vis&eacute;e sophistiqu&eacute;. Chaque pression sur la g&acirc;chette d&eacute;clenche quatre tirs, dont la puissance est suffisamment importante pour d&eacute;truire les chasseurs et les patrouilleurs les plus robustes.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 3,
+              "rank_current": 3,
+              "enrichedDescription": "<p>Certaines armes, comme celles qui sont montées sur les X-wing, sont conçues pour tirer de concert sur une même cible. En pratique, cela augmente les chances de toucher et le montant de dégâts infligés. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups supplémentaires en dépensant deux avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span> par tir additionnel. Le nombre de coups maximal est égal au niveau d'attribut de l'arme. Les coups supplémentaires des armes jumelées ne peuvent frapper que la cible initiale. Ils infligent tous les dégats de base de l'arme modifiée en y ajoutant le nombre de succès <span class=\"dietype starwars success\">s</span> obtenus au test.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "fIV08SsWT1TnkNCL"
+          },
+          {
+            "name": "Précis",
+            "type": "itemmodifier",
+            "_id": "u6nACQgFuMjoVPuV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Du fait de leur conception et de leur technologie avanc&eacute;e, les armes pr&eacute;cises sont faciles &agrave; manier et am&eacute;liorent la vis&eacute;e. Les personnages qui les utilisent ajoutent un d&eacute; de fortune [BO] &agrave; leur jet d'attaque par niveau d'attribut.</p>",
+              "attributes": {
+                "attr1747549369097": {
+                  "modtype": "Roll Modifiers",
+                  "value": 1,
+                  "mod": "Add Boost"
+                }
+              },
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747549347446,
+              "modifiedTime": 1747549390978,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "yo6kmdABGhAvG5dq"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": true,
+          "ventral": false
+        },
+        "damage": {
+          "value": 5,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 5
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 3,
+              "rank_current": 3,
+              "enrichedDescription": "<p>Certaines armes, comme celles qui sont montées sur les X-wing, sont conçues pour tirer de concert sur une même cible. En pratique, cela augmente les chances de toucher et le montant de dégâts infligés. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups supplémentaires en dépensant deux avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span> par tir additionnel. Le nombre de coups maximal est égal au niveau d'attribut de l'arme. Les coups supplémentaires des armes jumelées ne peuvent frapper que la cible initiale. Ils infligent tous les dégats de base de l'arme modifiée en y ajoutant le nombre de succès <span class=\"dietype starwars success\">s</span> obtenus au test.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "fIV08SsWT1TnkNCL"
+          },
+          {
+            "name": "Précis",
+            "type": "itemmodifier",
+            "_id": "u6nACQgFuMjoVPuV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Du fait de leur conception et de leur technologie avanc&eacute;e, les armes pr&eacute;cises sont faciles &agrave; manier et am&eacute;liorent la vis&eacute;e. Les personnages qui les utilisent ajoutent un d&eacute; de fortune [BO] &agrave; leur jet d'attaque par niveau d'attribut.</p>",
+              "attributes": {
+                "attr1747549369097": {
+                  "modtype": "Roll Modifiers",
+                  "value": 1,
+                  "mod": "Add Boost"
+                }
+              },
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747549347446,
+              "modifiedTime": 1747549390978,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "yo6kmdABGhAvG5dq"
+          }
+        ],
+        "enrichedDescription": "<p>Le quad-laser est une arme spécialement conçue pour lutter contre les chasseurs. Il se compose de quatre canons laser de petit calibre, qui sont actionnés au moyen d’un seul mécanisme de mise à feu et contrôlés par un ordinateur de visée sophistiqué. Chaque pression sur la gâchette déclenche quatre tirs, dont la puissance est suffisamment importante pour détruire les chasseurs et les patrouilleurs les plus robustes.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 3,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 3
+              }
+            },
+            {
+              "name": "Précis",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Du fait de leur conception et de leur technologie avanc&eacute;e, les armes pr&eacute;cises sont faciles &agrave; manier et am&eacute;liorent la vis&eacute;e. Les personnages qui les utilisent ajoutent un d&eacute; de fortune [BO] &agrave; leur jet d'attaque par niveau d'attribut.</p>",
+              "itemIndex": 1,
+              "totalRanks": 1,
+              "modId": "u6nACQgFuMjoVPuV",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "Dn5rKoCXeepLaPwd"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.AAUu163fOD8GMMZr",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767106906570,
+        "modifiedTime": 1767106906570,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!sluVpCgMQdXaCJAH.UE1Roz80IVfdVEd3"
+    },
+    {
+      "_id": "QlTZ7tkMxqb5XMlG",
+      "name": "Canons à ion légers montés sur deux tourelles babord et deux tourelles tribord",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les armes de cette cat&eacute;gorie servent &agrave; paralyser les vaisseaux et les v&eacute;hicules plut&ocirc;t qu&rsquo;&agrave; les d&eacute;truire. Elles emploient des turbines ioniques pour g&eacute;n&eacute;rer des masses de particules n&eacute;gatives, qui sont ensuite combin&eacute;es &agrave; du plasma et lib&eacute;r&eacute;es sous la forme d&rsquo;une d&eacute;charge ou d&rsquo;une impulsion. Les ions perturbent les composants &eacute;lectroniques de la cible, induisent des courts-circuits, corrompent les ordinateurs et forcent les syst&egrave;mes &agrave; l&rsquo;arr&ecirc;t, ce qui permet de la ma&icirc;triser ou de la d&eacute;truire plus facilement &agrave; l&rsquo;aide d&rsquo;armes conventionnelles. Bien que ces armes soient con&ccedil;ues pour causer le moins de dommages structurels possible, elles provoquent n&eacute;anmoins de violentes surtensions qui peuvent infliger des d&eacute;g&acirc;ts secondaires sous la forme de circuits grill&eacute;s, de joints soud&eacute;s ou de d&eacute;parts de feu.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Ionique",
+            "type": "itemmodifier",
+            "_id": "cAzpA9spYSeXHEMf",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548436878,
+              "modifiedTime": 1747548487057,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "nPYTBF3MFNegcN0K"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 5,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 5
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Ionique",
+            "type": "itemmodifier",
+            "_id": "cAzpA9spYSeXHEMf",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548436878,
+              "modifiedTime": 1747548487057,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "nPYTBF3MFNegcN0K"
+          }
+        ],
+        "enrichedDescription": "<p>Les armes de cette catégorie servent à paralyser les vaisseaux et les véhicules plutôt qu’à les détruire. Elles emploient des turbines ioniques pour générer des masses de particules négatives, qui sont ensuite combinées à du plasma et libérées sous la forme d’une décharge ou d’une impulsion. Les ions perturbent les composants électroniques de la cible, induisent des courts-circuits, corrompent les ordinateurs et forcent les systèmes à l’arrêt, ce qui permet de la maîtriser ou de la détruire plus facilement à l’aide d’armes conventionnelles. Bien que ces armes soient conçues pour causer le moins de dommages structurels possible, elles provoquent néanmoins de violentes surtensions qui peuvent infliger des dégâts secondaires sous la forme de circuits grillés, de joints soudés ou de départs de feu.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Ionique",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "cAzpA9spYSeXHEMf",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "tk4RNL8QkkmMmRRy"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.4AMxkmc2rjCQNGzf",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767106996971,
+        "modifiedTime": 1767106996971,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!sluVpCgMQdXaCJAH.QlTZ7tkMxqb5XMlG"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767106374944,
+    "modifiedTime": 1767175580841,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!sluVpCgMQdXaCJAH"
+}

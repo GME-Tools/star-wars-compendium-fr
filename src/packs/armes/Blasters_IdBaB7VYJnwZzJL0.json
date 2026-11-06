@@ -1,0 +1,22 @@
+{
+  "name": "Blasters",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "IdBaB7VYJnwZzJL0",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747552447234,
+    "modifiedTime": 1747552447234,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!IdBaB7VYJnwZzJL0"
+}

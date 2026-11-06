@@ -1,0 +1,1602 @@
+{
+  "folder": "5XOJhRQvqGcZeVrf",
+  "name": "Chasseur spatial d'attaque BTL-S3 « Y-WING »",
+  "type": "vehicle",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/BTL-S3_Y-wing_Starfighter.webp",
+  "system": {
+    "biography": "<p data-start=\"3153\" data-end=\"4281\" data-pm-slice=\"1 1 []\">Le BTL-A4 de Koensayr est un chasseur d'attaque et un bombardier lourd, con&ccedil;u en priorit&eacute; pour neutraliser les vaisseaux capitaux. Ses pilotes le surnomment le &laquo; brochet &raquo;. Son fuselage comporte une section centrale flanqu&eacute;e de deux nacelles de propulsion mont&eacute;es sur des pyl&ocirc;nes renforc&eacute;s. La section centrale abrite un cockpit &agrave; une place lourdement blind&eacute; et dot&eacute; d'un syst&egrave;me de survie. Le logement du dro&iuml;de astromech se trouve juste derri&egrave;re. Les deux g&eacute;n&eacute;rateurs, le Novaldex qui produit l'&eacute;nergie et celui qui se charge des boucliers, ainsi que l'hyperdrive et de nombreux autres syst&egrave;mes essentiels, sont mont&eacute;s au milieu du vaisseau dans une section renforc&eacute;e &agrave; laquelle sont accroch&eacute;es les nacelles. Celles-ci comportent chacune un puissant moteur ionique R-200, fabriqu&eacute; par Koensayr, qui produit une pouss&eacute;e respectable. La variante la plus courante de l'Y-wing est arm&eacute;e d'une tourelle dot&eacute;e de canons &agrave; ions et mont&eacute;e au-dessus du cockpit, d'une paire de canons laser mont&eacute;s sur le nez du vaisseau, et d'une paire de lance-torpilles &agrave; protons. Pour un vaisseau de cette taille, il s'agit d'un armement redoutable.</p>\n<p data-start=\"4283\" data-end=\"5124\">Pour accomplir leur r&ocirc;le de chasseurs d'attaque, les Y-wings sont &eacute;quip&eacute;s d'un &eacute;pais blindage et de boucliers lourds, destin&eacute;s &agrave; les prot&eacute;ger des redoutables tirs des batteries de leurs proies de pr&eacute;dilection : les vaisseaux capitaux. Avec leur section centrale fine, leurs solides protections et leur armement puissant, ils sont bien adapt&eacute;s &agrave; leur mission : se frayer un chemin jusqu'&agrave; leur cible, l&acirc;cher leurs bombes, puis rentrer &agrave; leur base. En d&eacute;pit de leur r&eacute;putation de fiabilit&eacute;, les Y-wings souffrent de petits d&eacute;fauts de conception qui imposent de fr&eacute;quentes maintenances. Techniciens et &eacute;quipage pestent contre cette contrainte et retirent volontiers les plaques de coque (largement cosm&eacute;tiques) pour acc&eacute;der plus facilement aux syst&egrave;mes internes du chasseur. Rares sont les Y-wings qui volent avec toutes leurs plaques de coque.</p>\n<p data-start=\"5126\" data-end=\"6014\"><strong>Type de coque/Classe</strong> : chasseur spatial/BTL-Y wing<br data-start=\"5176\" data-end=\"5179\"><strong>Constructeur</strong> : Koensayr<br data-start=\"5257\" data-end=\"5260\"><strong>Naviordinateur</strong> : aucun / logement pour un dro&iuml;de astromech<br data-start=\"5318\" data-end=\"5321\"><strong>&Eacute;quipage</strong> : un pilote, un artilleur<br data-start=\"5472\" data-end=\"5475\"><strong>Co&ucirc;t/raret&eacute;</strong> : 80 000 cr&eacute;dits/4</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 3,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 4,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": 0,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 12,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 10,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 1,
+        "port": null,
+        "starboard": null,
+        "aft": 1,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 3,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Close",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 0,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 10,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 1,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 1,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": null
+      },
+      "consumables": {
+        "value": 1,
+        "duration": "semaine",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": false,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/YWING.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.257"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Chasseur spatial d'attaque BTL-A4/BTL-S3 « Y-WING »",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "X5AHIb8naR1ZadWq",
+      "name": "Canons Ioniques légers jumelés montés sur tourelle",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Les armes de cette cat&eacute;gorie servent &agrave; paralyser les vaisseaux et les v&eacute;hicules plut&ocirc;t qu&rsquo;&agrave; les d&eacute;truire. Elles emploient des turbines ioniques pour g&eacute;n&eacute;rer des masses de particules n&eacute;gatives, qui sont ensuite combin&eacute;es &agrave; du plasma et lib&eacute;r&eacute;es sous la forme d&rsquo;une d&eacute;charge ou d&rsquo;une impulsion. Les ions perturbent les composants &eacute;lectroniques de la cible, induisent des courts-circuits, corrompent les ordinateurs et forcent les syst&egrave;mes &agrave; l&rsquo;arr&ecirc;t, ce qui permet de la ma&icirc;triser ou de la d&eacute;truire plus facilement &agrave; l&rsquo;aide d&rsquo;armes conventionnelles. Bien que ces armes soient con&ccedil;ues pour causer le moins de dommages structurels possible, elles provoquent n&eacute;anmoins de violentes surtensions qui peuvent infliger des d&eacute;g&acirc;ts secondaires sous la forme de circuits grill&eacute;s, de joints soud&eacute;s ou de d&eacute;parts de feu.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Ionique",
+            "type": "itemmodifier",
+            "_id": "cAzpA9spYSeXHEMf",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548436878,
+              "modifiedTime": 1747548487057,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "nPYTBF3MFNegcN0K"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "enh7yezDBQVQ31Em"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 5,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 5
+        },
+        "crit": {
+          "value": 4,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 4
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Ionique",
+            "type": "itemmodifier",
+            "_id": "cAzpA9spYSeXHEMf",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548436878,
+              "modifiedTime": 1747548487057,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "nPYTBF3MFNegcN0K"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "enh7yezDBQVQ31Em"
+          }
+        ],
+        "enrichedDescription": "<p>Les armes de cette catégorie servent à paralyser les vaisseaux et les véhicules plutôt qu’à les détruire. Elles emploient des turbines ioniques pour générer des masses de particules négatives, qui sont ensuite combinées à du plasma et libérées sous la forme d’une décharge ou d’une impulsion. Les ions perturbent les composants électroniques de la cible, induisent des courts-circuits, corrompent les ordinateurs et forcent les systèmes à l’arrêt, ce qui permet de la maîtriser ou de la détruire plus facilement à l’aide d’armes conventionnelles. Bien que ces armes soient conçues pour causer le moins de dommages structurels possible, elles provoquent néanmoins de violentes surtensions qui peuvent infliger des dégâts secondaires sous la forme de circuits grillés, de joints soudés ou de départs de feu.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Ionique",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Les armes ioniques ne sont pas con&ccedil;ues pour infliger des d&eacute;g&acirc;ts mais pour neutraliser les syst&egrave;mes &eacute;lectriques. En r&egrave;gle g&eacute;n&eacute;rale, elles &eacute;quipent les vaisseaux et servent &agrave; mettre les boucliers, les senseurs et les moteurs ennemis hors d'usage. Plus puissantes que les armes laser, elles ont toutefois une port&eacute;e moindre. Les d&eacute;g&acirc;ts qu'elles infligent s'attaquent au seuil de stress m&eacute;canique des engins, mais l'armure et l'encaissement peuvent les r&eacute;duire. Les dro&iuml;des sont affect&eacute;s par les armes ioniques, qui infligent des d&eacute;g&acirc;ts &agrave; leur seuil de stress.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "cAzpA9spYSeXHEMf",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            },
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 1,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "TzhDmo32Kotg4oof"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.4AMxkmc2rjCQNGzf",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767091362363,
+        "modifiedTime": 1767091362363,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!idQsgE690Tq497oZ.X5AHIb8naR1ZadWq"
+    },
+    {
+      "_id": "myWgtlSXNMpbedJS",
+      "name": "Canons laser moyens montés à l'avant",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "XEQtyqASbXFK3tzW"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "XEQtyqASbXFK3tzW"
+          }
+        ],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 0,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "Vj8y9Pwi9DaOVC7Y"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767091442013,
+        "modifiedTime": 1767091442013,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!idQsgE690Tq497oZ.myWgtlSXNMpbedJS"
+    },
+    {
+      "_id": "ZqLeOm9zUp7R6yYr",
+      "name": "Lance-torpilles à protons montés à l'avant",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p data-start=\"10565\" data-end=\"11281\">Les torpilles &agrave; protons sont des projectiles hautement sophistiqu&eacute;s, typiquement utilis&eacute;s par les chasseurs et les patrouilleurs. Pourvues d&rsquo;une t&ecirc;te conique et trapue, elles sont plus encombrantes et imposantes que les missiles &agrave; concussion, ce qui veut dire qu&rsquo;il n&rsquo;est pas possible d&rsquo;en mettre autant dans un lanceur. L&rsquo;ogive est activ&eacute;e au moyen d&rsquo;une charge explosive de Nergon-14, lib&eacute;rant une dangereuse masse irradiante de protons. Ces torpilles sont con&ccedil;ues pour endommager et d&eacute;truire les b&acirc;timents de grande taille comme les transports lourds ou les vaisseaux amiraux, et elles permettent aux appareils de moindre envergure, comme les chasseurs et les patrouilleurs, de s&rsquo;attaquer &agrave; bien plus gros qu&rsquo;eux.</p>\n<p data-start=\"11283\" data-end=\"11361\">Les torpilles suppl&eacute;mentaires co&ucirc;tent 750 cr&eacute;dits pi&egrave;ce et sont ill&eacute;gales (I).</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [
+          {
+            "name": "Brèche",
+            "type": "itemmodifier",
+            "_id": "JFyZPdNrXSG7x2vV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 6,
+              "rank_current": 6,
+              "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747544853824,
+              "modifiedTime": 1747544910802,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "F7MkrkDyEQuS6UiP"
+          },
+          {
+            "name": "Cadence Lente",
+            "type": "itemmodifier",
+            "_id": "0XhIS7TR7xdt5Qwy",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747545048625,
+              "modifiedTime": 1747545133447,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "K4gM4VJq4nXDHUcJ"
+          },
+          {
+            "name": "Munitions Limitées",
+            "type": "itemmodifier",
+            "_id": "UBLuTlRPOYCOw26Q",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes utilisent des munitions complexes, massives ou on&eacute;reuses. D'autres sont tout simplement &agrave; usage unique. Dans les deux cas, elles ne peuvent &ecirc;tre utilis&eacute;es que pour porter un nombre d'attaques &eacute;gal &agrave; leur niveau d'attribut avant de devoir &ecirc;tre recharg&egrave;es au prix d'une man&oelig;uvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois &eacute;puis&eacute;es, doivent &ecirc;tre obtenues avant que l'arme ne puisse &ecirc;tre r&eacute;utilis&eacute;e. Cette m&eacute;canique de jeu s'applique aussi aux grenades et aux autres armes &agrave; &laquo; usage unique &raquo; qui ont l'attribut Munitions limit&eacute;es 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 8,
+              "rank_current": 8,
+              "enrichedDescription": "<p>Certaines armes utilisent des munitions complexes, massives ou onéreuses. D'autres sont tout simplement à usage unique. Dans les deux cas, elles ne peuvent être utilisées que pour porter un nombre d'attaques égal à leur niveau d'attribut avant de devoir être rechargèes au prix d'une manœuvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois épuisées, doivent être obtenues avant que l'arme ne puisse être réutilisée. Cette mécanique de jeu s'applique aussi aux grenades et aux autres armes à « usage unique » qui ont l'attribut Munitions limitées 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747549163080,
+              "modifiedTime": 1747549219163,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "m4YDagA3uRB5Ari2"
+          },
+          {
+            "name": "Projectile Guidé",
+            "type": "itemmodifier",
+            "_id": "9q1wziKNX8vSzGmC",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>&Agrave; l'image des missiles guid&eacute;s, certains projectiles sont &eacute;quip&eacute;s de syst&ecirc;mes qui leur permettent de changer de trajectoire en vol. En d&eacute;clenchant cet attribut, un personnage qui a rat&eacute; sa cible peut effectuer un nouveau test d'attaque &agrave; la fin du round. La difficult&eacute; de ce second test va d&eacute;pendre de la diff&eacute;rence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de [AB] est &eacute;gal au rang de Projectile guid&eacute; de l'arme. En cas de succ&egrave;s lors de ce test, le projectile atteint sa cible et inflige ses d&eacute;gats normalement.</p>\n<p>Trois avantages [AD][AD][AD] sont n&eacute;cessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut &ecirc;tre activ&eacute; plusieurs fois, ce qui repr&eacute;sente, par exemple, un missile continuant &agrave; suivre sa cible.</p>\n<p>Les &laquo; leurres &raquo; sont des syst&egrave;mes de contre-mesure con&ccedil;us pour neutraliser ce type de projectile. Leur utilisation augmente directement la d&eacute;fense de la cible contre les armes munies de l'attribut Projectile guid&eacute;.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>À l'image des missiles guidés, certains projectiles sont équipés de systêmes qui leur permettent de changer de trajectoire en vol. En déclenchant cet attribut, un personnage qui a raté sa cible peut effectuer un nouveau test d'attaque à la fin du round. La difficulté de ce second test va dépendre de la différence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de <span class=\"dietype starwars ability\">d</span> est égal au rang de Projectile guidé de l'arme. En cas de succès lors de ce test, le projectile atteint sa cible et inflige ses dégats normalement.</p>\n<p>Trois avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span> sont nécessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut être activé plusieurs fois, ce qui représente, par exemple, un missile continuant à suivre sa cible.</p>\n<p>Les « leurres » sont des systèmes de contre-mesure conçus pour neutraliser ce type de projectile. Leur utilisation augmente directement la défense de la cible contre les armes munies de l'attribut Projectile guidé.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747549415907,
+              "modifiedTime": 1747550014162,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "WI7WjrOTHsLEG5NE"
+          },
+          {
+            "name": "Souffle",
+            "type": "itemmodifier",
+            "_id": "2e2eijS1EK3Pp2iC",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dot&eacute;e de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est r&eacute;ussie et que l'attribut est d&eacute;clench&eacute;, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de d&eacute;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme (plus les d&eacute;g&acirc;ts normaux, &agrave; savoir un point par succ&egrave;s [SU]).</p>\n<p>Si l'endroit est confin&eacute;, le MJ peut d&eacute;cider que tous ceux qui se trouvent dans la pi&egrave;ce sont touch&eacute;s.</p>\n<p>Si l'attribut n'est pas activ&eacute;, l'explosion a lieu, mais seule la cible initiale est touch&eacute;e. Cela peut &ecirc;tre d&ucirc; &agrave; la malchance, &agrave; la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises &agrave; couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de m&ecirc;me d&eacute;clencher l'attribut en d&eacute;pensant trois avantages [AD][AD][AD]. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de d&egrave;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 6,
+              "rank_current": 6,
+              "enrichedDescription": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dotée de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est réussie et que l'attribut est déclenché, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de dégâts égal au niveau de Souffle de l'arme (plus les dégâts normaux, à savoir un point par succès <span class=\"dietype starwars success\">s</span>).</p>\n<p>Si l'endroit est confiné, le MJ peut décider que tous ceux qui se trouvent dans la pièce sont touchés.</p>\n<p>Si l'attribut n'est pas activé, l'explosion a lieu, mais seule la cible initiale est touchée. Cela peut être dû à la malchance, à la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises à couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de même déclencher l'attribut en dépensant trois avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span>. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de dègâts égal au niveau de Souffle de l'arme.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747550123394,
+              "modifiedTime": 1747550239662,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "8A3CS9cd8nGy0GN6"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "UxhhsJ4L6rT2NxKB"
+          }
+        ],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": false,
+          "port": false,
+          "starboard": false,
+          "dorsal": false,
+          "ventral": false
+        },
+        "damage": {
+          "value": 8,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 8
+        },
+        "crit": {
+          "value": 2,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 2
+        },
+        "range": {
+          "value": "Short",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeShort",
+          "adjusted": "Short"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [
+          {
+            "name": "Brèche",
+            "type": "itemmodifier",
+            "_id": "JFyZPdNrXSG7x2vV",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 6,
+              "rank_current": 6,
+              "enrichedDescription": "<p>Les attaques portées à l'aide d'armes dotées de l'attribut Brèche traversent les armures et les blindages les plus résistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques portées au moyen d'armes de Brèche ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747544853824,
+              "modifiedTime": 1747544910802,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "F7MkrkDyEQuS6UiP"
+          },
+          {
+            "name": "Cadence Lente",
+            "type": "itemmodifier",
+            "_id": "0XhIS7TR7xdt5Qwy",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.162"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.0XhIS7TR7xdt5Qwy",
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747545048625,
+              "modifiedTime": 1747545133447,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "K4gM4VJq4nXDHUcJ"
+          },
+          {
+            "name": "Munitions Limitées",
+            "type": "itemmodifier",
+            "_id": "UBLuTlRPOYCOw26Q",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes utilisent des munitions complexes, massives ou on&eacute;reuses. D'autres sont tout simplement &agrave; usage unique. Dans les deux cas, elles ne peuvent &ecirc;tre utilis&eacute;es que pour porter un nombre d'attaques &eacute;gal &agrave; leur niveau d'attribut avant de devoir &ecirc;tre recharg&egrave;es au prix d'une man&oelig;uvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois &eacute;puis&eacute;es, doivent &ecirc;tre obtenues avant que l'arme ne puisse &ecirc;tre r&eacute;utilis&eacute;e. Cette m&eacute;canique de jeu s'applique aussi aux grenades et aux autres armes &agrave; &laquo; usage unique &raquo; qui ont l'attribut Munitions limit&eacute;es 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 8,
+              "rank_current": 8,
+              "enrichedDescription": "<p>Certaines armes utilisent des munitions complexes, massives ou onéreuses. D'autres sont tout simplement à usage unique. Dans les deux cas, elles ne peuvent être utilisées que pour porter un nombre d'attaques égal à leur niveau d'attribut avant de devoir être rechargèes au prix d'une manœuvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois épuisées, doivent être obtenues avant que l'arme ne puisse être réutilisée. Cette mécanique de jeu s'applique aussi aux grenades et aux autres armes à « usage unique » qui ont l'attribut Munitions limitées 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747549163080,
+              "modifiedTime": 1747549219163,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "m4YDagA3uRB5Ari2"
+          },
+          {
+            "name": "Projectile Guidé",
+            "type": "itemmodifier",
+            "_id": "9q1wziKNX8vSzGmC",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>&Agrave; l'image des missiles guid&eacute;s, certains projectiles sont &eacute;quip&eacute;s de syst&ecirc;mes qui leur permettent de changer de trajectoire en vol. En d&eacute;clenchant cet attribut, un personnage qui a rat&eacute; sa cible peut effectuer un nouveau test d'attaque &agrave; la fin du round. La difficult&eacute; de ce second test va d&eacute;pendre de la diff&eacute;rence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de [AB] est &eacute;gal au rang de Projectile guid&eacute; de l'arme. En cas de succ&egrave;s lors de ce test, le projectile atteint sa cible et inflige ses d&eacute;gats normalement.</p>\n<p>Trois avantages [AD][AD][AD] sont n&eacute;cessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut &ecirc;tre activ&eacute; plusieurs fois, ce qui repr&eacute;sente, par exemple, un missile continuant &agrave; suivre sa cible.</p>\n<p>Les &laquo; leurres &raquo; sont des syst&egrave;mes de contre-mesure con&ccedil;us pour neutraliser ce type de projectile. Leur utilisation augmente directement la d&eacute;fense de la cible contre les armes munies de l'attribut Projectile guid&eacute;.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 2,
+              "rank_current": 2,
+              "enrichedDescription": "<p>À l'image des missiles guidés, certains projectiles sont équipés de systêmes qui leur permettent de changer de trajectoire en vol. En déclenchant cet attribut, un personnage qui a raté sa cible peut effectuer un nouveau test d'attaque à la fin du round. La difficulté de ce second test va dépendre de la différence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de <span class=\"dietype starwars ability\">d</span> est égal au rang de Projectile guidé de l'arme. En cas de succès lors de ce test, le projectile atteint sa cible et inflige ses dégats normalement.</p>\n<p>Trois avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span> sont nécessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut être activé plusieurs fois, ce qui représente, par exemple, un missile continuant à suivre sa cible.</p>\n<p>Les « leurres » sont des systèmes de contre-mesure conçus pour neutraliser ce type de projectile. Leur utilisation augmente directement la défense de la cible contre les armes munies de l'attribut Projectile guidé.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747549415907,
+              "modifiedTime": 1747550014162,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "WI7WjrOTHsLEG5NE"
+          },
+          {
+            "name": "Souffle",
+            "type": "itemmodifier",
+            "_id": "2e2eijS1EK3Pp2iC",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dot&eacute;e de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est r&eacute;ussie et que l'attribut est d&eacute;clench&eacute;, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de d&eacute;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme (plus les d&eacute;g&acirc;ts normaux, &agrave; savoir un point par succ&egrave;s [SU]).</p>\n<p>Si l'endroit est confin&eacute;, le MJ peut d&eacute;cider que tous ceux qui se trouvent dans la pi&egrave;ce sont touch&eacute;s.</p>\n<p>Si l'attribut n'est pas activ&eacute;, l'explosion a lieu, mais seule la cible initiale est touch&eacute;e. Cela peut &ecirc;tre d&ucirc; &agrave; la malchance, &agrave; la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises &agrave; couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de m&ecirc;me d&eacute;clencher l'attribut en d&eacute;pensant trois avantages [AD][AD][AD]. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de d&egrave;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.164"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 6,
+              "rank_current": 6,
+              "enrichedDescription": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dotée de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est réussie et que l'attribut est déclenché, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de dégâts égal au niveau de Souffle de l'arme (plus les dégâts normaux, à savoir un point par succès <span class=\"dietype starwars success\">s</span>).</p>\n<p>Si l'endroit est confiné, le MJ peut décider que tous ceux qui se trouvent dans la pièce sont touchés.</p>\n<p>Si l'attribut n'est pas activé, l'explosion a lieu, mais seule la cible initiale est touchée. Cela peut être dû à la malchance, à la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises à couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de même déclencher l'attribut en dépensant trois avantages <span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span><span class=\"dietype starwars advantage\">a</span>. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de dègâts égal au niveau de Souffle de l'arme.</p>"
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747550123394,
+              "modifiedTime": 1747550239662,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "8A3CS9cd8nGy0GN6"
+          },
+          {
+            "name": "Jumelé",
+            "type": "itemmodifier",
+            "_id": "zdGQ5m2mD8K6Y04A",
+            "img": "icons/svg/item-bag.svg",
+            "system": {
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "attributes": {},
+              "metadata": {
+                "tags": [],
+                "sources": [
+                  "Force et Destinée - Livre de Règles, p.163"
+                ]
+              },
+              "itemmodifier": [],
+              "adjusteditemmodifer": [],
+              "type": "weapon",
+              "rank": 1,
+              "rank_current": 1
+            },
+            "effects": [],
+            "folder": null,
+            "sort": 0,
+            "ownership": {
+              "default": 0,
+              "Vps3UPsdK7k7lekv": 3
+            },
+            "flags": {
+              "starwarsffg": {
+                "isCompendium": true,
+                "ffgUuid": null,
+                "ffgIsOwned": false,
+                "loaded": false
+              }
+            },
+            "_stats": {
+              "compendiumSource": null,
+              "duplicateSource": null,
+              "coreVersion": "12.331",
+              "systemId": "starwarsffg",
+              "systemVersion": "1.906",
+              "createdTime": 1747548500271,
+              "modifiedTime": 1747641671025,
+              "lastModifiedBy": "Vps3UPsdK7k7lekv"
+            },
+            "id": "UxhhsJ4L6rT2NxKB"
+          }
+        ],
+        "enrichedDescription": "<p data-start=\"10565\" data-end=\"11281\">Les torpilles à protons sont des projectiles hautement sophistiqués, typiquement utilisés par les chasseurs et les patrouilleurs. Pourvues d’une tête conique et trapue, elles sont plus encombrantes et imposantes que les missiles à concussion, ce qui veut dire qu’il n’est pas possible d’en mettre autant dans un lanceur. L’ogive est activée au moyen d’une charge explosive de Nergon-14, libérant une dangereuse masse irradiante de protons. Ces torpilles sont conçues pour endommager et détruire les bâtiments de grande taille comme les transports lourds ou les vaisseaux amiraux, et elles permettent aux appareils de moindre envergure, comme les chasseurs et les patrouilleurs, de s’attaquer à bien plus gros qu’eux.</p>\n<p data-start=\"11283\" data-end=\"11361\">Les torpilles supplémentaires coûtent 750 crédits pièce et sont illégales (I).</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": [
+            {
+              "name": "Brèche",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+              "itemIndex": 0,
+              "totalRanks": 6,
+              "modId": "JFyZPdNrXSG7x2vV",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 6
+              }
+            },
+            {
+              "name": "Cadence Lente",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme les turboblasters des croiseurs et les canons de d&eacute;fense orbitale, sont gigantesques, et bien qu'elles soient incroyablement puissantes, elles ont besoin de temps pour refroidir ou &ecirc;tre recharg&eacute;es entre chaque tir. C'est ce laps de temps en rounds que d&eacute;termine l'attribut Cadence Lente. Par exemple, apr&egrave;s avoir attaqu&eacute; avec un turboblaster dot&eacute; de l'attribut Cadence lente 2. il faut attendre deux rounds avant de&nbsp; pouvoir faire feu de nouveau.</p>",
+              "itemIndex": 1,
+              "totalRanks": 1,
+              "modId": "0XhIS7TR7xdt5Qwy",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            },
+            {
+              "name": "Munitions Limitées",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes utilisent des munitions complexes, massives ou on&eacute;reuses. D'autres sont tout simplement &agrave; usage unique. Dans les deux cas, elles ne peuvent &ecirc;tre utilis&eacute;es que pour porter un nombre d'attaques &eacute;gal &agrave; leur niveau d'attribut avant de devoir &ecirc;tre recharg&egrave;es au prix d'une man&oelig;uvre. Par ailleurs, chaque tir utilise une de ces munitions qui, une fois &eacute;puis&eacute;es, doivent &ecirc;tre obtenues avant que l'arme ne puisse &ecirc;tre r&eacute;utilis&eacute;e. Cette m&eacute;canique de jeu s'applique aussi aux grenades et aux autres armes &agrave; &laquo; usage unique &raquo; qui ont l'attribut Munitions limit&eacute;es 1 (dans ce cas, le personnage ne la recharge pas, mais en prend une autre).</p>",
+              "itemIndex": 2,
+              "totalRanks": 8,
+              "modId": "UBLuTlRPOYCOw26Q",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 8
+              }
+            },
+            {
+              "name": "Projectile Guidé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>&Agrave; l'image des missiles guid&eacute;s, certains projectiles sont &eacute;quip&eacute;s de syst&ecirc;mes qui leur permettent de changer de trajectoire en vol. En d&eacute;clenchant cet attribut, un personnage qui a rat&eacute; sa cible peut effectuer un nouveau test d'attaque &agrave; la fin du round. La difficult&eacute; de ce second test va d&eacute;pendre de la diff&eacute;rence entre le gabarit de l'arme (0) et celui de la cible (cf. page 242), et le nombre de [AB] est &eacute;gal au rang de Projectile guid&eacute; de l'arme. En cas de succ&egrave;s lors de ce test, le projectile atteint sa cible et inflige ses d&eacute;gats normalement.</p>\n<p>Trois avantages [AD][AD][AD] sont n&eacute;cessaires pour activer l'attribut (sauf indication contraire dans le profil de l'arme). Souvenez-vous que cet attribut peut &ecirc;tre activ&eacute; plusieurs fois, ce qui repr&eacute;sente, par exemple, un missile continuant &agrave; suivre sa cible.</p>\n<p>Les &laquo; leurres &raquo; sont des syst&egrave;mes de contre-mesure con&ccedil;us pour neutraliser ce type de projectile. Leur utilisation augmente directement la d&eacute;fense de la cible contre les armes munies de l'attribut Projectile guid&eacute;.</p>",
+              "itemIndex": 3,
+              "totalRanks": 2,
+              "modId": "9q1wziKNX8vSzGmC",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 2
+              }
+            },
+            {
+              "name": "Souffle",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Comme dans le cas d'un lancer de grenade ou d'un tir de lance-roquettes, une arme dot&eacute;e de l'attribut Souffle peut provoquer une explosion recouvrant une certaine zone. Si l'attaque est r&eacute;ussie et que l'attribut est d&eacute;clench&eacute;, chaque personnage (ami ou ennemi) au contact de la cible initiale subit un nombre de points de d&eacute;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme (plus les d&eacute;g&acirc;ts normaux, &agrave; savoir un point par succ&egrave;s [SU]).</p>\n<p>Si l'endroit est confin&eacute;, le MJ peut d&eacute;cider que tous ceux qui se trouvent dans la pi&egrave;ce sont touch&eacute;s.</p>\n<p>Si l'attribut n'est pas activ&eacute;, l'explosion a lieu, mais seule la cible initiale est touch&eacute;e. Cela peut &ecirc;tre d&ucirc; &agrave; la malchance, &agrave; la maladresse du tireur ou au fait que toutes les autres cibles potentielles se sont rapidement mises &agrave; couvert. Si le personnage qui manie l'arme rate son attaque, il peut tout de m&ecirc;me d&eacute;clencher l'attribut en d&eacute;pensant trois avantages [AD][AD][AD]. Dans ce cas, la cible initiale et tous les personnages au contact subissent un nombre de points de d&egrave;g&acirc;ts &eacute;gal au niveau de Souffle de l'arme.</p>",
+              "itemIndex": 4,
+              "totalRanks": 6,
+              "modId": "2e2eijS1EK3Pp2iC",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 6
+              }
+            },
+            {
+              "name": "Jumelé",
+              "img": "icons/svg/item-bag.svg",
+              "description": "<p>Certaines armes, comme celles qui sont mont&eacute;es sur les X-wing, sont con&ccedil;ues pour tirer de concert sur une m&ecirc;me cible. En pratique, cela augmente les chances de toucher et le montant de d&eacute;g&acirc;ts inflig&eacute;s. Lorsque l'attaque atteint son but, l'arme inflige un premier coup. Le tireur peut ensuite infliger des coups suppl&eacute;mentaires en d&eacute;pensant deux avantages [AD][AD] par tir additionnel. Le nombre de coups maximal est &eacute;gal au niveau d'attribut de l'arme. Les coups suppl&eacute;mentaires des armes jumel&eacute;es ne peuvent frapper que la cible initiale. Ils infligent tous les d&eacute;gats de base de l'arme modifi&eacute;e en y ajoutant le nombre de succ&egrave;s [SU] obtenus au test.</p>",
+              "itemIndex": 5,
+              "totalRanks": 1,
+              "modId": "zdGQ5m2mD8K6Y04A",
+              "includeControls": true,
+              "summarizedRanks": {
+                "mods": 1
+              }
+            }
+          ]
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "osp6gfAIetEAe1fW"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.G4WSnPvk41uHYA7T",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767091525821,
+        "modifiedTime": 1767091525821,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!idQsgE690Tq497oZ.ZqLeOm9zUp7R6yYr"
+    }
+  ],
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767083326096,
+    "modifiedTime": 1767091968781,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_id": "idQsgE690Tq497oZ",
+  "sort": 0,
+  "_key": "!actors!idQsgE690Tq497oZ"
+}

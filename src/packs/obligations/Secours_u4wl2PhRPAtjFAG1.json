@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Secours",
+  "type": "obligation",
+  "_id": "u4wl2PhRPAtjFAG1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Plus que les machines, les crédits ou les renseignements, l’atout le plus précieux de l’Alliance réside dans ses membres, ce que le personnage a bien compris. Il se consacre donc à veiller sur leur sécurité, leur bien-être et leurs conditions de travail. Il ne faut jamais abandonner qui que ce soit. Les missions les plus réussies ne sont pas forcément celles où tous les objectifs ont été remplis : il s’agit plutôt de celles qui n’occasionnent pas de pertes.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770739127121,
+    "modifiedTime": 1770739148994,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!u4wl2PhRPAtjFAG1"
+}

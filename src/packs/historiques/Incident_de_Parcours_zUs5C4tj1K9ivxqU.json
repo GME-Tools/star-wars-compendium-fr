@@ -1,0 +1,69 @@
+{
+  "folder": "0FSiOx0J66mx4rMN",
+  "name": "Incident de Parcours",
+  "type": "background",
+  "_id": "zUs5C4tj1K9ivxqU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Un échec a poussé le personnage à laisser derrière lui la vie qu’il menait pour se jeter dans l’inconnu. Cet historique colle bien avec les Obligations comme Addiction, Obsession ou Trahison. Quelle qu’en soit la cause, le personnage a été chassé de son ancienne société et doit surmonter ses problèmes. Toutefois, il peut voir cela sous un jour positif, en s’imaginant libéré de la pression de la surveillance, ou voyager sans cesse pour laisser ses problèmes derrière lui.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Live de Règles pg. 38"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "hook"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741750936,
+    "modifiedTime": 1770741778374,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!zUs5C4tj1K9ivxqU"
+}

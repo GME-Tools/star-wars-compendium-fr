@@ -1,0 +1,69 @@
+{
+  "folder": "463pBVrfATFXbcaE",
+  "name": "Uni à la Force",
+  "type": "background",
+  "_id": "2Y4LtgQlhNbm7HgA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Certains adeptes sont si profondément ancrés dans la Force qu'elle influence leurs moindres actions. Ils perçoivent le monde à travers elle, et elle leur souffle toutes leurs pensées. Souvent, leur éducation a comporté une solide initiation aux philosophies de la Force. Lorsqu'ils agissent, c'est avec une vénération délibérée pour son côté lumineux ou obscur.</p><p>Une telle connaissance, interdite par l'Empire, est désormais très difficile à obtenir, mais ce n'est pas impossible. Si le joueur opte pour cet historique, son personnage a peut-être été élevé par l'un des derniers survivants des purges anti-Jedi. Avant de mourir, ce maître lui a transmis une part de ses connaissances. Le PJ peut aussi avoir croisé le chemin de quelqu'un qui avait des raisons de connaître l'Ordre et ses savoirs. Un ancien soldat de la République ou un sénateur compatissant, ancien ami des Jedi, voire un allié qui travaillait avec eux sans être sensible à la Force, ont pu survivre aux purges impériales et transmettre ce qu'ils savaient. Il est également possible que le personnage soit l'un de ces individus, et qu'en vieillissant, il se soit rendu compte qu'il pouvait lui-même puiser dans le pouvoir de la Force.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "force"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770714662777,
+    "modifiedTime": 1770738914731,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!2Y4LtgQlhNbm7HgA"
+}

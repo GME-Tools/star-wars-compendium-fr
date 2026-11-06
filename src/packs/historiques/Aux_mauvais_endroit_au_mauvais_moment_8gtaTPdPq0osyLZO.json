@@ -1,0 +1,69 @@
+{
+  "folder": "0FSiOx0J66mx4rMN",
+  "name": "Aux mauvais endroit au mauvais moment",
+  "type": "background",
+  "_id": "8gtaTPdPq0osyLZO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le personnage s’est laissé entraîner dans une vie d’aventure bien malgré lui. Il peut avoir été capturé par des pirates, être l’unique survivant d’une épidémie mortelle ou, plus prosaïquement, avoir perdu son emploi, ce qui l’a obligé à trouver un nouveau moyen de faire rentrer des crédits. Quelles que soient les raisons de sa mise au ban, le personnage ne parvient pas à retrouver le cours normal de sa vie. Il doit rapidement s’adapter à cette situation nouvelle et périlleuse.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 38"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "hook"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741812278,
+    "modifiedTime": 1770741830620,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!8gtaTPdPq0osyLZO"
+}

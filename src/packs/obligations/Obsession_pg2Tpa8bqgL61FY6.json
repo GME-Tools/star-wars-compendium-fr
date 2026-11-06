@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Obsession",
+  "type": "obligation",
+  "_id": "pg2Tpa8bqgL61FY6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le PJ a une obsession malsaine qui l’incommode généralement au quotidien. Il peut s’agir d’une célébrité, d’une région, d’un mouvement politique, d’une icône culturelle, ou de quelque autre aspect de la société ou de la vie.</p><p>Il en dépend au détriment de sa santé, de ses finances et de son bien-être. Un personnage ayant cette Obligation s’entend généralement bien avec ceux qui la partagent, mais est l’objet de la pitié, de l’amusement et peut-être même de la terreur de ceux qui ne la comprennent pas.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770742605070,
+    "modifiedTime": 1770742629793,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!pg2Tpa8bqgL61FY6"
+}

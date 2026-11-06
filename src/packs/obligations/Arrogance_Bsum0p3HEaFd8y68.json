@@ -1,0 +1,71 @@
+{
+  "folder": "g6t6r47F8zTwOHqe",
+  "name": "Arrogance",
+  "type": "obligation",
+  "_id": "Bsum0p3HEaFd8y68",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>De toutes les émotions, la fierté est peut-être celle qui bascule le plus facilement vers une forme plus sombre. L'arrogance ressemble à la fierté, mais la satisfaction devant ses propres succès est remplacée par le mépris devant les échecs des autres. Réussir ne suffit pas, le personnage s'attend aussi à ce que les autres échouent.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 50"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "morality",
+    "magnitude": 0,
+    "subtype": "Emotional Weakness"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770744205731,
+    "modifiedTime": 1770744221143,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!Bsum0p3HEaFd8y68"
+}

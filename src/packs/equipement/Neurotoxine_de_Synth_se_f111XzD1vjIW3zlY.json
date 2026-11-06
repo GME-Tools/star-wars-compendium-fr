@@ -1,0 +1,73 @@
+{
+  "folder": "ae6w9xw5YGCpwdc4",
+  "name": "Neurotoxine de Synthèse",
+  "type": "gear",
+  "_id": "f111XzD1vjIW3zlY",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/BactaVials-OutlawsVCG.png",
+  "system": {
+    "description": "<p>Pr&eacute;sentes sur des centaines de plan&ecirc;tes (et presque toujours ill&eacute;gales), les neurotoxines de synth&egrave;se s'attaquent aux r&eacute;actions biochimiques des m&eacute;tabolismes organiques. Elles sont m&ecirc;me parfois fatales. Ce type de poison peut &ecirc;tre ing&eacute;r&eacute;, administr&eacute; par voie respiratoire ou inject&eacute; (gr&acirc;ce &agrave; une seringue ou &agrave; une fl&eacute;chette). Pour r&eacute;sister &agrave; une dose standard, il faut r&eacute;ussir un [B]test de difficult&eacute; Moyenne ([DI][DI])[b]. Lorsque la quantit&eacute; re&ccedil;ue est plus importante, le test devient [B]Difficile ([DI][DI][DI])[b]. En cas d'&eacute;chec, la victime re&ccedil;oit 5 points de blessure Pour chaque [TH] obtenue, elle subit &eacute;galement 1 point de stress tandis que son organisme tente de combattre la substance. De plus, en depensant un [DE], le MJ peut obliger le personnage &agrave;&nbsp;effectuer un test de R&eacute;sistance au tour suivant, car le poison est encore pr&eacute;sent dans son organisme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.182"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 50,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747984907313,
+    "modifiedTime": 1747985179811,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!f111XzD1vjIW3zlY"
+}

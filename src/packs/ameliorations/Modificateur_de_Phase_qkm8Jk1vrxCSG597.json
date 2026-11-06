@@ -1,0 +1,80 @@
+{
+  "folder": "qkxrbicYJavFbjnL",
+  "name": "Modificateur de Phase",
+  "type": "itemattachment",
+  "_id": "qkm8Jk1vrxCSG597",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/DarthVaderLightsaber-SWE.png",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">D&eacute;j&agrave; consid&eacute;r&eacute; comme une antiquit&eacute; d&eacute;pass&eacute;e &agrave; l'&eacute;poque de la Guerre des Clones, le modificateur de phase est un artefact ancien, issu d'une &eacute;poque encore plus violente. Con&ccedil;u pour prendre un adversaire par surprise, il permet de changer la longueur de la lame d'un sabre laser d'une simple pression sur un bouton. Le Jedi peut alors tenter de pousser son avantage, tandis que son ennemi, surpris et confus, essaie d'adapter sa strat&eacute;gie &agrave; la nouvelle configuration de l'affrontement.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> une fois par rencontre, le porteur du sabre peut changer la longueur de la lame au prix d'une broutille. La prochaine attaque qu'il effectue durant ce tour au moyen de son sabre ignore la valeur de D&eacute;fense au corps &agrave; corps de la cible.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong> aucun</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.199"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 4500,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 2,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750249339248,
+    "modifiedTime": 1750249485716,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!qkm8Jk1vrxCSG597"
+}

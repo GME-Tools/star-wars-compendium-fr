@@ -1,0 +1,43 @@
+{
+  "name": "Griffes",
+  "type": "ability",
+  "_id": "vYDOFSM6CUHYjCiS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand un Trandosien effectue des tests de Pugilat pour infliger des dégâts à un adversaire, il inflige +1 dégât et a une valeur de critique de 3.</p><p>@UUID[Compendium.star-wars-compendium-fr.armes.Item.oVu4zJrBq94m3zkW]{Griffes}</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 51"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767950028356,
+    "modifiedTime": 1773158115150,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!vYDOFSM6CUHYjCiS"
+}

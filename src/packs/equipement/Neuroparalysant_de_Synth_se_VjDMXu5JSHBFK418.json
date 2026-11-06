@@ -1,0 +1,73 @@
+{
+  "folder": "ae6w9xw5YGCpwdc4",
+  "name": "Neuroparalysant de Synthèse",
+  "type": "gear",
+  "_id": "VjDMXu5JSHBFK418",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/BactaVials-OutlawsVCG.png",
+  "system": {
+    "description": "<p>Les substances capables de paralyser (sans la tuer !) une cible sans nuire &agrave; ses fonctions cognitives sont difficiles &agrave; synth&eacute;tiser et &agrave; administrer. Elles existent cependant et ont la cote chez les Rebelles en mission d'infiltration pour la capture d'officiers de l'Empire. Ce type de poison ne peut &ecirc;tre qu'inject&eacute;, par le biais d'une seringue ou d'une fl&eacute;chette. Quelle que soit l'importance de la dose, il faut r&eacute;ussir un [B]test Difficile ([DI][DI][DI])[b] pour y r&eacute;sister. En cas d'&eacute;chec, la victime du poison est immobilis&eacute;e pendant 3 rounds et re&ccedil;oit 1 point de stress par [TH] obtenu. De plus, le MJ peut d&eacute;penser un [DE] pour obliger le personnage &agrave; effectuer un nouveau test de Resistance au tour suivant, car le poison est encore pr&eacute;sent dans son organisme.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.182"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 75,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 6,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747984777044,
+    "modifiedTime": 1747984892173,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!VjDMXu5JSHBFK418"
+}

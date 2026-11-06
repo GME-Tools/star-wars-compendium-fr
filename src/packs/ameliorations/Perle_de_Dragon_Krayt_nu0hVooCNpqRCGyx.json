@@ -1,0 +1,230 @@
+{
+  "folder": "qkxrbicYJavFbjnL",
+  "name": "Perle de Dragon Krayt",
+  "type": "itemattachment",
+  "_id": "nu0hVooCNpqRCGyx",
+  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/Krayt_Pearl.jpg",
+  "system": {
+    "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Tr&egrave;s recherch&eacute;es par les bijoutiers, les artisans et les riches collectionneurs du fait de leur &eacute;clat, de leur couleur et de leur propri&eacute;t&eacute; de r&eacute;fraction, les perles de dragon Krayt sont sans conteste les cristaux les plus rarement employ&eacute;s dans la construction de sabres laser. Les dragons Krayt de Tatooine ont tendance &agrave; b&eacute;n&eacute;ficier d'une vie extraordinairement longue. Au cours de celle-ci, ils ing&egrave;rent des pierres afin de faciliter leur digestion. Au fil du temps, leur puissant suc gastrique dissout les min&eacute;raux en question, lib&eacute;rant parfois une vari&eacute;t&eacute; particuli&egrave;re de cristal kyber. Incroyablement r&eacute;sistants, ces cristaux restent dans les entrailles des cr&eacute;atures durant toute leur vie, et sont lentement polis et liss&eacute;s jusqu'&agrave; adopter la forme de petites sph&egrave;res de cristal dense. On les appelle &laquo; perles de dragon Krayt &raquo; et elles sont fabuleusement rares et difficiles &agrave; obtenir, sinon &agrave; un prix astronomique. Puisqu'il s'agit d'un cristal kyber, cette gemme peut servir de c&oelig;ur pour un sabre laser : elle produit une lame exceptionnellement puissante et destructrice qui &eacute;met un hurlement troublant quand elle se d&eacute;ploie.</p>\n<p dir=\"auto\">Une perle de dragon Krayt est un cristal de sabre laser.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> installer une perle de dragon Krayt fait passer les d&eacute;g&acirc;ts de base du sabre laser &agrave; 9 et son niveau de critique &agrave; 1. De plus, il gagne les attributs @UUID[Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV]{Br&egrave;che} 1, @UUID[Compendium.star-wars-compendium-fr.qualites.Item.iH3rtgxXOzmXCql1]{Briseur} et @UUID[Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC]{Sanguinaire} 1. Si le cristal est retir&eacute;, l'arme perd ces attributs et retrouve ses anciennes valeurs de d&eacute;g&acirc;ts de base et de critique.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ][ ][ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC]{Sanguinaire} +1)</li>\n<li dir=\"auto\">[ ] D&eacute;g&acirc;ts +1</li>\n</ul>",
+    "attributes": {
+      "attr1750251133889": {
+        "modtype": "Weapon Stat",
+        "value": 9,
+        "mod": "damage"
+      },
+      "attr1750251149272": {
+        "modtype": "Weapon Stat",
+        "value": 1,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.199"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 15000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 10,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 2,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "itemmodifier": [
+      {
+        "name": "Brèche",
+        "type": "itemmodifier",
+        "_id": "JFyZPdNrXSG7x2vV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>\n<p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.JFyZPdNrXSG7x2vV",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544853824,
+          "modifiedTime": 1747544910802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "rxorNhGDYZYSlDr3"
+      },
+      {
+        "name": "Briseur",
+        "type": "itemmodifier",
+        "_id": "iH3rtgxXOzmXCql1",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Quand l'attribut est d&eacute;clench&eacute;, l'assaillant choisit un des objets les plus expos&eacute;s de sa cible (comme une arme, un bouclier ou quelque chose qui pend &agrave; sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact &agrave; endommag&eacute; leg&eacute;rement, d'endommag&eacute; l&eacute;g&egrave;rement&nbsp;&agrave; endommag&eacute; mod&eacute;r&eacute;ment et d'endommag&eacute; mod&eacute;r&eacute;ment &agrave; endommag&eacute; gravement. Un objet endommag&eacute; gravement qui subit une nouvelle fois les effets de l'attribut Briseur est d&eacute;truit.</p>\n<p>Un avantage [AD] est n&eacute;cessaire pour activer l'attribut. Il peut &ecirc;tre d&eacute;clench&eacute; plusieurs fois au cours de la m&ecirc;me attaque, ce qui peut permettre de briser un objet en un unique coup.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.162"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.iH3rtgxXOzmXCql1",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747544936447,
+          "modifiedTime": 1747548588913,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "QpNzhAkBv0deupuF"
+      },
+      {
+        "name": "Sanguinaire",
+        "type": "itemmodifier",
+        "_id": "e4L8BCSkWoLfs6mC",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Lorsque les armes poss&eacute;dant cet attribut provoquent une blessure critique, la cible ajoute dix fois le niveau d'attribut au r&eacute;sultat de son jet de blessure critique. Exemple : si une arme possede l'attribut Sanguinaire 3, la victime ajoute +30 &agrave; son jet de blessure&nbsp;critique.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC",
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747550077870,
+          "modifiedTime": 1747550114055,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "1BJh1UFPjaESw5gi"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "itemattachment": [],
+    "type": "all"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1750250934835,
+    "modifiedTime": 1750251324145,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!nu0hVooCNpqRCGyx"
+}

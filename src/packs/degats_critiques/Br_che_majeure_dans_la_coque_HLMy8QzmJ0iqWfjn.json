@@ -1,0 +1,46 @@
+{
+  "name": "Brèche majeure dans la coque",
+  "type": "criticaldamage",
+  "_id": "HLMy8QzmJ0iqWfjn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">Une plaie b&eacute;ante s&rsquo;ouvre dans la coque, entra&icirc;nant une d&eacute;pressurisation. Dans le cas des engins de gabarit 4 ou moins, c&rsquo;est tout l&rsquo;int&eacute;rieur du vaisseau qui est d&eacute;pressuris&eacute;. Les navires de gabarit sup&eacute;rieur sont en revanche pourvus de compartiments compl&egrave;tement &eacute;tanches et de nombreuses mesures de protection contre ces accidents qui leur permettent de se d&eacute;pressuriser par section plut&ocirc;t que dans leur ensemble. Le MJ doit d&eacute;terminer quelles zones sont affect&eacute;es, et celles-ci se vident de leur air sur un nombre de rounds &eacute;gal &agrave; la caract&eacute;ristique de gabarit du vaisseau. Les v&eacute;hicules et les vaisseaux op&eacute;rant dans l&rsquo;atmosph&egrave;re souffrent moins de ce r&eacute;sultat, mais la taille de la br&egrave;che entra&icirc;ne n&eacute;anmoins de grosses difficult&eacute;s pour l&rsquo;appareil, qui subit &agrave; la place les effets du d&eacute;g&acirc;t critique &laquo; @UUID[Compendium.star-wars-compendium-fr.degats_critiques.Item.VMyDRuBXr5YKt1dT]{D&eacute;stabilis&eacute;} &raquo;</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.250"
+      ]
+    },
+    "min": 127,
+    "max": 133,
+    "severity": "4"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766157418280,
+    "modifiedTime": 1766157503503,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!HLMy8QzmJ0iqWfjn"
+}

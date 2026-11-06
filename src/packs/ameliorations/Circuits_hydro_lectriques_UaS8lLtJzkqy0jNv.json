@@ -1,0 +1,229 @@
+{
+  "folder": "lWVNiyg5TPmHEdUM",
+  "name": "Circuits hydroélectriques",
+  "type": "shipattachment",
+  "_id": "UaS8lLtJzkqy0jNv",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-start=\"4670\" data-end=\"5934\" data-pm-slice=\"1 1 []\">Les circuits hydro&eacute;lectriques sont des vestiges d&rsquo;une &egrave;re r&eacute;volue de la construction navale. Au lieu des mat&eacute;riaux habituels formant une plaque conductrice capable de transmettre l&rsquo;&eacute;nergie &eacute;lectromagn&eacute;tique, les CHE ont recours &agrave; d&rsquo;innombrables tubes en transpacier presque invisibles, remplis d&rsquo;un m&eacute;tal liquide conducteur semblable au mercure. Le fluide, qui est maintenu sous pression et r&eacute;gul&eacute; par un syst&egrave;me de valves, permet de contr&ocirc;ler le flux &eacute;nerg&eacute;tique. Encombrants, p&eacute;rim&eacute;s et difficiles &agrave; manipuler, ces circuits r&eacute;sistent incroyablement aux armes ioniques, un d&eacute;tail qui n&rsquo;a pas &eacute;chapp&eacute; aux pilotes et aux armateurs.</p>\n<p data-start=\"4670\" data-end=\"5934\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : circuits hydro&eacute;lectriques de la Corporation Technique Corellienne, circuits renforc&eacute;s Santhe/Sienar, circuits isolants Fabritech<br data-start=\"5465\" data-end=\"5468\"><strong>Effets</strong> : le vaisseau ne subit que la moiti&eacute; des d&eacute;g&acirc;ts nets des armes poss&eacute;dant l&rsquo;attribut Ionique (autrement dit, apr&egrave;s application du blindage). De plus, la maniabilit&eacute; et le seuil de stress m&eacute;canique de l&rsquo;appareil sont tous les deux r&eacute;duits de 1.<br data-start=\"5717\" data-end=\"5720\"><strong>Mods possibles</strong> :</p>\n<ul>\n<li data-start=\"4670\" data-end=\"5934\" data-pm-slice=\"1 1 []\">[ ] Le d&eacute;fenseur plut&ocirc;t que l&rsquo;attaquant choisit quel composant est touch&eacute; par une arme ionique</li>\n<li data-start=\"4670\" data-end=\"5934\" data-pm-slice=\"1 1 []\">[ ] Augmente de 1 le seuil de stress m&eacute;canique</li>\n</ul>",
+    "attributes": {
+      "attr1767194711879": {
+        "modtype": "Vehicle Stat",
+        "mod": "Handling",
+        "value": -1
+      },
+      "attr1767194718233": {
+        "modtype": "Vehicle Stat",
+        "mod": "Systemstrain",
+        "value": -1
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.270"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 1000,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 7,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 2,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "label": "Ship Attachment"
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.stats.customizationHardPoints.value",
+          "value": "-2",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "_id": "ufI5hjQG0nJgQzy4",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767194600106,
+        "modifiedTime": 1767194696635,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!UaS8lLtJzkqy0jNv.ufI5hjQG0nJgQzy4"
+    },
+    {
+      "name": "attr1767194711879",
+      "changes": [
+        {
+          "key": "system.stats.handling.value",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        }
+      ],
+      "_id": "f1BZG7f7gLQZel2m",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767194713853,
+        "modifiedTime": 1767194716952,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!UaS8lLtJzkqy0jNv.f1BZG7f7gLQZel2m"
+    },
+    {
+      "name": "attr1767194718233",
+      "changes": [
+        {
+          "key": "system.stats.systemStrain.max",
+          "mode": 2,
+          "value": "-1",
+          "priority": null
+        }
+      ],
+      "_id": "6avQMkMsPCsXWl5D",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767194721591,
+        "modifiedTime": 1767194724705,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!items.effects!UaS8lLtJzkqy0jNv.6avQMkMsPCsXWl5D"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767194600098,
+    "modifiedTime": 1767194724714,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!UaS8lLtJzkqy0jNv"
+}

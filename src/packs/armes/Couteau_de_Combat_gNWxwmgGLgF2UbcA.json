@@ -1,0 +1,168 @@
+{
+  "folder": "4cUA7NgRkkf5FgT6",
+  "name": "Couteau de Combat",
+  "type": "weapon",
+  "_id": "gNWxwmgGLgF2UbcA",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/combat_knife.png",
+  "system": {
+    "description": "<p>Moiti&eacute; outil, moiti&eacute; arme, le couteau de combat est une pi&egrave;ce ma&icirc;tresse de l'&eacute;quipement du voyageur. Produits en masse et dans d'innombrables vari&eacute;t&eacute;s, les couteaux de combat sont compos&eacute;s d'une lame r&eacute;tractable tr&egrave;s tranchante d'environ quinze centim&egrave;tres de long, cisel&eacute;e dans un m&eacute;tal renforc&eacute; et coupl&eacute;e &agrave; une garde en polycarbonate. Les derniers centim&egrave;tres de la lame - les plus proches de la garde - sont dentel&eacute;s, permettant ainsi de se servir du couteau comme d'une scie. Des versions plus &eacute;labor&eacute;es int&egrave;grent des particularit&ecirc;s comme un coupe-fil, un compas et un allume-feu. Quelles que soient leurs options, les couteaux de combat sont extr&egrave;mement pratiques pour s'en sortir dans les zones les plus sauvages de la galaxie.</p>",
+    "attributes": {
+      "attr1747642677064": {
+        "modtype": "Weapon Stat",
+        "value": 1,
+        "mod": "damage"
+      }
+    },
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 172"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 1
+    },
+    "price": {
+      "value": 25,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Melee",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 0,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 3,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 3
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": "Brawn"
+    }
+  },
+  "effects": [
+    {
+      "name": "attr1747642677064",
+      "changes": [
+        {
+          "key": "",
+          "mode": 2,
+          "value": "1"
+        }
+      ],
+      "_id": "H2F2BQrCEqoNStoQ",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1769240627245,
+        "modifiedTime": 1769240627245,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!gNWxwmgGLgF2UbcA.H2F2BQrCEqoNStoQ"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747642476703,
+    "modifiedTime": 1769240621672,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!gNWxwmgGLgF2UbcA"
+}

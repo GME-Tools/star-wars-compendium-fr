@@ -1,0 +1,73 @@
+{
+  "folder": "EKlv8bGnQqLuCxvZ",
+  "name": "Trousse de Médecin",
+  "type": "gear",
+  "_id": "F7SDs99oMEeGCrgu",
+  "img": "modules/star-wars-compendium-fr/packs/equipement/images/trousse_medecin.png",
+  "system": {
+    "description": "<p>&Eacute;quipement typique des docteurs et gu&eacute;risseurs qul officient sur les mondes isol&eacute;s, les trousses de m&eacute;decin sont plus encombrantes et plus compl&egrave;tes que les m&eacute;dipacks.&nbsp;La plupart contiennent le mat&eacute;riel m&eacute;dical technologique usuel : m&eacute;discanner, ordinateur de diagnostic, attelles en spray, m&eacute;dicaments, etc. Cependant, de nombreux utilisateurs y placent des produits de soin naturels ou non conventionnels et il n'est pas rare d'y trouver toutes sortes de pommades, teintures officinales, cataplasmes et bandages sp&eacute;ciaux fabriqu&eacute;s &agrave; partir de la faune et de la flore locale.</p>\n<p>Les trousses de m&eacute;decin permettent &agrave; leurs utilisateurs d'effectuer des interventions m&eacute;dicales relativement complexes sur le terrain sans malus aux tests de M&eacute;decine (cf. page 226). Qui plus est, elles procurent [BO] &agrave; ces derniers. Enfin, gr&acirc;ce &agrave; leurs r&eacute;serves de stimulants et autres onguents, elles offrent un [AD] automatique en&nbsp;cas de test de M&eacute;decine r&eacute;ussi.</p>\n<p><strong>Mod&egrave;les typiques :</strong> De tres nombreuses versions.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.186"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 2,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 400,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 2,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748087623898,
+    "modifiedTime": 1748088037245,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!F7SDs99oMEeGCrgu"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Dévié",
+  "type": "criticaldamage",
+  "_id": "nyZPhT25SawvhP06",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;table&quot;,{&quot;_preserve&quot;:{&quot;class&quot;:&quot;journal-all-left-table&quot;}},&quot;table_row&quot;,{&quot;_preserve&quot;:{}},&quot;table_cell&quot;,{&quot;colspan&quot;:1,&quot;rowspan&quot;:1,&quot;colwidth&quot;:null,&quot;_preserve&quot;:{}}]\">Une explosion particuli&egrave;rement violente ou un impact fait changer le vaisseau ou le v&eacute;hicule de cap. Son pilote ne peut pas faire de man&oelig;uvre lors de son prochain tour et doit r&eacute;ussir un <strong>test de Pilotage</strong> pour reprendre le contr&ocirc;le. Le niveau de difficult&eacute; du test est d&eacute;termin&eacute; par la vitesse actuelle de l&rsquo;appareil</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.250"
+      ]
+    },
+    "min": 28,
+    "max": 36,
+    "severity": "1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766156643634,
+    "modifiedTime": 1766156674312,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!nyZPhT25SawvhP06"
+}

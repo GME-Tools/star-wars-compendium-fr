@@ -1,0 +1,69 @@
+{
+  "folder": "czYGLnwyW4JBhffy",
+  "name": "L'étranger",
+  "type": "background",
+  "_id": "v2cxSdds3gGSKFh3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Un tel personnage est issu d’une société qui sort des normes de la galaxie. Cela inclut les systèmes planétaires reculés qui ne sont pas encore cartographiés, les colonies pénitentiaires et — même si c’est plus rare — les personnages qui grandissent seuls en milieu sauvage. Le personnage est sans doute très mal informé de la politique, des coutumes et de la technologie propres au reste de la galaxie. Il peut se méfier des scènes qui lui semblent étranges ou, au contraire, s’émerveiller de tout ce qu’il voit.</p><p data-start=\"5637\" data-end=\"6255\">Ce choix convient mieux à certaines carrières que d’autres. Par exemple, un Mécano issu d’un monde primitif n’est pas très crédible, à moins que le joueur et le MJ n’aient une idée derrière la tête. Peut-être est-il l’unique survivant d’un vaisseau qui s’est écrasé sur une planète reculée, et qui a appris le métier en bricolant l’épave.</p><p data-start=\"5637\" data-end=\"6255\">Bien évidemment, le joueur doit expliquer comment le personnage a réussi à échapper à son monde primitif ou isolé. Peut-être a-t-il été ramené vers la civilisation par un explorateur, à moins qu’il ne se soit glissé à bord d’un vaisseau marchand ayant fait escale sur sa planète.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 37"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770741583546,
+    "modifiedTime": 1770741597443,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!v2cxSdds3gGSKFh3"
+}

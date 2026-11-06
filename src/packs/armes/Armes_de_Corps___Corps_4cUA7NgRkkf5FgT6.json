@@ -1,0 +1,22 @@
+{
+  "name": "Armes de Corps à Corps",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "4cUA7NgRkkf5FgT6",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747641074550,
+    "modifiedTime": 1747641074550,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!4cUA7NgRkkf5FgT6"
+}

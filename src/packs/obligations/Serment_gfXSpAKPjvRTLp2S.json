@@ -1,0 +1,71 @@
+{
+  "folder": "ufB27YkOUycb0QPn",
+  "name": "Serment",
+  "type": "obligation",
+  "_id": "gfXSpAKPjvRTLp2S",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Le personnage a fait une promesse qui dicte ses pensées et actions, et façonne son point de vue moral sur le monde.</p><p>Il peut s’agir d’un serment envers un dieu, un mode de vie (comme le code Jedi), ou une volonté d’abnégation pour le bien d’un groupe ou d’une cause. Dans tous les cas, ce Serment doit être important et compliquer la vie du personnage.</p><p>C’est une entreprise personnelle et très prenante, dont l’objectif est probablement irréalisable. Les personnages qui ne respectent pas cette promesse sont victimes de cruels dilemmes moraux.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 39"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "obligation",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770742568733,
+    "modifiedTime": 1770742591511,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!gfXSpAKPjvRTLp2S"
+}

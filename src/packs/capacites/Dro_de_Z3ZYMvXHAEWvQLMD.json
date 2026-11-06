@@ -1,0 +1,44 @@
+{
+  "name": "Droïde",
+  "type": "ability",
+  "_id": "Z3ZYMvXHAEWvQLMD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les dro&iuml;des ne mangent pas, ne dorment pas, ne respirent pas et ne sont pas affect&eacute;s par les toxines et les poisons. La limite d'implant des dro&iuml;des (cf. @UUID[Compendium.star-wars-compendium-fr.livres.JournalEntry.RpH8G0RHhB8wh6HH.JournalEntryPage.iAput103viUVpHJw#implants-et-ameliorations-cybernetiques]{Implants et am&eacute;liorations cybern&eacute;tiques}) est &eacute;gale &agrave; 6, et non &agrave; leur Vigueur. Par ailleurs, une fois sa carri&egrave;re choisie, un dro&iuml;de gagne 1 rang dans six de ses huit comp&eacute;tences de carri&egrave;re (au lieu des quatre habituelles). Une fois sa premi&egrave;re sp&eacute;cialit&eacute; choisie, il gagne 1 rang dans trois de ses quatre comp&eacute;tences de sp&eacute;cialit&eacute; (au lieu des deux habituelles).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 46",
+        "L'Ère de la Rébellion - Livre de Règles pg. 54"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767887486618,
+    "modifiedTime": 1773149966768,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!Z3ZYMvXHAEWvQLMD"
+}

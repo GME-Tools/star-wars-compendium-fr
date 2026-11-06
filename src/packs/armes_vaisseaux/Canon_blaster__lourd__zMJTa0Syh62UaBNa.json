@@ -1,0 +1,121 @@
+{
+  "name": "Canon blaster (lourd)",
+  "type": "shipweapon",
+  "_id": "zMJTa0Syh62UaBNa",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les canons blasters (ou &laquo; canon flash &raquo; comme ils sont parfois surnomm&eacute;s) sont des versions lourdes du blaster personnel commun dont l&rsquo;utilisation n&eacute;cessite une &eacute;quipe de tir. Bien que moins d&eacute;vastateurs que les canons laser, ils demeurent redoutablement efficaces contre l&rsquo;infanterie et les v&eacute;hicules l&eacute;gers. Ils sont souvent install&eacute;s sur les v&eacute;hicules atmosph&eacute;riques ou les petits vaisseaux spatiaux, et il est possible d&rsquo;en trouver plusieurs variantes plus ou moins puissantes.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.234"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 0,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "label": "Ship Weapon",
+    "firingarc": {
+      "fore": false,
+      "aft": false,
+      "port": false,
+      "starboard": false,
+      "dorsal": false,
+      "ventral": false
+    },
+    "damage": {
+      "value": 5,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 5
+    },
+    "crit": {
+      "value": 4,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 4
+    },
+    "range": {
+      "value": "Close",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Close"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "skill": {
+      "value": "Gunnery"
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1766085391899,
+    "modifiedTime": 1766085422878,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!zMJTa0Syh62UaBNa"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Perforant",
+  "type": "itemmodifier",
+  "_id": "XbOJpT26dqVZiBtX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est sup&eacute;rieur au niveau d'encaissement de sa cible, elle l'ignore enti&egrave;rement. Exemple : si l'attribut Perforant est de 3 et l'encaissement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert &agrave; rien.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 162"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747549292133,
+    "modifiedTime": 1747549339000,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!XbOJpT26dqVZiBtX"
+}

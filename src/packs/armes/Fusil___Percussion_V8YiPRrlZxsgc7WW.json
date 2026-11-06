@@ -1,0 +1,172 @@
+{
+  "folder": "ni5IZq35SWxS3ZZc",
+  "name": "Fusil à Percussion",
+  "type": "weapon",
+  "_id": "V8YiPRrlZxsgc7WW",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/slugthrower_rifle.png",
+  "system": {
+    "description": "<p>Les fusils a percussion, d'une pr&eacute;cision extr&ecirc;me, poss&egrave;dent une tr&egrave;s longue port&eacute;e. Ils sont utilis&eacute;s de mani&egrave;re occasionnelle par les tueurs &agrave; gages, les chasseurs de primes et les sportifs. Robustes et fiables, les fusils &agrave; percussion sont produits de deux fa&ccedil;ons diff&eacute;rentes : soit comme des armes &agrave; un seul coup, soit en tant qu'armes semi-automatiques aliment&eacute;es par un chargeur. Bien que n'&eacute;tant ni aussi&nbsp; sophistiqu&eacute;s ni aussi destructeurs qu'un fusil blaster, ils n'en restent pas moins des armes mortelles &agrave; longue port&eacute;e qui peuvent, en fonction de leur calibre et des sp&eacute;cificit&ecirc;s de leurs munitions, percer jusqu'aux lourdes armures de plasto&iuml;de des stormtroopers imp&eacute;riaux.</p>\n<p><strong>Mod&egrave;les typiques :</strong> KiSteer 1284, Fusil de Chasse 6-2 Aug2 des armureries Czerka, l'Aventurier des armureries Czerka</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 170"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 5,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 5
+    },
+    "price": {
+      "value": 250,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 3,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": false
+    },
+    "hardpoints": {
+      "value": 1,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [],
+    "itemmodifier": [
+      {
+        "name": "Encombrant",
+        "type": "itemmodifier",
+        "_id": "raXJ4i5VZncAcxUi",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Une arme encombrante est imposante, difficile &agrave; manipuler, g&ecirc;nante ou tr&egrave;s lourde. Pour manier un tel &eacute;quipement, il faut avoir une Vigueur sup&eacute;rieure ou &eacute;gale &agrave; son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 d&eacute; de difficult&eacute; &agrave; tous les tests effectu&eacute;s pour se servir de cette arme.</p>",
+          "attributes": {},
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.163"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 2,
+          "rank_current": 2,
+          "enrichedDescription": "<p>Une arme encombrante est imposante, difficile à manipuler, gênante ou très lourde. Pour manier un tel équipement, il faut avoir une Vigueur supérieure ou égale à son niveau d'attribut. Pour chaque point de Vigueur&nbsp;manquant, le personnage doit ajouter 1 dé de difficulté à tous les tests effectués pour se servir de cette arme.</p>"
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747547863051,
+          "modifiedTime": 1747548206802,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "jGsaRn1O7zsKxiTP"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Ranged: Heavy",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": 7,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 0
+    },
+    "crit": {
+      "value": 5,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 5
+    },
+    "range": {
+      "value": "Medium",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Medium"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747598408145,
+    "modifiedTime": 1769240516199,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!V8YiPRrlZxsgc7WW"
+}

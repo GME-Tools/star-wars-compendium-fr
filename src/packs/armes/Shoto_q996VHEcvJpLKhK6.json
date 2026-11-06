@@ -1,0 +1,283 @@
+{
+  "folder": "CEtmZJzGRs6TEs1X",
+  "name": "Shoto",
+  "type": "weapon",
+  "_id": "q996VHEcvJpLKhK6",
+  "img": "modules/star-wars-compendium-fr/packs/armes/images/shoto.png",
+  "system": {
+    "description": "<p>Le shoto est la variante la plus commune du sabre laser, et il s'agit ni plus ni moins que d'une version miniaturis&eacute;e de ce dernier. Au d&eacute;part, c'&eacute;tait une arme d'appoint utilis&eacute;e par les pratiquants du style de l'&eacute;cole Jar'Kai, une technique de combat n&eacute;cessitant l'emploi de deux sabres en m&ecirc;me temps. Alors que leur popularit&eacute; augmentait, les shotos furent de plus en plus adopt&eacute;s comme armement principal par des Jedi et des Sith de petite taille, pour qui l'utilisation d'un &eacute;quipement de taille normale s'av&eacute;rait difficile, voire impossible. Certains, en particulier des &eacute;tudiants de l'&eacute;cole Ataru, abandonn&egrave;rent l'emploi des sabres classiques au profit d'une paire de shotos. Ce choix leur permettait d'employer les mouvements acrobatiques du style Ataru &agrave; leur plein potentiel, et de d&eacute;livrer ainsi un nombre d'attaques bien plus important que ne pouvait le faire un Jedl muni d'un sabre laser normal, ou m&ecirc;me de la combinaison sabre normal/shoto. L'utilisateur le plus connu de cette arme &eacute;tait certainement le ma&icirc;tre Jedi Yoda, qui dispensait de terribles coups avec son shoto &agrave; lame verte.</p>\n<p>Le shoto consiste en une @UUID[Compendium.star-wars-compendium-fr.armes.Item.vocnNrXmNEQxhelB]{Poign&eacute;e de Shoto} munie d'un @UUID[Compendium.star-wars-compendium-fr.ameliorations_armes.Item.RqTaHMdv67YmdLdS]{Cristal d'Ilum} non modifi&eacute; (cf. page 196). Ce cristal occupe deux des emplacements d'am&eacute;lioration de l'arme.</p>\n<p>Un cristal install&eacute; dans un shoto voit sa valeur de d&eacute;g&acirc;ts reduite de 1 point.</p>\n<p><strong>Modeles typiques :</strong> aucun. chaque exemplaire est unique,</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 178"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 1,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 1
+    },
+    "price": {
+      "value": 9300,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 10,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0,
+      "isrestricted": true
+    },
+    "hardpoints": {
+      "value": 3,
+      "type": "Number",
+      "label": "Hard Points",
+      "abrev": "HP",
+      "adjusted": 0
+    },
+    "equippable": {
+      "value": true,
+      "type": "Boolean",
+      "equipped": false
+    },
+    "itemattachment": [
+      {
+        "folder": "qkxrbicYJavFbjnL",
+        "name": "Cristal d'Ilum",
+        "type": "itemattachment",
+        "_id": "RqTaHMdv67YmdLdS",
+        "img": "modules/star-wars-compendium-fr/packs/ameliorations_armes/images/IlumCrystal-SWE.png",
+        "system": {
+          "description": "<p>Les cristaux kyber gisant dans les profondeurs des cavernes d'lium &eacute;taient tr&egrave;s pris&eacute;s des Jedi, qui les employaient dans la construction de leurs sabres laser. La plan&egrave;te glac&eacute;e rev&ecirc;tait une importance particuli&egrave;re dans la tradition de l'Ordre, et les jeunes Padawans s'y rendaient dans le cadre de leur entrainement. L&agrave;, ils communialent avec la Force et tentaient d'en saisir la volont&eacute; afin de d&eacute;couvrir le cristal qui irait se loger dans leur premier sabre laser.</p>\n<p>Un cristal d'Ilum est un cristal de sabre laser.</p>\n<p><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p><strong>Mods possibles : </strong></p>\n<ul>\n<li>[ ][ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC]{Sanguinaire} + 1)</li>\n<li>[ ][ ][ ][ ] D&eacute;g&acirc;ts + 1</li>\n<li>[ ] R&eacute;duire le niveau de critique de 1 (pour un minimum de 1)</li>\n</ul>",
+          "attributes": {
+            "attr1747663600999": {
+              "modtype": "Weapon Stat",
+              "value": 6,
+              "mod": "damage"
+            },
+            "attr1747663618322": {
+              "modtype": "Weapon Stat",
+              "value": 2,
+              "mod": "critical"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": []
+          },
+          "quantity": {
+            "value": 1,
+            "type": "Number",
+            "label": "Quantity",
+            "abrev": "Qty"
+          },
+          "encumbrance": {
+            "value": 0,
+            "type": "Number",
+            "label": "Encumbrance",
+            "abrev": "Encum",
+            "adjusted": 0
+          },
+          "price": {
+            "value": 9000,
+            "type": "Number",
+            "label": "Price",
+            "adjusted": 0
+          },
+          "rarity": {
+            "value": 10,
+            "type": "Number",
+            "label": "Rarity",
+            "adjusted": 0,
+            "isrestricted": true
+          },
+          "hardpoints": {
+            "value": 2,
+            "type": "Number",
+            "label": "Hard Points",
+            "abrev": "HP",
+            "adjusted": 0
+          },
+          "itemmodifier": [
+            {
+              "name": "Brèche",
+              "system": {
+                "description": "<p>Les attaques port&eacute;es &agrave; l'aide d'armes dot&eacute;es de l'attribut Br&egrave;che traversent les armures et les blindages les plus r&eacute;sistants. Le plus souvent, elles sont l'apanage des armes lourdes et des vaisseaux.</p>        <p>Les attaques port&eacute;es au moyen d'armes de Br&egrave;che ignorent 1 point de blindage (et donc 10 points d'encaissements) par niveau d'attribut.</p>",
+                "active": true,
+                "rank": 1
+              }
+            },
+            {
+              "name": "Briseur",
+              "system": {
+                "description": "<p>Quand l'attribut est d&eacute;clench&eacute;, l'assaillant choisit un des objets les plus expos&eacute;s de sa cible (comme une arme, un bouclier ou quelque chose qui pend &agrave; sa ceinture) et l'endommage d'un cran. L'objet peut passer d'intact &agrave; endommag&eacute; leg&eacute;rement, d'endommag&eacute; l&eacute;g&egrave;rement&nbsp;&agrave; endommag&eacute; mod&eacute;r&eacute;ment et d'endommag&eacute; mod&eacute;r&eacute;ment &agrave; endommag&eacute; gravement. Un objet endommag&eacute; gravement qui subit une nouvelle fois les effets de l'attribut Briseur est d&eacute;truit.</p>        <p>Un avantage [AD] est n&eacute;cessaire pour activer l'attribut. Il peut &ecirc;tre d&eacute;clench&eacute; plusieurs fois au cours de la m&ecirc;me attaque, ce qui peut permettre de briser un objet en un unique coup.</p>",
+                "active": true,
+                "rank": 1
+              }
+            }
+          ],
+          "adjusteditemmodifer": [],
+          "itemattachment": [],
+          "type": "all",
+          "enrichedDescription": "<p>Les cristaux kyber gisant dans les profondeurs des cavernes d'lium étaient très prisés des Jedi, qui les employaient dans la construction de leurs sabres laser. La planète glacée revêtait une importance particulière dans la tradition de l'Ordre, et les jeunes Padawans s'y rendaient dans le cadre de leur entrainement. Là, ils communialent avec la Force et tentaient d'en saisir la volonté afin de découvrir le cristal qui irait se loger dans leur premier sabre laser.</p>\n<p>Un cristal d'Ilum est un cristal de sabre laser.</p>\n<p><strong>Modèles typiques :</strong> aucun</p>\n<p><strong>Mods possibles : </strong></p>\n<ul>\n<li>[ ][ ] Attribut d'arme (<a class=\"content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC\" data-id=\"e4L8BCSkWoLfs6mC\" data-type=\"Item\" data-pack=\"star-wars-compendium-fr.qualites\" data-tooltip=\"Modificateur d'équipement Item\"><i class=\"fas fa-suitcase\"></i>Sanguinaire</a> + 1)</li>\n<li>[ ][ ][ ][ ] Dégâts + 1</li>\n<li>[ ] Réduire le niveau de critique de 1 (pour un minimum de 1)</li>\n</ul>"
+        },
+        "effects": [],
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747663185966,
+          "modifiedTime": 1747744000280,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "9HhhcvdnHrRUyhvv"
+      }
+    ],
+    "itemmodifier": [
+      {
+        "name": "Précis",
+        "type": "itemmodifier",
+        "_id": "u6nACQgFuMjoVPuV",
+        "img": "icons/svg/item-bag.svg",
+        "system": {
+          "description": "<p>Du fait de leur conception et de leur technologie avanc&eacute;e, les armes pr&eacute;cises sont faciles &agrave; manier et am&eacute;liorent la vis&eacute;e. Les personnages qui les utilisent ajoutent un d&eacute; de fortune [BO] &agrave; leur jet d'attaque par niveau d'attribut.</p>",
+          "attributes": {
+            "attr1747549369097": {
+              "modtype": "Roll Modifiers",
+              "value": 1,
+              "mod": "Add Boost"
+            }
+          },
+          "metadata": {
+            "tags": [],
+            "sources": [
+              "Force et Destinée - Livre de Règles, p.164"
+            ]
+          },
+          "itemmodifier": [],
+          "adjusteditemmodifer": [],
+          "type": "weapon",
+          "rank": 1
+        },
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0,
+          "Vps3UPsdK7k7lekv": 3
+        },
+        "flags": {
+          "starwarsffg": {
+            "isCompendium": true,
+            "ffgUuid": null,
+            "ffgIsOwned": false,
+            "loaded": false
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "12.331",
+          "systemId": "starwarsffg",
+          "systemVersion": "1.906",
+          "createdTime": 1747549347446,
+          "modifiedTime": 1747549390978,
+          "lastModifiedBy": "Vps3UPsdK7k7lekv"
+        },
+        "id": "QxVxKvfudgvMMlec"
+      }
+    ],
+    "adjusteditemmodifer": [],
+    "skill": {
+      "value": "Lightsaber",
+      "type": "String",
+      "label": "Skill"
+    },
+    "damage": {
+      "value": -1,
+      "type": "Number",
+      "label": "Damage",
+      "abrev": "Dam",
+      "adjusted": 6
+    },
+    "crit": {
+      "value": 0,
+      "type": "Number",
+      "label": "Critical Rating",
+      "abrev": "Crit",
+      "adjusted": 2
+    },
+    "range": {
+      "value": "Engaged",
+      "type": "String",
+      "label": "Range",
+      "adjusted": "Engaged"
+    },
+    "special": {
+      "value": "",
+      "type": "String",
+      "label": "Special"
+    },
+    "ammo": {
+      "max": 0,
+      "value": 0
+    },
+    "status": "None",
+    "characteristic": {
+      "value": ""
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false,
+      "config": {}
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1747748528331,
+    "modifiedTime": 1769241224242,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!q996VHEcvJpLKhK6"
+}

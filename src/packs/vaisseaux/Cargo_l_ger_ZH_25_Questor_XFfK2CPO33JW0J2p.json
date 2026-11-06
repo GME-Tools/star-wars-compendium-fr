@@ -1,0 +1,369 @@
+{
+  "folder": "Lg1k90JaqYxU1Ql1",
+  "name": "Cargo léger ZH-25 Questor",
+  "type": "vehicle",
+  "_id": "XFfK2CPO33JW0J2p",
+  "img": "modules/star-wars-compendium-fr/packs/vaisseaux/images/ZH-25_Questor_FDCR.webp",
+  "system": {
+    "biography": "<p data-start=\"11308\" data-end=\"12293\" data-pm-slice=\"1 1 []\">Aiguillonn&eacute; par le succ&egrave;s du vaisseau &eacute;claireur Z-10 de classe <em>Seeker</em>, Starfeld Industries s&rsquo;est lanc&eacute; sur le march&eacute; des cargos l&eacute;gers avec le ZH-25 <em>Questor</em>. Fondamentalement, il s&rsquo;agit d&rsquo;un Z-10 surdimensionn&eacute;. C&rsquo;est aussi un vaisseau rapide, fiable et facile &agrave; personnaliser, con&ccedil;u pour concurrencer les s&eacute;ries YT et YV de la Corporation Technique Corellienne. Sa silhouette &eacute;voque une paire de macrojumelles aplaties. Le ZH-25 se compose d&rsquo;une section de coque centrale en forme de sablier, avec un cockpit de style CTC &agrave; l&rsquo;avant et une rang&eacute;e de puissants moteurs Novalex JV 74 &agrave; l&rsquo;arri&egrave;re. Ses sections de coque babord et tribord abritent les quartiers de l&rsquo;&eacute;quipage et les parties communes, ainsi que des capsules de sauvetage pour le personnel et les passagers. Les deux tiers arri&egrave;re du vaisseau consistent en une vaste cale ouverte, &eacute;quip&eacute;e de tous les syst&egrave;mes modernes de gestion de la cargaison. Deux conteneurs ventraux suppl&eacute;mentaires augmentent sa capacit&eacute; de transport.</p>\n<p data-start=\"12295\" data-end=\"13146\">&Agrave; leur sortie d&rsquo;usine, les <em>Questors</em> sont &eacute;quip&eacute;s d&rsquo;un seul canon laser moyen mont&eacute; sur une tourelle ventrale, d&rsquo;un bon blindage en carbone-duracier et d&rsquo;un g&eacute;n&eacute;rateur de bouclier Spirplex fiable. L&rsquo;ensemble leur donne de respectables capacit&eacute;s d&eacute;fensives. Les sections d&eacute;volues &agrave; l&rsquo;&eacute;quipage et aux passagers, quoiqu&rsquo;utilitaires, restent confortables et pens&eacute;es pour att&eacute;nuer le stress des longs vols hyperspatiaux. Comme beaucoup de cargos l&eacute;gers de chez CTC, SoroSuub et Ghtroc, le ZH-25 est pens&eacute; pour que son propri&eacute;taire puisse le personnaliser selon ses go&ucirc;ts et ses besoins. Bien qu&rsquo;il s&rsquo;agisse encore d&rsquo;un relatif nouveau venu sur le march&eacute; des cargos l&eacute;gers, il gagne rapidement en popularit&eacute; parmi les petites entreprises de transport, les propri&eacute;taires exploitants et les contrebandiers, gr&acirc;ce &agrave; sa fiabilit&eacute; et &agrave; sa conception intelligente.</p>\n<p data-start=\"13148\" data-end=\"13628\"><strong>Type de coque/Classe</strong> : cargo/classe <em>Questor</em><br data-start=\"13191\" data-end=\"13194\"><strong>Constructeur </strong>: Starfeld Industries<br data-start=\"13228\" data-end=\"13231\"><strong>&Eacute;quipage</strong> : un pilote, un copilote<br data-start=\"13378\" data-end=\"13381\"><strong>Co&ucirc;t/raret&eacute;</strong> : 115 000 cr&eacute;dits/6</p>",
+    "attributes": {},
+    "stats": {
+      "silhouette": {
+        "value": 4,
+        "type": "Number",
+        "label": "Silhouette"
+      },
+      "speed": {
+        "value": 0,
+        "max": 3,
+        "type": "Number",
+        "label": "Speed"
+      },
+      "handling": {
+        "value": -1,
+        "type": "Number",
+        "label": "Handling"
+      },
+      "hullTrauma": {
+        "value": 0,
+        "min": 0,
+        "max": 30,
+        "label": "Hull Trauma"
+      },
+      "systemStrain": {
+        "value": 0,
+        "min": 0,
+        "max": 20,
+        "label": "System Strain"
+      },
+      "shields": {
+        "fore": 1,
+        "port": null,
+        "starboard": null,
+        "aft": 1,
+        "label": "Shields"
+      },
+      "armour": {
+        "value": 3,
+        "type": "Number",
+        "label": "Armour",
+        "adjusted": 0
+      },
+      "sensorRange": {
+        "value": "Medium",
+        "type": "String"
+      },
+      "crew": {},
+      "passengerCapacity": {
+        "value": 6,
+        "type": "Number",
+        "label": "Passenger Capacity"
+      },
+      "encumbrance": {
+        "value": 0,
+        "min": 0,
+        "max": 100,
+        "adjusted": 0
+      },
+      "cost": {
+        "value": 0,
+        "type": "Number",
+        "label": "Cost",
+        "adjusted": 0
+      },
+      "rarity": {
+        "value": 0,
+        "isrestricted": false,
+        "type": "Number",
+        "label": "Rarity",
+        "adjusted": 0
+      },
+      "customizationHardPoints": {
+        "value": 4,
+        "type": "Number",
+        "label": "Hard Points",
+        "adjusted": 0
+      },
+      "hyperdrive": {
+        "value": 2,
+        "type": "Number",
+        "label": "SWFFG.Hyperdrive",
+        "backup": 15
+      },
+      "consumables": {
+        "value": 3,
+        "duration": "mois",
+        "type": "Number",
+        "label": "SWFFG.Consumables"
+      },
+      "navicomputer": {
+        "value": true,
+        "type": "Boolean",
+        "label": "SWFFG.VehicleNavicomputer"
+      }
+    },
+    "spaceShip": true,
+    "silhouetteImage": "modules/star-wars-compendium-fr/packs/vaisseaux/images/silhouette/ZH25QUEST.webp",
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles, p.264"
+      ]
+    }
+  },
+  "prototypeToken": {
+    "name": "Cargo léger ZH-25 Questor",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "systems/starwarsffg/images/defaults/actors/vehicle.png",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 20,
+    "bar1": {
+      "attribute": "stats.wounds"
+    },
+    "bar2": {
+      "attribute": "stats.strain"
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "_id": "eSazZ8AyUp52NEL4",
+      "name": "Canon laser moyen monté sur une tourelle ventrale",
+      "type": "shipweapon",
+      "img": "icons/svg/item-bag.svg",
+      "system": {
+        "description": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur pr&eacute;cision et de leur puissance, les canons laser peuvent s&rsquo;employer seuls ou &ecirc;tre coupl&eacute;s au sein d&rsquo;une batterie. Les chasseurs et les cargos sont souvent &eacute;quip&eacute;s de canons laser l&eacute;gers ou moyens, tandis que les canons laser lourds sont r&eacute;serv&eacute;s aux vaisseaux amiraux, qui s&rsquo;en servent pour se d&eacute;fendre contre des b&acirc;timents de moindre envergure. Les v&eacute;hicules terrestres peuvent aussi disposer de ce type d&rsquo;armement.</p>",
+        "attributes": {},
+        "metadata": {
+          "tags": [],
+          "sources": [
+            "Force et Destinée - Livre de Règles, p.234"
+          ]
+        },
+        "quantity": {
+          "value": 1,
+          "type": "Number",
+          "label": "Quantity",
+          "abrev": "Qty"
+        },
+        "encumbrance": {
+          "value": 0,
+          "type": "Number",
+          "label": "Encumbrance",
+          "abrev": "Encum",
+          "adjusted": 0
+        },
+        "price": {
+          "value": 0,
+          "type": "Number",
+          "label": "Price",
+          "adjusted": 0
+        },
+        "rarity": {
+          "value": 0,
+          "type": "Number",
+          "label": "Rarity",
+          "adjusted": 0,
+          "isrestricted": false
+        },
+        "hardpoints": {
+          "value": 0,
+          "type": "Number",
+          "label": "Hard Points",
+          "abrev": "HP",
+          "adjusted": 0,
+          "current": 0
+        },
+        "equippable": {
+          "value": true,
+          "type": "Boolean",
+          "equipped": false
+        },
+        "itemattachment": [],
+        "itemmodifier": [],
+        "adjusteditemmodifer": [],
+        "label": "Ship Weapon",
+        "firingarc": {
+          "fore": true,
+          "aft": true,
+          "port": true,
+          "starboard": true,
+          "dorsal": false,
+          "ventral": true
+        },
+        "damage": {
+          "value": 6,
+          "type": "Number",
+          "label": "Damage",
+          "abrev": "Dam",
+          "adjusted": 6
+        },
+        "crit": {
+          "value": 3,
+          "type": "Number",
+          "label": "Critical Rating",
+          "abrev": "Crit",
+          "adjusted": 3
+        },
+        "range": {
+          "value": "Close",
+          "type": "String",
+          "label": "SWFFG.VehicleRangeClose",
+          "adjusted": "Close"
+        },
+        "special": {
+          "value": "",
+          "type": "String",
+          "label": "Special"
+        },
+        "skill": {
+          "value": "Gunnery"
+        },
+        "renderedDesc": {},
+        "adjusteditemmodifier": [],
+        "enrichedDescription": "<p>Cette arme anti-vaisseau standard se retrouve sur la plupart des appareils, du plus petit chasseur au plus imposant vaisseau amiral. Plus performants que les canons blaster en raison de leur précision et de leur puissance, les canons laser peuvent s’employer seuls ou être couplés au sein d’une batterie. Les chasseurs et les cargos sont souvent équipés de canons laser légers ou moyens, tandis que les canons laser lourds sont réservés aux vaisseaux amiraux, qui s’en servent pour se défendre contre des bâtiments de moindre envergure. Les véhicules terrestres peuvent aussi disposer de ce type d’armement.</p>",
+        "hasLongDesc": false,
+        "enrichedSpecial": "",
+        "doNotSubmit": {
+          "qualities": []
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "Vps3UPsdK7k7lekv": 3
+      },
+      "flags": {
+        "starwarsffg": {
+          "isCompendium": false,
+          "ffgUuid": null,
+          "ffgIsOwned": false,
+          "loaded": false,
+          "ffgTempId": "QdPf6g11WvgtkDJY"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.star-wars-compendium-fr.armes_vaisseaux.Item.gyq0XVDotAhi9TMa",
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1767106105257,
+        "modifiedTime": 1767106105257,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv",
+        "exportSource": null
+      },
+      "_key": "!actors.items!XFfK2CPO33JW0J2p.eSazZ8AyUp52NEL4"
+    }
+  ],
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "config": {
+        "enableEditMode": false,
+        "enableHyperdrive": true,
+        "enableSensors": true
+      },
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767105872587,
+    "modifiedTime": 1767185156901,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!actors!XFfK2CPO33JW0J2p"
+}

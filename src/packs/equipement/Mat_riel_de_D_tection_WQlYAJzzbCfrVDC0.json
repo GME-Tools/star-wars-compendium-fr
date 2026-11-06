@@ -1,0 +1,22 @@
+{
+  "name": "Matériel de Détection",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "WQlYAJzzbCfrVDC0",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1748007532471,
+    "modifiedTime": 1748007532471,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!folders!WQlYAJzzbCfrVDC0"
+}

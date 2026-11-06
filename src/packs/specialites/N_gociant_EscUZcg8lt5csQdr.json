@@ -1,0 +1,767 @@
+{
+  "name": "Négociant",
+  "type": "specialization",
+  "_id": "EscUZcg8lt5csQdr",
+  "img": "modules/star-wars-compendium-fr/assets/images/carrieres/explorateur.png",
+  "system": {
+    "description": "<div class=\"journal-page-content\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div data-message-author-role=\"assistant\" data-message-id=\"1b6ad7b1-fa68-43ab-856f-c7e440097886\" dir=\"auto\" data-message-model-slug=\"gpt-5-3\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><p data-start=\"176\" data-end=\"568\">Ceux qui cherchent à s’emparer de tout ce qu’ils trouvent en explorant la Bordure extérieure et au-delà (pour en tirer de gros profits) sont des Négociants. Pour un négociant, une nouvelle planète représente un potentiel presque infini de ressources à exploiter, tandis qu’une nouvelle culture ou une communauté cachée est une base de clients qui ne tarderont pas à faire appel à ses talents.</p><div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\"><p data-start=\"570\" data-end=\"1175\">Les Négociants ont accès aux compétences de carrière supplémentaires <strong data-start=\"639\" data-end=\"708\">Négociation, Connaissance (Mondes du Noyau), Connaissance (Pègre)</strong> et <strong data-start=\"712\" data-end=\"725\">Tromperie</strong>. S’il s’agit de la spécialité de départ de son personnage, le joueur peut choisir deux de ces quatre compétences, dans lesquelles il gagne 1 rang sans avoir à dépenser d’expérience. La plupart des Négociants sont capables de nouer des liens entre le cœur de la civilisation et les confins de la galaxie. Il s’agit souvent de gens instruits qui amènent dans leurs bagages leurs connaissances et leurs compétences en économie, sociologie et politique.</p><p data-start=\"1177\" data-end=\"1661\">Les négociants sont particulièrement forts en commerce, naturellement. Ils savent comment trouver ce qu’il leur faut et ils peuvent généralement passer outre les restrictions qui entravent autrui. En même temps, ils peuvent tirer parti de toute transaction et parvenir à leurs fins en baratinant. Ce sont des penseurs, des stratèges qui ne laissent rien au hasard et prévoient toutes les éventualités. Par ailleurs, ils sont déterminés et font d’excellents compagnons en cas de crise.</p><p data-start=\"1663\" data-end=\"2103\">Un négociant joué dans une campagne sera sans doute le porte-parole du groupe, pas forcément son chef. Il constituera l’un des premiers choix pour s’entretenir avec les agents des pouvoirs publics, les hommes d’argent et tous ceux avec lesquels le groupe cherche à faire affaire. Quand il faut trouver et acheter quelque chose dont le groupe a besoin, ou fourguer un objet dont il souhaite se séparer en échange d’argent, il n’a pas d’égal.</p></div></div></div></div></div>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 70"
+      ]
+    },
+    "talents": {
+      "talent0": {
+        "islearned": false,
+        "name": "Relations",
+        "activation": "Active (Incidental)",
+        "activationLabel": "Activation",
+        "itemId": "DhyLJAiaOpTgutEg",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Une fois par session de jeu, quand vous tentez d&rsquo;acheter un objet disponible l&eacute;galement, r&eacute;duisez sa raret&eacute; de 1 par rang de Relations.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent1": {
+        "islearned": false,
+        "name": "Persuasion",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "v1aowNnMIGOU1PJA",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1773243506711": {
+            "key": "attr1773243506711",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Skulduggery"
+          },
+          "attr1773243506717": {
+            "key": "attr1773243506717",
+            "value": 1,
+            "modtype": "Skill Remove Setback",
+            "mod": "Deception"
+          }
+        },
+        "description": "<p>Retirez [SE] par rang de Persuasion &agrave; vos tests de Magouilles et de Tromperie</p>",
+        "isConflictTalent": false
+      },
+      "talent2": {
+        "islearned": false,
+        "name": "Sens des Affaires",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "gSNUZL8RrmnNKiJh",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Quand vous vendez des marchandises légalement, gagnez 10% de crédits en plus par rang de Sens des affaires.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent3": {
+        "islearned": false,
+        "name": "Beau Parleur",
+        "activation": "Active (Incidental)",
+        "activationLabel": "Activation",
+        "itemId": "8EmideBQQHqtj0uZ",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "5",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Quand vous acqu&eacute;rez ce talent, choisissez une comp&eacute;tence : Charme, Coercition, N&eacute;gociation ou Tromperie. Quand vous effectuez des tests avec cette comp&eacute;tence, vous pouvez d&eacute;penser [TR] pour gagner un nombre de [SU] suppl&eacute;mentaires &eacute;gal &agrave; votre rang de Beau parleur.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent4": {
+        "islearned": false,
+        "name": "Sens des Affaires",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "gSNUZL8RrmnNKiJh",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Quand vous vendez des marchandises légalement, gagnez 10% de crédits en plus par rang de Sens des affaires.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent5": {
+        "islearned": false,
+        "name": "Robustesse",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "HT8RRfGODj0nP6iT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "attributes": {
+          "attr1773243576072": {
+            "key": "attr1773243576072",
+            "value": 1,
+            "modtype": "Stat",
+            "mod": "Strain"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de stress de 1.</p>",
+        "isConflictTalent": false
+      },
+      "talent6": {
+        "islearned": false,
+        "name": "Jamais à Court",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "IdOXpMNUbWxA9ERj",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Vous ne pouvez pas tomber &agrave; court de munitions sur un [DE]. Les objets poss&eacute;dant l'attribut Munitions limit&eacute;es tombent &agrave; court de munitions selon les r&egrave;gles normales.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent7": {
+        "islearned": false,
+        "name": "Endurci",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "GWacujFJeLH0mp4I",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "10",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "attributes": {
+          "attr1773243593241": {
+            "key": "attr1773243593241",
+            "value": 2,
+            "modtype": "Stat",
+            "mod": "Wounds"
+          }
+        },
+        "description": "<p>Augmentez votre seuil de blessure de 2.</p>",
+        "isConflictTalent": false
+      },
+      "talent8": {
+        "islearned": false,
+        "name": "Relations",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "DhyLJAiaOpTgutEg",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Une fois par session de jeu, quand vous tentez d&rsquo;acheter un objet disponible l&eacute;galement, r&eacute;duisez sa raret&eacute; de 1 par rang de Relations.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent9": {
+        "islearned": false,
+        "name": "Perspicace",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "AuzDLpZUNh8WuriT",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de Charme, Coercition ou Tromperie qui vous prennent pour cible par rang de Perspicace.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent10": {
+        "islearned": false,
+        "name": "Beau Parleur",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "8EmideBQQHqtj0uZ",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Quand vous acqu&eacute;rez ce talent, choisissez une comp&eacute;tence : Charme, Coercition, N&eacute;gociation ou Tromperie. Quand vous effectuez des tests avec cette comp&eacute;tence, vous pouvez d&eacute;penser [TR] pour gagner un nombre de [SU] suppl&eacute;mentaires &eacute;gal &agrave; votre rang de Beau parleur.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent11": {
+        "islearned": false,
+        "name": "Perspicace",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "AuzDLpZUNh8WuriT",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "15",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Am&eacute;liorez 1 d&eacute; de difficult&eacute; des tests de Charme, Coercition ou Tromperie qui vous prennent pour cible par rang de Perspicace.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent12": {
+        "islearned": false,
+        "name": "Sens des Affaires",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "gSNUZL8RrmnNKiJh",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Quand vous vendez des marchandises légalement, gagnez 10% de crédits en plus par rang de Sens des affaires.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent13": {
+        "islearned": false,
+        "name": "Nerfs d'Acier",
+        "activation": "Active (Incidental)",
+        "activationLabel": "Activation",
+        "itemId": "kxxZIQzfGt9VSJm7",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>D&eacute;pensez 1 point de Destin pour ignorer les effets des blessures critiques sur les tests de Pr&eacute;sence et de Volont&eacute; jusqu&rsquo;&agrave; la fin de la rencontre.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent14": {
+        "islearned": false,
+        "name": "Contacts au Marché Noir",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "LSsFDRl4KOIoeXbw",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Quand vous achetez des biens illégaux, vous pouvez réduire la rareté de 1 par rang de Contacts au marché noir. Le coût de l’objet augmente de 50% de son prix de base par réduction.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent15": {
+        "islearned": false,
+        "name": "Contacts au Marché Noir",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "LSsFDRl4KOIoeXbw",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "20",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Quand vous achetez des biens illégaux, vous pouvez réduire la rareté de 1 par rang de Contacts au marché noir. Le coût de l’objet augmente de 50% de son prix de base par réduction.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent16": {
+        "islearned": false,
+        "name": "Relations",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "DhyLJAiaOpTgutEg",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": true,
+        "links-right": true,
+        "description": "<p>Une fois par session de jeu, quand vous tentez d&rsquo;acheter un objet disponible l&eacute;galement, r&eacute;duisez sa raret&eacute; de 1 par rang de Relations.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent17": {
+        "islearned": false,
+        "name": "Négociateur-Né",
+        "activation": "Active (Incidental)",
+        "activationLabel": "Activation",
+        "itemId": "O2ib17G2RmKPhoVP",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "description": "<p>Une fois par session de jeu, vous pouvez relancer un test de Calme ou de N&eacute;gociation.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      },
+      "talent18": {
+        "islearned": false,
+        "name": "Entraînement",
+        "activation": "Passive",
+        "activationLabel": "SWFFG.TalentActivationsPassive",
+        "itemId": "6ihuFGkfx8V5C7tn",
+        "isRanked": true,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": true,
+        "attributes": {
+          "attr1773243715211": {
+            "key": "attr1773243715211",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Brawn"
+          },
+          "attr1773243715213": {
+            "key": "attr1773243715213",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Agility"
+          },
+          "attr1773243715219": {
+            "key": "attr1773243715219",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Intellect"
+          },
+          "attr1773243715221": {
+            "key": "attr1773243715221",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Cunning"
+          },
+          "attr1773243715223": {
+            "key": "attr1773243715223",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Willpower"
+          },
+          "attr1773243715229": {
+            "key": "attr1773243715229",
+            "value": 0,
+            "modtype": "Characteristic",
+            "mod": "Presence"
+          }
+        },
+        "description": "<p>Vous gagnez +1 dans une caract&eacute;ristique. Cela ne permet pas d'augmenter une caract&eacute;ristique au-del&agrave; de 6.</p>",
+        "isConflictTalent": false
+      },
+      "talent19": {
+        "islearned": false,
+        "name": "Expert en Commerce",
+        "activation": "Active (Incidental)",
+        "activationLabel": "SWFFG.TalentActivationsActiveIncidental",
+        "itemId": "si1CRNfenpqtXiiO",
+        "isRanked": false,
+        "pack": "star-wars-compendium-fr.talents",
+        "cost": "25",
+        "isForceTalent": false,
+        "links-top-1": false,
+        "links-right": false,
+        "description": "<p>Quand vous vendez ou achetez des biens, subissez ou remboursez une Obligation, vous pouvez subir 2 points de stress pour vendre pour 25% de plus, acheter pour 25% de moins, rembourser 1 point supplémentaire d’Obligation ou subir 1 point d’Obligation de moins.</p>",
+        "attributes": {},
+        "isConflictTalent": false
+      }
+    },
+    "careerSkills": {
+      "careerSkill0": "Negotiation",
+      "careerSkill1": "Knowledge: Core Worlds",
+      "careerSkill2": "Knowledge: Underworld",
+      "careerSkill3": "Deception",
+      "careerSkill4": "(none)"
+    },
+    "universal": false,
+    "collection": {
+      "talent0": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent1": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent2": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent3": {
+        "cost": 5,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent4": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent5": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent6": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent7": {
+        "cost": 10,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent8": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent9": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent10": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent11": {
+        "cost": 15,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent12": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent13": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent14": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent15": {
+        "cost": 20,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      },
+      "talent16": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent17": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent18": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": true,
+        "canLinkTop": true,
+        "canLinkRight": true
+      },
+      "talent19": {
+        "cost": 25,
+        "visible": true,
+        "size": "single",
+        "canSplit": false,
+        "canCombine": false,
+        "canLinkTop": true,
+        "canLinkRight": false
+      }
+    },
+    "isEditing": false
+  },
+  "effects": [
+    {
+      "name": "(inherent)",
+      "img": "icons/svg/item-bag.svg",
+      "changes": [
+        {
+          "key": "system.skills.Negotiation.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Core Worlds.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Knowledge: Underworld.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "system.skills.Deception.careerskill",
+          "mode": 2,
+          "value": "true"
+        },
+        {
+          "key": "(none)",
+          "mode": 2,
+          "value": "true"
+        }
+      ],
+      "_id": "djzavUu94tuRaNIM",
+      "type": "base",
+      "system": {},
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773241717560,
+        "modifiedTime": 1773242092854,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!EscUZcg8lt5csQdr.djzavUu94tuRaNIM"
+    },
+    {
+      "name": "attr1773243506711",
+      "changes": [
+        {
+          "key": "system.skills.Skulduggery.remsetback",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "_id": "wZxwS0gSuUz4xmf5",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": true,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773243506763,
+        "modifiedTime": 1773243552437,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!EscUZcg8lt5csQdr.wZxwS0gSuUz4xmf5"
+    },
+    {
+      "name": "attr1773243506717",
+      "changes": [
+        {
+          "key": "system.skills.Deception.remsetback",
+          "mode": 2,
+          "value": "1",
+          "priority": null
+        }
+      ],
+      "_id": "JaYZkDjVo9HyIG73",
+      "img": null,
+      "type": "base",
+      "system": {},
+      "disabled": true,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "starwarsffg",
+        "systemVersion": "1.910",
+        "createdTime": 1773243506763,
+        "modifiedTime": 1773243552466,
+        "lastModifiedBy": "Vps3UPsdK7k7lekv"
+      },
+      "_key": "!items.effects!EscUZcg8lt5csQdr.JaYZkDjVo9HyIG73"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1773241717542,
+    "modifiedTime": 1774534059282,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4"
+  },
+  "_key": "!items!EscUZcg8lt5csQdr"
+}

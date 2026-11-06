@@ -1,0 +1,69 @@
+{
+  "folder": "PfPwvu9IU1vWq614",
+  "name": "L'Opportuniste",
+  "type": "background",
+  "_id": "4QFKxpOZgMROy5Sn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Avec le conflit vient le changement, qui à son tour multiplie les occasions favorables. La galaxie regorge d’individus insatisfaits, surtout depuis que Palpatine règne. La guerre que l’Alliance mène actuellement contre l’Empire est une chance extraordinaire de bouleverser l’ordre établi et de susciter des changements profitables. Il peut s’agir de restaurer la République d’autrefois ou de fonder une structure inédite : tout dépend du point de vue de la personne concernée.</p><p data-start=\"5313\" data-end=\"5906\">Beaucoup de ceux qui espèrent un tel changement sont animés par un altruisme sincère. Ils perçoivent l’Empire comme un mal dangereux qui n’apporte que souffrances et ils comptent bien mettre un terme à ses agissements. La Rébellion, avec son organisation et ses ressources, apparaît donc comme le meilleur vecteur pour atteindre cet objectif. Il revient au joueur de décider si son personnage a rejoint le mouvement parce qu’il a pris conscience des atrocités commises par l’Empire et de sa politique délétère, ou parce que les siens ont été directement touchés par les débordements du régime.</p><p>Mais certains ont des ambitions moins idéalistes, parfois même égoïstes. Une réglementation impériale peut limiter leurs profits dans leur domaine de prédilection ou nuire à leurs affaires. Il y a aussi ceux qui ont eu trop souvent affaire aux autorités et voient soudain la Rébellion comme le meilleur moyen d’échapper à la justice expéditive de l’Empire. Pour certains PJ, s’en prendre aux forces de Palpatine sera simplement l’occasion de grappiller quelques crédits ou autres biens précieux.</p><p data-start=\"780\" data-end=\"1314\">On peut aussi imaginer un ingénieur ou un technicien dont les projets ont été méprisés par les représentants impériaux. L’Alliance se présente alors comme l’occasion de faire valoir son travail. Un politicien pourra avoir été évincé par l’arrivée du nouveau régime ; la Rébellion lui offre ainsi la chance de retrouver une motivation et un semblant d’autorité. Pour un pilote jugé inapte au service et rejeté par l’Académie Impériale, voler au service de l’Alliance aux commandes d’un chasseur apparaît comme une perspective grisante.</p><p data-start=\"1316\" data-end=\"2102\">La mort et la destruction figurent parmi les outils de choix des forces impériales pour faire respecter l’ordre et la volonté de l’Empereur. Tout signe d’opposition entraîne généralement une arrestation, suivie d’une déportation dans une prison lointaine ou un camp de travail, voire d’une exécution pure et simple. À plus grande échelle, l’Empereur fait appel à des assauts de masse ou des bombardements orbitaux. Palpatine aime inspirer la peur : pour s’assurer que les dizaines de planètes d’un même secteur se soumettent, il lui suffit d’en détruire une. Cette stratégie s’avère souvent très efficace, mais les systèmes qui survivent à ses représailles finissent presque toujours parmi les alliés de la Rébellion, au sein de laquelle ils espèrent venger tous ceux qu’ils ont perdus.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 43"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "culture"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770735553986,
+    "modifiedTime": 1770738940289,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!4QFKxpOZgMROy5Sn"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Besoins atmosphériques",
+  "type": "ability",
+  "_id": "3r0DSBA1xDZqGRcX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les Kel Dors doivent porter des masques sp&eacute;ciaux pour respirer et voir en dehors de leur environnement natal. Un personnage kel dor commence le jeu avec un masque respiratoire filtrant, et traite l'oxygene comme une atmosph&egrave;re dangereuse dot&eacute;e d'une valeur de 8 (voir page 220). Toutefois, les Kel Dors peuvent survivre jusqu'a cinq minutes dans le vide sans souffrir de ses effets.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Force et Destinée - Livre de Règles pg. 58"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1746975866193,
+    "modifiedTime": 1773158804782,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!3r0DSBA1xDZqGRcX"
+}

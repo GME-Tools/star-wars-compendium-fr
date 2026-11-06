@@ -1,0 +1,71 @@
+{
+  "folder": "MNGhGJceEfoNCPCP",
+  "name": "Sabotage",
+  "type": "obligation",
+  "_id": "IB0czpCmdJXdKIRq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>La force militaire la plus puissante de l’histoire de la galaxie est également la plus exposée au vol et à la destruction de biens. Le personnage s’attelle à saper ou à saboter les opérations impériales par tous les moyens, qu’il s’agisse d’un arsenal, de troupes en mouvement, d’un transport de marchandises, d’un système bancaire ou autre élément clé. Par ce biais, l’Empire sera plus lent et moins efficace dans ses manœuvres. Les actes de lèse-majesté les plus spectaculaires ont également tendance à affaiblir le soutien de la population à l’Empire, ou du moins le PJ le croit-il (l’Alliance proscrit quant à elle formellement tout acte terroriste).</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "L'Ère de la Rébellion - Livre de Règles pg. 47"
+      ]
+    },
+    "quantity": {
+      "value": 1,
+      "type": "Number",
+      "label": "Quantity",
+      "abrev": "Qty"
+    },
+    "encumbrance": {
+      "value": 0,
+      "type": "Number",
+      "label": "Encumbrance",
+      "abrev": "Encum",
+      "adjusted": 0
+    },
+    "price": {
+      "value": 0,
+      "type": "Number",
+      "label": "Price",
+      "adjusted": 0
+    },
+    "rarity": {
+      "value": 0,
+      "type": "Number",
+      "label": "Rarity",
+      "adjusted": 0
+    },
+    "type": "duty",
+    "magnitude": 0,
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1770739276540,
+    "modifiedTime": 1770739298686,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv"
+  },
+  "_key": "!items!IB0czpCmdJXdKIRq"
+}

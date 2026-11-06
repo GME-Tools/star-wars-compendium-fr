@@ -1,0 +1,49 @@
+{
+  "name": "Choc",
+  "type": "itemmodifier",
+  "_id": "y3jZ5FmDnc1bHPHQ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Les attaques dot&eacute;es de l'attribut Choc peuvent infliger des commotions. Ceux qui go&ucirc;tent &agrave; leur puissance d'impact et &agrave; leurs terribles ondes de choc sont tout juste capables de rester debout. En terme de m&eacute;canique de jeu, la victime de l'arme est &eacute;tourdie (cf. page 224) pour 1 round par niveau de Choc de l'arme. Un personnage &eacute;tourdi ne peut pas entreprendre d'action.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 162"
+      ]
+    },
+    "itemmodifier": [],
+    "adjusteditemmodifer": [],
+    "type": "weapon",
+    "rank": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.906",
+    "createdTime": 1747545150998,
+    "modifiedTime": 1747545213189,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!y3jZ5FmDnc1bHPHQ"
+}

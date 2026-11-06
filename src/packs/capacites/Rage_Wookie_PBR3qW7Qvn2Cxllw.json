@@ -1,0 +1,43 @@
+{
+  "name": "Rage Wookie",
+  "type": "ability",
+  "_id": "PBR3qW7Qvn2Cxllw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Quand un Wookie est bless&eacute;, ses attaques de Corps &agrave; corps et de Pugilat infligent +1 point de d&eacute;g&acirc;ts. Quand un Wookie a subi au moins 1 blessure critique, elles infligent +2 points de d&eacute;g&acirc;ts.</p>",
+    "attributes": {},
+    "metadata": {
+      "tags": [],
+      "sources": [
+        "Aux Confins de l'Empire - Livre de Règles pg. 52"
+      ]
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Vps3UPsdK7k7lekv": 3
+  },
+  "flags": {
+    "starwarsffg": {
+      "isCompendium": true,
+      "ffgUuid": null,
+      "ffgIsOwned": false,
+      "loaded": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "starwarsffg",
+    "systemVersion": "1.910",
+    "createdTime": 1767958615007,
+    "modifiedTime": 1773159350188,
+    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "exportSource": null
+  },
+  "_key": "!items!PBR3qW7Qvn2Cxllw"
+}
