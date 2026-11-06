@@ -45,8 +45,14 @@ test('initialize, map, detect incomplete review and reject premature completion'
   fs.writeFileSync(e, '{"proof":"synthetic"}');
   const premature = run(tmp, 'mark', 'SWE02', 'SWE02-U01', 'automatic_review', '--evidence', e);
   assert.equal(premature.status, 1);
+  const st = JSON.parse(fs.readFileSync(path.join(tmp, '.swffg-work','books','SWE02','state.json'),'utf8'));
+  const qa = path.join(tmp, '.swffg-work','books','SWE02','qa.json');
+  fs.writeFileSync(qa, JSON.stringify({book:'SWE02',unit:'SWE02-U01',edition_sha256:st.pdf_sha256,blocks:1,pass:true,errors:[]}));
+  const independent = path.join(tmp, '.swffg-work','books','SWE02','review.json');
+  fs.writeFileSync(independent, JSON.stringify({book:'SWE02',unit:'SWE02-U01',edition_sha256:st.pdf_sha256,source_examined:true,verdict:'pass',reviewer:'independent-test'}));
+  const artifacts = {extraction:e,fulltext:e,entities:e,automatic_review:qa,independent_review:independent};
   for (const step of ['extraction','fulltext','entities','automatic_review','independent_review']) {
-    const x = run(tmp, 'mark', 'SWE02', 'SWE02-U01', step, '--evidence', e);
+    const x = run(tmp, 'mark', 'SWE02', 'SWE02-U01', step, '--evidence', artifacts[step]);
     assert.equal(x.status, 0, step + ': ' + x.stderr);
   }
   const review = run(tmp, 'next', 'SWE02');
