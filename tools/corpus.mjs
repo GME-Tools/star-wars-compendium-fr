@@ -142,6 +142,18 @@ async function main() {
   const [command, ...rest] = process.argv.slice(2);
   const { positions: a, opts } = argsOf(rest);
   switch (command) {
+    case 'add-book': {
+      const id = a[0];
+      if (!id || !/^[A-Z][A-Z0-9-]{2,70}$/.test(id) || !opts.title?.trim() || !opts.family?.trim())
+        fail('Usage: add-book BOOK_ID --title TITLE --family FAMILY [--category CATEGORY]');
+      const c = read(CATALOG);
+      if (c.books.some((b) => b.id === id)) fail('Book already exists: ' + id);
+      c.books.push({ id, reference: id, title: opts.title.trim(), family: opts.family.trim(),
+                     category: opts.category?.trim() || 'Other', catalog_source: 'manual',
+                     legacy_progress: {}, metadata_verified: false });
+      write(CATALOG, c); console.log('Added book metadata ' + id);
+      break;
+    }
     case 'catalog': {
       const b = books(); console.log('Corpus catalog: ' + b.length + ' books (README seed, not exhaustive)');
       for (const item of b) console.log(item.id.padEnd(23) + item.title + ' — ' + item.family);
@@ -161,6 +173,7 @@ async function main() {
             s.history.push({ at: stamp(), event: 'pdf_changed', old_sha256: s.pdf_sha256 });
             s.pdf_page_count = null;
             s.pagination_map = null;
+            s.status = 'source_changed';
             for (const u of s.units) {
               for (const step of STEPS) u.steps[step] = { status: 'pending', evidence: null };
               u.human_approval = { status: 'pending' };
@@ -208,6 +221,19 @@ async function main() {
           fail('Automatic review must be done first');
       }
       const e = st === DONE ? evidence(opts.evidence) : null;
+      if (e && step === 'automatic_review') {
+        const report = read(path.join(PRIVATE, e));
+        if (report.pass !== true || report.book !== id || report.unit !== uid ||
+            report.edition_sha256 !== s.pdf_sha256 || !Number.isInteger(report.blocks) || report.blocks < 1)
+          fail('Invalid bundle QA report; run check-bundle.mjs on this unit first');
+      }
+      if (e && step === 'independent_review') {
+        const report = read(path.join(PRIVATE, e));
+        if (report.book !== id || report.unit !== uid || report.edition_sha256 !== s.pdf_sha256 ||
+            report.source_examined !== true || report.verdict !== 'pass' ||
+            typeof report.reviewer !== 'string' || !report.reviewer.trim())
+          fail('Independent review must prove source examination, reviewer and passing verdict');
+      }
       u.steps[step] = { status: st, evidence: e, updated_at: stamp() };
       if (u.human_approval.status === 'approved') u.human_approval = { status: 'revoked', reason: 'Unit changed after approval', at: stamp() };
       // Downstream reviews cannot remain valid when their inputs are modified.
@@ -240,6 +266,13 @@ async function main() {
       if (!s.excluded_pages.some((x) => x.page === page))
         s.excluded_pages.push({ page, reason: opts.reason, at: stamp() });
       save(s); console.log('Recorded justified exclusion of page ' + page);
+      break;
+    }
+    case 'close': {
+      const id = a[0], s = state(id), verdict = checkOne(s, { strict: true });
+      if (!verdict.complete || verdict.errors.length) fail('Book is incomplete; run check ' + id + ' --strict');
+      s.status = 'complete'; s.history.push({ at: stamp(), event: 'completed', edition_sha256: s.pdf_sha256 });
+      save(s); console.log('Closed complete book ' + id);
       break;
     }
     case 'next': {
@@ -275,7 +308,7 @@ async function main() {
       break;
     }
     default:
-      console.log('Usage: node tools/corpus.mjs catalog|init|set-pages|add-unit|mark|approve|exclude-page|next|status|check');
+      console.log('Usage: node tools/corpus.mjs catalog|add-book|init|set-pages|add-unit|mark|approve|exclude-page|next|status|check|close');
       if (command) process.exitCode = 2;
   }
 }
