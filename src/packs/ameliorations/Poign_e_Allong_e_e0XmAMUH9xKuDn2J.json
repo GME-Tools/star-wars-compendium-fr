@@ -3,7 +3,7 @@
   "name": "Poignée Allongée",
   "type": "itemattachment",
   "_id": "e0XmAMUH9xKuDn2J",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/Darth_Chratis_Sebaddon.jpg",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/poignee_allongee.png",
   "system": {
     "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">L'id&eacute;e qui a pr&eacute;sid&eacute; &agrave; la conception de ce type de poign&eacute;e est de d&eacute;multiplier les capacit&eacute;s de frappe et de coupe d'un sabre laser. La longueur suppl&eacute;mentaire autorise une prise &agrave; deux mains et permet au combattant d'appliquer plus de force &agrave; ses attaques. Cette modification est &eacute;galement populaire parmi les duellistes puissamment b&acirc;tis comme moyen de tirer profit de leur gabarit au combat.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> aucun</p>\n<p dir=\"auto\"><strong>Effets :</strong> augmente les d&eacute;g&acirc;ts inflig&eacute;s de 1 point.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.e4L8BCSkWoLfs6mC]{Sanguinaire} +1)</li>\n</ul>",
     "attributes": {
@@ -16,7 +16,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.200"
+        "Force et Destinée - Livre de Règles, pg. 200"
       ]
     },
     "quantity": {

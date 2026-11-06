@@ -3,14 +3,14 @@
   "name": "Système de visée amélioré",
   "type": "shipattachment",
   "_id": "AXW0Q9hGQIIEYKBu",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/systeme-de-visee.png",
   "system": {
     "description": "<p data-start=\"10841\" data-end=\"11683\" data-pm-slice=\"1 1 []\">Gr&acirc;ce &agrave; un dispositif d&rsquo;holo-imagerie perfectionn&eacute;, le syst&egrave;me de vis&eacute;e am&eacute;lior&eacute; donne au pilote ou &agrave; l&rsquo;artilleur une repr&eacute;sentation tridimensionnelle d&eacute;taill&eacute;e de la cible. L&rsquo;installation d&rsquo;un SVA accro&icirc;t la pr&eacute;cision des armes du vaisseau et permet aux artilleurs de faire mouche plus souvent, am&eacute;liorant les performances g&eacute;n&eacute;rales de l&rsquo;appareil pendant les combats.</p>\n<p data-start=\"10841\" data-end=\"11683\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : syst&egrave;me de vis&eacute;e am&eacute;lior&eacute;e &laquo; Sureshot &raquo; Taim &amp; Bak LR-375a, ordinateur de vis&eacute;e &laquo; Sharpshooter &raquo; Fabritech KR-770, syst&egrave;me d&rsquo;holociblage Koensayr 840.z<br data-start=\"11397\" data-end=\"11400\"><strong>Effets</strong> : am&eacute;liore 1 d&eacute; d&rsquo;aptitude &agrave; l&rsquo;occasion des tests d&rsquo;Artillerie depuis les armes d&rsquo;un vaisseau ou d&rsquo;un v&eacute;hicule<br data-start=\"11517\" data-end=\"11520\"><strong>Mods possibles</strong> :</p>\n<ul>\n<li data-start=\"10841\" data-end=\"11683\" data-pm-slice=\"1 1 []\">[ ] Am&eacute;liorer un d&eacute; de plus</li>\n<li data-start=\"10841\" data-end=\"11683\" data-pm-slice=\"1 1 []\">[ ] Talent inn&eacute; (@UUID[Compendium.star-wars-compendium-fr.talents.Item.HfjK1yMZRyoozBPB]{Tireur d'&eacute;lite})</li>\n<li data-start=\"10841\" data-end=\"11683\" data-pm-slice=\"1 1 []\">[ ] Talent inn&eacute; (@UUID[Compendium.star-wars-compendium-fr.talents.Item.w8hzPZRjqZvx0Q8A]{Vis&eacute;e Juste})</li>\n</ul>",
     "attributes": {},
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.271"
+        "Force et Destinée - Livre de Règles, pg. 271"
       ]
     },
     "quantity": {

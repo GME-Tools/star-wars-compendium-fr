@@ -3,14 +3,14 @@
   "name": "Système de communications amélioré",
   "type": "shipattachment",
   "_id": "8DiZeWJkjW6e3s9R",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/star-wars-compendium-fr/assets/ameliorations/systeme-de-communications-ameliore.png",
   "system": {
     "description": "<p data-start=\"8898\" data-end=\"9630\" data-pm-slice=\"1 1 []\">Ce puissant &eacute;metteur subspatial peut &ecirc;tre install&eacute; sur la plupart des vaisseaux de la galaxie. Capable de recevoir en audio et en vid&eacute;o, il dispose de la possibilit&eacute; de s&rsquo;interfacer de mani&egrave;re simple et rapide avec les cerveaux des dro&iuml;des et les autres syst&egrave;mes de communication.</p>\n<p data-start=\"8898\" data-end=\"9630\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : &eacute;metteur-r&eacute;cepteur de communications en subespace &agrave; fr&eacute;quence rapide [ECSFR] de Chedak, &eacute;metteur-r&eacute;cepteur &agrave; long rayon d&rsquo;action &laquo; &Eacute;claireur &raquo; de SFS, &eacute;metteur-r&eacute;cepteur multifr&eacute;quence 440/r de Fabritech<br data-start=\"9418\" data-end=\"9421\"><strong>Effets</strong> : augmente d&rsquo;un rang la port&eacute;e des communications d&rsquo;un vaisseau<br data-start=\"9491\" data-end=\"9494\"><strong>Mods possibles</strong> :</p>\n<ul>\n<li data-start=\"8898\" data-end=\"9630\" data-pm-slice=\"1 1 []\">[ ][ ] Augmente d&rsquo;un rang la port&eacute;e des communications d&rsquo;un vaisseau</li>\n</ul>",
     "attributes": {},
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.271"
+        "Force et Destinée - Livre de Règles, pg. 271"
       ]
     },
     "quantity": {

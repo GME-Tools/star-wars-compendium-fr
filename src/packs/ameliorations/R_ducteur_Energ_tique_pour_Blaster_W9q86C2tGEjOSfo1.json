@@ -3,7 +3,7 @@
   "name": "Réducteur Energétique pour Blaster",
   "type": "itemattachment",
   "_id": "W9q86C2tGEjOSfo1",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/blaster_energy_dampener.png",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/reducteur_energetique_blaster.png",
   "system": {
     "description": "<p>Gr&acirc;ce &agrave; ses tirs d'&eacute;nergie concentr&eacute;e, le blaster est l'une des armes les plus puissantes de la galaxie. Cependant. les individus qui veulent rester discrets tout en abattant leur cible &agrave; distance sont souvent oblig&eacute;s de se toumer vers d'autres types d'armements. C'est pour cela que certains assassins et espions se servent de r&eacute;ducteurs &eacute;nergetiques pour blaster. Ce kit r&eacute;duit significativement la luminosit&eacute; du tir, mais au prix d'une partie de sa puissance d'arr&ecirc;t. Bien que les faisceaux soient toujours visibles dans un environnement sombre, un assassin peut employer son arme dans un lieu bien &eacute;clair&eacute; sans se soucier d'attirer trop d'attention. Ce kit ne peut &ecirc;tre install&eacute; que sur des blasters qui emploient les comp&eacute;tences Distance (armes l&eacute;g&egrave;res) ou Distance (armes lourdes).</p>\n<p><strong>Mod&egrave;les typiques :</strong> R&eacute;ducteur &eacute;nerg&eacute;tique B78 de Cerzka</p>\n<p><strong>Effets :</strong> Augmente de 1 d&eacute;s la difficult&eacute; des tests effectu&eacute;s pour rep&eacute;rer un tir en provenance de l'arme. R&eacute;duit ses d&eacute;g&acirc;ts de 1 point.</p>\n<p><strong>Mods possibles :</strong></p>\n<ul>\n<li>[ ] inflige [SE] aux tests r&eacute;alis&egrave;s pour rep&eacute;rer le tir</li>\n</ul>",
     "attributes": {
@@ -16,7 +16,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.194"
+        "Force et Destinée - Livre de Règles, pg. 194"
       ]
     },
     "quantity": {

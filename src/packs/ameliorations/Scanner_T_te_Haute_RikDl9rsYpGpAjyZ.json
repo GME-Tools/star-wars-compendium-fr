@@ -3,14 +3,14 @@
   "name": "Scanner Tête Haute",
   "type": "itemattachment",
   "_id": "RikDl9rsYpGpAjyZ",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/images.steamusercontent.jpg",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/scanner_tete_haute.png",
   "system": {
     "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Un scanner t&ecirc;te haute consiste en un d&eacute;tecteur universel affichant ses donn&eacute;es &agrave; l'int&eacute;rieur de la visi&egrave;re d'un casque, et qui procure &agrave; son utilisateur un flux constant d'informations sur le milieu environnant. Selon le mod&egrave;le, ce kit peut indiquer la pr&eacute;sence de formes de vie ou de dro&iuml;des, de signatures thermiques, de sources de radiation, d'&eacute;missions acoustiques, ou tout cela en m&ecirc;me temps. Certains sont m&ecirc;me capables d'espionner les &eacute;changes entre comlinks proches. Un scanner t&ecirc;te haute peut &ecirc;tre install&eacute; sur n'importe quel casque.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> GoScan de CryonCorp, Syst&egrave;me d'Information Optique Mobile de CUE, HUD-INFO Mk.7 de Chedak</p>\n<p dir=\"auto\"><strong>Effets :</strong> ajoute un @UUID[Compendium.star-wars-compendium-fr.equipement.Item.ngcsgVUviXugoa1Y]{D&eacute;tecteur Universel} &agrave; un casque. Ceci permet &eacute;galement de retirer [SE] dus &agrave; l'obscurit&eacute;, au brouillard ou &agrave; la fum&eacute;e et de d&eacute;tecter les sources de chaleur jusqu'&agrave; port&eacute;e moyenne.</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ] ajout d'un @UUID[Compendium.star-wars-compendium-fr.equipement.Item.ot9RksfUFSEufLJK]{Comlink (standard)} &laquo; mains libres &raquo; dans le casque</li>\n</ul>",
     "attributes": {},
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.201"
+        "Force et Destinée - Livre de Règles, pg. 201"
       ]
     },
     "quantity": {

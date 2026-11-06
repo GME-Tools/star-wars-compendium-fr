@@ -3,7 +3,7 @@
   "name": "Système de Biofeedback",
   "type": "itemattachment",
   "_id": "yOtiSZNKBjGkieFC",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/BiofeedbackRegulator-GaG.png",
+  "img": "modules/star-wars-compendium-fr/assets/ameliorations/systeme-de-biofeedback.png",
   "system": {
     "description": "<p dir=\"auto\" data-pm-slice=\"1 1 []\">Ce syst&egrave;me surveille les signes vitaux du porteur de l'armure et peut d&eacute;tecter imm&eacute;diatement les blessures qu'il re&ccedil;oit ou savoir s'il souffre d'un niveau d'adr&eacute;naline trop &eacute;lev&eacute;. Dans ces cas, l'appareil va administrer de faibles doses de s&eacute;datif, de s&eacute;rum de gu&eacute;rison ou de m&eacute;dicament. Ce kit peut &ecirc;tre install&eacute; sur n'importe quelle armure compl&egrave;te.</p>\n<p dir=\"auto\"><strong>Mod&egrave;les typiques :</strong> Syst&egrave;me de monitoring en r&eacute;seau &laquo; Autodoc &raquo; de BioTech, Syst&egrave;me vital NG-7 de Atlas Corp</p>\n<p dir=\"auto\"><strong>Effets :</strong> augmente de 4 points le seuil de stress du personnage tant qu'il porte l'armure</p>\n<p dir=\"auto\"><strong>Mods possibles :</strong></p>\n<ul>\n<li dir=\"auto\">[ ] Talent inn&eacute; (@UUID[Compendium.star-wars-compendium-fr.talents.Item.qV0wQ7xOpTk2TfEU]{R&eacute;cup&eacute;ration Rapide})</li>\n</ul>",
     "attributes": {
@@ -16,7 +16,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.201"
+        "Force et Destinée - Livre de Règles, pg. 201"
       ]
     },
     "quantity": {

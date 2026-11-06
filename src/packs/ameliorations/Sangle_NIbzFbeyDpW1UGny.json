@@ -3,7 +3,7 @@
   "name": "Sangle",
   "type": "itemattachment",
   "_id": "NIbzFbeyDpW1UGny",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/CR-2_blaster_pistol_-_SW_Card_Trader.png",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/sangle.png",
   "system": {
     "description": "<p>Les sangles sont des longueurs de cuir ou de tissu synth&eacute;tique. Elles permettent de transporter plus facilement les armes longues, comme les fusils blaster et les fusils &agrave; percussion. Des mod&egrave;les artisanaux &agrave; peine ajustables aux bretelles en tissu sp&eacute;cialis&eacute;es &agrave; multiples r&eacute;glages, il en existe des milliers. Seules les armes &agrave; distance (armes lourdes) peuvent en &ecirc;tre &eacute;quip&eacute;es.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Sangle artisanale en cuir de Bantha, Sangle 1 point &agrave; d&eacute;crochage rapide.</p>\n<p><strong>Effets :</strong> Diminue la valeur d'encombrement de 1.</p>\n<p><strong>Mods possibles :</strong></p>\n<ul>\n<li>[ ] Talent inn&eacute; (@UUID[Compendium.star-wars-compendium-fr.talents.Item.6upWNNld1nCyyKnv]{Arme en Main})</li>\n</ul>",
     "attributes": {
@@ -16,7 +16,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.195"
+        "Force et Destinée - Livre de Règles, pg. 195"
       ]
     },
     "quantity": {

@@ -4,12 +4,14 @@
   "_id": "XbOJpT26dqVZiBtX",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est sup&eacute;rieur au niveau d'encaissement de sa cible, elle l'ignore enti&egrave;rement. Exemple : si l'attribut Perforant est de 3 et l'encalssement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert &agrave; rien.</p>",
+    "description": "<p>Ces armes ignorent un point d'encaissement par niveau d'attribut. Si le niveau d'attribut de l'arme est sup&eacute;rieur au niveau d'encaissement de sa cible, elle l'ignore enti&egrave;rement. Exemple : si l'attribut Perforant est de 3 et l'encaissement de la cible de 2, l'attaque ignore les 2 points d'encaissement et le dernier point en surplus ne sert &agrave; rien.</p>",
     "attributes": {},
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.164"
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 162"
       ]
     },
     "itemmodifier": [],

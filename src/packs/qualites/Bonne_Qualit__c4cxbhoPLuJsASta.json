@@ -4,33 +4,35 @@
   "_id": "c4cxbhoPLuJsASta",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Les objets de bonne qualit&eacute; sont des pi&egrave;ces superbes. Les personnages qui manient une arme de bonne qualit&eacute; rajoutent automatiquement un [AD] &agrave; tous leurs tests d'attaque et les degats de base de l'arme sont augment&eacute;s de 1 point. S'il s'agit d'une armure de bonne qualit&eacute;, sa valeur d'encaissement est augment&eacute;e de 1 et sa valeur d'encombrement est diminu&eacute;e de 1.</p>",
+    "description": "<p>Les objets de bonne qualit&eacute; sont des pi&egrave;ces superbes. Les personnages qui manient une arme de bonne qualit&eacute; rajoutent automatiquement un [AD] &agrave; tous leurs tests d'attaque et les d&eacute;g&acirc;ts de base de l'arme sont augment&eacute;s de 1 point. S'il s'agit d'une armure de bonne qualit&eacute;, sa valeur d'encaissement est augment&eacute;e de 1 et sa valeur d'encombrement est diminu&eacute;e de 1.</p>",
     "attributes": {
-      "attr1747519193521": {
+      "attr1787480415812": {
         "modtype": "Result Modifiers",
-        "value": 1,
-        "mod": "Add Advantage"
+        "mod": "Add Advantage",
+        "value": 1
       },
-      "attr1747519215485": {
+      "attr1787480418045": {
         "modtype": "Weapon Stat",
-        "value": 1,
-        "mod": "damage"
+        "mod": "damage",
+        "value": 1
       },
-      "attr1747519226216": {
+      "attr1787480418816": {
         "modtype": "Armor Stat",
-        "value": 1,
-        "mod": "soak"
+        "mod": "soak",
+        "value": 1
       },
-      "attr1747519241931": {
+      "attr1787480419159": {
         "modtype": "Armor Stat",
-        "value": -1,
-        "mod": "encumbrance"
+        "mod": "encumbrance",
+        "value": -1
       }
     },
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.162"
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 162"
       ]
     },
     "itemmodifier": [],
@@ -40,28 +42,22 @@
   },
   "effects": [
     {
-      "name": "attr1747519193521",
+      "name": "attr1787480415812",
       "changes": [
         {
           "key": "",
           "mode": 2,
-          "value": "1",
-          "priority": null
+          "value": "1"
         }
       ],
-      "_id": "zFoB3VoUdSMjBWEo",
+      "_id": "tXlpGOBaKIUeLM4y",
       "img": null,
       "type": "base",
       "system": {},
       "disabled": false,
       "duration": {
         "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "combat": null
       },
       "description": "",
       "origin": null,
@@ -73,39 +69,33 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1767167337059,
-        "modifiedTime": 1767167337059,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
+        "systemVersion": "2.0.0",
+        "createdTime": 1787480427185,
+        "modifiedTime": 1787480432749,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!items.effects!c4cxbhoPLuJsASta.zFoB3VoUdSMjBWEo"
+      "_key": "!items.effects!c4cxbhoPLuJsASta.tXlpGOBaKIUeLM4y"
     },
     {
-      "name": "attr1747519215485",
+      "name": "attr1787480418045",
       "changes": [
         {
           "key": "",
           "mode": 2,
-          "value": "1",
-          "priority": null
+          "value": "1"
         }
       ],
-      "_id": "iHBINP9nFxIJP8Bo",
+      "_id": "ccgtKOJZJDY21vvy",
       "img": null,
       "type": "base",
       "system": {},
       "disabled": false,
       "duration": {
         "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "combat": null
       },
       "description": "",
       "origin": null,
@@ -117,39 +107,33 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1767167337059,
-        "modifiedTime": 1767167337059,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
+        "systemVersion": "2.0.0",
+        "createdTime": 1787480427185,
+        "modifiedTime": 1787480444652,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!items.effects!c4cxbhoPLuJsASta.iHBINP9nFxIJP8Bo"
+      "_key": "!items.effects!c4cxbhoPLuJsASta.ccgtKOJZJDY21vvy"
     },
     {
-      "name": "attr1747519226216",
+      "name": "attr1787480418816",
       "changes": [
         {
           "key": "",
           "mode": 2,
-          "value": "1",
-          "priority": null
+          "value": "1"
         }
       ],
-      "_id": "dCE9JLDlqXhooPRo",
+      "_id": "AIjnxRaw931K6BRE",
       "img": null,
       "type": "base",
       "system": {},
       "disabled": false,
       "duration": {
         "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "combat": null
       },
       "description": "",
       "origin": null,
@@ -161,39 +145,33 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1767167337059,
-        "modifiedTime": 1767167337059,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
+        "systemVersion": "2.0.0",
+        "createdTime": 1787480427185,
+        "modifiedTime": 1787480457799,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!items.effects!c4cxbhoPLuJsASta.dCE9JLDlqXhooPRo"
+      "_key": "!items.effects!c4cxbhoPLuJsASta.AIjnxRaw931K6BRE"
     },
     {
-      "name": "attr1747519241931",
+      "name": "attr1787480419159",
       "changes": [
         {
           "key": "system.stats.encumbrance.value",
           "mode": 2,
-          "value": "-1",
-          "priority": null
+          "value": "-1"
         }
       ],
-      "_id": "jNUUw2DEVoDtmliM",
+      "_id": "lE6fzu4Nh4L9Smjr",
       "img": null,
       "type": "base",
       "system": {},
       "disabled": false,
       "duration": {
         "startTime": null,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": null,
-        "startTurn": null
+        "combat": null
       },
       "description": "",
       "origin": null,
@@ -205,15 +183,15 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
+        "exportSource": null,
         "coreVersion": "13.351",
         "systemId": "starwarsffg",
-        "systemVersion": "1.910",
-        "createdTime": 1767167337059,
-        "modifiedTime": 1767167337059,
-        "lastModifiedBy": "Vps3UPsdK7k7lekv",
-        "exportSource": null
+        "systemVersion": "2.0.0",
+        "createdTime": 1787480427185,
+        "modifiedTime": 1787480468906,
+        "lastModifiedBy": "fQraFlTkIqL0YNK4"
       },
-      "_key": "!items.effects!c4cxbhoPLuJsASta.jNUUw2DEVoDtmliM"
+      "_key": "!items.effects!c4cxbhoPLuJsASta.lE6fzu4Nh4L9Smjr"
     }
   ],
   "folder": null,
@@ -235,10 +213,10 @@
     "duplicateSource": null,
     "coreVersion": "13.351",
     "systemId": "starwarsffg",
-    "systemVersion": "1.906",
+    "systemVersion": "2.0.0",
     "createdTime": 1747519133490,
-    "modifiedTime": 1747519250189,
-    "lastModifiedBy": "Vps3UPsdK7k7lekv",
+    "modifiedTime": 1787480470056,
+    "lastModifiedBy": "fQraFlTkIqL0YNK4",
     "exportSource": null
   },
   "_key": "!items!c4cxbhoPLuJsASta"

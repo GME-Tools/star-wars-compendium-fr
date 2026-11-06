@@ -3,7 +3,7 @@
   "name": "Turbine ionique à haut rendement",
   "type": "shipattachment",
   "_id": "KhnmO7WmiyQ3UM0h",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/turbine_ionique.png",
   "system": {
     "description": "<p data-start=\"11723\" data-end=\"12259\" data-pm-slice=\"1 1 []\">Bien qu&rsquo;ils p&ecirc;chent quelque peu du point de vue de la fiabilit&eacute;, ces puissants moteurs accroissent la vitesse brute qu&rsquo;un appareil peut atteindre en ligne droite. Cette modification peut &ecirc;tre ajout&eacute;e &agrave; n&rsquo;importe quel vaisseau ou v&eacute;hicule.</p>\n<p data-start=\"11723\" data-end=\"12259\" data-pm-slice=\"1 1 []\"><strong>Exemples de mod&egrave;les disponibles</strong> : turbine ionique &agrave; haut rendement Cirodyne Ter 40, propulseurs ioniques Sienar Fleet System SFS-220, strator&eacute;acteur ionique Koensayr R800<br data-start=\"12134\" data-end=\"12137\"><strong>Effets</strong> : +1 &agrave; la vitesse, &minus;1 au seuil de SM<br data-start=\"12180\" data-end=\"12183\"><strong>Mods possibles</strong> : aucun</p>",
     "attributes": {
@@ -21,7 +21,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.271"
+        "Force et Destinée - Livre de Règles, pg. 271"
       ]
     },
     "quantity": {

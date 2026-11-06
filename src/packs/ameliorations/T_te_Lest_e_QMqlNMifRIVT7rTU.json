@@ -3,7 +3,7 @@
   "name": "Tête Lestée",
   "type": "itemattachment",
   "_id": "QMqlNMifRIVT7rTU",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/weighted.png",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/tete_lestee.png",
   "system": {
     "description": "<p>Les armes contondantes con&ccedil;ues pour assommer ou tuer, comme les matraques, les gourdins et les marteaux, infligent des d&eacute;g&acirc;ts gr&acirc;ce &agrave; leur poids. Elles peuvent toutes b&eacute;n&eacute;ficier d'un peu de lest en plus. Il est possible de les forger dans des m&eacute;taux plus lourds d&egrave;s le d&eacute;part ou d'y fixer plus tard des plaques de m&eacute;tal suppl&eacute;mentaires et des clous. Cette am&eacute;lioration ne peut &ecirc;tre appliqu&eacute;e qu'aux armes de pugilat et aux armes de corps &agrave; corps contondantes.</p>\n<p><strong>Mod&egrave;les typiques :</strong> Aucun</p>\n<p><strong>Effets :</strong> D&eacute;g&acirc;ts + 1</p>\n<p><strong>Mods possibles :</strong></p>\n<ul>\n<li>[ ] D&eacute;g&acirc;ts +1 [1]</li>\n<li>[ ] Attribut d'arme (@UUID[Compendium.star-wars-compendium-fr.qualites.Item.y3jZ5FmDnc1bHPHQ]{Choc} +1)</li>\n</ul>",
     "attributes": {
@@ -16,7 +16,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.195"
+        "Force et Destinée - Livre de Règles, pg. 195"
       ]
     },
     "quantity": {

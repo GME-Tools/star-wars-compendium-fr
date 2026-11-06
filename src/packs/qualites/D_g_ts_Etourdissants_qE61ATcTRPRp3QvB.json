@@ -4,12 +4,14 @@
   "_id": "qE61ATcTRPRp3QvB",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-a-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;gats.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette demi&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'a port&eacute;e courte.</p>",
+    "description": "<p>Certaines armes infligent non pas des d&eacute;g&acirc;ts normaux, mais des d&eacute;g&acirc;ts &eacute;tourdissants, c'est-&agrave;-dire qu'elles infligent du stress et non des blessures. L'encaissement de la cible r&eacute;duit toutefois &eacute;galement ces d&eacute;g&acirc;ts.</p>\n<p>Le r&eacute;glage &eacute;tourdissant est une variante de cet attribut. Au prix d'une Broutille, l'utilisateur peut r&eacute;gler son arme sur le mode &laquo; &eacute;tourdissant &raquo;. Cette derni&egrave;re change alors de type de d&eacute;g&acirc;ts et ne fonctionne plus qu'&agrave; port&eacute;e courte.</p>",
     "attributes": {},
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.163"
+        "Aux Confins de l'Empire - Livre de Règles pg. 156",
+        "L'Ère de la Rébellion - Livre de Règles pg. 169",
+        "Force et Destinée - Livre de Règles pg. 163"
       ]
     },
     "itemmodifier": [],

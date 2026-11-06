@@ -3,7 +3,7 @@
   "name": "Viseur Télescopique",
   "type": "itemattachment",
   "_id": "3nncjDT8bHrn16yT",
-  "img": "modules/star-wars-compendium-fr/packs/ameliorations/images/Perception_Scope.jpg",
+  "img": "modules/star-wars-compendium-fr/assets/images/ameliorations/viseur_telescopique.png",
   "system": {
     "description": "<p>Appr&eacute;ci&eacute;s des tireurs d'&eacute;lite et des chasseurs, les viseurs t&eacute;lescopiques ressemblent &agrave; de longs tubes qui renferment un jeu de lentilles &agrave; fort pouvoir grossissant. Toutes les armes &agrave; distance peuvent en &ecirc;tre &eacute;quip&eacute;es (&agrave; l'exception des armes &agrave; usage unique, comme les grenades, et de celles qui n'en auraient aucun usage, comme les lance-flammes).</p>\n<p><strong>Mod&egrave;les typiques : </strong>Viseur t&eacute;lescopique Merr-Sonn 80z, Viseur longue port&eacute;e Zikon Optics mod&egrave;le 40</p>\n<p><strong>Effets :</strong> Retire 1 d&eacute; de difficult&eacute; aux tests d'attaque &agrave; port&eacute;e longue et &agrave; port&eacute;e extr&ecirc;me.</p>\n<p><strong>Mods possibles :</strong> Aucun</p>",
     "attributes": {
@@ -16,7 +16,7 @@
     "metadata": {
       "tags": [],
       "sources": [
-        "Force et Destinée - Livre de Règles, p.195"
+        "Force et Destinée - Livre de Règles, pg. 195"
       ]
     },
     "quantity": {
